@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Tome of Kereptas</title>
     <link rel="stylesheet" href="styles.css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
         <style>
         body {
             background-color: #1e1e1e;
@@ -43,16 +43,19 @@
             text-transform: uppercase;
         }
         .journal-entry-content {
-            font-size: 1.1rem;
-            line-height: 1.8;
+            font-size: 1.2rem;
+            line-height: 1.6;
+            word-wrap: break-word; /* Ensures long words break and wrap to the next line */
+            word-break: break-word; /* Ensures long words break and wrap to the next line */
         }
         pre {
-            background: #121212;
-            padding: 1.5rem;
-            border-radius: 6px;
-            border: 1px solid #3a3a3a;
+            background: #1e2227;
+            padding: 1rem;
+            border-radius: 5px;
             overflow-x: auto;
-            color: #b8c6db;
+            white-space: pre-wrap;
+            font-family: 'Shadows Into Light';
+            font-size: 1.2rem; /* Adjust the size as needed */
         }
     </style>
 </head>
