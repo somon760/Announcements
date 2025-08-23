@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>“Steel &amp; Storms” — A Battle Broadcast (Podcast)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Masterclass in teamwork: Team Biscuit’s last combat recap — with beasts, chains, and strategy." />
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="“Steel &amp; Storms” — A Battle Broadcast" />
+  <meta property="og:description" content="Masterclass in teamwork: Team Biscuit’s last combat recap." />
+  <meta property="og:audio" content="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3" />
+  <meta property="og:audio:type" content="audio/mpeg" />
+
+  <!-- Simple, classy styles -->
+  <style>
+    :root {
+      --bg: #0e0f12;
+      --card: #151821;
+      --ink: #e8ecf1;
+      --muted: #9aa8b4;
+      --accent: #7cc0ff;
+    }
+    html, body { background: var(--bg); color: var(--ink); margin: 0; font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+    .wrap { max-width: 840px; margin: 4rem auto; padding: 0 1rem; }
+    header h1 { margin: 0 0 .25rem; font-weight: 800; letter-spacing:.2px; }
+    header p { margin: 0 0 1.25rem; color: var(--muted); }
+    .card { background: var(--card); border-radius: 16px; padding: 1rem; box-shadow: 0 8px 30px rgba(0,0,0,.35); }
+    audio { width: 100%; margin: .5rem 0 0; }
+    .actions { display: flex; gap: .75rem; margin: .75rem 0 0; flex-wrap: wrap; }
+    .btn {
+      display: inline-block; padding: .6rem .9rem; border-radius: 10px; text-decoration: none;
+      background: #1f2531; color: var(--ink); border: 1px solid #2a3344;
+    }
+    .btn:hover { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(124,192,255,.15) inset; }
+    details { margin: 1.5rem 0 0; }
+    details > summary {
+      cursor: pointer; list-style: none; user-select: none; color: var(--accent); font-weight: 600;
+    }
+    summary::-webkit-details-marker { display:none; }
+    .transcript { margin: .75rem 0 0; color: #d3dbe4; }
+    .byline { margin-top: .75rem; color: var(--muted); font-size: .95rem; }
+    footer { margin: 3rem 0 0; color: var(--muted); font-size: .9rem; }
+    code.small { font-size: .9em; background:#0c0d10; padding:.15rem .35rem; border-radius:6px; }
+  </style>
+
+  <!-- (Optional) Schema.org for Podcast -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"PodcastEpisode",
+    "name":"“Steel & Storms” — A Battle Broadcast",
+    "episodeNumber":"Last Combat Recap",
+    "associatedMedia":{
+      "@type":"MediaObject",
+      "contentUrl":"ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3",
+      "encodingFormat":"audio/mpeg"
+    }
+  }
+  </script>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <h1>“Steel &amp; Storms” — A Battle Broadcast</h1>
+      <p class="byline">Masterclass in Teamwork • Team Biscuit Combat Recap</p>
+    </header>
+
+    <section class="card" aria-labelledby="player-title">
+      <h2 id="player-title" style="margin:0 0 .25rem; font-size:1.15rem; font-weight:700;">Listen</h2>
+      <audio controls preload="metadata">
+        <source src="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3" type="audio/mpeg" />
+        Your browser doesn’t support the audio element. 
+        <a href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3">Download the MP3 instead.</a>
+      </audio>
+      <div class="actions">
+        <a class="btn" href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3" download>⬇︎ Download MP3</a>
+        <a class="btn" href="#transcript">↳ Jump to Transcript</a>
+      </div>
+
+      <details id="transcript">
+        <summary>Show transcript</summary>
+        <div class="transcript">
+          <!-- Paste your transcript HTML below (from your attached Podcast.html). 
+               Tip: If your current file has escaped tags (&lt;h1&gt; etc.), run a quick find/replace to unescape them. -->
+          <!-- Example opening pulled from your transcript title to get you started: -->
+          <h1>“Steel &amp; Storms” — A Battle Broadcast</h1>
+          <p><em>[SFX: distant war drums, iron gates clanging open, rain hissing on hot stone]</em></p>
+          <!-- …continue with the rest of your transcript content… -->
+        </div>
+      </details>
+    </section>
+
+    <footer>
+      <p>File: <code class="small">ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3</code> • Place this HTML in the same folder as the MP3 (or update the <code class="small">src</code> paths).</p>
+    </footer>
+  </main>
+</body>
+</html>
