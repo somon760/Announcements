@@ -20,14 +20,27 @@
     <ul id="timeline"></ul>
   </main>
   <script>
-    fetch('data.json').then(r => r.json()).then(items => {
-      const ul = document.getElementById('timeline');
-      items.forEach(it => {
+    fetch('data.json')
+      .then(r => {
+        if (!r.ok) {
+          throw new Error('Failed to load timeline data: ' + r.status + ' ' + r.statusText);
+        }
+        return r.json();
+      })
+      .then(items => {
+        const ul = document.getElementById('timeline');
+        items.forEach(it => {
+          const li = document.createElement('li');
+          li.innerHTML = `<strong>${it.date}</strong> - ${it.title}${it.notes ? ' — ' + it.notes : ''}`;
+          ul.appendChild(li);
+        });
+      })
+      .catch(error => {
+        const ul = document.getElementById('timeline');
         const li = document.createElement('li');
-        li.innerHTML = `<strong>${it.date}</strong> - ${it.title}${it.notes ? ' — ' + it.notes : ''}`;
+        li.textContent = 'Error loading timeline: ' + error.message;
+        li.style.color = 'red';
         ul.appendChild(li);
       });
-    });
-  </script>
 </body>
 </html>
