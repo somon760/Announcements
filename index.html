@@ -1,316 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="""UTF-8">
-    <meta name="viewport" content="""width=device-width, initial-scale=""1.0">
-    <title>Announcements</title>
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        .thumbnail {
-            width: 150px; /* Adjust the size as needed */
-            cursor: pointer;
-        }
-        .full-size {
-            display: none;
-            width: 100%; /* Adjust the size as needed */
-        }
-    </style>
+  <meta charset="utf-8"/>
+  <title>New Horizons — Campaign Announcements</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="styles.css"/>
+  <style>
+    /* small helpers, safe if styles.css exists */
+    .container{max-width:960px;margin:0 auto;padding:1.5rem;}
+    header, nav, footer{margin-bottom:1rem;}
+    nav ul{list-style:none;padding:0;display:flex;gap:1rem;flex-wrap:wrap;}
+    .card{border:1px solid #ddd;padding:1rem;border-radius:.5rem;margin:.75rem 0;}
+    .two-col{display:grid;grid-template-columns:1fr 1fr;gap:1rem;}
+    @media (max-width:800px){.two-col{grid-template-columns:1fr;}}
+    .muted{opacity:.75}
+    .btn{display:inline-block;padding:.5rem .75rem;border:1px solid #999;border-radius:.35rem;text-decoration:none}
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Campaign Announcements</h1>
-        <nav>
-            <ul>
-                <li><a href="">Maps</a></li>
-                <li><a href="#narrative">Narrative Summary</a></li>
-                <li><a href="#timeline">Timeline</a></li>
-                <li><a href="#appendix">Appendix</a></li>
-                <li><a href="paranoia/index.html">Paranoia</a></li>
-            </ul>
-        </nav>
-</header>
+  <header class="container">
+    <h1>New Horizons</h1>
+    <p class="muted">The next arc of the campaign begins on Acheron. This page stays spoiler‑safe; details unlock after sessions.</p>
+  </header>
 
-<!-- BEGIN Now Playing (spoiler-safe) -->
-<section id="now-playing" style="margin:2rem 0;">
-  <h2>Now Playing: New Horizons</h2>
-  <p><em>The next chapter of the journey has begun. Details will unlock as the story unfolds…</em></p>
-
-  <div class="quick-links">
-    <h3>Quick Links</h3>
+  <nav class="container">
     <ul>
-      <li><a href="PartOne.html">Part One</a></li>
-      <li><a href="PartTwo.html">Part Two</a></li>
-      <li><a href="PartThree.html">Part Three</a></li>
-      <li><a href="PartFour.html">Part Four</a></li>
-      <li><span class="coming-soon">Part Five (Coming Soon)</span></li>
-      <li><span class="coming-soon">Part Six (Coming Soon)</span></li>
-      <li><span class="coming-soon">Part Seven (Coming Soon)</span></li>
-      <li><span class="coming-soon">Part Eight (Coming Soon)</span></li>
+      <li><a href="PartOne.html">Chapters</a></li>
+      <li><a href="timeline/index.html">Timeline</a></li>
+      <li><a href="archive/index.html">Archive</a></li>
     </ul>
-  </div>
-</section>
-<!-- END Now Playing (spoiler-safe) -->
+  </nav>
 
-<br>
-    <a href="BlizzardCrawl.html" style="text-decoration: none; color: inherit; display: block; border: 3px solid blue; padding: 10px; margin-bottom: 20px; border-radius: 15px; background-color: #f5deb3;">
-        <!-- Banner Image -->
-        <div style="text-align: center; margin-bottom: 20px;">
-            <img src="BlizzardBanner.webp" alt="Banner Image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <main class="container">
+    <section class="card">
+      <h2>Podcast Highlight</h2>
+      <p>Catch up on the latest session recap here:</p>
+      <!-- Replace the href with the actual mp3 or episode page -->
+      <p><a class="btn" href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3">▶️ Listen to the latest episode</a></p>
+      <p class="muted">Have a different host page? Replace the link above with your podcast page URL.</p>
+    </section>
+
+    <section class="card">
+      <h2>Now Playing</h2>
+      <p><em>Current setting:</em> Acheron — Red Keep and surrounding fronts.</p>
+      <div class="two-col">
+        <div>
+          <h3>Where we are</h3>
+          <ul>
+            <li><strong>Base:</strong> Red Keep (Church of Reclamation)</li>
+            <li><strong>Objective:</strong> Push toward Lion’s Gate and secure safe passage</li>
+          </ul>
         </div>
-    
-        <!-- Highlighted Area -->
-        <div style="background-color: yellow; padding: 20px; border: 2px solid red; border-radius: 15px;">
-            <h1 style="text-align: center;">Special Announcement!</h1>
-            <p style="text-align: center;">Read all about the Rules before the Game! Don't enter the Blizzard unprepared!</p>
+        <div>
+          <h3>Chapters</h3>
+          <ul>
+            <!-- Keep existing chapter links; do not create future spoilers -->
+            <li><a href="PartOne.html">Part One</a></li>
+            <li><a href="PartTwo.html">Part Two</a></li>
+            <li><a href="PartThree.html">Part Three</a></li>
+            <li><a href="PartFour.html">Part Four</a></li>
+            <!-- If Parts 5+ exist but are not played, either omit or mark Coming Soon; do not link spoilers -->
+            <li><span class="muted">Part Five (Coming Soon)</span></li>
+          </ul>
         </div>
-    </a>
+      </div>
+    </section>
 
-    <main>
-        <section id="map">
-            <h2>Map of Campaign Locations</h2>
-            <img src="https://somon760.github.io/Announcements/RegionMap.png" alt="Region Map" class="thumbnail" id="thumbnail">
-            <img src="https://somon760.github.io/Announcements/RegionMap.png" alt="Region Map" class="full-size" id="fullSizeImage">
-            <p>Explore the key locations and territories involved in the campaign. Each region comes with its own challenges and lore.</p>
-        </section>
+    <section class="card">
+      <h2>History so far (Acheron arc)</h2>
+      <!-- IMPORTANT: include events only up to and including "Raid Room Three cleared" -->
+      <ul>
+        <li>Arrival at the Red Keep (Acheron) and orientation with defenders.</li>
+        <li>Murder‑mystery arc concluded; the demon cook defeated.</li>
+        <li>The party settled into the Keep; planning began for approaching Lion’s Gate.</li>
+        <li><strong>Raid Progress:</strong> Room One cleared.</li>
+        <li><strong>Raid Progress:</strong> Room Two cleared.</li>
+        <li><strong>Raid Progress:</strong> Room Three cleared (latest success).</li>
+      </ul>
+      <p class="muted">Further details will unlock after the next session to avoid spoilers.</p>
+    </section>
 
+    <section class="card">
+      <h2>Need older adventures?</h2>
+      <p>All pre‑Acheron (“blizzard crawl” and earlier) materials now live in the <a href="archive/index.html">Archive</a>.</p>
+    </section>
+  </main>
 
-        <section id="narrative">
-        <p>Relive the key moments from the campaign so far. Discover the twists and turns of the evolving storyline.</p>
-        <h2>Narrative Summary</h2>
-        <ul>
-            <li><a href="PartOne.html" class="announcement-link">Part One: The Arrival in Icewind Dale</a></li>
-            <li><a href="PartTwo.html" class="announcement-link">Part Two: The Quest for the Cauldron</a></li>
-            <li><a href="PartThree.html" class="announcement-link">Part Three: The Rise of the Duergar</a></li>
-            <li><a href="PartFour.html" class="announcement-link">Part Four: Battle in the Berserker Cave</a></li>
-        </ul>
-        <br><hr><br>
-        <ul>
-            <li><a href="Vellynne.html" class="announcement-link">Vellynne Harpells Journal</a></li>
-            <li><a href="Kereptas.html" class="announcement-link">The Tome of Kereptas</a></li>
-            <li><a href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.html" class="announcement-link">Steel &amp; Storms — A Battle Broadcast</a></li>
-        </ul>
-
-            
-        </section>
-
-        <section id="timeline">
-            <div><strong class="highlight-text">Team Biscuit has spent a total of 504 days in the North, from the 10th of Tarsakh, 1405, to the 27th of Eleasis, 1406.</strong></div><br>
-            
-        <div class="journal-entry">
-            <div class="journal-entry-title">Timeline of Quests Completed<hr></div>
-            <div class="journal-entry-content">
-                <ol>
-                    <li><strong>Third-day, 27th of Eleasis, 1406</strong>
-                        <ul>
-                            <li>Arrived at Bryn Shander, to find it in ruins. Horde has been sighted moving off into the distance, ever northward.</li>
-                        </ul>
-                    </li>
-                    <li><strong>First-day, 25th of Eleasis, 1406</strong>
-                        <ul>
-                            <li>Return to Easthaven after successfully defeating Vellynne and the Twisted Darlings. Still no closer to Pengu, and no clues.  Legendary Weapons recovered!</li>
-                        </ul>
-                    </li>
-                    <li><strong>Eight-day, 17th of Eleasis, 1406</strong>
-                        <ul>
-                            <li>Party finally arrves at The Lost Spire, and begins their descent into the deep ice below the black mountain.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 14th of Eleasis, 1406</strong>
-                        <ul>
-                            <li>Returned to <strong>Easthaven</strong> after the <strong>Emperor Penguin</strong> raid. Now preparing to pursue the clues leading to the <strong>Lost Spire of Netheril</strong>.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 10th of Eleasis, 1406</strong>
-                        <ul>
-                            <li><strong>Cave of the Berserkers</strong>: Defeated the <strong>Keraptis Clone</strong> and retrieved <strong>Frostrazor</strong>.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Eighth-day, 30th of Hammer, 1406</strong>
-                        <ul>
-                            <li><strong>Side Quests to Gather Intel</strong>: Completed several minor quests to gather information about the Frostmaiden’s followers.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 24th of Hammer, 1406</strong>
-                        <ul>
-                            <li><strong>Frostmaiden’s Followers and Frost Druid Cults</strong>: Defeated corrupted frost druids, uncovering the <strong>Whispering Willow Wood</strong>.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 10th of Hammer, 1406</strong>
-                        <ul>
-                            <li><strong>Arcane Brotherhood</strong>: The party uncovered clues about <strong>Pengu</strong>, <strong>Auril</strong>, and the <strong>Candle of the Dark One</strong> during this storyline.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 1st of Hammer, 1406</strong>
-                        <ul>
-                            <li><strong>Investigate the Duergar Conspiracy</strong>: Stopped the duergar plot and thwarted their plans in Icewind Dale.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Seventh-day, 23rd of Nightal, 1405</strong>
-                        <ul>
-                            <li><strong>A Beautiful Mine (Termalaine)</strong>: Resolved the mine’s corruption and helped the town return to stability.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Ninth-day, 16th of Nightal, 1405</strong>
-                        <ul>
-                            <li><strong>Foaming Mugs (Bryn Shander)</strong>: Completed this quest, discovering the <strong>Potion of Giant Size</strong> in the smuggling operation.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Seventh-day, 2nd of Nightal, 1405</strong>
-                        <ul>
-                            <li><strong>The Easthaven Ferry</strong>: Ensured the ferry’s continued operation and resolved the duergar threat in the town.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 24th of Tarsakh, 1405</strong>
-                        <ul>
-                            <li><strong>The White Lady’s Ghost</strong>: The party laid the spirit of the White Lady to rest, discovering the <strong>Ring of Invisibility</strong>.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fifth-day, 10th of Tarsakh, 1405</strong>
-                        <ul>
-                            <li><strong>Toil and Trouble</strong>: Completed after retrieving the magical cauldron from the Frost Giants and returning it to Easthaven.</li>
-                        </ul>
-                    </li>
-                </ol>
-            </div>
-        </div>
-        </section>
-
-        <section id="appendix">
-            <h2>Appendix</h2>
-            <p>Here you will find references, special notes, and detailed information to supplement the campaign's progress and resources.</p>
-            <p class="userscript-has-line-data">This appendix summarizes the loot and clues found by <strong>Team Biscuit</strong> during their adventures in <strong>Icewind Dale</strong>. These treasures and insights will prove crucial in their battle against <strong>Pengu</strong> and <strong>Keraptis</strong>, especially as they prepare to craft the <strong>Candle of the Dark One</strong> and confront the dangers that lie ahead in the <strong>Lost Spire of Netheril</strong>.</p>
-            <div class="content note-editor notes">
-<h3 class="userscript-code-line"><strong>Appendix: Loot and Clues Discovered by Team Biscuit</strong></h3>
-<hr />
-<h4 class="userscript-code-line"><a id="userscript-Section_1_Loot_Found_Throughout_the_Adventure_4"></a><strong>Section 1: Loot Found Throughout the Adventure</strong></h4>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-1_Ring_of_Invisibility_8"></a><strong>1. Ring of Invisibility</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Discovered during <em>The White Lady&rsquo;s Ghost</em> in <strong>Easthaven</strong>.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> A magical ring that allows the wearer to become invisible at will.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> <strong>Thunderdrum</strong> found this ring hidden among the treasures of the <strong>White Lady</strong> after the party laid her spirit to rest.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-2_Potion_of_Giant_Size_15"></a><strong>2. Potion of Giant Size</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Found during <em>Foaming Mugs</em> in <strong>Bryn Shander</strong>.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> Temporarily increases the drinker&rsquo;s size and strength, granting giant-like abilities for a short duration.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> Hidden in a dwarven treasure stash beneath a tavern, discovered after clearing out a duergar smuggling operation.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-3_Candle_of_the_Dark_One_Materials_22"></a><strong>3. Candle of the Dark One (Materials)</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Collected from various locations across Icewind Dale.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> Three <strong>Wicks</strong> and three <strong>Wax of the Dark One</strong>, enough to attempt the creation of the <strong>Candle of the Dark One</strong> three times.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> The party gathered the ingredients over the course of several adventures, including the <strong>Arcane Brotherhood</strong> and <strong>Frostmaiden&rsquo;s Followers</strong> quests.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-4_Shadowkissed_Silk_29"></a><strong>4. Shadowkissed Silk</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Obtained during the <em>Arcane Brotherhood</em> storyline.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> Used to craft the <strong>Wick of the Dark One</strong>, this rare material is imbued with shadow magic to bind malevolent energies.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> Discovered in the hidden chambers of an <strong>Arcane Brotherhood</strong> stronghold during their quest to find ingredients for the <strong>Candle of the Dark One</strong>.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-5_Whispering_Willow_Wood_36"></a><strong>5. Whispering Willow Wood</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Found during the <em>Frostmaiden&rsquo;s Followers and Frost Druid Cults</em> quest.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> An enchanted wood used to craft the <strong>Wick of the Dark One</strong>, it resonates with whispers of ancient spirits.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> Retrieved from a sacred grove of corrupted frost druids, who were purged by the party in their quest to stop the Frost Druid cults.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-6_Frostrazor_Legendary_Weapon_43"></a><strong>6. Frostrazor (Legendary Weapon)</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Located in the <strong>Cave of the Berserkers</strong>, wielded by <strong>Grek the Frost Giant</strong>.</li>
-<li class="userscript-has-line-data"><strong>Description:</strong> A legendary weapon with the power to freeze enemies upon striking them, dealing immense cold damage and boosting the wielder&rsquo;s frost-based abilities.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> <strong>Shrop</strong> learned of <strong>Frostrazor&rsquo;s</strong> existence through a vision from <strong>Eldath</strong>, and the party tracked it to the <strong>Cave of the Berserkers</strong>. After defeating <strong>Grek</strong> and the <strong>Keraptis Clone</strong>, <strong>Frostrazor</strong> was claimed by <strong>Shrop</strong>.</li>
-</ul>
-<hr /><hr />
-<h4 class="userscript-code-line"><a id="userscript-Section_2_Clues_Discovered_Along_the_Way_52"></a><strong>Section 2: Clues Discovered Along the Way</strong></h4>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-1_Pengus_Statue_and_Corruption_56"></a><strong>1. Pengu&rsquo;s Statue and Corruption</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Discovered through <strong>Grim&rsquo;s</strong> research into the <strong>Arcane Brotherhood</strong>.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> A massive <strong>Emperor Penguin statue</strong> to the north has corrupted all creatures within a 50-mile radius. This entity, <strong>Pengu</strong>, is siphoning magic from <strong>Auril</strong> to send waves of <strong>anti-magic</strong> across the Dale.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> The party first learned of <strong>Pengu</strong> through documents recovered from the <strong>Arcane Brotherhood</strong>, with further evidence encountered during their travels.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-2_The_Candle_of_the_Dark_One_63"></a><strong>2. The Candle of the Dark One</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Learned during the <em>Arcane Brotherhood</em> storyline.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> The <strong>Candle of the Dark One</strong> is the only item capable of binding <strong>Pengu</strong> and ending its influence over Icewind Dale. The party now possesses enough materials to make three attempts to craft the candle, but they have not yet attempted the ritual.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> The ritual&rsquo;s details were found in forbidden texts hidden away by the <strong>Arcane Brotherhood</strong>, discovered after the team infiltrated their stronghold.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-3_Connection_Between_Pengu_and_Auril_70"></a><strong>3. Connection Between Pengu and Auril</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Uncovered during the <em>Frostmaiden&rsquo;s Followers and Frost Druid Cults</em> questline.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> <strong>Pengu</strong> has been siphoning power from <strong>Auril</strong>, using it to amplify its own abilities. This results in the <strong>anti-magic waves</strong> that frequently disrupt the party&rsquo;s spells.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> After defeating a group of <strong>Frostmaiden&rsquo;s</strong> followers, <strong>Team Biscuit</strong> uncovered sacred texts that hinted at the relationship between <strong>Pengu</strong> and the <strong>Frostmaiden</strong>.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-4_Keraptis_and_the_Weapons_of_White_Plume_Mountain_77"></a><strong>4. Keraptis and the Weapons of White Plume Mountain</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Alluded to through visions and ancient texts.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> The <strong>Keraptis</strong> entity, believed to be the original, possesses all four legendary weapons: <strong>Wave</strong>, <strong>Whelm</strong>, <strong>Blackrazor</strong>, and <strong>Frostrazor</strong>. The party believes they may need these weapons to complete the <strong>Candle of the Dark One</strong> ritual and bind <strong>Pengu</strong>.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> <strong>Shrop</strong> and <strong>Terry</strong> received divine clues from their gods, <strong>Eldath</strong> and <strong>Pelor</strong>, hinting at <strong>Keraptis</strong>&rsquo;s presence in the <strong>Cave of the Berserkers</strong>.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-5_Eldaths_Blessing_and_Frostrazor_84"></a><strong>5. Eldath&rsquo;s Blessing and Frostrazor</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Revealed to <strong>Shrop</strong> during his ice-fishing encounter in <strong>Easthaven</strong>.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> <strong>Eldath</strong> revealed the location of <strong>Frostrazor</strong> and the presence of <strong>Keraptis</strong> in the <strong>Cave of the Berserkers</strong>.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> <strong>Shrop</strong> received a vision from <strong>Eldath</strong> while ice fishing, guiding the team toward their next destination.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-6_The_Emperor_Penguin_Corruption_91"></a><strong>6. The Emperor Penguin Corruption</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Discovered in Icewind Dale&rsquo;s northern regions.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> Creatures around the massive <strong>Emperor Penguin statue</strong> have been corrupted by <strong>Pengu</strong>&rsquo;s dark magic. This corruption has spread over a 50-mile radius, influencing even the land itself.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> The party encountered this corruption firsthand when they investigated strange reports of behavior from local wildlife, eventually tracing it back to the statue during the <em>Arcane Brotherhood</em> questline.</li>
-</ul>
-<hr />
-<h5 class="userscript-code-line"><a id="userscript-7_Lost_Spire_of_Netheril_98"></a><strong>7. Lost Spire of Netheril</strong></h5>
-<ul>
-<li class="userscript-has-line-data"><strong>Location:</strong> Revealed by the <strong>Keraptis Clone</strong> during the battle in the <strong>Cave of the Berserkers</strong>.</li>
-<li class="userscript-has-line-data"><strong>Clue:</strong> Before his death, the <strong>Keraptis Clone</strong> hinted that the remaining legendary weapons were hidden in the <strong>Lost Spire of Netheril</strong>.</li>
-<li class="userscript-has-line-data"><strong>Discovery:</strong> This was revealed by the clone during the final confrontation, pushing the team to find this mysterious location.</li>
-</ul>
-<hr />
-</div>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Campaign Chronicles. All Rights Reserved.</p>
-        <small class="nh-footnote" style="opacity:.7;display:block;margin-top:1rem;">
-          © Campaign Chronicles. “New Horizons” teaser only — spoilers unlock in-session.
-        </small>
-    </footer>
-
-    <script>
-        document.getElementById('thumbnail').addEventListener('click', function() {
-            document.getElementById('thumbnail').style.display = 'none';
-            document.getElementById('fullSizeImage').style.display = 'block';
-        });
-    </script>
-<script>
-(function () {
-  fetch('data/timeline.json', { cache: 'no-store' })
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(items => {
-      if (!Array.isArray(items) || !items.length) return;
-      var host = document.querySelector('#timeline, .timeline, section#timeline');
-      if (!host) { host = document.createElement('section'); host.id = 'timeline'; host.innerHTML = '<h2>Timeline</h2><ul class="timeline-list"></ul>'; document.body.appendChild(host); }
-      var ul = host.querySelector('ul') || (function(){ var u=document.createElement('ul'); host.appendChild(u); return u; })();
-      items.forEach(function (it) {
-        var li = document.createElement('li');
-        li.innerHTML = '<strong>' + (it.date || '') + ' — ' + (it.title || 'Untitled') + '</strong>' + (it.notes ? ('<div>' + it.notes + '</div>') : '');
-        ul.appendChild(li);
-      });
-    })
-    .catch(function(){});
-})();
-</script>
+  <footer class="container">
+    <small class="muted">© Campaign Chronicles — “New Horizons” arc. Spoiler‑safe public updates; deeper notes remain GM‑side.</small>
+  </footer>
 </body>
 </html>

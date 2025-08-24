@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Timeline</title>
+  <link rel="stylesheet" href="../styles.css"/>
+</head>
+<body>
+  <header class="container">
+    <h1>Timeline</h1>
+  </header>
+  <nav class="container">
+    <ul>
+      <li><a href="../PartOne.html">Chapters</a></li>
+      <li><a href="../timeline/index.html">Timeline</a></li>
+      <li><a href="../archive/index.html">Archive</a></li>
+    </ul>
+  </nav>
+  <main class="container">
+    <ul id="timeline"></ul>
+  </main>
+  <script>
+    fetch('data.json').then(r => r.json()).then(items => {
+      const ul = document.getElementById('timeline');
+      items.forEach(it => {
+        const li = document.createElement('li');
+        li.innerHTML = `<strong>${it.date}</strong> - ${it.title}${it.notes ? ' — ' + it.notes : ''}`;
+        ul.appendChild(li);
+      });
+    });
+  </script>
+</body>
+</html>
