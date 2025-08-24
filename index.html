@@ -219,15 +219,19 @@
     </footer>
 
     <script>
-        fetch('data/timeline.json')
-            .then(response => response.json())
-            .then(entries => {
-                const list = document.getElementById('timeline-list');
-                entries.forEach(entry => {
-                    const li = document.createElement('li');
-                    li.innerHTML = `<strong>${entry.date}</strong><ul><li>${entry.title}${entry.notes ? ' — ' + entry.notes : ''}</li></ul>`;
-                    list.appendChild(li);
                 });
+            })
+            .catch(error => {
+                const list = document.getElementById('timeline-list');
+                if (list) {
+                    const li = document.createElement('li');
+                    li.style.color = 'red';
+                    li.textContent = 'Failed to load timeline: ' + error.message;
+                    list.appendChild(li);
+                } else {
+                    // Optionally, alert or log if the timeline-list element is missing
+                    console.error('Failed to load timeline and timeline-list element not found:', error);
+                }
             });
     </script>
 
