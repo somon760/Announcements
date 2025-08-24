@@ -92,3 +92,8 @@ footer {
         height: 150px;
     }
 }
+
+#now-playing .quick-links ul { list-style: none; padding-left: 0; }
+#now-playing .quick-links li { margin: .25rem 0; }
+#now-playing .coming-soon { opacity: .5; }
+.nh-footnote { opacity:.7; display:block; margin-top:1rem; }

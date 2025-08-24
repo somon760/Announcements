@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"></html>
+<html lang="en">
 <head>
     <meta charset="""UTF-8">
     <meta name="viewport" content="""width=device-width, initial-scale=""1.0">
@@ -28,9 +28,29 @@
                 <li><a href="paranoia/index.html">Paranoia</a></li>
             </ul>
         </nav>
-    </header>
-</body>
-</hr>
+</header>
+
+<!-- BEGIN Now Playing (spoiler-safe) -->
+<section id="now-playing" style="margin:2rem 0;">
+  <h2>Now Playing: New Horizons</h2>
+  <p><em>The next chapter of the journey has begun. Details will unlock as the story unfolds…</em></p>
+
+  <div class="quick-links">
+    <h3>Quick Links</h3>
+    <ul>
+      <li><a href="PartOne.html">Part One</a></li>
+      <li><a href="PartTwo.html">Part Two</a></li>
+      <li><a href="PartThree.html">Part Three</a></li>
+      <li><a href="PartFour.html">Part Four</a></li>
+      <li><span class="coming-soon">Part Five (Coming Soon)</span></li>
+      <li><span class="coming-soon">Part Six (Coming Soon)</span></li>
+      <li><span class="coming-soon">Part Seven (Coming Soon)</span></li>
+      <li><span class="coming-soon">Part Eight (Coming Soon)</span></li>
+    </ul>
+  </div>
+</section>
+<!-- END Now Playing (spoiler-safe) -->
+
 <br>
     <a href="BlizzardCrawl.html" style="text-decoration: none; color: inherit; display: block; border: 3px solid blue; padding: 10px; margin-bottom: 20px; border-radius: 15px; background-color: #f5deb3;">
         <!-- Banner Image -->
@@ -263,6 +283,9 @@
 
     <footer>
         <p>&copy; 2024 Campaign Chronicles. All Rights Reserved.</p>
+        <small class="nh-footnote" style="opacity:.7;display:block;margin-top:1rem;">
+          © Campaign Chronicles. “New Horizons” teaser only — spoilers unlock in-session.
+        </small>
     </footer>
 
     <script>
@@ -271,5 +294,23 @@
             document.getElementById('fullSizeImage').style.display = 'block';
         });
     </script>
+<script>
+(function () {
+  fetch('data/timeline.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(items => {
+      if (!Array.isArray(items) || !items.length) return;
+      var host = document.querySelector('#timeline, .timeline, section#timeline');
+      if (!host) { host = document.createElement('section'); host.id = 'timeline'; host.innerHTML = '<h2>Timeline</h2><ul class="timeline-list"></ul>'; document.body.appendChild(host); }
+      var ul = host.querySelector('ul') || (function(){ var u=document.createElement('ul'); host.appendChild(u); return u; })();
+      items.forEach(function (it) {
+        var li = document.createElement('li');
+        li.innerHTML = '<strong>' + (it.date || '') + ' — ' + (it.title || 'Untitled') + '</strong>' + (it.notes ? ('<div>' + it.notes + '</div>') : '');
+        ul.appendChild(li);
+      });
+    })
+    .catch(function(){});
+})();
+</script>
 </body>
 </html>
