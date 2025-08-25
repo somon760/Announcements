@@ -10,6 +10,7 @@
     .container{max-width:960px;margin:0 auto;padding:1.5rem;}
     header, nav, footer{margin-bottom:1rem;}
     nav ul{list-style:none;padding:0;display:flex;gap:1rem;flex-wrap:wrap;}
+    nav ul li a{color:#333;} /* Override white text from external CSS for visibility */
     .card{border:1px solid #ddd;padding:1rem;border-radius:.5rem;margin:.75rem 0;}
     .two-col{display:grid;grid-template-columns:1fr 1fr;gap:1rem;}
     @media (max-width:800px){.two-col{grid-template-columns:1fr;}}
@@ -25,7 +26,7 @@
 
   <nav class="container">
     <ul>
-      <li><a href="PartOne.html">Chapters</a></li>
+      <li><a href="archive/PartOne.html">Chapters</a></li>
       <li><a href="timeline/index.html">Timeline</a></li>
       <li><a href="archive/index.html">Archive</a></li>
     </ul>
@@ -49,18 +50,6 @@
           <ul>
             <li><strong>Base:</strong> Red Keep (Church of Reclamation)</li>
             <li><strong>Objective:</strong> Push toward Lion’s Gate and secure safe passage</li>
-          </ul>
-        </div>
-        <div>
-          <h3>Chapters</h3>
-          <ul>
-            <!-- Keep existing chapter links; do not create future spoilers -->
-            <li><a href="PartOne.html">Part One</a></li>
-            <li><a href="PartTwo.html">Part Two</a></li>
-            <li><a href="PartThree.html">Part Three</a></li>
-            <li><a href="PartFour.html">Part Four</a></li>
-            <!-- If Parts 5+ exist but are not played, either omit or mark Coming Soon; do not link spoilers -->
-            <li><span class="muted">Part Five (Coming Soon)</span></li>
           </ul>
         </div>
       </div>
