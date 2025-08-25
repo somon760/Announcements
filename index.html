@@ -2,81 +2,190 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
-  <title>New Horizons — Campaign Announcements</title>
+  <title>New Horizons — War Log & Podcast Hub</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="stylesheet" href="styles.css"/>
+
+  <!-- Inline styles so the page works anywhere you drop it -->
   <style>
-    /* small helpers, safe if styles.css exists */
-    .container{max-width:960px;margin:0 auto;padding:1.5rem;}
-    header, nav, footer{margin-bottom:1rem;}
-    nav ul{list-style:none;padding:0;display:flex;gap:1rem;flex-wrap:wrap;}
-    nav ul li a{color:#333;} /* Override white text from external CSS for visibility */
-    .card{border:1px solid #ddd;padding:1rem;border-radius:.5rem;margin:.75rem 0;}
-    .two-col{display:grid;grid-template-columns:1fr 1fr;gap:1rem;}
-    @media (max-width:800px){.two-col{grid-template-columns:1fr;}}
-    .muted{opacity:.75}
-    .btn{display:inline-block;padding:.5rem .75rem;border:1px solid #999;border-radius:.35rem;text-decoration:none}
+    :root{
+      --bg: #0f1115;
+      --panel:#151922;
+      --ink:#e8ebf1;
+      --muted:#a7b0c0;
+      --accent:#7dd3fc;
+      --accent2:#c084fc;
+      --ok:#86efac;
+      --warn:#fde68a;
+      --bad:#fca5a5;
+      --card:#0b0e13;
+      --ring: 0 0 0 2px rgba(125,211,252,.35), 0 10px 30px rgba(0,0,0,.35);
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:linear-gradient(180deg,var(--bg),#0a0c10);color:var(--ink);font:16px/1.6 system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    header.hero{padding:3.5rem 1.25rem;border-bottom:1px solid #202636;background:
+      radial-gradient(1200px 600px at 20% 0%, rgba(192,132,252,.08), transparent 60%),
+      radial-gradient(1000px 600px at 80% 0%, rgba(125,211,252,.08), transparent 60%)}
+    .wrap{max-width:1050px;margin:0 auto}
+    h1{font-size:clamp(1.6rem,2.6vw,2.6rem);margin:.25rem 0 0}
+    .tag{display:inline-block;margin-top:.5rem;padding:.25rem .5rem;border:1px solid #2a3342;border-radius:.4rem;color:var(--muted)}
+    .nav{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem}
+    .nav a{padding:.45rem .7rem;border:1px solid #263044;border-radius:.45rem;background:rgba(19,23,32,.6)}
+    main{padding:2rem 1.25rem}
+    .grid{display:grid;grid-template-columns:2fr 1fr;gap:1.25rem}
+    @media (max-width: 900px){.grid{grid-template-columns:1fr}}
+    .card{background:linear-gradient(180deg, var(--panel), var(--card)); border:1px solid #232a38;border-radius:.8rem;padding:1rem;box-shadow:var(--ring)}
+    .card h2{margin:.25rem 0 0.5rem;font-size:1.15rem}
+    .muted{color:var(--muted)}
+    .btn{display:inline-flex;align-items:center;gap:.5rem;padding:.65rem .85rem;border:1px solid #2a3342;border-radius:.55rem;background:#0f1420}
+    .btn strong{font-weight:700}
+    .pill{display:inline-block;padding:.15rem .5rem;border:1px solid #2a3342;border-radius:999px;color:var(--muted);font-size:.8rem}
+    .two-col{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+    @media (max-width:700px){.two-col{grid-template-columns:1fr}}
+    .stat{display:grid;grid-template-columns:1fr auto;gap:.5rem;padding:.5rem .65rem;margin:.25rem 0;border:1px dashed #283142;border-radius:.5rem}
+    .good{color:var(--ok)} .bad{color:var(--bad)} .warn{color:var(--warn)}
+    details{border:1px dashed #2a3342;border-radius:.6rem;padding:.75rem;background:#0e131d}
+    summary{cursor:pointer;font-weight:700}
+    ul.clean{list-style:none;margin:0;padding:0}
+    li.row{display:flex;justify-content:space-between;gap:.75rem;padding:.35rem 0;border-bottom:1px dotted #283142}
+    li.row:last-child{border-bottom:none}
+    footer{padding:2rem 1.25rem 3rem;color:var(--muted);border-top:1px solid #1d2330}
+    .mono{font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
   </style>
 </head>
+
 <body>
-  <header class="container">
-    <h1>New Horizons</h1>
-    <p class="muted">The next arc of the campaign begins on Acheron. This page stays spoiler‑safe; details unlock after sessions.</p>
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <div class="pill">Campaign: <strong>New Horizons</strong> — Acheron Front</div>
+      <h1>War Log & Podcast Hub</h1>
+      <p class="muted">Spoiler‑safe public briefings. Deep GM notes stay sealed until after each session.</p>
+      <nav class="nav">
+        <a href="#podcast">🎙️ Podcast</a>
+        <a href="#warbrief">🛡️ War Brief</a>
+        <a href="#stats">📊 Battle Stats</a>
+        <a href="#log">📝 History</a>
+        <a href="archive/index.html">🗄️ Archive</a>
+      </nav>
+    </div>
   </header>
 
-  <nav class="container">
-    <ul>
-      <li><a href="archive/PartOne.html">Chapters</a></li>
-      <li><a href="timeline/index.html">Timeline</a></li>
-      <li><a href="archive/index.html">Archive</a></li>
-    </ul>
-  </nav>
+  <main class="wrap">
+    <div class="grid">
+      <!-- LEFT COLUMN -->
+      <section class="card" id="podcast">
+        <h2>🎧 Podcast Highlight — “Teamwork, Beasts & Battle Lines”</h2>
+        <p class="muted">Hear the recap as if broadcast from a field tent beside the Red Keep.</p>
+        <p>
+          <!-- Replace these with your live host URLs when ready -->
+          <a class="btn" href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3">
+            ▶️ <strong>Play Latest Episode</strong> (MP3)
+          </a>
+        </p>
+        <p>
+          <a class="btn" href="Podcast_Transcript.html">📝 View Transcript (GenFM‑ready)</a>
+        </p>
+        <p class="muted">Using ElevenLabs Studio → “Podcast”? Upload the transcript page above or paste its URL, then pick your hosts and export.</p>
+      </section>
 
-  <main class="container">
-    <section class="card">
-      <h2>Podcast Highlight</h2>
-      <p>Catch up on the latest session recap here:</p>
-      <!-- Replace the href with the actual mp3 or episode page -->
-      <p><a class="btn" href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3">▶️ Listen to the latest episode</a></p>
-      <p class="muted">Have a different host page? Replace the link above with your podcast page URL.</p>
-    </section>
-
-    <section class="card">
-      <h2>Now Playing</h2>
-      <p><em>Current setting:</em> Acheron — Red Keep and surrounding fronts.</p>
-      <div class="two-col">
-        <div>
-          <h3>Where we are</h3>
-          <ul>
-            <li><strong>Base:</strong> Red Keep (Church of Reclamation)</li>
-            <li><strong>Objective:</strong> Push toward Lion’s Gate and secure safe passage</li>
-          </ul>
+      <aside class="card" id="warbrief">
+        <h2>🛡️ Now Playing — Acheron Front</h2>
+        <div class="two-col">
+          <div>
+            <p class="muted">Current theatre</p>
+            <ul class="clean">
+              <li class="row"><span>Base</span><span class="mono">Red Keep (Church of Reclamation)</span></li>
+              <li class="row"><span>Objective</span><span class="mono">Pressure Lion’s Gate, secure passage</span></li>
+              <li class="row"><span>Allies</span><span class="mono good">Spirewatch Archers • Emberline Breaker • Formacid Skirmisher</span></li>
+              <li class="row"><span>Wildcard</span><span class="mono warn">Behir (briefly swayed; later hostile until hypnotized)</span></li>
+            </ul>
+          </div>
+          <div>
+            <p class="muted">Opposition seen</p>
+            <ul class="clean">
+              <li class="row"><span>Command</span><span class="mono bad">Beast‑Handler Butchers (multiple)</span></li>
+              <li class="row"><span>Beasts</span><span class="mono bad">Hydra • Bulette • Giant Scorpion • Shambling Mound</span></li>
+              <li class="row"><span>Demonic</span><span class="mono bad">Glabrezu</span></li>
+            </ul>
+          </div>
         </div>
-      </div>
-    </section>
+      </aside>
 
-    <section class="card">
-      <h2>History so far (Acheron arc)</h2>
-      <!-- IMPORTANT: include events only up to and including "Raid Room Three cleared" -->
-      <ul>
-        <li>Arrival at the Red Keep (Acheron) and orientation with defenders.</li>
-        <li>Murder‑mystery arc concluded; the demon cook defeated.</li>
-        <li>The party settled into the Keep; planning began for approaching Lion’s Gate.</li>
-        <li><strong>Raid Progress:</strong> Room One cleared.</li>
-        <li><strong>Raid Progress:</strong> Room Two cleared.</li>
-        <li><strong>Raid Progress:</strong> Room Three cleared (latest success).</li>
-      </ul>
-      <p class="muted">Further details will unlock after the next session to avoid spoilers.</p>
-    </section>
+      <!-- BATTLE STATS -->
+      <section class="card" id="stats">
+        <h2>📊 Battle Stats — Latest Engagement (spoiler‑safe)</h2>
 
-    <section class="card">
-      <h2>Need older adventures?</h2>
-      <p>All pre‑Acheron (“blizzard crawl” and earlier) materials now live in the <a href="archive/index.html">Archive</a>.</p>
-    </section>
+        <div class="two-col">
+          <div>
+            <div class="stat"><span>Rounds witnessed</span><strong class="mono">5+</strong></div>
+            <div class="stat"><span>Initiative spike</span><strong class="mono">Spirewatch Archer 25</strong></div>
+            <div class="stat"><span>Bosses defeated</span><strong class="mono good">Butcher ×4 • Hydra • Glabrezu</strong></div>
+            <div class="stat"><span>Other kills</span><strong class="mono good">Bulette • Giant Scorpion • Shambling Mound</strong></div>
+          </div>
+          <div>
+            <div class="stat"><span>Stand‑out burst</span><strong class="mono">Thunderdrum Sneak Attack: 53</strong></div>
+            <div class="stat"><span>Control clutch</span><strong class="mono">Grimbledee: Hypnotic Gaze (Behir)</strong></div>
+            <div class="stat"><span>Final blows (highlights)</span><strong class="mono">Shrop on Butcher; Terry closes Hydra</strong></div>
+            <div class="stat"><span>XP banners logged</span><strong class="mono">Hydra 3900 • Glabrezu 5000 • Butcher 13000 ea.</strong></div>
+          </div>
+        </div>
+
+        <details style="margin-top:.75rem">
+          <summary>Open tactical notes (light spoilers)</summary>
+          <ul>
+            <li><strong>Archers’ Tag the Mark</strong> reliably set up ally attacks with +1 to hit windows.</li>
+            <li><strong>Thunderdrum</strong> leveraged Thief’s Reflexes for early pressure and repeated Sneak burst.</li>
+            <li><strong>Terry (Breaker/Skirmisher)</strong> chained Smash‑Hammer and Chitin Blades to chew through beasts; handled grapples under fire.</li>
+            <li><strong>Shrop (Templar)</strong> landed consistent Relic Blade strikes and confirmed a key Butcher kill.</li>
+            <li><strong>Behir</strong> flipped alignment mid‑fray; ultimately neutralized via <em>Hypnotic Gaze</em> before breathing again later.</li>
+          </ul>
+        </details>
+      </section>
+
+      <!-- HISTORY -->
+      <section class="card" id="log">
+        <h2>📝 History so far (Acheron Arc)</h2>
+        <ul>
+          <li>Arrival at the Red Keep; coordination with defenders.</li>
+          <li>Murder‑mystery concluded; the corrupted cook was dealt with.</li>
+          <li>Staging for Lion’s Gate began; forward raids planned.</li>
+          <li><strong>Raid Progress:</strong> Room One — cleared.</li>
+          <li><strong>Raid Progress:</strong> Room Two — cleared.</li>
+          <li><strong>Raid Progress:</strong> Room Three — cleared (latest checkpoint).</li>
+        </ul>
+        <p class="muted">Deeper write‑ups unlock after the next table to keep future moves unspoiled.</p>
+      </section>
+
+      <!-- CALLOUTS / LINKS -->
+      <section class="card">
+        <h2>🎙️ Suggested Listening Order</h2>
+        <ol>
+          <li><a href="Podcast_Transcript.html">Field Broadcast: “Teamwork, Beasts & Battle Lines”</a></li>
+          <li><a href="ElevenLabs_Masterclass_in_Teamwork_Battling_Beasts_and_Strategy.mp3">Audio Cut — Latest Session</a></li>
+          <li><a href="archive/index.html">Archive — Pre‑Acheron adventures</a></li>
+        </ol>
+        <p class="muted">Using ElevenLabs Studio “Podcast”: you can upload the transcript page directly, assign hosts, edit timing, and export.</p>
+      </section>
+
+      <aside class="card">
+        <h2>🔖 Quick Facts</h2>
+        <ul class="clean">
+          <li class="row"><span>Allies on field</span><span class="mono good">Breakers • Skirmishers • Spirewatch Archers</span></li>
+          <li class="row"><span>Notable foes</span><span class="mono bad">Beast‑Handler Butchers (multiple)</span></li>
+          <li class="row"><span>Wild surge</span><span class="mono warn">Behir’s Lightning Breath & constrict/grapple plays</span></li>
+          <li class="row"><span>Control moment</span><span class="mono">Grimbledee’s Hypnotic Gaze to pause the Behir</span></li>
+        </ul>
+      </aside>
+    </div>
   </main>
 
-  <footer class="container">
-    <small class="muted">© Campaign Chronicles — “New Horizons” arc. Spoiler‑safe public updates; deeper notes remain GM‑side.</small>
+  <footer>
+    <div class="wrap">
+      <p class="muted">© Campaign Chronicles — “New Horizons” arc. Public page is spoiler‑safe; internal notebooks remain GM‑side.</p>
+      <p class="muted">Tip: drop this file at your host root. If you change your audio host, just swap the links in the Podcast section.</p>
+    </div>
   </footer>
 </body>
 </html>
