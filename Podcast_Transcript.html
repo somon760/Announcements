@@ -169,7 +169,7 @@
       function makeBubble(text, who){
         const d = document.createElement('div');
         d.className = 'bubble ' + who;
-        d.innerHTML = '<span class="label">' + (NAMES[who] || '') + '</span>' + text; // preserves inline markup
+        d.innerHTML = '<span class="label">' + (NAMES[who] || '') + '</span>' + text; // preserves basic inline markup from transcript
         return d;
       }
       function build(){

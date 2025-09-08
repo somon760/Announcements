@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Orc announcer">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#89c97c"/>
+      <stop offset="1" stop-color="#6fa961"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="64" fill="url(#g1)"/>
+  <!-- Head / face -->
+  <ellipse cx="64" cy="70" rx="34" ry="30" fill="#6aa65e"/>
+  <!-- Brow ridge / hairline -->
+  <path d="M32 56c20-10 44-10 64 0" stroke="#2b3b2a" stroke-width="10" stroke-linecap="round" opacity=".6"/>
+  <!-- Eyes -->
+  <circle cx="52" cy="68" r="4" fill="#121b12"/>
+  <circle cx="76" cy="68" r="4" fill="#121b12"/>
+  <!-- Scar -->
+  <path d="M82 56l6-6m-4 12l6-6" stroke="#d9b3b3" stroke-width="2" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M64 68c0 5 3 9 6 10" stroke="#558a4c" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Mouth line -->
+  <path d="M50 88c9 3 19 3 28 0" stroke="#2b3b2a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Tusks -->
+  <path d="M58 88c-2 6-8 8-10 4 4-1 7-2 10-4z" fill="#f2efe6"/>
+  <path d="M70 88c2 6 8 8 10 4-4-1-7-2-10-4z" fill="#f2efe6"/>
+</svg>
+
