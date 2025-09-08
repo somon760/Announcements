@@ -182,6 +182,8 @@
         parts.forEach(p => {
           const html = (p.innerHTML || p.textContent || '').trim();
           if(!html) return;
+          // Skip SFX lines (sound effects in em tags)
+          if(html.startsWith('<em>[SFX:') || html.includes('[SFX:')) return;
           host.appendChild(makeBubble(html, elfTurn ? 'elf' : 'orc'));
           elfTurn = !elfTurn;
         });
