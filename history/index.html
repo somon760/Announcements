@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Message Archive — Campaign Chronicles</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="description" content="Historical Messages of the Day from the New Horizons campaign arc."/>
+
+  <!-- Matching styles from main site -->
+  <style>
+    :root{
+      --bg: #0f1115;
+      --panel:#151922;
+      --ink:#e8ebf1;
+      --muted:#a7b0c0;
+      --accent:#7dd3fc;
+      --accent2:#c084fc;
+      --ok:#86efac;
+      --warn:#fde68a;
+      --bad:#fca5a5;
+      --card:#0b0e13;
+      --ring: 0 0 0 2px rgba(125,211,252,.35), 0 10px 30px rgba(0,0,0,.35);
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:linear-gradient(180deg,var(--bg),#0a0c10);color:var(--ink);font:16px/1.6 system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    header.hero{padding:3.5rem 1.25rem;border-bottom:1px solid #202636;background:
+      radial-gradient(1200px 600px at 20% 0%, rgba(192,132,252,.08), transparent 60%),
+      radial-gradient(1000px 600px at 80% 0%, rgba(125,211,252,.08), transparent 60%)}
+    .wrap{max-width:800px;margin:0 auto}
+    h1{font-size:clamp(1.6rem,2.6vw,2.6rem);margin:.25rem 0 0}
+    .tag{display:inline-block;margin-top:.5rem;padding:.25rem .5rem;border:1px solid #2a3342;border-radius:.4rem;color:var(--muted)}
+    .nav{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem}
+    .nav a{padding:.45rem .7rem;border:1px solid #263044;border-radius:.45rem;background:rgba(19,23,32,.6)}
+    main{padding:2rem 1.25rem}
+    .card{background:linear-gradient(180deg, var(--panel), var(--card)); border:1px solid #232a38;border-radius:.8rem;padding:1.5rem;box-shadow:var(--ring);margin-bottom:1.5rem}
+    .muted{color:var(--muted)}
+    footer{padding:2rem 1.25rem 3rem;color:var(--muted);border-top:1px solid #1d2330}
+    
+    /* MOTD Archive Specific */
+    .motd-entry{margin-bottom:2rem;border-left:3px solid var(--accent2);padding-left:1rem}
+    .motd-date{font-weight:700;color:var(--accent);font-size:1.1rem;margin-bottom:.5rem}
+    .motd-preview{color:var(--muted);margin-bottom:.75rem;font-style:italic}
+    .motd-link{display:inline-block;padding:.4rem .8rem;background:rgba(125,211,252,.1);border:1px solid rgba(125,211,252,.3);border-radius:.4rem;font-size:.9rem}
+    .motd-link:hover{background:rgba(125,211,252,.2)}
+    .motd-content{margin-top:1rem;padding:1rem;background:rgba(12,30,44,.4);border-radius:.6rem;border:1px solid #1a2e40}
+    .motd-content iframe{width:100%;min-height:600px;border:none;border-radius:.4rem}
+    .expand-btn{cursor:pointer;user-select:none;color:var(--accent2);font-weight:600;margin-left:.5rem}
+    .expand-btn:hover{color:var(--accent)}
+    
+    /* Enhanced MOTD styling when displayed inline */
+    .motd-content .motd-display{font-family:Georgia,serif;line-height:1.8}
+    .motd-content .motd-display h2{color:var(--accent);text-align:center;margin-bottom:1rem}
+    .motd-content .motd-display h3{color:var(--accent2);margin-top:1.5rem}
+    .motd-content .motd-display p{margin-bottom:1rem}
+  </style>
+</head>
+
+<body>
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <div class="tag">📜 <strong>Message Archive</strong></div>
+      <h1>Messages of the Day</h1>
+      <p class="muted">Historical campaign updates from the New Horizons arc — battlefield reports, tactical briefings, and moments of triumph.</p>
+      <nav class="nav">
+        <a href="../index.html">← Back to Hub</a>
+        <a href="../archive/index.html">📚 Story Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="card">
+      <h2>📅 Campaign Messages</h2>
+      <p class="muted">Click on any entry to expand and view the full message. These represent key moments and briefings from our ongoing campaign.</p>
+      
+      <!-- July 21, 2025 - The Aftershock -->
+      <div class="motd-entry">
+        <div class="motd-date">July 21, 2025</div>
+        <div class="motd-preview">"The Aftershock" — The crystal is broken. The conduit silenced. Ernie's dramatic escape from the exploding bridge...</div>
+        <a href="07-21-2025-motd.html" class="motd-link">📄 View Original</a>
+        <span class="expand-btn" onclick="toggleMOTD('motd-2025-07-21')">▼ Expand Here</span>
+        <div id="motd-2025-07-21" class="motd-content" style="display:none;">
+          <iframe src="07-21-2025-motd.html" title="July 21, 2025 MOTD"></iframe>
+        </div>
+      </div>
+
+      <!-- Template for future entries - comment this out in production -->
+      <!--
+      <div class="motd-entry">
+        <div class="motd-date">[DATE]</div>
+        <div class="motd-preview">[PREVIEW TEXT]</div>
+        <a href="[FILENAME].html" class="motd-link">📄 View Original</a>
+        <span class="expand-btn" onclick="toggleMOTD('[ID]')">▼ Expand Here</span>
+        <div id="[ID]" class="motd-content" style="display:none;">
+          <iframe src="[FILENAME].html" title="[DATE] MOTD"></iframe>
+        </div>
+      </div>
+      -->
+    </div>
+
+    <div class="card">
+      <h2>📝 Adding New Messages</h2>
+      <p class="muted">To add a new Message of the Day to this archive:</p>
+      <ol>
+        <li>Save your MOTD HTML file in this <code>history/</code> folder using the format: <code>MM-DD-YYYY-motd.html</code></li>
+        <li>Add a new entry to this page following the template structure above</li>
+        <li>Update the preview text with a compelling excerpt from the message</li>
+        <li>Ensure the file links and IDs are unique</li>
+      </ol>
+      <p class="muted">The iframe will automatically load the full MOTD content when expanded.</p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p class="muted">© Campaign Chronicles — "New Horizons" arc message archive.</p>
+      <p class="muted"><a href="../index.html">← Return to Campaign Hub</a></p>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMOTD(id) {
+      const content = document.getElementById(id);
+      const btn = document.querySelector(`[onclick="toggleMOTD('${id}')"]`);
+      
+      if (content.style.display === 'none') {
+        content.style.display = 'block';
+        btn.textContent = '▲ Collapse';
+      } else {
+        content.style.display = 'none';
+        btn.textContent = '▼ Expand Here';
+      }
+    }
+  </script>
+</body>
+</html>
