@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Camp Board | The Stoney Tooth</title>
+    <meta
+      name="description"
+      content="Damaged camp intelligence board for the Stoney Tooth, with pinned scraps tied to marks on a rough scouting map."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Cormorant+Garamond:wght@400;500;600;700&family=IM+Fell+English+SC&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body class="page page-map">
+    <div class="site-shell">
+      <header class="site-header">
+        <p class="eyebrow">Marked with charcoal, knife scores, and soot</p>
+        <h1>Damaged Camp Board</h1>
+        <p class="warning-note" role="note">
+          Full browser recommended: the map remains usable on phones, but the board scraps and positions are easier to compare side by side on desktop.
+        </p>
+        <nav class="site-nav" aria-label="Primary">
+          <a class="nav-link" href="index.html">Recovered Satchel</a>
+          <a class="nav-link is-current" href="map.html">Camp Board</a>
+          <a class="nav-link" href="notes.html">Field Notebook</a>
+          <a class="nav-link" href="evidence.html">Recovered Effects</a>
+        </nav>
+      </header>
+
+      <main class="page-content board-layout">
+        <section class="panel panel-board">
+          <div class="board-copy">
+            <p class="section-tag section-tag-light">Board Face</p>
+            <h2>The Hill As They Marked It</h2>
+            <p>
+              The main sheet appears older than the charcoal circles and side notes. The letters remain, but the meaning must be taken from the scraps pinned around the edges. Tap or click a mark to read the note tied to it.
+            </p>
+          </div>
+
+          <div class="map-frame">
+            <div class="map-figure">
+              <img
+                class="scout-map"
+                src="images/StoneyTooth_ScoutMap.png"
+                alt="Scout map of the Stoney Tooth with five lettered marks."
+              />
+
+              <div class="map-hotspots" aria-label="Map notes">
+                <button class="map-hotspot map-hotspot-a" data-note="a" data-default="true" type="button" aria-label="Read note for the lower road cut">A</button>
+                <button class="map-hotspot map-hotspot-b" data-note="b" type="button" aria-label="Read note for the smoke mark">B</button>
+                <button class="map-hotspot map-hotspot-c" data-note="c" type="button" aria-label="Read note for the east scar">C</button>
+                <button class="map-hotspot map-hotspot-d" data-note="d" type="button" aria-label="Read note for the summit">D</button>
+                <button class="map-hotspot map-hotspot-e" data-note="e" type="button" aria-label="Read note for the mere">E</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="board-footer-note">
+            <p>Marginal mark: "Do not trust any single line written after the second night."</p>
+          </div>
+
+          <div hidden>
+            <section data-note-definition="a" data-title="Road Cut">
+              <p>The old road is too well made to be chance. It shows itself from the valley when the light is low.</p>
+              <p>Fresh traffic came down within a day, perhaps during the last dark. Heavy tread. No discipline in the spacing.</p>
+            </section>
+
+            <section data-note-definition="b" data-title="Smoke Fissure">
+              <p>Smoke leaks from a crack lower on the slope, though the hill hides the mouth until you nearly stand on it.</p>
+              <p>Edric says no grown soul in armor is going down there. Tamsin called him timid and marked it anyway.</p>
+            </section>
+
+            <section data-note-definition="c" data-title="East Scar">
+              <p>Brush on the east side is broken low, with spoil and stone where no roots should have shifted them.</p>
+              <p>Could be old digging, could be beast work, could be nothing. We did not linger there after dusk.</p>
+            </section>
+
+            <section data-note-definition="d" data-title="High Crown">
+              <p>The summit gives a fine line over the woods and nearly tears the hands from you on the last stretch.</p>
+              <p>No sure sign was seen there. Marked only to keep someone else from wasting the climb twice.</p>
+            </section>
+
+            <section data-note-definition="e" data-title="Black Water">
+              <p>Cold mere east of the tooth. Bad footing, open shore, no clean approach, and insects enough to drive speech from a man.</p>
+              <p>Brother Caldus judged it useless and wanted it struck from the sheet. It stayed only because the place felt wrong at dusk.</p>
+            </section>
+          </div>
+        </section>
+
+        <aside class="panel note-panel" data-note-panel>
+          <p class="section-tag">Pinned Scrap</p>
+          <h2 data-note-title>Road Cut</h2>
+          <div class="note-copy" data-note-copy>
+            <p>Select a mark to read the scrap tied to it.</p>
+          </div>
+
+          <div class="stack-list">
+            <article class="stack-item">
+              <p class="stack-title">Board damage</p>
+              <p>The right edge bears knife cuts and a thumbprint in soot, likely after the board was seized.</p>
+            </article>
+            <article class="stack-item">
+              <p class="stack-title">Working method</p>
+              <p>Letters on the sheet seem to match observation points, not confirmed entrances or destinations.</p>
+            </article>
+            <article class="stack-item">
+              <p class="stack-title">Mobile use</p>
+              <p>On a narrow screen, read the scrap after each tap before moving to the next mark. The positions matter.</p>
+            </article>
+          </div>
+
+          <figure class="artifact-card artifact-card-compact">
+            <img
+              class="artifact-image"
+              src="images/camp-board-closeup.png"
+              alt="Close view of the damaged camp board with overlapping scraps, charcoal circles, and marked notes."
+            />
+            <figcaption>
+              Board-face close plate recovered after the camp was cleared. The scraps overlap badly, which explains the contradictions and late revisions elsewhere in the folio.
+            </figcaption>
+          </figure>
+        </aside>
+      </main>
+
+      <footer class="site-footer">
+        <p>The board suggests watch points and guesses, not certainty.</p>
+      </footer>
+    </div>
+  </body>
+</html>

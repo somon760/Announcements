@@ -1,0 +1,700 @@
+:root {
+  --ink: #241b16;
+  --ink-soft: #4b3d34;
+  --paper: #e9d7b4;
+  --paper-deep: #d5bd93;
+  --paper-light: #f4ead6;
+  --moss: #73806a;
+  --moss-deep: #435140;
+  --rust: #8d4d36;
+  --rust-deep: #693727;
+  --wood: #302116;
+  --shadow: rgba(27, 18, 11, 0.24);
+  --line: rgba(56, 39, 24, 0.28);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+  color: var(--ink);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  background:
+    radial-gradient(circle at top left, rgba(153, 165, 140, 0.28), transparent 32%),
+    radial-gradient(circle at right 20%, rgba(105, 55, 39, 0.12), transparent 28%),
+    linear-gradient(180deg, #f0e2c6 0%, #e1cfab 100%);
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+}
+
+body::before {
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.18), transparent 35%),
+    linear-gradient(0deg, rgba(89, 66, 47, 0.08), transparent 40%),
+    repeating-linear-gradient(
+      90deg,
+      rgba(89, 66, 47, 0.04) 0,
+      rgba(89, 66, 47, 0.04) 1px,
+      transparent 1px,
+      transparent 10px
+    );
+  opacity: 0.7;
+  z-index: -2;
+}
+
+body::after {
+  background:
+    radial-gradient(circle at 20% 15%, rgba(115, 128, 106, 0.18), transparent 22%),
+    radial-gradient(circle at 75% 80%, rgba(141, 77, 54, 0.14), transparent 18%),
+    radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.08), transparent 30%);
+  mix-blend-mode: multiply;
+  z-index: -1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+p {
+  margin: 0;
+}
+
+.site-shell {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.25rem clamp(1rem, 2.8vw, 2rem) 3rem;
+}
+
+.site-header {
+  padding-top: 0.4rem;
+}
+
+.eyebrow {
+  color: var(--rust);
+  font-family: "Caveat", cursive;
+  font-size: clamp(1.35rem, 3vw, 1.7rem);
+  letter-spacing: 0.02em;
+}
+
+.site-header h1,
+.panel h2,
+.note-panel h2,
+.evidence-card h2 {
+  font-family: "IM Fell English SC", Georgia, serif;
+  font-weight: 400;
+}
+
+.site-header h1 {
+  margin: 0.25rem 0 0.85rem;
+  font-size: clamp(2.85rem, 7vw, 5rem);
+  line-height: 0.94;
+  letter-spacing: 0.01em;
+}
+
+.warning-note {
+  max-width: 58rem;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--rust);
+  border-radius: 0 12px 12px 0;
+  background: rgba(255, 249, 238, 0.68);
+  box-shadow: 0 10px 22px var(--shadow);
+  font-size: 1.14rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.15rem;
+}
+
+.nav-link,
+.button-link,
+.text-link {
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    background-color 180ms ease,
+    color 180ms ease;
+}
+
+.nav-link {
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  background: linear-gradient(180deg, rgba(250, 244, 229, 0.88), rgba(226, 207, 173, 0.92));
+  box-shadow: 0 12px 24px -18px rgba(0, 0, 0, 0.6);
+  font-size: 1.15rem;
+}
+
+.nav-link:hover,
+.nav-link:focus-visible,
+.nav-link.is-current {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 30px -18px rgba(0, 0, 0, 0.55);
+}
+
+.nav-link.is-current {
+  background: linear-gradient(180deg, rgba(88, 101, 82, 0.94), rgba(62, 75, 57, 0.94));
+  color: var(--paper-light);
+}
+
+.page-content {
+  margin-top: 1.5rem;
+}
+
+.panel {
+  position: relative;
+  padding: clamp(1.1rem, 2vw, 1.65rem);
+  border: 1px solid rgba(60, 43, 28, 0.22);
+  border-radius: 22px 16px 24px 18px;
+  background:
+    linear-gradient(180deg, rgba(255, 249, 237, 0.9), rgba(232, 214, 181, 0.92)),
+    linear-gradient(135deg, rgba(115, 128, 106, 0.06), transparent 60%);
+  box-shadow:
+    0 20px 40px -28px rgba(26, 16, 9, 0.75),
+    inset 0 1px 0 rgba(255, 255, 255, 0.52);
+  overflow: hidden;
+  animation: rise-in 420ms ease both;
+}
+
+.panel::after {
+  content: "";
+  position: absolute;
+  inset: auto auto 0 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(140deg, transparent 72%, rgba(108, 125, 92, 0.06));
+  pointer-events: none;
+}
+
+.section-tag,
+.scrap-title,
+.item-state,
+.stack-title {
+  font-family: "Caveat", cursive;
+  letter-spacing: 0.02em;
+}
+
+.section-tag {
+  color: var(--moss-deep);
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.section-tag-light {
+  color: rgba(244, 234, 214, 0.88);
+}
+
+.panel h2,
+.note-panel h2,
+.evidence-card h2 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(1.85rem, 3.5vw, 2.4rem);
+  line-height: 0.98;
+}
+
+.panel p,
+.note-copy p,
+.stack-item p,
+.site-footer p {
+  font-size: 1.26rem;
+  line-height: 1.36;
+}
+
+.hero-panel,
+.board-layout,
+.journal-layout,
+.evidence-layout,
+.triptych,
+.evidence-grid,
+.two-column-copy {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.hero-panel {
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.9fr);
+  align-items: start;
+}
+
+.hero-copy {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.scrap-stack {
+  display: grid;
+  gap: 0.95rem;
+}
+
+.scrap-card {
+  padding: 1rem;
+  border: 1px solid rgba(60, 43, 28, 0.18);
+  background: linear-gradient(180deg, rgba(245, 236, 216, 0.95), rgba(230, 212, 177, 0.92));
+  box-shadow: 0 16px 26px -24px rgba(0, 0, 0, 0.9);
+}
+
+.scrap-card-tilt-left {
+  transform: rotate(-1.5deg);
+}
+
+.scrap-card-tilt-right {
+  transform: rotate(1.8deg);
+}
+
+.scrap-title {
+  font-size: 1.45rem;
+  color: var(--rust-deep);
+  margin-bottom: 0.2rem;
+}
+
+.button-link,
+.text-link {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.85rem 1.15rem;
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.button-link {
+  background: linear-gradient(180deg, rgba(84, 96, 78, 0.95), rgba(55, 66, 49, 0.95));
+  color: var(--paper-light);
+  box-shadow: 0 16px 30px -20px rgba(31, 39, 24, 0.9);
+}
+
+.text-link {
+  color: var(--rust-deep);
+  padding-inline: 0;
+  font-weight: 600;
+}
+
+.button-link:hover,
+.button-link:focus-visible,
+.text-link:hover,
+.text-link:focus-visible {
+  transform: translateY(-2px);
+}
+
+.triptych {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 1.35rem;
+}
+
+.link-card {
+  min-height: 15rem;
+}
+
+.long-panel {
+  margin-top: 1.35rem;
+}
+
+.two-column-copy {
+  grid-template-columns: minmax(0, 1.2fr) minmax(240px, 0.8fr);
+  align-items: start;
+}
+
+.margin-quote {
+  padding: 1rem;
+  border-left: 3px solid rgba(105, 55, 39, 0.55);
+  background: rgba(247, 241, 227, 0.52);
+  font-family: "Caveat", cursive;
+  color: var(--ink-soft);
+}
+
+.margin-quote p {
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.margin-quote span {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1.12rem;
+}
+
+.board-layout {
+  grid-template-columns: minmax(0, 1.45fr) minmax(280px, 0.85fr);
+  align-items: start;
+}
+
+.panel-board {
+  color: var(--paper-light);
+  background:
+    radial-gradient(circle at 25% 10%, rgba(204, 160, 104, 0.16), transparent 18%),
+    linear-gradient(180deg, rgba(60, 44, 31, 0.98), rgba(34, 22, 15, 0.98));
+}
+
+.panel-board p,
+.panel-board h2 {
+  color: inherit;
+}
+
+.map-frame {
+  margin-top: 1.2rem;
+  padding: 1rem;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(235, 220, 187, 0.94), rgba(208, 186, 148, 0.96));
+  box-shadow:
+    inset 0 0 0 2px rgba(65, 47, 32, 0.22),
+    0 22px 34px -30px rgba(0, 0, 0, 0.9);
+}
+
+.map-figure {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.scout-map {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 14px 28px -18px rgba(0, 0, 0, 0.85);
+}
+
+.map-hotspots {
+  position: absolute;
+  inset: 0;
+}
+
+.map-hotspot {
+  position: absolute;
+  left: var(--x);
+  top: var(--y);
+  transform: translate(-50%, -50%);
+  width: 2.6rem;
+  height: 2.6rem;
+  border: 1px solid rgba(247, 237, 214, 0.4);
+  border-radius: 999px;
+  background: radial-gradient(circle at 30% 30%, rgba(210, 171, 113, 0.96), rgba(102, 61, 36, 0.96));
+  color: var(--paper-light);
+  font-family: "IM Fell English SC", Georgia, serif;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow:
+    0 0 0 3px rgba(39, 25, 16, 0.18),
+    0 16px 24px -18px rgba(0, 0, 0, 0.95);
+}
+
+.map-hotspot-a {
+  --x: 46%;
+  --y: 74%;
+}
+
+.map-hotspot-b {
+  --x: 53%;
+  --y: 76%;
+}
+
+.map-hotspot-c {
+  --x: 68%;
+  --y: 44%;
+}
+
+.map-hotspot-d {
+  --x: 49%;
+  --y: 55%;
+}
+
+.map-hotspot-e {
+  --x: 82%;
+  --y: 52%;
+}
+
+.map-hotspot:hover,
+.map-hotspot:focus-visible,
+.map-hotspot.is-active {
+  transform: translate(-50%, -50%) scale(1.08);
+  box-shadow:
+    0 0 0 4px rgba(254, 246, 232, 0.28),
+    0 18px 28px -18px rgba(0, 0, 0, 0.95);
+}
+
+.board-footer-note {
+  margin-top: 1rem;
+  color: rgba(244, 234, 214, 0.8);
+  font-family: "Caveat", cursive;
+}
+
+.note-panel {
+  position: sticky;
+  top: 1rem;
+}
+
+.note-copy {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.stack-list {
+  display: grid;
+  gap: 0.9rem;
+  margin-top: 1.3rem;
+}
+
+.stack-item {
+  padding: 0.9rem 1rem;
+  border-radius: 14px;
+  background: rgba(244, 236, 219, 0.72);
+  border: 1px dashed rgba(78, 59, 43, 0.25);
+}
+
+.stack-title,
+.item-state {
+  font-size: 1.35rem;
+  color: var(--rust-deep);
+  margin-bottom: 0.15rem;
+}
+
+.journal-layout {
+  grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.7fr);
+  align-items: start;
+}
+
+.journal-column,
+.journal-margin {
+  display: grid;
+  gap: 1rem;
+}
+
+.journal-entry {
+  border-left: 4px solid rgba(67, 81, 64, 0.55);
+}
+
+.entry-trace,
+.dossier-links,
+.artifact-card figcaption {
+  margin-top: 0.65rem;
+  padding-top: 0.55rem;
+  border-top: 1px dashed rgba(78, 59, 43, 0.28);
+  font-family: "Caveat", cursive;
+  font-size: 1.32rem;
+  line-height: 1.22;
+  color: var(--ink-soft);
+}
+
+.entry-trace {
+  color: var(--moss-deep);
+}
+
+.trace-link,
+.dossier-links a,
+.artifact-card a {
+  color: var(--rust-deep);
+}
+
+.journal-entry-last {
+  background:
+    linear-gradient(180deg, rgba(246, 236, 216, 0.95), rgba(220, 196, 152, 0.94)),
+    linear-gradient(180deg, transparent 55%, rgba(93, 54, 33, 0.18));
+}
+
+.burned-line {
+  color: var(--rust-deep);
+  font-family: "Caveat", cursive;
+  font-size: 1.4rem;
+}
+
+.handwritten {
+  font-family: "Caveat", cursive;
+  font-size: 1.45rem;
+  line-height: 1.24;
+  color: var(--ink-soft);
+}
+
+.evidence-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.35rem;
+}
+
+.camp-aftermath-panel {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.camp-image-card {
+  margin: 0;
+  padding: 0.85rem;
+  border-radius: 18px;
+  border: 1px solid rgba(60, 43, 28, 0.18);
+  background: linear-gradient(180deg, rgba(250, 242, 226, 0.92), rgba(226, 208, 175, 0.92));
+  box-shadow: 0 20px 34px -28px rgba(0, 0, 0, 0.85);
+}
+
+.camp-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 16px 30px -24px rgba(0, 0, 0, 0.95);
+}
+
+.camp-image-card figcaption {
+  margin-top: 0.75rem;
+  font-family: "Caveat", cursive;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  color: var(--ink-soft);
+}
+
+.camp-clues,
+.evidence-people-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.camp-clues {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.evidence-people-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.35rem;
+}
+
+.artifact-gallery-panel {
+  display: grid;
+  gap: 1.15rem;
+}
+
+.artifact-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.artifact-card {
+  margin: 0;
+  padding: 0.85rem;
+  border-radius: 18px;
+  border: 1px solid rgba(60, 43, 28, 0.18);
+  background: linear-gradient(180deg, rgba(250, 242, 226, 0.92), rgba(226, 208, 175, 0.92));
+  box-shadow: 0 20px 34px -28px rgba(0, 0, 0, 0.85);
+}
+
+.artifact-card-compact {
+  margin-top: 1.25rem;
+}
+
+.artifact-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  background: rgba(244, 234, 214, 0.92);
+  box-shadow: 0 16px 30px -24px rgba(0, 0, 0, 0.95);
+}
+
+.evidence-card {
+  min-height: 15rem;
+}
+
+.dossier-card {
+  min-height: 17rem;
+  border-left: 4px solid rgba(105, 55, 39, 0.42);
+}
+
+.evidence-summary {
+  margin-top: 1.35rem;
+}
+
+.site-footer {
+  margin-top: 1.5rem;
+  text-align: center;
+  color: var(--ink-soft);
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 980px) {
+  .hero-panel,
+  .board-layout,
+  .journal-layout,
+  .two-column-copy {
+    grid-template-columns: 1fr;
+  }
+
+  .note-panel {
+    position: static;
+  }
+}
+
+@media (max-width: 760px) {
+  .triptych,
+  .evidence-grid,
+  .camp-clues,
+  .evidence-people-grid,
+  .artifact-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .site-shell {
+    padding-inline: 0.9rem;
+  }
+
+  .nav-link {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .map-hotspot {
+    width: 2.35rem;
+    height: 2.35rem;
+    font-size: 1.05rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .warning-note,
+  .panel p,
+  .note-copy p,
+  .stack-item p,
+  .site-footer p {
+    font-size: 1.12rem;
+  }
+
+  .margin-quote p,
+  .handwritten,
+  .burned-line,
+  .entry-trace,
+  .dossier-links,
+  .artifact-card figcaption {
+    font-size: 1.28rem;
+  }
+
+  .site-header h1 {
+    font-size: clamp(2.35rem, 12vw, 3rem);
+  }
+}
