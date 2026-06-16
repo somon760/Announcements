@@ -27,7 +27,7 @@ if (handoutNavList) {
 
   const formatTimestamp = (value) => {
     if (!value) {
-      return "unknown";
+      return "not yet chronicled";
     }
 
     const parsed = new Date(value);
@@ -81,12 +81,12 @@ if (handoutNavList) {
     activeIndex = index;
 
     if (handoutTitle) {
-      handoutTitle.textContent = handout.title || "Untitled Handout";
+      handoutTitle.textContent = handout.title || "Untitled Story";
     }
 
     if (handoutImage) {
       handoutImage.src = handout.image || "";
-      handoutImage.alt = handout.title ? handout.title + " handout image" : "Handout image";
+      handoutImage.alt = handout.title ? handout.title + " story illustration" : "Story illustration";
     }
 
     if (handoutImageCaption) {
@@ -95,7 +95,7 @@ if (handoutNavList) {
 
     if (handoutJournalLink) {
       handoutJournalLink.href = handout.journalUrl || "#";
-      handoutJournalLink.textContent = handout.journalUrl ? "open in Roll20" : "source unavailable";
+      handoutJournalLink.textContent = handout.journalUrl ? "view original entry" : "entry lost to time";
     }
 
     if (handoutContent) {
@@ -104,7 +104,7 @@ if (handoutNavList) {
 
       if (paragraphs.length === 0) {
         const empty = document.createElement("p");
-        empty.textContent = "No text was captured for this handout.";
+        empty.textContent = "This tale's words are missing from the archive.";
         handoutContent.append(empty);
       } else {
         paragraphs.forEach((paragraph) => {
@@ -153,7 +153,7 @@ if (handoutNavList) {
 
       button.type = "button";
       button.className = "handout-nav-button";
-      button.textContent = handout.title || "Untitled Handout";
+      button.textContent = handout.title || "Untitled Story";
       button.addEventListener("click", () => {
         selectHandout(index);
       });
@@ -219,18 +219,18 @@ if (handoutNavList) {
       }
 
       if (handouts.length === 0) {
-        setStatus("No handouts are available in handouts.json.", true);
+        setStatus("No tales are recorded in this archive yet.", true);
         updateControlState();
         return;
       }
 
       renderNav();
       selectByHash();
-      setStatus("Loaded " + handouts.length + " imported handouts.");
+      setStatus(handouts.length + " tales are ready for reading.");
     })
     .catch((error) => {
       console.error(error);
-      setStatus("Failed to load handouts.json. Serve the site over HTTP and confirm the JSON is valid.", true);
+      setStatus("The archive remains sealed for now. Return in a moment.", true);
       updateControlState();
     });
 }
