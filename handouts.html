@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Handouts Ledger | The Stoney Tooth</title>
+    <meta
+      name="description"
+      content="Standalone handout ledger sourced from selected authenticated Roll20 journal entries."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Cormorant+Garamond:wght@400;500;600;700&family=IM+Fell+English+SC&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="handouts.js"></script>
+  </head>
+  <body class="page page-handouts">
+    <div class="site-shell">
+      <header class="site-header">
+        <p class="eyebrow">Standalone handouts section sourced from authenticated journal exports</p>
+        <h1>Handouts Ledger</h1>
+        <p class="warning-note" role="note">
+          This page is intentionally stand-alone and not linked from the dossier navigation. Use the handout list on this page to browse the imported entries.
+        </p>
+      </header>
+
+      <main class="page-content handouts-page-layout">
+        <section class="panel long-panel">
+          <p class="section-tag">Source Journal</p>
+          <h2>Roll20 Campaign Journal Import</h2>
+          <p>
+            Imported from selected handouts at
+            <a class="trace-link" data-handout-source href="https://app.roll20.net/campaigns/journal/20978776/index" target="_blank" rel="noopener noreferrer">
+              app.roll20.net/campaigns/journal/20978776/index
+            </a>.
+          </p>
+          <p>
+            Imported entries:
+            <strong data-handout-count>0</strong>
+            . Last authenticated export:
+            <span data-handout-updated>pending</span>.
+          </p>
+          <p class="handout-status" data-handout-status>Loading imported handouts...</p>
+        </section>
+
+        <section class="panel handouts-browser">
+          <div class="handouts-browser-layout">
+            <nav class="handout-local-nav" aria-label="Handout navigator">
+              <h2>Requested Handouts</h2>
+              <ul class="handout-nav-list" data-handout-nav-list></ul>
+            </nav>
+
+            <article class="handout-reader" aria-live="polite">
+              <header class="handout-reader-header">
+                <p class="section-tag">Selected Entry</p>
+                <h2 data-handout-title>Select a handout</h2>
+                <p class="handout-meta-line">
+                  Source:
+                  <a data-handout-journal-link href="#" target="_blank" rel="noopener noreferrer">open in Roll20</a>
+                </p>
+              </header>
+
+              <figure class="handout-figure">
+                <img data-handout-image src="" alt="" loading="lazy" />
+                <figcaption data-handout-image-caption></figcaption>
+              </figure>
+
+              <div class="handout-controls" aria-label="Sequential navigation">
+                <button class="handout-control-button" type="button" data-handout-prev>Previous</button>
+                <button class="handout-control-button" type="button" data-handout-next>Next</button>
+              </div>
+
+              <div class="handout-content" data-handout-content>
+                <p>Select a handout from the list to read it.</p>
+              </div>
+            </article>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <p>Only the listed handouts are mirrored here. All content was imported manually from authenticated journal access.</p>
+      </footer>
+    </div>
+  </body>
+</html>
