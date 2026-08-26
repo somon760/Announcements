@@ -23,6 +23,8 @@ const renderMarkdown = markdown => markdown.split("\n\n").map(block => {
 
 const rosterGrid = document.querySelector("#roster-grid");
 const transcriptList = document.querySelector("#transcript-list");
+const conversationDialog = document.querySelector("#conversation-dialog");
+const conversationContent = document.querySelector("#conversation-content");
 
 function renderRoster(filter = "all") {
   rosterGrid.innerHTML = fullInterrogations
@@ -52,6 +54,16 @@ document.querySelectorAll(".filter").forEach(button => button.addEventListener("
 document.addEventListener("click", event => {
   const card = event.target.closest(".person-card");
   if (!card) return;
-  const record = document.querySelector(card.getAttribute("href"));
-  if (record) record.open = true;
+  event.preventDefault();
+  const name = card.querySelector("h3").textContent;
+  const record = fullInterrogations.find(item => item.name === name);
+  if (!record) return;
+  conversationContent.innerHTML = renderMarkdown(record.markdown);
+  conversationContent.querySelector(".record-title")?.setAttribute("id", "conversation-title");
+  conversationDialog.showModal();
+});
+
+conversationDialog.querySelector(".close").addEventListener("click", () => conversationDialog.close());
+conversationDialog.addEventListener("click", event => {
+  if (event.target === conversationDialog) conversationDialog.close();
 });
