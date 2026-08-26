@@ -31,11 +31,28 @@ function renderRoster(filter = "all") {
     .filter(record => filter === "all" || characterMeta[record.name].group === filter)
     .map(record => {
       const meta = characterMeta[record.name];
-      return `<a class="person-card" href="#${slugify(record.name)}">
+      return `<button type="button" class="person-card" data-name="${safeText(record.name)}">
         <div class="portrait-wrap"><img src="${meta.image}" alt="Portrait of ${safeText(record.name)}"><span class="pin ${meta.group}"></span></div>
         <div class="card-copy"><p class="card-group">${meta.group === "gryphon" ? "LAUGHING GRYPHON" : "DAWNRUNNER"}</p><h3>${safeText(record.name)}</h3><p class="role">${safeText(meta.label)}</p><span class="open-record">Read full text <b>↓</b></span></div>
-      </a>`;
+      </button>`;
     }).join("");
+  rosterGrid.querySelectorAll(".person-card").forEach(card => card.addEventListener("click", () => openConversation(card.dataset.name)));
+}
+
+function openConversation(name) {
+  const record = fullInterrogations.find(item => item.name === name);
+  if (!record) return;
+  conversationContent.innerHTML = renderMarkdown(record.markdown);
+  const title = conversationContent.querySelector(".record-title");
+  if (title) title.id = "conversation-title";
+  conversationDialog.hidden = false;
+  document.body.classList.add("modal-open");
+  conversationDialog.querySelector(".close").focus();
+}
+
+function closeConversation() {
+  conversationDialog.hidden = true;
+  document.body.classList.remove("modal-open");
 }
 
 transcriptList.innerHTML = fullInterrogations.map((record, index) => `<details class="transcript" id="${slugify(record.name)}" ${index === 0 ? "open" : ""}>
@@ -51,19 +68,10 @@ document.querySelectorAll(".filter").forEach(button => button.addEventListener("
   renderRoster(button.dataset.filter);
 }));
 
-document.addEventListener("click", event => {
-  const card = event.target.closest(".person-card");
-  if (!card) return;
-  event.preventDefault();
-  const name = card.querySelector("h3").textContent;
-  const record = fullInterrogations.find(item => item.name === name);
-  if (!record) return;
-  conversationContent.innerHTML = renderMarkdown(record.markdown);
-  conversationContent.querySelector(".record-title")?.setAttribute("id", "conversation-title");
-  conversationDialog.showModal();
-});
-
-conversationDialog.querySelector(".close").addEventListener("click", () => conversationDialog.close());
+conversationDialog.querySelector(".close").addEventListener("click", closeConversation);
 conversationDialog.addEventListener("click", event => {
-  if (event.target === conversationDialog) conversationDialog.close();
+  if (event.target === conversationDialog) closeConversation();
+});
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape" && !conversationDialog.hidden) closeConversation();
 });
