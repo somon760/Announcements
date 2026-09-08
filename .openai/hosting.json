@@ -1,6 +1,4 @@
 {
   "project_id": "appgprj_6aa08ae989bc8191beced6a0a784328e",
-  "d1": {
-    "DB": "caravan-cult-votes"
-  }
+  "d1": "DB"
 }
