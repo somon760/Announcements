@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS cult_wagon_votes (
+  wagon TEXT PRIMARY KEY NOT NULL,
+  votes INTEGER NOT NULL DEFAULT 0
+);

@@ -22,6 +22,7 @@ function copyStaticSiteFiles() {
       }
 
       cpSync(resolve(root, "images"), resolve(outputDir, "images"), { recursive: true });
+      cpSync(resolve(root, "server"), resolve(outputDir, "server"), { recursive: true });
     }
   };
 }
