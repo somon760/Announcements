@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Caravan Conversation Archive | On The Road</title>
+  <meta name="description" content="A research archive of the caravan NPC conversations in the On The Road Director file.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Baskerville:wght@400;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260826-2">
+</head>
+<body>
+  <div class="grain"></div>
+  <header class="topbar">
+    <a class="brand" href="#top"><span class="brand-mark">✦</span><span>THE CARAVAN<br><b>ARCHIVE</b></span></a>
+    <div class="campaign-tag">ON THE ROAD · NORTHBOUND</div>
+    <nav><a href="#roster">Characters</a><a href="#transcripts">Conversations</a></nav>
+    <div class="case-chip"><span class="status-dot"></span> NPC RECORDS <b>28</b></div>
+  </header>
+  <main id="top">
+    <section class="hero player-hero">
+      <div class="hero-copy">
+        <p class="kicker">THE BROTHERHOOD OF REGROWTH // NORTHBOUND CARAVAN</p>
+        <h1>Conversations<br>on <em>the road</em></h1>
+        <p class="lede">A working archive of every caravan NPC conversation currently embedded in the Director's <em>On The Road</em> file. Use it to compare voices, motives, and what each traveler is willing to say.</p>
+        <div class="hero-meta"><span><b>SOURCE</b> On The Road · Director</span><span><b>RECORDS</b> 28 caravan NPCs</span></div>
+      </div>
+    </section>
+    <section class="section vote-section" id="cult-vote">
+      <div class="section-heading">
+        <div><p class="kicker">CARAVAN WATCH</p><h2>Which wagons are Cult?</h2></div>
+        <p class="section-aside">Cast a vote for any wagon that looks suspicious. The tally is shared with the party; each wagon can collect four votes.</p>
+      </div>
+      <div class="vote-status" id="vote-status" role="status" aria-live="polite">Loading the party tally…</div>
+      <div class="vote-grid" id="vote-grid"></div>
+    </section>
+    <section class="section" id="roster">
+      <div class="section-heading">
+        <div><p class="kicker">CARAVAN ROSTER</p><h2>Who is on the road</h2></div>
+        <p class="section-aside">Each card is a deduplicated NPC record from the current Director export, indexed by wagon and marching position.</p>
+      </div>
+      <div class="filter-row">
+        <button class="filter is-active" data-filter="all">All NPCs <span>28</span></button>
+        <button class="filter" data-filter="Green">Green <span>05</span></button>
+        <button class="filter" data-filter="Red">Red <span>02</span></button>
+        <button class="filter" data-filter="Yellow">Yellow <span>04</span></button>
+        <button class="filter" data-filter="Player">Player <span>01</span></button>
+        <button class="filter" data-filter="Golden">Golden <span>02</span></button>
+        <button class="filter" data-filter="Purple">Purple <span>05</span></button>
+        <button class="filter" data-filter="Black">Black <span>02</span></button>
+        <button class="filter" data-filter="Copper">Copper <span>07</span></button>
+      </div>
+      <div class="roster-grid" id="roster-grid"></div>
+    </section>
+    <section class="section transcript-section" id="transcripts">
+      <div class="section-heading">
+        <div><p class="kicker">DIRECTOR CONVERSATION RECORDS</p><h2>What each NPC knows</h2></div>
+        <p class="section-aside">Each record gathers the information that NPC can share on the road. Repeated button imports are removed.</p>
+      </div>
+      <div class="transcript-list" id="transcript-list"></div>
+    </section>
+  </main>
+  <div id="conversation-dialog" class="conversation-overlay" role="dialog" aria-modal="true" aria-labelledby="conversation-title" hidden>
+    <div class="dialog-shell conversation-shell">
+      <button class="close" type="button" aria-label="Close conversation">×</button>
+      <div id="conversation-content"></div>
+    </div>
+  </div>
+  <footer><span>CARAVAN CONVERSATION ARCHIVE</span><span>ON THE ROAD</span><span>DIRECTOR RESEARCH</span></footer>
+  <script src="full-interrogations.js?v=20260908-1"></script>
+  <script src="script.js?v=20260908-1"></script>
+</body>
+</html>
