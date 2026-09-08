@@ -15,6 +15,36 @@ const wagonImages = {
   Red: "images/wagons/red.webp",
   Yellow: "images/wagons/yellow.webp"
 };
+const npcImages = {
+  "Aelthir Voss": "images/npcs/aelthir-voss.webp",
+  "Anwen Rusk": "images/npcs/anwen-rusk.webp",
+  "Berra Stonehand": "images/npcs/berra-stonehand.webp",
+  "Brakka Bluehand": "images/npcs/brakka-bluehand.webp",
+  "Calistra Vey": "images/npcs/calistra-vey.webp",
+  "Darrik Vane": "images/npcs/darrik-vane.webp",
+  "Dornan Goldthread": "images/npcs/dornan-goldthread.webp",
+  "Elaria Silverbough": "images/npcs/elaria-silverbough.webp",
+  "Hessan Grimhorn": "images/npcs/hessan-grimhorn.webp",
+  "Hesta Rowan": "images/npcs/hesta-rowan.webp",
+  "Ilyra Coastwind": "images/npcs/ilyra-coastwind.webp",
+  "Joram Pell": "images/npcs/joram-pell.webp",
+  "Liora Vale": "images/npcs/liora-vale.webp",
+  "Mara Fen": "images/npcs/mara-fen.webp",
+  "Merrik Sable": "images/npcs/merrik-sable.webp",
+  "Milo Tumblewheel": "images/npcs/milo-tumblewheel.webp",
+  "Nessa Copperkettle": "images/npcs/nessa-copperkettle.webp",
+  "Nyxara Duskfall": "images/npcs/nyxara-duskfall.webp",
+  "Othyr Embercrest": "images/npcs/othyr-embercrest.webp",
+  "Pippin Dapple": "images/npcs/pippin-dapple.webp",
+  "Sava Merrin": "images/npcs/sava-merrin.webp",
+  "Seris Thornwake": "images/npcs/seris-thornwake.webp",
+  "Thalan Greenbranch": "images/npcs/thalan-greenbranch.webp",
+  "Torren Stonefall": "images/npcs/torren-stonefall.webp",
+  "Tovin Bramblelock": "images/npcs/tovin-bramblelock.webp",
+  "Varkesh Ashscale": "images/npcs/varkesh-ashscale.webp",
+  "Veyra Ashveil": "images/npcs/veyra-ashveil.webp",
+  "Zafir Kestrel": "images/npcs/zafir-kestrel.webp"
+};
 
 const wagonByName = {
   "Aelthir Voss": ["Green", "driver", "lead merchant wagon", 1], "Dornan Goldthread": ["Green", "merchant", "lead merchant wagon", 1], "Berra Stonehand": ["Green", "cargo hand", "lead merchant wagon", 1], "Ilyra Coastwind": ["Green", "traveler", "lead merchant wagon", 1], "Joram Pell": ["Green", "scribe", "lead merchant wagon", 1],
@@ -37,8 +67,10 @@ const voteWagons = ["Green", "Red", "Yellow", "Golden", "Purple", "Black", "Copp
 const fallbackTally = Object.fromEntries(voteWagons.map(wagon => [wagon, 0]));
 let voteTally = { ...fallbackTally };
 const recordWagon = record => wagonByName[record.name] || ["Unassigned", "caravan NPC", "caravan", 99];
-const renderPortrait = (record, wagon) => wagonImages[wagon]
-  ? `<div class="portrait-wrap wagon-portrait"><img src="${wagonImages[wagon]}" alt="${safeText(wagon)} Wagon"><span>${safeText(initials(record.name))}</span><i></i></div>`
+const renderPortrait = (record, wagon) => npcImages[record.name]
+  ? `<div class="portrait-wrap npc-portrait"><img src="${npcImages[record.name]}" alt="${safeText(record.name)}"><span>${safeText(wagon)} Wagon</span></div>`
+  : wagonImages[wagon]
+    ? `<div class="portrait-wrap wagon-portrait"><img src="${wagonImages[wagon]}" alt="${safeText(wagon)} Wagon"><span>${safeText(initials(record.name))}</span><i></i></div>`
   : `<div class="portrait-wrap monogram-portrait" aria-hidden="true"><span>${safeText(initials(record.name))}</span><i></i></div>`;
 
 function renderRoster(filter = "all") {
