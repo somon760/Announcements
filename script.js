@@ -64,6 +64,7 @@ const voteStatus = document.querySelector("#vote-status");
 const conversationDialog = document.querySelector("#conversation-dialog");
 const conversationContent = document.querySelector("#conversation-content");
 const voteWagons = ["Green", "Red", "Yellow", "Golden", "Purple", "Black", "Copper"];
+const voteApi = window.location.hostname.endsWith("github.io") ? "https://caravan-archive.madworks00.chatgpt.site/api/cult-vote" : "api/cult-vote";
 const fallbackTally = Object.fromEntries(voteWagons.map(wagon => [wagon, 0]));
 let voteTally = { ...fallbackTally };
 const recordWagon = record => wagonByName[record.name] || ["Unassigned", "traveler", "the caravan", 99];
@@ -117,7 +118,7 @@ function renderVoteTally() {
 
 async function loadVoteTally() {
   try {
-    const response = await fetch("api/cult-vote", { headers: { Accept: "application/json" } });
+    const response = await fetch(voteApi, { headers: { Accept: "application/json" } });
     if (!response.ok) throw new Error("Vote tally unavailable");
     const data = await response.json();
     voteTally = { ...fallbackTally, ...data.wagons };
@@ -131,7 +132,7 @@ async function loadVoteTally() {
 async function castVote(wagon, button) {
   button.disabled = true;
   try {
-    const response = await fetch("api/cult-vote", { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify({ wagon }) });
+    const response = await fetch(voteApi, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify({ wagon }) });
     const data = await response.json();
     if (!response.ok) throw new Error(data.error || "Vote unavailable");
     voteTally = { ...fallbackTally, ...data.wagons };
