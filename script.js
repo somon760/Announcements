@@ -6,14 +6,14 @@ const slugify = value => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace
 const initials = name => name.split(/\s+/).map(part => part[0]).join("").slice(0, 2).toUpperCase();
 const topicCount = record => record.topics.length;
 const wagonImages = {
-  Black: "https://files.d20.io/images/500188811/G86O3D4ze09iIaSYauA45A/max.webp?1788752094",
-  Copper: "https://files.d20.io/images/500189207/6PId9SDf0Vdfzu9lwkyYHA/max.webp?1788752581",
-  Golden: "https://files.d20.io/images/500188871/bWPFIh53OBBpXQ5HJQ9tOA/max.webp?1788752183",
-  Green: "https://files.d20.io/images/500178728/CBTf0O9QTeqIX3xTRAiHfw/max.webp?1788745112",
-  Player: "https://files.d20.io/images/500188968/VJUn6ABI8FinRsZO1P-Fww/max.webp?1788752318",
-  Purple: "https://files.d20.io/images/500187863/zYUPP5c1hvk_n-nVMNc1Kg/max.webp?1788751162",
-  Red: "https://files.d20.io/images/500186558/cXXHdB60y--pgeWTaskxUw/max.webp?1788750292",
-  Yellow: "https://files.d20.io/images/500187019/JyCs8bK9GZt9OhLpt79LOg/max.webp?1788750629"
+  Black: "images/wagons/black.webp",
+  Copper: "images/wagons/copper.webp",
+  Golden: "images/wagons/golden.webp",
+  Green: "images/wagons/green.webp",
+  Player: "images/wagons/player.webp",
+  Purple: "images/wagons/purple.webp",
+  Red: "images/wagons/red.webp",
+  Yellow: "images/wagons/yellow.webp"
 };
 
 const wagonByName = {
