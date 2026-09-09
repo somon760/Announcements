@@ -22,33 +22,18 @@ async function tally(env) {
 }
 
 function slackBlocks(wagons, summary = "Cast a vote from Slack or use the research site.") {
-  const markButtons = VOTE_WAGONS.map(wagon => ({
+  const toggleButtons = VOTE_WAGONS.map(wagon => ({
     type: "button",
-    text: { type: "plain_text", text: wagon, emoji: true },
-    action_id: `vote_add_${wagon}`,
+    text: { type: "plain_text", text: `Toggle ${wagon}`, emoji: true },
+    action_id: `vote_toggle_${wagon}`,
     value: wagon
-  }));
-  const removeButtons = VOTE_WAGONS.map(wagon => ({
-    type: "button",
-    text: { type: "plain_text", text: `− ${wagon}`, emoji: true },
-    style: "danger",
-    action_id: `vote_remove_${wagon}`,
-    value: wagon,
-    confirm: {
-      title: { type: "plain_text", text: "Remove a vote?" },
-      text: { type: "mrkdwn", text: `Remove one vote from the ${wagon} Wagon?` },
-      confirm: { type: "plain_text", text: "Remove vote" },
-      deny: { type: "plain_text", text: "Keep it" }
-    }
   }));
   const tally = VOTE_WAGONS.map(wagon => `*${wagon}*: ${wagons[wagon]}/4`).join("   ");
   return [
     { type: "section", text: { type: "mrkdwn", text: `*Caravan cult-wagon vote*\n${summary}` } },
     { type: "section", text: { type: "mrkdwn", text: tally } },
-    { type: "context", elements: [{ type: "mrkdwn", text: "Mark a wagon" }] },
-    { type: "actions", elements: markButtons },
-    { type: "context", elements: [{ type: "mrkdwn", text: "Remove one shared party mark" }] },
-    { type: "actions", elements: removeButtons }
+    { type: "context", elements: [{ type: "mrkdwn", text: "Toggle your vote for a wagon. Your Slack vote is tracked privately." }] },
+    { type: "actions", elements: toggleButtons }
   ];
 }
 
@@ -91,18 +76,30 @@ async function slackInteraction(request, env) {
   if (!(await verifySlackRequest(request, rawBody, env))) return json({ error: "Unauthorized" }, 401);
   const payload = JSON.parse(new URLSearchParams(rawBody).get("payload") || "{}");
   const action = payload.actions?.[0];
-  const match = /^(vote_add|vote_remove)_(Green|Red|Yellow|Golden|Purple|Black|Copper)$/.exec(action?.action_id || "");
+  const match = /^vote_toggle_(Green|Red|Yellow|Golden|Purple|Black|Copper)$/.exec(action?.action_id || "");
   if (!match) return json({ error: "Unknown vote action" }, 400);
 
-  const voteAction = match[1] === "vote_remove" ? "remove" : "add";
-  const wagon = match[2];
-  if (voteAction === "remove") {
+  const wagon = match[1];
+  const userId = payload.user?.id;
+  if (!userId) return json({ error: "Missing Slack user" }, 400);
+  const existing = await env.DB.prepare("SELECT 1 FROM slack_wagon_votes WHERE user_id = ? AND wagon = ?").bind(userId, wagon).first();
+  let voteAction;
+  if (existing) {
+    await env.DB.prepare("DELETE FROM slack_wagon_votes WHERE user_id = ? AND wagon = ?").bind(userId, wagon).run();
     await env.DB.prepare("UPDATE cult_wagon_votes SET votes = MAX(votes - 1, 0) WHERE wagon = ?").bind(wagon).run();
+    voteAction = "removed a vote from";
   } else {
-    await env.DB.prepare("INSERT INTO cult_wagon_votes (wagon, votes) VALUES (?, 1) ON CONFLICT(wagon) DO UPDATE SET votes = MIN(votes + 1, 4)").bind(wagon).run();
+    const current = await tally(env);
+    if (current[wagon] < 4) {
+      await env.DB.prepare("INSERT INTO slack_wagon_votes (user_id, wagon) VALUES (?, ?)").bind(userId, wagon).run();
+      await env.DB.prepare("INSERT INTO cult_wagon_votes (wagon, votes) VALUES (?, 1) ON CONFLICT(wagon) DO UPDATE SET votes = MIN(votes + 1, 4)").bind(wagon).run();
+      voteAction = "voted for";
+    } else {
+      voteAction = "tried to vote for";
+    }
   }
   const wagons = await tally(env);
-  const summary = `${payload.user?.name || "Someone"} ${voteAction === "remove" ? "removed a vote from" : "voted for"} the ${wagon} Wagon.`;
+  const summary = `${payload.user?.name || "Someone"} ${voteAction} the ${wagon} Wagon.`;
   if (payload.response_url) {
     await fetch(payload.response_url, {
       method: "POST",
