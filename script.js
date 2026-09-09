@@ -64,7 +64,7 @@ const voteStatus = document.querySelector("#vote-status");
 const conversationDialog = document.querySelector("#conversation-dialog");
 const conversationContent = document.querySelector("#conversation-content");
 const voteWagons = ["Green", "Red", "Yellow", "Golden", "Purple", "Black", "Copper"];
-const voteApi = window.location.hostname.endsWith("github.io") ? "https://caravan-archive.madworks00.chatgpt.site/api/cult-vote" : "api/cult-vote";
+const voteApi = window.location.hostname.endsWith("github.io") ? "https://announcements-votes.announcements-site.workers.dev/api/cult-vote" : "api/cult-vote";
 const fallbackTally = Object.fromEntries(voteWagons.map(wagon => [wagon, 0]));
 let voteTally = { ...fallbackTally };
 const recordWagon = record => wagonByName[record.name] || ["Unassigned", "traveler", "the caravan", 99];
