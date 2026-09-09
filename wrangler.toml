@@ -1,0 +1,8 @@
+name = "announcements-votes"
+main = "server/index.js"
+compatibility_date = "2026-09-08"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "announcements-votes"
+database_id = "0d9af62b-abb8-4ae2-bea3-99efdae9ba8c"

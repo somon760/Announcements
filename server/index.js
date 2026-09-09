@@ -38,6 +38,6 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (url.pathname === "/api/cult-vote" || url.pathname === "/api/cult-vote/") return vote(request, env);
-    return env.ASSETS.fetch(request);
+    return json({ error: "Not found" }, 404);
   }
 };
