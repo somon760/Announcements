@@ -110,10 +110,10 @@ function renderVoteTally() {
   voteGrid.innerHTML = voteWagons.map(wagon => {
     const votes = voteTally[wagon];
     const full = votes >= 4;
-    return `<article class="vote-card"><div class="vote-wagon-image"><img src="${wagonImages[wagon]}" alt="${safeText(wagonLabel(wagon))}"></div><div class="vote-card-head"><div><p class="vote-wagon-label">${safeText(wagonLabel(wagon))}</p><h3>${votes}</h3></div><span class="vote-count-label">${votes === 1 ? "1 party mark" : `${votes} party marks`}</span></div><div class="vote-meter" aria-hidden="true"><span style="width:${votes * 25}%"></span></div><button type="button" class="vote-button" data-vote-wagon="${safeText(wagon)}" ${full ? "disabled" : ""}>${full ? "Party has marked this wagon" : `Mark ${safeText(wagonLabel(wagon))}`}</button></article>`;
+    return `<article class="vote-card"><div class="vote-wagon-image"><img src="${wagonImages[wagon]}" alt="${safeText(wagonLabel(wagon))}"></div><div class="vote-card-head"><div><p class="vote-wagon-label">${safeText(wagonLabel(wagon))}</p><h3>${votes}</h3></div><span class="vote-count-label">${votes === 1 ? "1 party mark" : `${votes} party marks`}</span></div><div class="vote-meter" aria-hidden="true"><span style="width:${votes * 25}%"></span></div><div class="vote-actions"><button type="button" class="vote-button" data-vote-wagon="${safeText(wagon)}" data-vote-action="add" ${full ? "disabled" : ""}>${full ? "Party has marked this wagon" : `Mark ${safeText(wagonLabel(wagon))}`}</button><button type="button" class="vote-button vote-button-remove" data-vote-wagon="${safeText(wagon)}" data-vote-action="remove" ${votes === 0 ? "disabled" : ""}>Remove a vote</button></div></article>`;
   }).join("");
   voteStatus.textContent = totalVotes ? `${totalVotes} party ${totalVotes === 1 ? "mark" : "marks"} recorded. Which wagons look suspicious?` : "No party marks yet. Which wagons look suspicious?";
-  voteGrid.querySelectorAll("[data-vote-wagon]").forEach(button => button.addEventListener("click", () => castVote(button.dataset.voteWagon, button)));
+  voteGrid.querySelectorAll("[data-vote-wagon]").forEach(button => button.addEventListener("click", () => castVote(button.dataset.voteWagon, button, button.dataset.voteAction)));
 }
 
 async function loadVoteTally() {
@@ -129,10 +129,10 @@ async function loadVoteTally() {
   renderVoteTally();
 }
 
-async function castVote(wagon, button) {
+async function castVote(wagon, button, action = "add") {
   button.disabled = true;
   try {
-    const response = await fetch(voteApi, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify({ wagon }) });
+    const response = await fetch(voteApi, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify({ wagon, action }) });
     const data = await response.json();
     if (!response.ok) throw new Error(data.error || "Vote unavailable");
     voteTally = { ...fallbackTally, ...data.wagons };

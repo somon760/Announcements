@@ -30,7 +30,11 @@ async function vote(request, env) {
   try { body = await request.json(); } catch { return json({ error: "Invalid vote" }, 400); }
   if (!VOTE_WAGONS.includes(body?.wagon)) return json({ error: "That wagon is not available for voting" }, 400);
 
-  await env.DB.prepare("INSERT INTO cult_wagon_votes (wagon, votes) VALUES (?, 1) ON CONFLICT(wagon) DO UPDATE SET votes = MIN(votes + 1, 4)").bind(body.wagon).run();
+  if (body.action === "remove") {
+    await env.DB.prepare("UPDATE cult_wagon_votes SET votes = MAX(votes - 1, 0) WHERE wagon = ?").bind(body.wagon).run();
+  } else {
+    await env.DB.prepare("INSERT INTO cult_wagon_votes (wagon, votes) VALUES (?, 1) ON CONFLICT(wagon) DO UPDATE SET votes = MIN(votes + 1, 4)").bind(body.wagon).run();
+  }
   return json({ wagons: await tally(env) });
 }
 
