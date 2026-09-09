@@ -33,7 +33,8 @@ function slackBlocks(wagons, summary = "Cast a vote from Slack or use the resear
     { type: "section", text: { type: "mrkdwn", text: `*Caravan cult-wagon vote*\n${summary}` } },
     { type: "section", text: { type: "mrkdwn", text: tally } },
     { type: "context", elements: [{ type: "mrkdwn", text: "Toggle your vote for a wagon. Your Slack vote is tracked privately." }] },
-    { type: "actions", elements: toggleButtons }
+    { type: "actions", elements: toggleButtons.slice(0, 4) },
+    { type: "actions", elements: toggleButtons.slice(4) }
   ];
 }
 
