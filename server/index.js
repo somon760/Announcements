@@ -111,6 +111,16 @@ async function slackInteraction(request, env) {
   return new Response(null, { status: 200 });
 }
 
+async function slackVoteCommand(request, env) {
+  const rawBody = await request.text();
+  if (!(await verifySlackRequest(request, rawBody, env))) return json({ error: "Unauthorized" }, 401);
+  const form = new URLSearchParams(rawBody);
+  const wagons = await tally(env);
+  const text = form.get("text")?.trim();
+  const summary = text ? "Use the buttons below to choose or change your vote." : "Choose a wagon to add or remove your personal vote.";
+  return json({ response_type: "ephemeral", ...slackPayload(wagons, summary) });
+}
+
 async function vote(request, env) {
   if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: { "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Headers": "Content-Type", "Access-Control-Allow-Methods": "GET,POST,OPTIONS" } });
   if (request.method === "GET") return json({ wagons: await tally(env) });
@@ -133,6 +143,7 @@ async function vote(request, env) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (url.pathname === "/api/slack/commands" && request.method === "POST") return slackVoteCommand(request, env);
     if (url.pathname === "/api/slack/interactions" && request.method === "POST") return slackInteraction(request, env);
     if (url.pathname === "/api/cult-vote" || url.pathname === "/api/cult-vote/") return vote(request, env);
     return json({ error: "Not found" }, 404);
