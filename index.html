@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Baskerville:wght@400;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260908-3">
+  <link rel="stylesheet" href="styles.css?v=20260909-4">
 </head>
 <body>
   <div class="grain"></div>
@@ -45,6 +45,27 @@
           <div class="thermometer" role="img" aria-label="Approximately 630 of 750 miles traveled, with Daggerford reached at 84 percent of the route to Waterdeep"><span></span></div>
           <div class="distance-meta"><span><b>84%</b> traveled</span><span><b>120 mi</b> remaining</span></div>
           <p class="distance-note">Daggerford marks the caravan's current stopping point. Waterdeep lies about 120 miles farther north.</p>
+        </div>
+        <div class="map-card">
+          <div class="map-card-heading"><div><p class="travel-label">THE TRADE WAY</p><h3>One road, three landmarks</h3></div><span class="map-key"><i></i> Caravan at Daggerford</span></div>
+          <div class="route-map" role="img" aria-label="Stylized map of the Trade Way from Baldur's Gate north through Daggerford to Waterdeep. The caravan is stopped at Daggerford.">
+            <svg viewBox="0 0 1200 430" aria-hidden="true" focusable="false">
+              <path class="map-sea" d="M0 0h260c45 42 71 92 65 145-8 66-58 92-44 154 9 38 38 76 86 131H0z"/>
+              <path class="map-land" d="M250 0h950v430H367c-48-55-77-95-86-135-14-62 36-88 44-154 6-53-20-103-75-141z"/>
+              <path class="map-hills" d="M500 82c48-36 95-36 139-4s89 31 132-4 91-32 135 3 94 38 144 6"/>
+              <path class="map-hills map-hills-low" d="M445 304c48-29 92-28 132 3s83 30 123-2 85-32 126 1 92 34 141 2"/>
+              <path class="map-river" d="M1058-10c-21 78-57 113-40 167 15 48 62 68 43 117-16 41-80 73-103 156"/>
+              <path class="trade-road" d="M390 380C493 346 503 293 579 255s136-49 187-92 75-91 82-157"/>
+              <path class="route-traveled" d="M390 380C493 346 503 293 579 255"/>
+              <g class="map-node map-node-start"><circle cx="390" cy="380" r="9"/><text x="390" y="412" text-anchor="middle">Baldur's Gate</text></g>
+              <g class="map-node map-node-current"><circle cx="579" cy="255" r="12"/><circle class="map-pulse" cx="579" cy="255" r="20"/><text x="579" y="226" text-anchor="middle">Daggerford</text></g>
+              <g class="map-node map-node-finish"><circle cx="848" cy="6" r="9"/><text x="879" y="18">Waterdeep</text></g>
+              <text class="map-label" x="734" y="331" transform="rotate(-38 734 331)">THE TRADE WAY</text>
+              <text class="map-water-label" x="78" y="205" transform="rotate(-79 78 205)">SEA OF SWORDS</text>
+              <g class="map-compass" transform="translate(1110 70)"><path d="M0 27 10 0l10 27-10 22z"/><text x="10" y="-10" text-anchor="middle">N</text></g>
+            </svg>
+          </div>
+          <p class="map-note">The caravan has reached Daggerford and rests before the final northbound leg.</p>
         </div>
       </div>
     </section>
