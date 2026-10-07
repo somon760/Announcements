@@ -1,0 +1,1244 @@
+{
+  "schema": "check-it-out-import-v1",
+  "placement": {
+    "useBbox": true,
+    "coordinateSpace": "image-pixels",
+    "anchor": "top-left",
+    "source": {
+      "width": 2240,
+      "height": 2940
+    },
+    "scale": {
+      "x": 1,
+      "y": 1
+    },
+    "map": {
+      "standardGrid": {
+        "squarePx": 70,
+        "squareFeet": 5
+      },
+    "coordinateBasis": "Room bounds and area paths are derived from the Roll20 walls-layer export for the 2240 x 2940 Third Floor page. The importer scales image-pixels to the target Roll20 page."
+    }
+  },
+  "defaultAlwaysBack": {
+    "id": "CheckItOut",
+    "core": {
+      "description": "You find nothing of interest here.",
+      "descriptionImage": "",
+      "farDescription": "",
+      "farDescriptionImage": "",
+      "sound": "",
+      "maxDist": 20,
+      "inventory": [],
+      "coins": []
+    },
+    "theme": {}
+  },
+  "notes": "Castle Naerytar Third Floor CIO package. Source map is the supplied Level 3 map; source text is the supplied Third Floor HTML. The 14 room entries use bbox-local Roll20 freeform paths and page-space bounds derived from the Third Floor walls-layer export; detail entries remain rectangular furnishings/features. Player-facing descriptions omit creatures, encounter tactics, hidden motives, and unsupported loot mechanics. Image URLs remain blank because no Third Floor hosted image set was supplied.",
+  "entries": [
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A broad, quiet chamber contains a heavy table and tall racks filled with rolled charts. Dust softens the old furnishings, and the room feels long undisturbed.",
+          "descriptionImage": "https://files.d20.io/images/501864332/bQTWGwqgiUZT-Pcan2N8jw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3E Specters' Sanctum",
+        "layer": "objects",
+        "left": 95,
+        "top": 365,
+        "anchor": "top-left",
+        "region": {
+          "width": 370,
+          "height": 415
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3E"
+      },
+      "path": [["M",135,0],["L",260,0],["L",325,34],["L",365,94],["L",370,175],["L",355,265],["L",315,340],["L",250,395],["L",170,415],["L",92,400],["L",35,350],["L",0,270],["L",0,135],["L",38,58],["L",95,15],["L",135,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A heavy wooden table stands near the center of the chamber, its surface worn smooth by age.",
+          "descriptionImage": "https://files.d20.io/images/501864325/2HmjtIxR7YYUJavusHJKGw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3E Heavy Table",
+        "layer": "objects",
+        "left": 245,
+        "top": 535,
+        "anchor": "top-left",
+        "region": {
+          "width": 140,
+          "height": 95
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3E"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Tall wooden racks hold tightly rolled, faded charts along the walls.",
+          "descriptionImage": "https://files.d20.io/images/501864323/KMPRfxSbqcksbaTpvF4eYQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3E Chart Racks",
+        "layer": "objects",
+        "left": 205,
+        "top": 430,
+        "anchor": "top-left",
+        "region": {
+          "width": 70,
+          "height": 240
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3E"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "An abandoned workroom holds several wooden practice figures and worn targets. Dry timber and dust fill the quiet space.",
+          "descriptionImage": "https://files.d20.io/images/501864328/o0WUtc5k7bi5KRidN2647Q/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3G Unused Chamber",
+        "layer": "objects",
+        "left": 1137,
+        "top": 385,
+        "anchor": "top-left",
+        "region": {
+          "width": 394,
+          "height": 324
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3G"
+      },
+      "path": [["M",0,9],["L",18,0],["L",254,0],["L",254,0],["L",394,0],["L",394,324],["L",0,324],["L",0,9]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Several wooden practice figures stand at uneven angles, their surfaces scarred and weathered.",
+          "descriptionImage": "https://files.d20.io/images/501864327/enpME2XpyIzPp7i0fPk77g/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3G Fencing Dummies",
+        "layer": "objects",
+        "left": 1170,
+        "top": 390,
+        "anchor": "top-left",
+        "region": {
+          "width": 170,
+          "height": 210
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3G"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Old targets show repeated cuts and dents beneath a layer of dust.",
+          "descriptionImage": "https://files.d20.io/images/501864351/kPMWWjPawhPMIVvmS3O9OQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3G Worn Targets",
+        "layer": "objects",
+        "left": 1360,
+        "top": 405,
+        "anchor": "top-left",
+        "region": {
+          "width": 150,
+          "height": 180
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3G"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "The chamber is dark and close, with cracked bones scattered across the floor and deep shadows among the ceiling beams.",
+          "descriptionImage": "https://files.d20.io/images/501864330/ihn2UR3IbatTsI8nkYvu9A/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3H Spiders' Lair",
+        "layer": "objects",
+        "left": 1683,
+        "top": 420,
+        "anchor": "top-left",
+        "region": {
+          "width": 330,
+          "height": 330
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3H"
+      },
+      "path": [["M",165,0],["L",228,12],["L",282,48],["L",318,102],["L",330,165],["L",318,228],["L",282,282],["L",228,318],["L",165,330],["L",102,318],["L",48,282],["L",12,228],["L",0,165],["L",12,102],["L",48,48],["L",102,12],["L",165,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "The upper chamber is enclosed by rough stone walls and heavy beams. Dust and old debris gather in the recesses.",
+          "descriptionImage": "https://files.d20.io/images/501864331/J9VHIfqrVbeQBqH3cG9Vew/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3I Spiders' Lair",
+        "layer": "objects",
+        "left": 1684,
+        "top": 243,
+        "anchor": "top-left",
+        "region": {
+          "width": 329,
+          "height": 177
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3I"
+      },
+      "path": [["M",165,0],["L",245,8],["L",300,35],["L",325,75],["L",329,95],["L",315,130],["L",275,158],["L",220,174],["L",165,177],["L",105,170],["L",55,150],["L",20,120],["L",0,88],["L",8,58],["L",35,30],["L",85,8],["L",165,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A shadowed side chamber contains old debris and a closed trapdoor set into the steps.",
+          "descriptionImage": "https://files.d20.io/images/501864315/TMz8PC5oX1Oqy8gZyhsYxA/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3J Spiders' Lair",
+        "layer": "objects",
+        "left": 1555,
+        "top": 420,
+        "anchor": "top-left",
+        "region": {
+          "width": 128,
+          "height": 273
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3J"
+      },
+      "path": [["M",0,1],["L",128,1],["L",128,273],["L",95,273],["L",46,230],["L",8,160],["L",0,100],["L",0,1]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Deep ceiling beams disappear into the darkness above.",
+          "descriptionImage": "https://files.d20.io/images/501864314/cK1NUz_T2RHMV5bK0UEjfw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3H–3J Ceiling Beams",
+        "layer": "objects",
+        "left": 1680,
+        "top": 235,
+        "anchor": "top-left",
+        "region": {
+          "width": 150,
+          "height": 90
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3H–3J"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A refined office contains a writing desk, smaller tables, and beautiful wooden chairs. Two dark dragon-shaped carvings stand near the stair.",
+          "descriptionImage": "https://files.d20.io/images/501864316/cneQJsPCHdRHAUh0uahsvQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3L Rezmir's Office",
+        "layer": "objects",
+        "left": 1266,
+        "top": 1400,
+        "anchor": "top-left",
+        "region": {
+          "width": 414,
+          "height": 315
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3L"
+      },
+      "path": [["M",0,0],["L",414,0],["L",414,315],["L",355,315],["L",280,275],["L",210,210],["L",0,210],["L",0,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A carefully made writing desk holds neatly arranged papers and documents.",
+          "descriptionImage": "https://files.d20.io/images/501864320/G7It1uDJRtoVhXRvoXw4Bw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3L Writing Desk",
+        "layer": "objects",
+        "left": 1565,
+        "top": 1475,
+        "anchor": "top-left",
+        "region": {
+          "width": 105,
+          "height": 70
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3L"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Beautiful wooden chairs are arranged around the smaller tables.",
+          "descriptionImage": "https://files.d20.io/images/501864319/9IdoNorC9Qlz3uHvnLYnGg/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3L Wooden Chairs",
+        "layer": "objects",
+        "left": 1565,
+        "top": 1570,
+        "anchor": "top-left",
+        "region": {
+          "width": 100,
+          "height": 105
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3L"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Upholstered chairs and padded benches form several quiet places to sit around low, carpet-draped tables.",
+          "descriptionImage": "https://files.d20.io/images/501864321/AUAJKLwtIYdQxjMX48jbfQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3M Rezmir's Sitting Room",
+        "layer": "objects",
+        "left": 1251,
+        "top": 1269,
+        "anchor": "top-left",
+        "region": {
+          "width": 158,
+          "height": 131
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3M"
+      },
+      "path": [["M",0,0],["L",158,0],["L",158,131],["L",0,131],["L",0,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Upholstered chairs and padded benches occupy the room.",
+          "descriptionImage": "https://files.d20.io/images/501864322/d9fh9iHxZMvTTLvv96k34A/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3M Upholstered Seating",
+        "layer": "objects",
+        "left": 1265,
+        "top": 1280,
+        "anchor": "top-left",
+        "region": {
+          "width": 135,
+          "height": 45
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3M"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Two low tables rest beneath small carpets.",
+          "descriptionImage": "https://files.d20.io/images/501864302/d5BPiD68mzQ3Uq7ZnpmbBg/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3M Low Tables",
+        "layer": "objects",
+        "left": 1320,
+        "top": 1335,
+        "anchor": "top-left",
+        "region": {
+          "width": 90,
+          "height": 35
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3M"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A large bed, wardrobes, a standing mirror, and an armor stand fill this orderly private chamber.",
+          "descriptionImage": "https://files.d20.io/images/501864309/mHF8u3hWuJ2cm8KkTlRnpw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Rezmir's Sleeping Chamber",
+        "layer": "objects",
+        "left": 1409,
+        "top": 1137,
+        "anchor": "top-left",
+        "region": {
+          "width": 271,
+          "height": 263
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "path": [["M",0,0],["L",271,0],["L",271,263],["L",0,263],["L",0,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A large, well-made bed dominates the chamber.",
+          "descriptionImage": "https://files.d20.io/images/501864307/yYp6dqG1LztoVNE7cWsrRA/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Large Bed",
+        "layer": "objects",
+        "left": 1480,
+        "top": 1190,
+        "anchor": "top-left",
+        "region": {
+          "width": 190,
+          "height": 120
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Two tall wardrobes stand against the wall; one bears a painted many-headed dragon.",
+          "descriptionImage": "https://files.d20.io/images/501864313/YMidoa4Sbxs2-jGWOL4DDA/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Wardrobes",
+        "layer": "objects",
+        "left": 1510,
+        "top": 1140,
+        "anchor": "top-left",
+        "region": {
+          "width": 160,
+          "height": 105
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A standing mirror reflects the room in a tall, dark frame.",
+          "descriptionImage": "https://files.d20.io/images/501864310/V3nAQCy_Q7QeeTTxZdhqDA/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Standing Mirror",
+        "layer": "objects",
+        "left": 1600,
+        "top": 1180,
+        "anchor": "top-left",
+        "region": {
+          "width": 55,
+          "height": 150
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "An armor stand holds a spare suit of scale mail.",
+          "descriptionImage": "https://files.d20.io/images/501864306/o256B1CrF6yTzWUoeflQjg/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Armor Stand",
+        "layer": "objects",
+        "left": 1435,
+        "top": 1260,
+        "anchor": "top-left",
+        "region": {
+          "width": 70,
+          "height": 120
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A small black-dragon statuette crouches atop a heap of treasure.",
+          "descriptionImage": "https://files.d20.io/images/501864304/PK6VuK10DAT4HQ_t1mFkng/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3N Dragon Statuette",
+        "layer": "objects",
+        "left": 1600,
+        "top": 1320,
+        "anchor": "top-left",
+        "region": {
+          "width": 80,
+          "height": 80
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3N"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "This nearly bare chamber is private and quiet, with a painted many-headed dragon on the back of the door.",
+          "descriptionImage": "https://files.d20.io/images/501864297/16XwPuWuwTUAngzaJqoH9g/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3O Rezmir's Sanctuary",
+        "layer": "objects",
+        "left": 1251,
+        "top": 1137,
+        "anchor": "top-left",
+        "region": {
+          "width": 158,
+          "height": 132
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3O"
+      },
+      "path": [["M",0,0],["L",140,0],["L",158,25],["L",158,107],["L",140,132],["L",0,132],["L",0,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "The back of the door bears a simple painting of a many-headed dragon rising from a volcano.",
+          "descriptionImage": "https://files.d20.io/images/501864296/uzrCdXGJg-GMJCdV1EXCAw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3O Painted Door",
+        "layer": "objects",
+        "left": 1295,
+        "top": 1250,
+        "anchor": "top-left",
+        "region": {
+          "width": 85,
+          "height": 35
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3O"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Shelves and stacked crates fill the storage space. Dry goods are packed carefully in sacks, bundles, jars, and wrapped packages.",
+          "descriptionImage": "https://files.d20.io/images/501864298/8jXIYr2x4pPlOmTkHXAvwQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3P Kitchen Storage",
+        "layer": "objects",
+        "left": 1006,
+        "top": 1225,
+        "anchor": "top-left",
+        "region": {
+          "width": 245,
+          "height": 184
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3P"
+      },
+      "path": [["M",0,0],["L",245,0],["L",245,184],["L",0,184],["L",0,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Sacks, bundles, jars, and crates hold dry provisions.",
+          "descriptionImage": "https://files.d20.io/images/501864299/pVsmteO0VrXx0os6eQuU7Q/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3P Stored Provisions",
+        "layer": "objects",
+        "left": 1030,
+        "top": 1250,
+        "anchor": "top-left",
+        "region": {
+          "width": 150,
+          "height": 150
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3P"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Reed mattresses and wooden trunks are arranged around this plainly furnished sleeping chamber. A small stone hearth offers modest warmth.",
+          "descriptionImage": "https://files.d20.io/images/501864311/VVf5qDrTJ_i5BTpzJpY73w/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3R Cultists' Sleeping Chamber",
+        "layer": "objects",
+        "left": 110,
+        "top": 1408,
+        "anchor": "top-left",
+        "region": {
+          "width": 244,
+          "height": 307
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3R"
+      },
+      "path": [["M",122,0],["L",169,9],["L",208,35],["L",235,81],["L",244,154],["L",235,226],["L",208,272],["L",169,298],["L",122,307],["L",75,298],["L",36,272],["L",9,226],["L",0,154],["L",9,81],["L",36,35],["L",75,9],["L",122,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Reed mattresses lie beside wooden trunks holding personal belongings.",
+          "descriptionImage": "https://files.d20.io/images/501864301/MgXtDEKExAukqQ9GzxCNVg/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3R Reed Mattresses and Trunks",
+        "layer": "objects",
+        "left": 125,
+        "top": 1470,
+        "anchor": "top-left",
+        "region": {
+          "width": 150,
+          "height": 120
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3R"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A small stone hearth provides only modest warmth.",
+          "descriptionImage": "https://files.d20.io/images/501864303/wzORmjN7Gcc0iZqEUpzQZA/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3R Small Stone Hearth",
+        "layer": "objects",
+        "left": 115,
+        "top": 1545,
+        "anchor": "top-left",
+        "region": {
+          "width": 70,
+          "height": 70
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3R"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Part of the roof and northwest wall have collapsed, leaving broken stone, splintered timber, and open sky above.",
+          "descriptionImage": "https://files.d20.io/images/501864290/XSiDWDIKDOSRCuWQLM707Q/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3S Unused Room",
+        "layer": "objects",
+        "left": 279,
+        "top": 1225,
+        "anchor": "top-left",
+        "region": {
+          "width": 180,
+          "height": 255
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3S"
+      },
+      "path": [["M",90,0],["L",125,9],["L",156,37],["L",175,85],["L",180,128],["L",175,170],["L",156,218],["L",125,246],["L",90,255],["L",55,246],["L",24,218],["L",5,170],["L",0,128],["L",5,85],["L",24,37],["L",55,9],["L",90,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Broken stone and splintered timber lie beneath the collapsed roof and wall.",
+          "descriptionImage": "https://files.d20.io/images/501864285/Z1zHC06EIhp1Qzedc56raQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3S Collapsed Roof and Wall",
+        "layer": "objects",
+        "left": 130,
+        "top": 1225,
+        "anchor": "top-left",
+        "region": {
+          "width": 210,
+          "height": 130
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3S"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Three writing desks and stools occupy this quiet study. A plain basin of water rests nearby.",
+          "descriptionImage": "https://files.d20.io/images/501864287/f_h6QdfG-KFF_qva00eslw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3T Cultists' Study",
+        "layer": "objects",
+        "left": 354,
+        "top": 1408,
+        "anchor": "top-left",
+        "region": {
+          "width": 257,
+          "height": 307
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3T"
+      },
+      "path": [["M",129,0],["L",178,9],["L",222,36],["L",250,82],["L",257,154],["L",250,225],["L",222,271],["L",178,298],["L",129,307],["L",79,298],["L",35,271],["L",7,225],["L",0,154],["L",7,82],["L",35,36],["L",79,9],["L",129,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Three writing desks and three stools are arranged around the study.",
+          "descriptionImage": "https://files.d20.io/images/501864291/-ViliYxeE-Th9XlEs5_bfw/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3T Writing Desks and Stools",
+        "layer": "objects",
+        "left": 360,
+        "top": 1450,
+        "anchor": "top-left",
+        "region": {
+          "width": 180,
+          "height": 100
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3T"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A plain basin of water rests near the writing desks.",
+          "descriptionImage": "https://files.d20.io/images/501864288/6mlepKNIqBWJ0HbNBZ4waQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3T Water Basin",
+        "layer": "objects",
+        "left": 500,
+        "top": 1555,
+        "anchor": "top-left",
+        "region": {
+          "width": 55,
+          "height": 55
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3T"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "A high chamber opens beneath roof hatches and centers on an elaborate brass, wood, and crystal viewing instrument. Narrow windows and scattered furnishings give the room a feeling of height and distance.",
+          "descriptionImage": "https://files.d20.io/images/501864293/QkhQRsKXES2bkJWE-EpRqg/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3U Observatory",
+        "layer": "objects",
+        "left": 525,
+        "top": 665,
+        "anchor": "top-left",
+        "region": {
+          "width": 370,
+          "height": 430
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3U"
+      },
+      "path": [["M",183,0],["L",183,61],["L",114,61],["L",89,91],["L",53,129],["L",11,176],["L",3,183],["L",0,315],["L",35,349],["L",74,382],["L",105,407],["L",123,424],["L",129,430],["L",192,429],["L",254,429],["L",357,340],["L",369,325],["L",368,184],["L",280,88],["L",254,61],["L",149,61],["L",183,0]],
+      "kind": "room"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "An elaborate telescope-like device of brass, dark wood, and cloudy crystal stands in the chamber.",
+          "descriptionImage": "https://files.d20.io/images/501864292/rTylQvtbOGJSlKrSl6PIMQ/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true,
+          "skillCheck_Arcana": {
+            "checks": {
+              "15": "You recognize the telescope-like device as a specialized far-seeing instrument."
+            },
+            "cachedResults": {}
+          }
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3U Farseer",
+        "layer": "objects",
+        "left": 620,
+        "top": 900,
+        "anchor": "top-left",
+        "region": {
+          "width": 180,
+          "height": 150
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3U"
+      },
+      "kind": "detail"
+    },
+    {
+      "instance": {
+        "id": "CheckItOut",
+        "core": {
+          "description": "Several ceiling hatches open toward the sky above the observatory.",
+          "descriptionImage": "https://files.d20.io/images/501864286/5K9VY8VZADSRNnZ4UO4fog/original.webp",
+          "farDescription": "",
+          "farDescriptionImage": "",
+          "sound": "",
+          "maxDist": 20,
+          "inventory": []
+        },
+        "theme": {
+          "allowPassives": true
+        },
+        "claimedBy": {}
+      },
+      "token": {
+        "name": "Naerytar 3F — 3U Roof Hatches",
+        "layer": "objects",
+        "left": 570,
+        "top": 760,
+        "anchor": "top-left",
+        "region": {
+          "width": 240,
+          "height": 90
+        },
+        "coordinateSpace": "image-pixels",
+        "bar2_value": "Naerytar 3F — 3U"
+      },
+      "kind": "detail"
+    }
+  ]
+}

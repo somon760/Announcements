@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2240" height="2940" viewBox="0 0 2240 2940">
+  <style>
+    .room path { fill: #28a745; fill-opacity: .28; stroke: #087f23; stroke-width: 5; }
+    .room text { fill: #075d18; font: 700 22px sans-serif; paint-order: stroke; stroke: #fff; stroke-width: 5px; }
+    .detail rect { fill: #1683d8; fill-opacity: .2; stroke: #075b9d; stroke-width: 4; }
+    .detail text { fill: #064a80; font: 600 16px sans-serif; paint-order: stroke; stroke: #fff; stroke-width: 4px; }
+  </style>
+  <g class="room"><path d="M135,0 L260,0 L325,34 L365,94 L370,175 L355,265 L315,340 L250,395 L170,415 L92,400 L35,350 L0,270 L0,135 L38,58 L95,15 L135,0" transform="translate(95 365)"/><text x="103" y="387">3E Specters' Sanctum</text></g>
+  <g class="detail"><rect x="245" y="535" width="140" height="95"/><text x="251" y="553">3E Heavy Table</text></g>
+  <g class="detail"><rect x="205" y="430" width="70" height="240"/><text x="211" y="448">3E Chart Racks</text></g>
+  <g class="room"><path d="M0,9 L18,0 L254,0 L254,0 L394,0 L394,324 L0,324 L0,9" transform="translate(1137 385)"/><text x="1145" y="407">3G Unused Chamber</text></g>
+  <g class="detail"><rect x="1170" y="390" width="170" height="210"/><text x="1176" y="408">3G Fencing Dummies</text></g>
+  <g class="detail"><rect x="1360" y="405" width="150" height="180"/><text x="1366" y="423">3G Worn Targets</text></g>
+  <g class="room"><path d="M165,0 L228,12 L282,48 L318,102 L330,165 L318,228 L282,282 L228,318 L165,330 L102,318 L48,282 L12,228 L0,165 L12,102 L48,48 L102,12 L165,0" transform="translate(1683 420)"/><text x="1691" y="442">3H Spiders' Lair</text></g>
+  <g class="room"><path d="M165,0 L245,8 L300,35 L325,75 L329,95 L315,130 L275,158 L220,174 L165,177 L105,170 L55,150 L20,120 L0,88 L8,58 L35,30 L85,8 L165,0" transform="translate(1684 243)"/><text x="1692" y="265">3I Spiders' Lair</text></g>
+  <g class="room"><path d="M0,1 L128,1 L128,273 L95,273 L46,230 L8,160 L0,100 L0,1" transform="translate(1555 420)"/><text x="1563" y="442">3J Spiders' Lair</text></g>
+  <g class="detail"><rect x="1680" y="235" width="150" height="90"/><text x="1686" y="253">3H–3J Ceiling Beams</text></g>
+  <g class="room"><path d="M0,0 L414,0 L414,315 L355,315 L280,275 L210,210 L0,210 L0,0" transform="translate(1266 1400)"/><text x="1274" y="1422">3L Rezmir's Office</text></g>
+  <g class="detail"><rect x="1565" y="1475" width="105" height="70"/><text x="1571" y="1493">3L Writing Desk</text></g>
+  <g class="detail"><rect x="1565" y="1570" width="100" height="105"/><text x="1571" y="1588">3L Wooden Chairs</text></g>
+  <g class="room"><path d="M0,0 L158,0 L158,131 L0,131 L0,0" transform="translate(1251 1269)"/><text x="1259" y="1291">3M Rezmir's Sitting Room</text></g>
+  <g class="detail"><rect x="1265" y="1280" width="135" height="45"/><text x="1271" y="1298">3M Upholstered Seating</text></g>
+  <g class="detail"><rect x="1320" y="1335" width="90" height="35"/><text x="1326" y="1353">3M Low Tables</text></g>
+  <g class="room"><path d="M0,0 L271,0 L271,263 L0,263 L0,0" transform="translate(1409 1137)"/><text x="1417" y="1159">3N Rezmir's Sleeping Chamber</text></g>
+  <g class="detail"><rect x="1480" y="1190" width="190" height="120"/><text x="1486" y="1208">3N Large Bed</text></g>
+  <g class="detail"><rect x="1510" y="1140" width="160" height="105"/><text x="1516" y="1158">3N Wardrobes</text></g>
+  <g class="detail"><rect x="1600" y="1180" width="55" height="150"/><text x="1606" y="1198">3N Standing Mirror</text></g>
+  <g class="detail"><rect x="1435" y="1260" width="70" height="120"/><text x="1441" y="1278">3N Armor Stand</text></g>
+  <g class="detail"><rect x="1600" y="1320" width="80" height="80"/><text x="1606" y="1338">3N Dragon Statuette</text></g>
+  <g class="room"><path d="M0,0 L140,0 L158,25 L158,107 L140,132 L0,132 L0,0" transform="translate(1251 1137)"/><text x="1259" y="1159">3O Rezmir's Sanctuary</text></g>
+  <g class="detail"><rect x="1295" y="1250" width="85" height="35"/><text x="1301" y="1268">3O Painted Door</text></g>
+  <g class="room"><path d="M0,0 L245,0 L245,184 L0,184 L0,0" transform="translate(1006 1225)"/><text x="1014" y="1247">3P Kitchen Storage</text></g>
+  <g class="detail"><rect x="1030" y="1250" width="150" height="150"/><text x="1036" y="1268">3P Stored Provisions</text></g>
+  <g class="room"><path d="M122,0 L169,9 L208,35 L235,81 L244,154 L235,226 L208,272 L169,298 L122,307 L75,298 L36,272 L9,226 L0,154 L9,81 L36,35 L75,9 L122,0" transform="translate(110 1408)"/><text x="118" y="1430">3R Cultists' Sleeping Chamber</text></g>
+  <g class="detail"><rect x="125" y="1470" width="150" height="120"/><text x="131" y="1488">3R Reed Mattresses and Trunks</text></g>
+  <g class="detail"><rect x="115" y="1545" width="70" height="70"/><text x="121" y="1563">3R Small Stone Hearth</text></g>
+  <g class="room"><path d="M90,0 L125,9 L156,37 L175,85 L180,128 L175,170 L156,218 L125,246 L90,255 L55,246 L24,218 L5,170 L0,128 L5,85 L24,37 L55,9 L90,0" transform="translate(279 1225)"/><text x="287" y="1247">3S Unused Room</text></g>
+  <g class="detail"><rect x="130" y="1225" width="210" height="130"/><text x="136" y="1243">3S Collapsed Roof and Wall</text></g>
+  <g class="room"><path d="M129,0 L178,9 L222,36 L250,82 L257,154 L250,225 L222,271 L178,298 L129,307 L79,298 L35,271 L7,225 L0,154 L7,82 L35,36 L79,9 L129,0" transform="translate(354 1408)"/><text x="362" y="1430">3T Cultists' Study</text></g>
+  <g class="detail"><rect x="360" y="1450" width="180" height="100"/><text x="366" y="1468">3T Writing Desks and Stools</text></g>
+  <g class="detail"><rect x="500" y="1555" width="55" height="55"/><text x="506" y="1573">3T Water Basin</text></g>
+  <g class="room"><path d="M183,0 L183,61 L114,61 L89,91 L53,129 L11,176 L3,183 L0,315 L35,349 L74,382 L105,407 L123,424 L129,430 L192,429 L254,429 L357,340 L369,325 L368,184 L280,88 L254,61 L149,61 L183,0" transform="translate(525 665)"/><text x="533" y="687">3U Observatory</text></g>
+  <g class="detail"><rect x="620" y="900" width="180" height="150"/><text x="626" y="918">3U Farseer</text></g>
+  <g class="detail"><rect x="570" y="760" width="240" height="90"/><text x="576" y="778">3U Roof Hatches</text></g>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "elevenlabs": {
+      "type": "http",
+      "url": "https://elevenlabs.io/_mcp/server"
+    }
+  }
+}
