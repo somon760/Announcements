@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Loopback-only media review. Reads only explicit catalog files, never whole directories."""
-import argparse,csv,hashlib,json,mimetypes,re,os
+import argparse,csv,hashlib,json,mimetypes,re,os,base64
 from pathlib import Path
 from urllib.parse import urlparse,unquote
 from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
@@ -31,6 +31,13 @@ def catalog_from_csv(path):
     for item in items:
         if item['source'].startswith('Dropbox'):
             item['shareUrl']=shared.get('/'+item['name'].lower(),'')
+        if item['kind']=='image' and not item['url']:
+            preview_path=path.parent/'image-previews'/(item['id']+'.jpg')
+            if preview_path.is_file():
+                item['previewData']='data:image/jpeg;base64,'+base64.b64encode(preview_path.read_bytes()).decode('ascii')
+                item['previewNote']='Reduced review copy (up to 800 pixels); use original for the final film.'
+            else:
+                item['previewNote']='Source could not be read for preview. Choose the local file; this is not a rejected image.'
     audit_path=path.parent/'chronology-audit.json'
     if audit_path.exists():
         audit=json.loads(audit_path.read_text()).get('items',{})
