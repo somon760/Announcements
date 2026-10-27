@@ -26,6 +26,12 @@ def catalog_from_csv(path):
     for item in items:
         if item['source'].startswith('Dropbox'):
             item['shareUrl']=shared.get('/'+item['name'].lower(),'')
+    audit_path=path.parent/'chronology-audit.json'
+    if audit_path.exists():
+        audit=json.loads(audit_path.read_text()).get('items',{})
+        by_id={hashlib.sha256(target.encode()).hexdigest()[:24]:entry for target,entry in audit.items()}
+        for item in items:
+            item['chronology']=by_id.get(item['id'],{})
     items.sort(key=lambda x:(0 if x['source'].startswith('Dropbox') else 1,x['name'].lower()))
     return {'version':1,'items':items},media
 
