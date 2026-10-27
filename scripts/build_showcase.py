@@ -84,7 +84,8 @@ def build(inv):
      run(common+opts+['-movflags','+faststart',str(dest)],timeout=900)
     src=str(dest)
    if not thumb.exists():
-    run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss','1','-i',src,'-frames:v','1','-vf','scale=720:720:force_original_aspect_ratio=decrease','-pix_fmt','yuvj420p','-q:v','3','-threads','1',str(thumb)],timeout=150)
+    run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss','0','-i',src,'-frames:v','1','-vf','scale=720:720:force_original_aspect_ratio=decrease','-pix_fmt','yuvj420p','-q:v','3','-threads','1',str(thumb)],timeout=150)
+   assert thumb.is_file() and thumb.stat().st_size > 0, 'No poster extracted'
    if not asset['duration']:
     try:
      meta=json.loads(run(['ffprobe','-v','error','-show_format','-show_streams','-of','json',src],timeout=30));asset['duration']=round(float(meta['format']['duration']),2)
