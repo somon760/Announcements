@@ -7,6 +7,8 @@ from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
 ROOT=Path(__file__).resolve().parents[1]
 def catalog_from_csv(path):
     items=[]; media={}; seen=set()
+    exclusions_path=path.parent/'excluded-asset-ids.json'
+    excluded=set(json.loads(exclusions_path.read_text()).get('ids',[])) if exclusions_path.exists() else set()
     health_path=path.parent/'remote-image-health.json'
     health=json.loads(health_path.read_text()) if health_path.exists() else []
     missing={entry['id'] for entry in health if entry.get('missing') and entry.get('result',{}).get('http') in (404,410) and (entry.get('confirmation') or {}).get('http') in (404,410)}
@@ -15,7 +17,7 @@ def catalog_from_csv(path):
     shared={link['path_lower']:link['url'] for link in links if link.get('audience')=='public' and link.get('allow_download') and not link.get('password_protected')}
     for r in csv.DictReader(path.open()):
         target=r['path_or_url']; id=hashlib.sha256(target.encode()).hexdigest()[:24]
-        if id in seen or id in missing: continue
+        if id in seen or id in missing or id in excluded: continue
         seen.add(id)
         remote=target.startswith(('https://','http://')); p=Path(target) if not remote else None
         suffix=Path(urlparse(target).path).suffix.lower()
@@ -56,7 +58,7 @@ def main():
             if path.startswith('/review/media/'):
                 f=media.get(path.removeprefix('/review/media/'))
             elif path in {'/','/review','/review/','/review/index.html'}:f=ROOT/'review/index.html'
-            elif path in {'/review/review.js','/review/review.css'}:f=ROOT/path.lstrip('/')
+            elif path in {'/review/review.js','/review/review.css','/review/excluded-asset-ids.json'}:f=ROOT/path.lstrip('/')
             else:f=None
             if f is None:self.send_error(404);return
             try:
