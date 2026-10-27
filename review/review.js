@@ -1,5 +1,5 @@
 const $=id=>document.getElementById(id);
-const chapters=['The Sunless Citadel','The Forge of Fury','The Speaker in Dreams','The Standing Stone','Heart of Nightfang Spire','Deep Horizon','Lord of the Iron Fortress','Icewind Dale / Frostmaiden','Bastion of Broken Souls'];
+const chapters=['The Sunless Citadel','The Forge of Fury','The Speaker in Dreams','The Standing Stone','Heart of Nightfang Spire','Deep Horizon','Lord of the Iron Fortress','White Plume Mountain','Icewind Dale / Frostmaiden','Bastion of Broken Souls','Team Gravy / Fungal Bloom'];
 const states={keep:'Keep',maybe:'Maybe',skip:'Skip',other:'Other campaign'};
 let excludedIds=new Set();
 const KEY='biscuit-review-v1';let items=[],decisions={},filtered=[],chapter='',page=0,current=null,local=false,objectUrl=null;
