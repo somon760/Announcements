@@ -6688,6 +6688,62 @@
       "thumbnail": "media/thumbs/f207733f09579b3a35d1b311.jpg",
       "url": "https://files.d20.io/images/499614968/_ZjALnafZHGmkX3LNeiq9w/med.webm?1788325493",
       "originalUrl": "https://files.d20.io/images/499614968/_ZjALnafZHGmkX3LNeiq9w/med.webm?1788325493"
+    },
+    {
+      "id": "cc3739e9f1b35b2aa47a1058",
+      "name": "Sunless Citadel — Fortress Level map.jpg",
+      "kind": "image",
+      "chapter": "sunless-citadel",
+      "source": "Published module reference · D&D Beyond",
+      "dates": {},
+      "date": "",
+      "dimensions": "2008×4160",
+      "duration": "",
+      "thumbnail": "media/thumbs/cc3739e9f1b35b2aa47a1058.jpg",
+      "url": "media/images/sunless-citadel/sunless-citadel-fortress-level-map.jpg",
+      "originalUrl": "https://www.dndbeyond.com/attachments/2/710/totyp-01-02.jpg"
+    },
+    {
+      "id": "a88998139fd818cc86fa12c9",
+      "name": "Sunless Citadel — Grove Level map.jpg",
+      "kind": "image",
+      "chapter": "sunless-citadel",
+      "source": "Published module reference · D&D Beyond",
+      "dates": {},
+      "date": "",
+      "dimensions": "3300×4350",
+      "duration": "",
+      "thumbnail": "media/thumbs/a88998139fd818cc86fa12c9.jpg",
+      "url": "media/images/sunless-citadel/sunless-citadel-grove-level-map.jpg",
+      "originalUrl": "https://www.dndbeyond.com/attachments/2/711/totyp-01-08.jpg"
+    },
+    {
+      "id": "3fcb2c0a3cad25fb60b56635",
+      "name": "Forge of Fury — Stone Tooth map.jpg",
+      "kind": "image",
+      "chapter": "forge-of-fury",
+      "source": "Published module reference · D&D Beyond",
+      "dates": {},
+      "date": "",
+      "dimensions": "1694×2220",
+      "duration": "",
+      "thumbnail": "media/thumbs/3fcb2c0a3cad25fb60b56635.jpg",
+      "url": "media/images/forge-of-fury/forge-of-fury-stone-tooth-map.png",
+      "originalUrl": "https://www.dndbeyond.com/attachments/2/90/totyp-02-02.png"
+    },
+    {
+      "id": "8677666c925f5971613b1d14",
+      "name": "Forge of Fury — Glitterhame map.jpg",
+      "kind": "image",
+      "chapter": "forge-of-fury",
+      "source": "Published module reference · D&D Beyond",
+      "dates": {},
+      "date": "",
+      "dimensions": "3000×2747",
+      "duration": "",
+      "thumbnail": "media/thumbs/8677666c925f5971613b1d14.jpg",
+      "url": "media/images/forge-of-fury/forge-of-fury-glitterhame-map.png",
+      "originalUrl": "https://www.dndbeyond.com/attachments/2/95/totyp-02-07.png"
     }
   ]
 }
