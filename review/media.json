@@ -1080,28 +1080,6 @@
       "url": "media/videos/5e669e708f391c5f9caba297.mp4"
     },
     {
-      "id": "336652740287439e7599b655",
-      "name": "CutScene3.mp4",
-      "kind": "video",
-      "chapter": "speaker-in-dreams",
-      "source": "local video",
-      "dates": {
-        "created": "2020-07-29T10:22:43",
-        "modified": "2020-07-29T10:26:03",
-        "observed": "2020-07-29"
-      },
-      "date": "2020-07-29T10:26:03",
-      "dimensions": "1280x720",
-      "duration": "210.75",
-      "dateChecks": {
-        "The Speaker in Dreams": "within provisional window"
-      },
-      "dateReason": "The Speaker in Dreams: within provisional window",
-      "dateStatus": "date compatible",
-      "thumbnail": "media/thumbs/336652740287439e7599b655.jpg",
-      "url": "media/videos/336652740287439e7599b655.mp4"
-    },
-    {
       "id": "2b2b536d4b94ce97bbd41eb7",
       "name": "Screen Shot 2020-08-04 at 10.00.44 PM.png",
       "kind": "image",
@@ -2002,28 +1980,6 @@
       "dateStatus": "date compatible",
       "thumbnail": "media/thumbs/a293eff02d896a38c2ba911e.jpg",
       "url": "media/videos/a293eff02d896a38c2ba911e.mp4"
-    },
-    {
-      "id": "711cb8bc75ba82e92ab3b413",
-      "name": "FinalCut.mp4",
-      "kind": "video",
-      "chapter": "nightfang-spire",
-      "source": "local video",
-      "dates": {
-        "created": "2020-10-10T09:51:52",
-        "modified": "2020-10-10T09:52:22",
-        "observed": "2020-10-10"
-      },
-      "date": "2020-10-10T09:52:22",
-      "dimensions": "1280x720",
-      "duration": "151.97",
-      "dateChecks": {
-        "Heart of Nightfang Spire": "within provisional window"
-      },
-      "dateReason": "Heart of Nightfang Spire: within provisional window",
-      "dateStatus": "date compatible",
-      "thumbnail": "media/thumbs/711cb8bc75ba82e92ab3b413.jpg",
-      "url": "media/videos/711cb8bc75ba82e92ab3b413.mp4"
     },
     {
       "id": "e33d8b3866f589b234156f09",
@@ -3743,28 +3699,6 @@
       "dateStatus": "date compatible",
       "thumbnail": "media/thumbs/b9a9c380acaa4e7e99c737a6.jpg",
       "url": "media/images/iron-fortress/b9a9c380acaa4e7e99c737a6.png"
-    },
-    {
-      "id": "002f38d91a8c97d7a57567a1",
-      "name": "Varachus_mission.mov",
-      "kind": "video",
-      "chapter": "iron-fortress",
-      "source": "local video",
-      "dates": {
-        "created": "2021-09-21T23:10:28",
-        "modified": "2021-09-21T23:10:29",
-        "observed": "2021-09-21"
-      },
-      "date": "2021-09-21T23:10:29",
-      "dimensions": "1024x768",
-      "duration": "33.87",
-      "dateChecks": {
-        "Lord of the Iron Fortress": "within provisional window"
-      },
-      "dateReason": "Lord of the Iron Fortress: within provisional window",
-      "dateStatus": "date compatible",
-      "thumbnail": "media/thumbs/002f38d91a8c97d7a57567a1.jpg",
-      "url": "media/videos/002f38d91a8c97d7a57567a1.mp4"
     },
     {
       "id": "b7c32d4ff0e730902b3b2756",
@@ -5549,28 +5483,6 @@
       "url": "media/images/bastion/fc5399725f2ef771d336192a.png"
     },
     {
-      "id": "e41e8aeeecdd3db15ca6be0c",
-      "name": "Angry Dreamer.mp4",
-      "kind": "video",
-      "chapter": "bastion",
-      "source": "local video",
-      "dates": {
-        "created": "2023-11-22T17:45:49",
-        "modified": "2023-11-22T17:49:01",
-        "observed": "2023-11-22"
-      },
-      "date": "2023-11-22T17:49:01",
-      "dimensions": "1280x720",
-      "duration": "56.67",
-      "dateChecks": {
-        "Bastion of Broken Souls": "unresolved window"
-      },
-      "dateReason": "Bastion of Broken Souls: unresolved window",
-      "dateStatus": "unresolved window",
-      "thumbnail": "media/thumbs/e41e8aeeecdd3db15ca6be0c.jpg",
-      "url": "media/videos/e41e8aeeecdd3db15ca6be0c.mp4"
-    },
-    {
       "id": "92db6b1630e54173df2f1e5a",
       "name": "CaptianPepper.webp",
       "kind": "image",
@@ -5693,28 +5605,6 @@
       "thumbnail": "media/thumbs/845114928bcefca70bcdce15.jpg",
       "url": "https://dl.dropboxusercontent.com/scl/fi/bozik0nfi6h6u9whjhqoq/Fountain.mp4?rlkey=yiso6zm3njy8yo37jnz7759r8&raw=1",
       "originalUrl": "https://www.dropbox.com/scl/fi/bozik0nfi6h6u9whjhqoq/Fountain.mp4?rlkey=yiso6zm3njy8yo37jnz7759r8&dl=0"
-    },
-    {
-      "id": "d095540d327536cc2bff46e4",
-      "name": "Fountain.mp4",
-      "kind": "video",
-      "chapter": "bastion",
-      "source": "local video",
-      "dates": {
-        "created": "2024-01-07T23:52:56",
-        "modified": "2024-01-08T00:05:38",
-        "observed": "2024-01-08"
-      },
-      "date": "2024-01-08T00:05:38",
-      "dimensions": "1280x720",
-      "duration": "190.75",
-      "dateChecks": {
-        "Bastion of Broken Souls": "unresolved window"
-      },
-      "dateReason": "Bastion of Broken Souls: unresolved window",
-      "dateStatus": "unresolved window",
-      "thumbnail": "media/thumbs/d095540d327536cc2bff46e4.jpg",
-      "url": "media/videos/d095540d327536cc2bff46e4.mp4"
     },
     {
       "id": "30b86f51278b96993fba03f9",
@@ -5996,25 +5886,6 @@
       "originalUrl": "https://www.dropbox.com/scl/fi/xftm0mo5lb8jqi2e11a09/Starter_Finished.mp4?rlkey=90zk5y1pm9x8g4uh95w1d18bp&dl=0"
     },
     {
-      "id": "ffd34e3e86bcbfe29df8bb16",
-      "name": "Starter_Finished.mp4",
-      "kind": "video",
-      "chapter": "between-adventures",
-      "source": "Desktop observed media",
-      "dates": {
-        "modified": "2024-06-21T13:21:29",
-        "created": "2024-06-21T13:20:38"
-      },
-      "date": "2024-06-21T13:21:29",
-      "dimensions": "1280×720",
-      "duration": 140.38,
-      "dateChecks": {},
-      "dateReason": "No chapter assignment to date-check.",
-      "dateStatus": "undated",
-      "thumbnail": "media/thumbs/ffd34e3e86bcbfe29df8bb16.jpg",
-      "url": "media/videos/ffd34e3e86bcbfe29df8bb16.mp4"
-    },
-    {
       "id": "960f3cc750e2a28eff2f6ec3",
       "name": "dall·e 2024-06-29 23.48.15 - a detailed view of the town of easthaven from dungeons & dragons 5th edition, set in the ten-towns area of the arctic north, during the time of the ri.webp",
       "kind": "image",
@@ -6140,25 +6011,6 @@
       "originalUrl": "https://www.dropbox.com/scl/fi/5dy4b9fxyrftw7dt8e4mv/Refresher.mp4?rlkey=7ckoscgn2tmae3n7lpq4hx4gn&dl=0"
     },
     {
-      "id": "ccf715550ed99040131e41fd",
-      "name": "Refresher.mp4",
-      "kind": "video",
-      "chapter": "between-adventures",
-      "source": "Desktop observed media",
-      "dates": {
-        "modified": "2024-07-01T16:06:23",
-        "created": "2024-07-01T16:05:33"
-      },
-      "date": "2024-07-01T16:06:23",
-      "dimensions": "1280×720",
-      "duration": 134.02,
-      "dateChecks": {},
-      "dateReason": "No chapter assignment to date-check.",
-      "dateStatus": "undated",
-      "thumbnail": "media/thumbs/ccf715550ed99040131e41fd.jpg",
-      "url": "media/videos/ccf715550ed99040131e41fd.mp4"
-    },
-    {
       "id": "3f7e1af6a0a41af2fe48f95f",
       "name": "dall·e 2024-07-03 19.08.10 - in a desolate landscape, terry stands nearby with a vacant expression and unnaturally precise movements. his ceaseless mumbling, 'double my number… le.webp",
       "kind": "image",
@@ -6217,25 +6069,6 @@
       "thumbnail": "media/thumbs/ab0409c0d03e052826b3cdc7.jpg",
       "url": "https://dl.dropboxusercontent.com/scl/fi/7b4wtxonrjt79wqyjkxl5/DooBeDooBeDoo.mp4?rlkey=86dmop4qbjf1kcp9y72vr0lvk&raw=1",
       "originalUrl": "https://www.dropbox.com/scl/fi/7b4wtxonrjt79wqyjkxl5/DooBeDooBeDoo.mp4?rlkey=86dmop4qbjf1kcp9y72vr0lvk&dl=0"
-    },
-    {
-      "id": "6d2b20073f1e58248317ee17",
-      "name": "DooBeDooBeDoo.mp4",
-      "kind": "video",
-      "chapter": "between-adventures",
-      "source": "Desktop observed media",
-      "dates": {
-        "modified": "2024-07-04T13:12:37",
-        "created": "2024-07-04T12:54:20"
-      },
-      "date": "2024-07-04T13:12:37",
-      "dimensions": "1280×720",
-      "duration": 96.22,
-      "dateChecks": {},
-      "dateReason": "No chapter assignment to date-check.",
-      "dateStatus": "undated",
-      "thumbnail": "media/thumbs/6d2b20073f1e58248317ee17.jpg",
-      "url": "media/videos/6d2b20073f1e58248317ee17.mp4"
     },
     {
       "id": "52c3702ae60f0227d5fc7030",
