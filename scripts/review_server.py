@@ -7,12 +7,15 @@ from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
 ROOT=Path(__file__).resolve().parents[1]
 def catalog_from_csv(path):
     items=[]; media={}; seen=set()
+    health_path=path.parent/'remote-image-health.json'
+    health=json.loads(health_path.read_text()) if health_path.exists() else []
+    missing={entry['id'] for entry in health if entry.get('missing') and entry.get('result',{}).get('http') in (404,410) and (entry.get('confirmation') or {}).get('http') in (404,410)}
     links_path=path.parent/'dropbox-shared-links.json'
     links=json.loads(links_path.read_text()).get('links',[]) if links_path.exists() else []
     shared={link['path_lower']:link['url'] for link in links if link.get('audience')=='public' and link.get('allow_download') and not link.get('password_protected')}
     for r in csv.DictReader(path.open()):
         target=r['path_or_url']; id=hashlib.sha256(target.encode()).hexdigest()[:24]
-        if id in seen: continue
+        if id in seen or id in missing: continue
         seen.add(id)
         remote=target.startswith(('https://','http://')); p=Path(target) if not remote else None
         suffix=Path(urlparse(target).path).suffix.lower()
