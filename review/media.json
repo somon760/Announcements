@@ -1,0 +1,5245 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "5fc05cf4807cb7b9162f187c",
+      "name": "1076749-Drow-Fortress_part1.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-02-03T15:09:16",
+        "modified": "2020-02-03T15:09:16",
+        "observed": "2020-02-03"
+      },
+      "date": "2020-02-03T15:09:16",
+      "dimensions": "3500×3500",
+      "duration": "",
+      "thumbnail": "media/thumbs/5fc05cf4807cb7b9162f187c.jpg",
+      "url": "media/images/5fc05cf4807cb7b9162f187c.jpg"
+    },
+    {
+      "id": "deeca74dee22cf2e62e16f47",
+      "name": "oakhurst_map.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-17T14:34:07",
+        "modified": "2020-03-17T14:34:07",
+        "observed": "2020-03-17"
+      },
+      "date": "2020-03-17T14:34:07",
+      "dimensions": "837×1213",
+      "duration": "",
+      "thumbnail": "media/thumbs/deeca74dee22cf2e62e16f47.jpg",
+      "url": "media/images/deeca74dee22cf2e62e16f47.jpg"
+    },
+    {
+      "id": "48e9b1d14c75b001dcd5da84",
+      "name": "overland_map.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-17T14:34:14",
+        "modified": "2020-03-17T14:34:14",
+        "observed": "2020-03-17"
+      },
+      "date": "2020-03-17T14:34:14",
+      "dimensions": "793×1161",
+      "duration": "",
+      "thumbnail": "media/thumbs/48e9b1d14c75b001dcd5da84.jpg",
+      "url": "media/images/48e9b1d14c75b001dcd5da84.jpg"
+    },
+    {
+      "id": "edd50327d6e4addc9e636169",
+      "name": "DEDUCE8.webp",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-24T13:22:10",
+        "modified": "2020-03-24T13:22:10",
+        "observed": "2020-03-24"
+      },
+      "date": "2020-03-24T13:22:10",
+      "dimensions": "340×247",
+      "duration": "",
+      "thumbnail": "media/thumbs/edd50327d6e4addc9e636169.jpg",
+      "url": "media/images/edd50327d6e4addc9e636169.webp"
+    },
+    {
+      "id": "3650110dc9770508dec3d0b4",
+      "name": "423f8a2c9ed228a06fecfa68740c3eb6.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-24T13:22:36",
+        "modified": "2020-03-24T13:22:36",
+        "observed": "2020-03-24"
+      },
+      "date": "2020-03-24T13:22:36",
+      "dimensions": "599×800",
+      "duration": "",
+      "thumbnail": "media/thumbs/3650110dc9770508dec3d0b4.jpg",
+      "url": "media/images/3650110dc9770508dec3d0b4.png"
+    },
+    {
+      "id": "3ffe83f1c6e06a254c87ae78",
+      "name": "636272706155064423.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-27T22:16:30",
+        "modified": "2020-03-27T22:16:30",
+        "observed": "2020-03-27"
+      },
+      "date": "2020-03-27T22:16:30",
+      "dimensions": "420×420",
+      "duration": "",
+      "thumbnail": "media/thumbs/3ffe83f1c6e06a254c87ae78.jpg",
+      "url": "media/images/3ffe83f1c6e06a254c87ae78.png"
+    },
+    {
+      "id": "b4f39b14480f9d7228b07ca6",
+      "name": "Durnan.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-27T23:17:54",
+        "modified": "2020-03-27T23:21:37",
+        "observed": "2020-03-27"
+      },
+      "date": "2020-03-27T23:21:37",
+      "dimensions": "446×447",
+      "duration": "",
+      "thumbnail": "media/thumbs/b4f39b14480f9d7228b07ca6.jpg",
+      "url": "media/images/b4f39b14480f9d7228b07ca6.png"
+    },
+    {
+      "id": "a011e94063d27953a2a4dff7",
+      "name": "Screen Shot 2020-03-29 at 6.54.42 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-29T18:54:45",
+        "modified": "2020-03-29T18:55:27",
+        "observed": "2020-03-29"
+      },
+      "date": "2020-03-29T18:55:27",
+      "dimensions": "1060×1730",
+      "duration": "",
+      "thumbnail": "media/thumbs/a011e94063d27953a2a4dff7.jpg",
+      "url": "media/images/a011e94063d27953a2a4dff7.png"
+    },
+    {
+      "id": "5d0bbe4f94b29c353f94486f",
+      "name": "Shatterspike.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-03-30T15:48:12",
+        "modified": "2020-03-30T15:48:12",
+        "observed": "2020-03-30"
+      },
+      "date": "2020-03-30T15:48:12",
+      "dimensions": "500×500",
+      "duration": "",
+      "thumbnail": "media/thumbs/5d0bbe4f94b29c353f94486f.jpg",
+      "url": "media/images/5d0bbe4f94b29c353f94486f.png"
+    },
+    {
+      "id": "8f6b2cd5cbe5d9830a1b4709",
+      "name": "Screen Shot 2020-04-01 at 2.15.06 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-01T14:15:09",
+        "modified": "2020-04-01T14:15:09",
+        "observed": "2020-04-01"
+      },
+      "date": "2020-04-01T14:15:09",
+      "dimensions": "630×390",
+      "duration": "",
+      "thumbnail": "media/thumbs/8f6b2cd5cbe5d9830a1b4709.jpg",
+      "url": "media/images/8f6b2cd5cbe5d9830a1b4709.png"
+    },
+    {
+      "id": "63ab90e7a7ee65da7b598c20",
+      "name": "45babfbf0c5a94047fa3601c3c75605b.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-01T21:19:04",
+        "modified": "2020-04-01T21:19:04",
+        "observed": "2020-04-01"
+      },
+      "date": "2020-04-01T21:19:04",
+      "dimensions": "780×840",
+      "duration": "",
+      "thumbnail": "media/thumbs/63ab90e7a7ee65da7b598c20.jpg",
+      "url": "media/images/63ab90e7a7ee65da7b598c20.png"
+    },
+    {
+      "id": "09923c7d04eabbdc4d3904e4",
+      "name": "Gulthias_Tree.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-21T18:30:34",
+        "modified": "2020-04-21T18:30:34",
+        "observed": "2020-04-21"
+      },
+      "date": "2020-04-21T18:30:34",
+      "dimensions": "800×517",
+      "duration": "",
+      "thumbnail": "media/thumbs/09923c7d04eabbdc4d3904e4.jpg",
+      "url": "media/images/09923c7d04eabbdc4d3904e4.jpg"
+    },
+    {
+      "id": "3225e134fa7549ea8e690341",
+      "name": "Flashback.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-04-22",
+        "dropbox_server_modified": "2020-04-22"
+      },
+      "date": "2020-04-22",
+      "dimensions": "1280×720",
+      "duration": 43.55,
+      "thumbnail": "media/thumbs/3225e134fa7549ea8e690341.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/izzlqic0k5ok29kvpsz9t/Flashback.mp4?rlkey=2c3yzy01yigh0af9f1ajltcjc&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/izzlqic0k5ok29kvpsz9t/Flashback.mp4?rlkey=2c3yzy01yigh0af9f1ajltcjc&dl=0"
+    },
+    {
+      "id": "39ea71705249947c3c8572e5",
+      "name": "1144273-Abbey_Keep_D2.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-22T18:07:25",
+        "modified": "2020-04-22T18:07:25",
+        "observed": "2020-04-22"
+      },
+      "date": "2020-04-22T18:07:25",
+      "dimensions": "3000×3000",
+      "duration": "",
+      "thumbnail": "media/thumbs/39ea71705249947c3c8572e5.jpg",
+      "url": "media/images/39ea71705249947c3c8572e5.jpg"
+    },
+    {
+      "id": "0ecc7d41f22e476bed29abe1",
+      "name": "1144315-Abbey_Keep_E3.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-22T18:07:28",
+        "modified": "2020-04-22T18:07:28",
+        "observed": "2020-04-22"
+      },
+      "date": "2020-04-22T18:07:28",
+      "dimensions": "3000×3000",
+      "duration": "",
+      "thumbnail": "media/thumbs/0ecc7d41f22e476bed29abe1.jpg",
+      "url": "media/images/0ecc7d41f22e476bed29abe1.jpg"
+    },
+    {
+      "id": "22590c51b64df2962bb2855f",
+      "name": "1144471-Abbey_Keep_E5.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-22T18:07:29",
+        "modified": "2020-04-22T18:07:29",
+        "observed": "2020-04-22"
+      },
+      "date": "2020-04-22T18:07:29",
+      "dimensions": "3000×3000",
+      "duration": "",
+      "thumbnail": "media/thumbs/22590c51b64df2962bb2855f.jpg",
+      "url": "media/images/22590c51b64df2962bb2855f.jpg"
+    },
+    {
+      "id": "163739c0ca45d2643b34b0a2",
+      "name": "images.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-26T22:34:24",
+        "modified": "2020-04-26T22:34:24",
+        "observed": "2020-04-26"
+      },
+      "date": "2020-04-26T22:34:24",
+      "dimensions": "225×225",
+      "duration": "",
+      "thumbnail": "media/thumbs/163739c0ca45d2643b34b0a2.jpg",
+      "url": "media/images/163739c0ca45d2643b34b0a2.jpg"
+    },
+    {
+      "id": "3c44da05b81a4e8df69eaf40",
+      "name": "Screen Shot 2020-04-28 at 10.28.20 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-28T10:28:25",
+        "modified": "2020-04-28T10:28:25",
+        "observed": "2020-04-28"
+      },
+      "date": "2020-04-28T10:28:25",
+      "dimensions": "1736×2262",
+      "duration": "",
+      "thumbnail": "media/thumbs/3c44da05b81a4e8df69eaf40.jpg",
+      "url": "media/images/3c44da05b81a4e8df69eaf40.png"
+    },
+    {
+      "id": "585da672fa60a5b83c22f62b",
+      "name": "Screen Shot 2020-04-28 at 3.23.18 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-28T15:23:24",
+        "modified": "2020-04-28T15:23:24",
+        "observed": "2020-04-28"
+      },
+      "date": "2020-04-28T15:23:24",
+      "dimensions": "2716×1632",
+      "duration": "",
+      "thumbnail": "media/thumbs/585da672fa60a5b83c22f62b.jpg",
+      "url": "media/images/585da672fa60a5b83c22f62b.png"
+    },
+    {
+      "id": "5897a1365e376e6427121ebd",
+      "name": "37qhn5z4pfj31.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-04-29T13:52:19",
+        "modified": "2020-04-29T14:07:44",
+        "observed": "2020-04-29"
+      },
+      "date": "2020-04-29T14:07:44",
+      "dimensions": "3929×2615",
+      "duration": "",
+      "thumbnail": "media/thumbs/5897a1365e376e6427121ebd.jpg",
+      "url": "media/images/5897a1365e376e6427121ebd.png"
+    },
+    {
+      "id": "b57a8fada4d6d0a86ce2d42b",
+      "name": "WorkshopImageUpload.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-10T23:18:49",
+        "modified": "2020-05-10T23:18:49",
+        "observed": "2020-05-10"
+      },
+      "date": "2020-05-10T23:18:49",
+      "dimensions": "812×581",
+      "duration": "",
+      "thumbnail": "media/thumbs/b57a8fada4d6d0a86ce2d42b.jpg",
+      "url": "media/images/b57a8fada4d6d0a86ce2d42b.png"
+    },
+    {
+      "id": "ebce53de9a481357f6762460",
+      "name": "ezgif-7-94c6631803de.gif",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-11T16:55:15",
+        "modified": "2020-05-11T16:55:15",
+        "observed": "2020-05-11"
+      },
+      "date": "2020-05-11T16:55:15",
+      "dimensions": "500×400",
+      "duration": "",
+      "thumbnail": "media/thumbs/ebce53de9a481357f6762460.jpg",
+      "url": "media/images/ebce53de9a481357f6762460.gif"
+    },
+    {
+      "id": "f5a95d76bf0742cf0d3d5320",
+      "name": "636284711140631974.jpeg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-12T13:10:30",
+        "modified": "2020-05-12T13:10:30",
+        "observed": "2020-05-12"
+      },
+      "date": "2020-05-12T13:10:30",
+      "dimensions": "1000×1000",
+      "duration": "",
+      "thumbnail": "media/thumbs/f5a95d76bf0742cf0d3d5320.jpg",
+      "url": "media/images/f5a95d76bf0742cf0d3d5320.jpeg"
+    },
+    {
+      "id": "d8d95dc4ad1ef311654eb699",
+      "name": "Blasingdale.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-12T22:12:47",
+        "modified": "2020-05-12T22:12:47",
+        "observed": "2020-05-12"
+      },
+      "date": "2020-05-12T22:12:47",
+      "dimensions": "1020×634",
+      "duration": "",
+      "thumbnail": "media/thumbs/d8d95dc4ad1ef311654eb699.jpg",
+      "url": "media/images/d8d95dc4ad1ef311654eb699.png"
+    },
+    {
+      "id": "af177eb6b6b06f2f0ec7050b",
+      "name": "FullStop.mov",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-05-14",
+        "dropbox_server_modified": "2020-05-14"
+      },
+      "date": "2020-05-14",
+      "dimensions": "1280×720",
+      "duration": 77.19,
+      "thumbnail": "media/thumbs/af177eb6b6b06f2f0ec7050b.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/hzzh0ysl7zq9zmab9y0dd/FullStop.mov?rlkey=roqxl88wex7yv3awddadfaahz&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/hzzh0ysl7zq9zmab9y0dd/FullStop.mov?rlkey=roqxl88wex7yv3awddadfaahz&dl=0"
+    },
+    {
+      "id": "80ef816bd7d934a02cf2afa7",
+      "name": "Brother_Calbert.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-14T14:05:41",
+        "modified": "2020-05-14T14:05:41",
+        "observed": "2020-05-14"
+      },
+      "date": "2020-05-14T14:05:41",
+      "dimensions": "474×780",
+      "duration": "",
+      "thumbnail": "media/thumbs/80ef816bd7d934a02cf2afa7.jpg",
+      "url": "media/images/80ef816bd7d934a02cf2afa7.jpg"
+    },
+    {
+      "id": "f6517e6924d320739d97daeb",
+      "name": "Glitterhame.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-21T13:27:40",
+        "modified": "2020-05-21T13:27:40",
+        "observed": "2020-05-21"
+      },
+      "date": "2020-05-21T13:27:40",
+      "dimensions": "850×435",
+      "duration": "",
+      "thumbnail": "media/thumbs/f6517e6924d320739d97daeb.jpg",
+      "url": "media/images/f6517e6924d320739d97daeb.png"
+    },
+    {
+      "id": "8c7e614eee9973807be02257",
+      "name": "3a237bee3f0f62b186126f9624d4dc20.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-05-27T11:22:40",
+        "modified": "2020-05-27T11:22:40",
+        "observed": "2020-05-27"
+      },
+      "date": "2020-05-27T11:22:40",
+      "dimensions": "400×400",
+      "duration": "",
+      "thumbnail": "media/thumbs/8c7e614eee9973807be02257.jpg",
+      "url": "media/images/8c7e614eee9973807be02257.jpg"
+    },
+    {
+      "id": "308464d8ea6b5790934c4075",
+      "name": "succubus.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-09T22:25:29",
+        "modified": "2020-06-09T22:26:34",
+        "observed": "2020-06-09"
+      },
+      "date": "2020-06-09T22:26:34",
+      "dimensions": "511×512",
+      "duration": "",
+      "thumbnail": "media/thumbs/308464d8ea6b5790934c4075.jpg",
+      "url": "media/images/308464d8ea6b5790934c4075.png"
+    },
+    {
+      "id": "6a8c45944b91655aa95351b2",
+      "name": "q08ty0fwkez21.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-17T11:35:33",
+        "modified": "2020-06-17T11:35:33",
+        "observed": "2020-06-17"
+      },
+      "date": "2020-06-17T11:35:33",
+      "dimensions": "3300×2550",
+      "duration": "",
+      "thumbnail": "media/thumbs/6a8c45944b91655aa95351b2.jpg",
+      "url": "media/images/6a8c45944b91655aa95351b2.jpg"
+    },
+    {
+      "id": "93f689726e512db35fe7dd6a",
+      "name": "Screen Shot 2020-06-25 at 9.35.18 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:35:30",
+        "modified": "2020-06-25T09:35:30",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:35:30",
+      "dimensions": "2060×1604",
+      "duration": "",
+      "thumbnail": "media/thumbs/93f689726e512db35fe7dd6a.jpg",
+      "url": "media/images/93f689726e512db35fe7dd6a.png"
+    },
+    {
+      "id": "5467ff9563a1b0342ab1847f",
+      "name": "Screen Shot 2020-06-25 at 9.36.28 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:36:36",
+        "modified": "2020-06-25T09:36:36",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:36:36",
+      "dimensions": "1078×1110",
+      "duration": "",
+      "thumbnail": "media/thumbs/5467ff9563a1b0342ab1847f.jpg",
+      "url": "media/images/5467ff9563a1b0342ab1847f.png"
+    },
+    {
+      "id": "9a67a0902eacb392555b03e8",
+      "name": "Screen Shot 2020-06-25 at 9.36.40 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:36:46",
+        "modified": "2020-06-25T09:36:46",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:36:46",
+      "dimensions": "1008×1106",
+      "duration": "",
+      "thumbnail": "media/thumbs/9a67a0902eacb392555b03e8.jpg",
+      "url": "media/images/9a67a0902eacb392555b03e8.png"
+    },
+    {
+      "id": "9f054236bddc797cb5de5e39",
+      "name": "Screen Shot 2020-06-25 at 9.37.14 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:37:20",
+        "modified": "2020-06-25T09:37:20",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:37:20",
+      "dimensions": "2064×2702",
+      "duration": "",
+      "thumbnail": "media/thumbs/9f054236bddc797cb5de5e39.jpg",
+      "url": "media/images/9f054236bddc797cb5de5e39.png"
+    },
+    {
+      "id": "e0c0c0a962f81e98ce2107c1",
+      "name": "Screen Shot 2020-06-25 at 9.37.23 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:37:29",
+        "modified": "2020-06-25T09:37:29",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:37:29",
+      "dimensions": "1062×1114",
+      "duration": "",
+      "thumbnail": "media/thumbs/e0c0c0a962f81e98ce2107c1.jpg",
+      "url": "media/images/e0c0c0a962f81e98ce2107c1.png"
+    },
+    {
+      "id": "b61e5b18cbd9e163d00e3d02",
+      "name": "Screen Shot 2020-06-25 at 9.37.31 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:37:37",
+        "modified": "2020-06-25T09:37:37",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:37:37",
+      "dimensions": "1028×1044",
+      "duration": "",
+      "thumbnail": "media/thumbs/b61e5b18cbd9e163d00e3d02.jpg",
+      "url": "media/images/b61e5b18cbd9e163d00e3d02.png"
+    },
+    {
+      "id": "d4f5b5770141eef1dab49f9b",
+      "name": "Screen Shot 2020-06-25 at 9.38.10 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T09:38:15",
+        "modified": "2020-06-25T09:38:15",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T09:38:15",
+      "dimensions": "1138×1644",
+      "duration": "",
+      "thumbnail": "media/thumbs/d4f5b5770141eef1dab49f9b.jpg",
+      "url": "media/images/d4f5b5770141eef1dab49f9b.png"
+    },
+    {
+      "id": "1ddf1030949e0ece8514c13b",
+      "name": "f1lrgnqxig541.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-06-25T21:45:33",
+        "modified": "2020-06-25T21:47:02",
+        "observed": "2020-06-25"
+      },
+      "date": "2020-06-25T21:47:02",
+      "dimensions": "756×1100",
+      "duration": "",
+      "thumbnail": "media/thumbs/1ddf1030949e0ece8514c13b.jpg",
+      "url": "media/images/1ddf1030949e0ece8514c13b.jpg"
+    },
+    {
+      "id": "9f39fc9526da4b41376f1494",
+      "name": "Screen Shot 2020-07-01 at 2.22.10 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-01T14:22:17",
+        "modified": "2020-07-01T14:22:17",
+        "observed": "2020-07-01"
+      },
+      "date": "2020-07-01T14:22:17",
+      "dimensions": "1642×1044",
+      "duration": "",
+      "thumbnail": "media/thumbs/9f39fc9526da4b41376f1494.jpg",
+      "url": "media/images/9f39fc9526da4b41376f1494.png"
+    },
+    {
+      "id": "8e78f5fe6300bc2686c2915e",
+      "name": "wonwoo-cho-.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-01T14:23:27",
+        "modified": "2020-07-01T14:23:27",
+        "observed": "2020-07-01"
+      },
+      "date": "2020-07-01T14:23:27",
+      "dimensions": "1920×1229",
+      "duration": "",
+      "thumbnail": "media/thumbs/8e78f5fe6300bc2686c2915e.jpg",
+      "url": "media/images/8e78f5fe6300bc2686c2915e.jpg"
+    },
+    {
+      "id": "54086cb0509dcaae649e989f",
+      "name": "Screen Shot 2020-07-10 at 2.14.09 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-10T02:14:20",
+        "modified": "2020-07-10T02:14:20",
+        "observed": "2020-07-10"
+      },
+      "date": "2020-07-10T02:14:20",
+      "dimensions": "1484×1570",
+      "duration": "",
+      "thumbnail": "media/thumbs/54086cb0509dcaae649e989f.jpg",
+      "url": "media/images/54086cb0509dcaae649e989f.png"
+    },
+    {
+      "id": "f0e900894556e11b671fc366",
+      "name": "zygrauI.jpeg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-23T08:44:43",
+        "modified": "2020-07-23T08:44:43",
+        "observed": "2020-07-23"
+      },
+      "date": "2020-07-23T08:44:43",
+      "dimensions": "3800×2804",
+      "duration": "",
+      "thumbnail": "media/thumbs/f0e900894556e11b671fc366.jpg",
+      "url": "media/images/f0e900894556e11b671fc366.jpeg"
+    },
+    {
+      "id": "664dd6d9fd537757e4a21ebd",
+      "name": "HighPRiest.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-23T20:26:01",
+        "modified": "2020-07-23T20:26:01",
+        "observed": "2020-07-23"
+      },
+      "date": "2020-07-23T20:26:01",
+      "dimensions": "200×200",
+      "duration": "",
+      "thumbnail": "media/thumbs/664dd6d9fd537757e4a21ebd.jpg",
+      "url": "media/images/664dd6d9fd537757e4a21ebd.png"
+    },
+    {
+      "id": "257136cf04919ad9096ae2b7",
+      "name": "cedd734c4cb48adb2af435d76302cbfa.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-23T22:29:20",
+        "modified": "2020-07-23T22:29:20",
+        "observed": "2020-07-23"
+      },
+      "date": "2020-07-23T22:29:20",
+      "dimensions": "345×542",
+      "duration": "",
+      "thumbnail": "media/thumbs/257136cf04919ad9096ae2b7.jpg",
+      "url": "media/images/257136cf04919ad9096ae2b7.jpg"
+    },
+    {
+      "id": "7183e17c55cf616e95660c82",
+      "name": "aldrichtoken.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-26T11:25:09",
+        "modified": "2020-07-26T11:25:09",
+        "observed": "2020-07-26"
+      },
+      "date": "2020-07-26T11:25:09",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/7183e17c55cf616e95660c82.jpg",
+      "url": "media/images/7183e17c55cf616e95660c82.png"
+    },
+    {
+      "id": "d49929ea4483b42056308cfe",
+      "name": "Screen Shot 2020-07-26 at 11.29.51 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-26T11:29:57",
+        "modified": "2020-07-26T11:29:57",
+        "observed": "2020-07-26"
+      },
+      "date": "2020-07-26T11:29:57",
+      "dimensions": "2418×1890",
+      "duration": "",
+      "thumbnail": "media/thumbs/d49929ea4483b42056308cfe.jpg",
+      "url": "media/images/d49929ea4483b42056308cfe.png"
+    },
+    {
+      "id": "5e8473aeb1661dcbbb05c73c",
+      "name": "PZO9028-Cover.jpg",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-07-26T23:33:01",
+        "modified": "2020-07-26T23:33:01",
+        "observed": "2020-07-26"
+      },
+      "date": "2020-07-26T23:33:01",
+      "dimensions": "800×442",
+      "duration": "",
+      "thumbnail": "media/thumbs/5e8473aeb1661dcbbb05c73c.jpg",
+      "url": "media/images/5e8473aeb1661dcbbb05c73c.jpg"
+    },
+    {
+      "id": "681d92215b8fd08955a38fb3",
+      "name": "OutTake_TempleOfPelor.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-07-29",
+        "dropbox_server_modified": "2020-07-29"
+      },
+      "date": "2020-07-29",
+      "dimensions": "1280×720",
+      "duration": 210.78,
+      "thumbnail": "media/thumbs/681d92215b8fd08955a38fb3.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/q7pgcihnij2nan13116yh/OutTake_TempleOfPelor.mp4?rlkey=hmvtn4dyxo183mjjv2b7xe7qb&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/q7pgcihnij2nan13116yh/OutTake_TempleOfPelor.mp4?rlkey=hmvtn4dyxo183mjjv2b7xe7qb&dl=0"
+    },
+    {
+      "id": "5e669e708f391c5f9caba297",
+      "name": "intro2.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "local video",
+      "dates": {
+        "created": "2020-07-29T09:38:43",
+        "modified": "2020-07-29T09:39:29",
+        "observed": "2020-07-29"
+      },
+      "date": "2020-07-29T09:39:29",
+      "dimensions": "1280x720",
+      "duration": "69.06",
+      "thumbnail": "media/thumbs/5e669e708f391c5f9caba297.jpg",
+      "url": "media/videos/5e669e708f391c5f9caba297.mp4"
+    },
+    {
+      "id": "336652740287439e7599b655",
+      "name": "CutScene3.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "local video",
+      "dates": {
+        "created": "2020-07-29T10:22:43",
+        "modified": "2020-07-29T10:26:03",
+        "observed": "2020-07-29"
+      },
+      "date": "2020-07-29T10:26:03",
+      "dimensions": "1280x720",
+      "duration": "210.75",
+      "thumbnail": "media/thumbs/336652740287439e7599b655.jpg",
+      "url": "media/videos/336652740287439e7599b655.mp4"
+    },
+    {
+      "id": "2b2b536d4b94ce97bbd41eb7",
+      "name": "Screen Shot 2020-08-04 at 10.00.44 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-08-04T22:00:51",
+        "modified": "2020-08-04T22:00:51",
+        "observed": "2020-08-04"
+      },
+      "date": "2020-08-04T22:00:51",
+      "dimensions": "1378×1176",
+      "duration": "",
+      "thumbnail": "media/thumbs/2b2b536d4b94ce97bbd41eb7.jpg",
+      "url": "media/images/2b2b536d4b94ce97bbd41eb7.png"
+    },
+    {
+      "id": "6c180e7ad3f055fc4a2c8e90",
+      "name": "OutTake_BaronAnnounce.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-08-12",
+        "dropbox_server_modified": "2020-08-12"
+      },
+      "date": "2020-08-12",
+      "dimensions": "1280×720",
+      "duration": 286.85,
+      "thumbnail": "media/thumbs/6c180e7ad3f055fc4a2c8e90.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/smmt8k29p26xtqmdjardc/OutTake_BaronAnnounce.mp4?rlkey=10yok9fxcxzdqs2ely63avaxi&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/smmt8k29p26xtqmdjardc/OutTake_BaronAnnounce.mp4?rlkey=10yok9fxcxzdqs2ely63avaxi&dl=0"
+    },
+    {
+      "id": "a0aa1a120567e46403bc1aa1",
+      "name": "backgroundLoop.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "local video",
+      "dates": {
+        "created": "2020-08-12T13:09:32",
+        "modified": "2020-08-12T13:12:03",
+        "observed": "2020-08-12"
+      },
+      "date": "2020-08-12T13:12:03",
+      "dimensions": "1280x720",
+      "duration": "5.55",
+      "thumbnail": "media/thumbs/a0aa1a120567e46403bc1aa1.jpg",
+      "url": "media/videos/a0aa1a120567e46403bc1aa1.mp4"
+    },
+    {
+      "id": "e6040aa15774f15d17704419",
+      "name": "ossington_battlemap.jpg",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-08-13T23:33:19",
+        "modified": "2020-08-13T23:33:21",
+        "observed": "2020-08-13"
+      },
+      "date": "2020-08-13T23:33:21",
+      "dimensions": "5120×5120",
+      "duration": "",
+      "thumbnail": "media/thumbs/e6040aa15774f15d17704419.jpg",
+      "url": "media/images/e6040aa15774f15d17704419.jpg"
+    },
+    {
+      "id": "0d01d4de42b4abf89ddff040",
+      "name": "axiom.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-08-16T20:30:14",
+        "modified": "2020-08-16T20:30:14",
+        "observed": "2020-08-16"
+      },
+      "date": "2020-08-16T20:30:14",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/0d01d4de42b4abf89ddff040.jpg",
+      "url": "media/images/0d01d4de42b4abf89ddff040.png"
+    },
+    {
+      "id": "0a5c463dcf5977efb8d8b0ae",
+      "name": "OutTake_AkrewStand.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-08-18",
+        "dropbox_server_modified": "2020-08-18"
+      },
+      "date": "2020-08-18",
+      "dimensions": "720×720",
+      "duration": 75.07,
+      "thumbnail": "media/thumbs/0a5c463dcf5977efb8d8b0ae.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/hyr5mpec749idk5azvsqw/OutTake_AkrewStand.mp4?rlkey=80kbu9ookuh9hf7wojjrx26xj&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/hyr5mpec749idk5azvsqw/OutTake_AkrewStand.mp4?rlkey=80kbu9ookuh9hf7wojjrx26xj&dl=0"
+    },
+    {
+      "id": "2a7f5ff60d6981055e4bd493",
+      "name": "last_three_cottage.png",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-08-25T00:51:19",
+        "modified": "2020-08-25T00:51:19",
+        "observed": "2020-08-25"
+      },
+      "date": "2020-08-25T00:51:19",
+      "dimensions": "873×608",
+      "duration": "",
+      "thumbnail": "media/thumbs/2a7f5ff60d6981055e4bd493.jpg",
+      "url": "media/images/2a7f5ff60d6981055e4bd493.png"
+    },
+    {
+      "id": "8af34633f00118f80995d1bd",
+      "name": "IMG_7312.png",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-08-28T22:18:03",
+        "modified": "2020-08-28T22:18:04",
+        "observed": "2020-08-28"
+      },
+      "date": "2020-08-28T22:18:04",
+      "dimensions": "2385×4008",
+      "duration": "",
+      "thumbnail": "media/thumbs/8af34633f00118f80995d1bd.jpg",
+      "url": "media/images/8af34633f00118f80995d1bd.png"
+    },
+    {
+      "id": "9c130bff463d247dff018cb3",
+      "name": "Ossington.jpg",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-04T15:17:08",
+        "modified": "2020-09-04T15:17:08",
+        "observed": "2020-09-04"
+      },
+      "date": "2020-09-04T15:17:08",
+      "dimensions": "1024×728",
+      "duration": "",
+      "thumbnail": "media/thumbs/9c130bff463d247dff018cb3.jpg",
+      "url": "media/images/9c130bff463d247dff018cb3.jpg"
+    },
+    {
+      "id": "788a4009c52a23af0bf8322a",
+      "name": "warlordWood3.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-04T15:25:02",
+        "modified": "2020-09-04T15:25:02",
+        "observed": "2020-09-04"
+      },
+      "date": "2020-09-04T15:25:02",
+      "dimensions": "1000×1000",
+      "duration": "",
+      "thumbnail": "media/thumbs/788a4009c52a23af0bf8322a.jpg",
+      "url": "media/images/788a4009c52a23af0bf8322a.png"
+    },
+    {
+      "id": "60bbe3ca7f1d5d2746e98dbc",
+      "name": "RedHorseHill.png",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-04T23:15:38",
+        "modified": "2020-09-04T23:23:33",
+        "observed": "2020-09-04"
+      },
+      "date": "2020-09-04T23:23:33",
+      "dimensions": "2442×2394",
+      "duration": "",
+      "thumbnail": "media/thumbs/60bbe3ca7f1d5d2746e98dbc.jpg",
+      "url": "media/images/60bbe3ca7f1d5d2746e98dbc.png"
+    },
+    {
+      "id": "8e1d56a81bcb147f018fa4d4",
+      "name": "SilenceKeepers.jpeg",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-04T23:36:17",
+        "modified": "2020-09-04T23:37:16",
+        "observed": "2020-09-04"
+      },
+      "date": "2020-09-04T23:37:16",
+      "dimensions": "1500×1500",
+      "duration": "",
+      "thumbnail": "media/thumbs/8e1d56a81bcb147f018fa4d4.jpg",
+      "url": "media/images/8e1d56a81bcb147f018fa4d4.jpeg"
+    },
+    {
+      "id": "a2c69679c986c5c4954004f2",
+      "name": "ReaverSpike.jpg",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-05T00:20:27",
+        "modified": "2020-09-05T00:20:27",
+        "observed": "2020-09-05"
+      },
+      "date": "2020-09-05T00:20:27",
+      "dimensions": "1920×1200",
+      "duration": "",
+      "thumbnail": "media/thumbs/a2c69679c986c5c4954004f2.jpg",
+      "url": "media/images/a2c69679c986c5c4954004f2.jpg"
+    },
+    {
+      "id": "4727e2e0c906d842fdeeb00c",
+      "name": "Screen Shot 2020-09-09 at 3.14.04 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-09T15:14:09",
+        "modified": "2020-09-09T15:14:09",
+        "observed": "2020-09-09"
+      },
+      "date": "2020-09-09T15:14:09",
+      "dimensions": "848×1172",
+      "duration": "",
+      "thumbnail": "media/thumbs/4727e2e0c906d842fdeeb00c.jpg",
+      "url": "media/images/4727e2e0c906d842fdeeb00c.png"
+    },
+    {
+      "id": "afcb3899fe277728a22e2095",
+      "name": "zfk0nmwwvit31.jpeg",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-18T10:07:56",
+        "modified": "2020-09-18T10:31:47",
+        "observed": "2020-09-18"
+      },
+      "date": "2020-09-18T10:31:47",
+      "dimensions": "1875×1723",
+      "duration": "",
+      "thumbnail": "media/thumbs/afcb3899fe277728a22e2095.jpg",
+      "url": "media/images/afcb3899fe277728a22e2095.jpeg"
+    },
+    {
+      "id": "2acc421133e950930af6c5af",
+      "name": "Island.png",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-23T16:10:36",
+        "modified": "2020-09-23T16:19:56",
+        "observed": "2020-09-23"
+      },
+      "date": "2020-09-23T16:19:56",
+      "dimensions": "2625×2625",
+      "duration": "",
+      "thumbnail": "media/thumbs/2acc421133e950930af6c5af.jpg",
+      "url": "media/images/2acc421133e950930af6c5af.png"
+    },
+    {
+      "id": "21537f6fbd24bc81ba381512",
+      "name": "heart_of_the_nightfang_spire___the_nightfang_spire_by_dhuend13_dcho0q2.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:51:41",
+        "modified": "2020-09-24T22:51:41",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:51:41",
+      "dimensions": "1200×1200",
+      "duration": "",
+      "thumbnail": "media/thumbs/21537f6fbd24bc81ba381512.jpg",
+      "url": "media/images/21537f6fbd24bc81ba381512.jpg"
+    },
+    {
+      "id": "6301ab2a9274149dea0d5169",
+      "name": "heart_of_the_nightfang_spire___level_1_by_dhuend13_dcho082.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:04",
+        "modified": "2020-09-24T22:52:05",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:05",
+      "dimensions": "2200×2200",
+      "duration": "",
+      "thumbnail": "media/thumbs/6301ab2a9274149dea0d5169.jpg",
+      "url": "media/images/6301ab2a9274149dea0d5169.jpg"
+    },
+    {
+      "id": "f6e8bd9fd6ed2a319ac30675",
+      "name": "heart_of_the_nightfang_spire___level_2_by_dhuend13_dcho09a.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:09",
+        "modified": "2020-09-24T22:52:10",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:10",
+      "dimensions": "2200×2200",
+      "duration": "",
+      "thumbnail": "media/thumbs/f6e8bd9fd6ed2a319ac30675.jpg",
+      "url": "media/images/f6e8bd9fd6ed2a319ac30675.jpg"
+    },
+    {
+      "id": "203f2c6cac13bbea6ebe071f",
+      "name": "heart_of_the_nightfang_spire___level_3_by_dhuend13_dcho0a9.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:15",
+        "modified": "2020-09-24T22:52:16",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:16",
+      "dimensions": "2200×2200",
+      "duration": "",
+      "thumbnail": "media/thumbs/203f2c6cac13bbea6ebe071f.jpg",
+      "url": "media/images/203f2c6cac13bbea6ebe071f.jpg"
+    },
+    {
+      "id": "ee820553d705eb42eb7c63c0",
+      "name": "heart_of_the_nightfang_spire___level_4_by_dhuend13_dcho0bw.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:21",
+        "modified": "2020-09-24T22:52:22",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:22",
+      "dimensions": "2200×2200",
+      "duration": "",
+      "thumbnail": "media/thumbs/ee820553d705eb42eb7c63c0.jpg",
+      "url": "media/images/ee820553d705eb42eb7c63c0.jpg"
+    },
+    {
+      "id": "8d84cada7d620030acb7fce2",
+      "name": "heart_of_the_nightfang_spire___level_5_by_dhuend13_dcho0n8.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:26",
+        "modified": "2020-09-24T22:52:27",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:27",
+      "dimensions": "2200×2200",
+      "duration": "",
+      "thumbnail": "media/thumbs/8d84cada7d620030acb7fce2.jpg",
+      "url": "media/images/8d84cada7d620030acb7fce2.jpg"
+    },
+    {
+      "id": "3f31a3634842eb857ea3c944",
+      "name": "heart_of_the_nightfang_spire___the_core_by_dhuend13_dcho06y.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:52:39",
+        "modified": "2020-09-24T22:52:39",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:52:39",
+      "dimensions": "2463×1205",
+      "duration": "",
+      "thumbnail": "media/thumbs/3f31a3634842eb857ea3c944.jpg",
+      "url": "media/images/3f31a3634842eb857ea3c944.jpg"
+    },
+    {
+      "id": "faee4a83293e6912840d45ff",
+      "name": "deep_horizon___shrine_of_vesperian_upper_level_by_dhuend13_dcho388.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:57:47",
+        "modified": "2020-09-24T22:57:47",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:57:47",
+      "dimensions": "1219×1146",
+      "duration": "",
+      "thumbnail": "media/thumbs/faee4a83293e6912840d45ff.jpg",
+      "url": "media/images/faee4a83293e6912840d45ff.jpg"
+    },
+    {
+      "id": "2ded77a5be2354b19bb575ab",
+      "name": "deep_horizon___shrine_of_vesperian_magma_chamber_by_dhuend13_dcho38x.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:57:53",
+        "modified": "2020-09-24T22:57:53",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:57:53",
+      "dimensions": "1302×1170",
+      "duration": "",
+      "thumbnail": "media/thumbs/2ded77a5be2354b19bb575ab.jpg",
+      "url": "media/images/2ded77a5be2354b19bb575ab.jpg"
+    },
+    {
+      "id": "209260823637357f02c48d91",
+      "name": "lord_of_the_iron_fortress___cube_of_kolyoral_by_dhuend13_dcho4o6.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:59:32",
+        "modified": "2020-09-24T22:59:32",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:59:32",
+      "dimensions": "671×420",
+      "duration": "",
+      "thumbnail": "media/thumbs/209260823637357f02c48d91.jpg",
+      "url": "media/images/209260823637357f02c48d91.jpg"
+    },
+    {
+      "id": "ae9a7036d4f5fd6716b1b9da",
+      "name": "lord_of_the_iron_fortress___cube_of_kolyoral__ref__by_dhuend13_dcho4ns.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:59:43",
+        "modified": "2020-09-24T22:59:43",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T22:59:43",
+      "dimensions": "1500×1038",
+      "duration": "",
+      "thumbnail": "media/thumbs/ae9a7036d4f5fd6716b1b9da.jpg",
+      "url": "media/images/ae9a7036d4f5fd6716b1b9da.jpg"
+    },
+    {
+      "id": "90851340bc5a28b136577ccd",
+      "name": "lord_of_the_iron_fortress___zandikar_ground_level_by_dhuend13_dcho5ca.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T23:00:23",
+        "modified": "2020-09-24T23:00:24",
+        "observed": "2020-09-24"
+      },
+      "date": "2020-09-24T23:00:24",
+      "dimensions": "2420×2765",
+      "duration": "",
+      "thumbnail": "media/thumbs/90851340bc5a28b136577ccd.jpg",
+      "url": "media/images/90851340bc5a28b136577ccd.jpg"
+    },
+    {
+      "id": "871321f46cddf4cc50c12c0b",
+      "name": "heart_of_the_nightfang_spire___catacombs_by_dhuend13_dcho065.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-25T01:37:33",
+        "modified": "2020-09-25T01:37:34",
+        "observed": "2020-09-25"
+      },
+      "date": "2020-09-25T01:37:34",
+      "dimensions": "3569×5684",
+      "duration": "",
+      "thumbnail": "media/thumbs/871321f46cddf4cc50c12c0b.jpg",
+      "url": "media/images/871321f46cddf4cc50c12c0b.jpg"
+    },
+    {
+      "id": "260d380140411027b924f0d7",
+      "name": "thunderStill.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-28T12:55:14",
+        "modified": "2020-09-28T13:00:29",
+        "observed": "2020-09-28"
+      },
+      "date": "2020-09-28T13:00:29",
+      "dimensions": "736×920",
+      "duration": "",
+      "thumbnail": "media/thumbs/260d380140411027b924f0d7.jpg",
+      "url": "media/images/260d380140411027b924f0d7.png"
+    },
+    {
+      "id": "a26399a2aea1236d4090cf79",
+      "name": "backdropStand.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-28T13:08:57",
+        "modified": "2020-09-28T13:18:32",
+        "observed": "2020-09-28"
+      },
+      "date": "2020-09-28T13:18:32",
+      "dimensions": "2048×1274",
+      "duration": "",
+      "thumbnail": "media/thumbs/a26399a2aea1236d4090cf79.jpg",
+      "url": "media/images/a26399a2aea1236d4090cf79.png"
+    },
+    {
+      "id": "204116b0c05cac1cab27fa90",
+      "name": "Level1_Map.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-01T15:05:28",
+        "modified": "2020-10-01T15:05:28",
+        "observed": "2020-10-01"
+      },
+      "date": "2020-10-01T15:05:28",
+      "dimensions": "1320×1206",
+      "duration": "",
+      "thumbnail": "media/thumbs/204116b0c05cac1cab27fa90.jpg",
+      "url": "media/images/204116b0c05cac1cab27fa90.png"
+    },
+    {
+      "id": "516c032e843286e221226330",
+      "name": "mohrg.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-04T00:37:24",
+        "modified": "2020-10-04T00:37:24",
+        "observed": "2020-10-04"
+      },
+      "date": "2020-10-04T00:37:24",
+      "dimensions": "400×662",
+      "duration": "",
+      "thumbnail": "media/thumbs/516c032e843286e221226330.jpg",
+      "url": "media/images/516c032e843286e221226330.jpg"
+    },
+    {
+      "id": "b17de4f725a71b9da99d42c9",
+      "name": "tombstoneGolem.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-04T10:16:05",
+        "modified": "2020-10-04T10:16:05",
+        "observed": "2020-10-04"
+      },
+      "date": "2020-10-04T10:16:05",
+      "dimensions": "1024×1326",
+      "duration": "",
+      "thumbnail": "media/thumbs/b17de4f725a71b9da99d42c9.jpg",
+      "url": "media/images/b17de4f725a71b9da99d42c9.png"
+    },
+    {
+      "id": "2d306c4e3636685a20667553",
+      "name": "Screen Shot 2020-10-07 at 12.30.38 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-07T12:30:41",
+        "modified": "2020-10-07T12:43:31",
+        "observed": "2020-10-07"
+      },
+      "date": "2020-10-07T12:43:31",
+      "dimensions": "1524×1242",
+      "duration": "",
+      "thumbnail": "media/thumbs/2d306c4e3636685a20667553.jpg",
+      "url": "media/images/2d306c4e3636685a20667553.png"
+    },
+    {
+      "id": "91d121340edafedc99e20c4e",
+      "name": "Grim_Battle.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-07T12:47:06",
+        "modified": "2020-10-07T12:47:06",
+        "observed": "2020-10-07"
+      },
+      "date": "2020-10-07T12:47:06",
+      "dimensions": "1406×1040",
+      "duration": "",
+      "thumbnail": "media/thumbs/91d121340edafedc99e20c4e.jpg",
+      "url": "media/images/91d121340edafedc99e20c4e.png"
+    },
+    {
+      "id": "681aeae5d8ce040963eb9ded",
+      "name": "EarthElementalToken.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-09T12:43:12",
+        "modified": "2020-10-09T12:43:12",
+        "observed": "2020-10-09"
+      },
+      "date": "2020-10-09T12:43:12",
+      "dimensions": "560×560",
+      "duration": "",
+      "thumbnail": "media/thumbs/681aeae5d8ce040963eb9ded.jpg",
+      "url": "media/images/681aeae5d8ce040963eb9ded.png"
+    },
+    {
+      "id": "b5937ff7aff37a71f3553962",
+      "name": "WightToken.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-09T12:43:29",
+        "modified": "2020-10-09T12:43:29",
+        "observed": "2020-10-09"
+      },
+      "date": "2020-10-09T12:43:29",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/b5937ff7aff37a71f3553962.jpg",
+      "url": "media/images/b5937ff7aff37a71f3553962.png"
+    },
+    {
+      "id": "71367dc36becda40375be9f2",
+      "name": "WarlordStand.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-09T13:25:31",
+        "modified": "2020-10-09T13:25:31",
+        "observed": "2020-10-09"
+      },
+      "date": "2020-10-09T13:25:31",
+      "dimensions": "1020×1260",
+      "duration": "",
+      "thumbnail": "media/thumbs/71367dc36becda40375be9f2.jpg",
+      "url": "media/images/71367dc36becda40375be9f2.png"
+    },
+    {
+      "id": "f63d95454ef08d07878ffb9b",
+      "name": "FinalCut.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2020-10-10",
+        "dropbox_server_modified": "2020-10-10"
+      },
+      "date": "2020-10-10",
+      "dimensions": "1280×720",
+      "duration": 151.97,
+      "thumbnail": "media/thumbs/f63d95454ef08d07878ffb9b.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/f7aesu428mbi47s3r8ozo/FinalCut.mp4?rlkey=a0xw3n4wjxpg2tu1twpto0slh&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/f7aesu428mbi47s3r8ozo/FinalCut.mp4?rlkey=a0xw3n4wjxpg2tu1twpto0slh&dl=0"
+    },
+    {
+      "id": "a293eff02d896a38c2ba911e",
+      "name": "FullScene.mp4",
+      "kind": "video",
+      "chapter": "speaker-in-dreams",
+      "source": "local video",
+      "dates": {
+        "created": "2020-10-10T03:04:50",
+        "modified": "2020-10-10T03:05:04",
+        "observed": "2020-10-10"
+      },
+      "date": "2020-10-10T03:05:04",
+      "dimensions": "914x720;914x108",
+      "duration": "146.88",
+      "thumbnail": "media/thumbs/a293eff02d896a38c2ba911e.jpg",
+      "url": "media/videos/a293eff02d896a38c2ba911e.mp4"
+    },
+    {
+      "id": "711cb8bc75ba82e92ab3b413",
+      "name": "FinalCut.mp4",
+      "kind": "video",
+      "chapter": "nightfang-spire",
+      "source": "local video",
+      "dates": {
+        "created": "2020-10-10T09:51:52",
+        "modified": "2020-10-10T09:52:22",
+        "observed": "2020-10-10"
+      },
+      "date": "2020-10-10T09:52:22",
+      "dimensions": "1280x720",
+      "duration": "151.97",
+      "thumbnail": "media/thumbs/711cb8bc75ba82e92ab3b413.jpg",
+      "url": "media/videos/711cb8bc75ba82e92ab3b413.mp4"
+    },
+    {
+      "id": "e33d8b3866f589b234156f09",
+      "name": "Mooncalf_-dragon_mag.webp",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-20T16:27:33",
+        "modified": "2020-10-20T16:27:33",
+        "observed": "2020-10-20"
+      },
+      "date": "2020-10-20T16:27:33",
+      "dimensions": "340×208",
+      "duration": "",
+      "thumbnail": "media/thumbs/e33d8b3866f589b234156f09.jpg",
+      "url": "media/images/e33d8b3866f589b234156f09.webp"
+    },
+    {
+      "id": "a2da8036651b2296481da3b5",
+      "name": "Handout-Stiches.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-21T16:56:39",
+        "modified": "2020-10-21T16:56:39",
+        "observed": "2020-10-21"
+      },
+      "date": "2020-10-21T16:56:39",
+      "dimensions": "1920×1358",
+      "duration": "",
+      "thumbnail": "media/thumbs/a2da8036651b2296481da3b5.jpg",
+      "url": "media/images/a2da8036651b2296481da3b5.jpg"
+    },
+    {
+      "id": "1995eec8c922a197415127f9",
+      "name": "Screen Shot 2020-10-22 at 5.11.35 PM.png",
+      "kind": "image",
+      "chapter": "standing-stone",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-22T17:21:20",
+        "modified": "2020-10-22T17:21:21",
+        "observed": "2020-10-22"
+      },
+      "date": "2020-10-22T17:21:21",
+      "dimensions": "3158×2370",
+      "duration": "",
+      "thumbnail": "media/thumbs/1995eec8c922a197415127f9.jpg",
+      "url": "media/images/1995eec8c922a197415127f9.png"
+    },
+    {
+      "id": "45604e43dc012de4d9703496",
+      "name": "70752365-old-rough-wood-background-wood-table-top-view.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-23T15:58:30",
+        "modified": "2020-10-23T16:00:47",
+        "observed": "2020-10-23"
+      },
+      "date": "2020-10-23T16:00:47",
+      "dimensions": "732×731",
+      "duration": "",
+      "thumbnail": "media/thumbs/45604e43dc012de4d9703496.jpg",
+      "url": "media/images/45604e43dc012de4d9703496.jpg"
+    },
+    {
+      "id": "5578433578ca585f7ac06e4d",
+      "name": "Pale Piercer.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-24T01:58:56",
+        "modified": "2020-10-24T02:10:12",
+        "observed": "2020-10-24"
+      },
+      "date": "2020-10-24T02:10:12",
+      "dimensions": "900×856",
+      "duration": "",
+      "thumbnail": "media/thumbs/5578433578ca585f7ac06e4d.jpg",
+      "url": "media/images/5578433578ca585f7ac06e4d.png"
+    },
+    {
+      "id": "9bce1504c06b7b9aa1e7c216",
+      "name": "Stiches_protrait.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-26T20:32:45",
+        "modified": "2020-10-26T20:32:45",
+        "observed": "2020-10-26"
+      },
+      "date": "2020-10-26T20:32:45",
+      "dimensions": "1146×1498",
+      "duration": "",
+      "thumbnail": "media/thumbs/9bce1504c06b7b9aa1e7c216.jpg",
+      "url": "media/images/9bce1504c06b7b9aa1e7c216.png"
+    },
+    {
+      "id": "88b5b9c29a3eb8a61979b95e",
+      "name": "RhunadToken.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-27T16:38:16",
+        "modified": "2020-10-27T16:38:16",
+        "observed": "2020-10-27"
+      },
+      "date": "2020-10-27T16:38:16",
+      "dimensions": "300×300",
+      "duration": "",
+      "thumbnail": "media/thumbs/88b5b9c29a3eb8a61979b95e.jpg",
+      "url": "media/images/88b5b9c29a3eb8a61979b95e.png"
+    },
+    {
+      "id": "7f7d7d6be88116550d6ab86b",
+      "name": "Screen Shot 2020-10-28 at 11.23.42 AM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-28T11:23:46",
+        "modified": "2020-10-28T11:23:46",
+        "observed": "2020-10-28"
+      },
+      "date": "2020-10-28T11:23:46",
+      "dimensions": "5100×2752",
+      "duration": "",
+      "thumbnail": "media/thumbs/7f7d7d6be88116550d6ab86b.jpg",
+      "url": "media/images/7f7d7d6be88116550d6ab86b.png"
+    },
+    {
+      "id": "e036b5ac103d62dfc9377650",
+      "name": "Gulthias.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-10-28T11:48:42",
+        "modified": "2020-10-28T11:48:42",
+        "observed": "2020-10-28"
+      },
+      "date": "2020-10-28T11:48:42",
+      "dimensions": "300×300",
+      "duration": "",
+      "thumbnail": "media/thumbs/e036b5ac103d62dfc9377650.jpg",
+      "url": "media/images/e036b5ac103d62dfc9377650.png"
+    },
+    {
+      "id": "0220b6c580d84d6d2e23517e",
+      "name": "desmodu.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-11-06T22:29:44",
+        "modified": "2020-11-06T22:29:44",
+        "observed": "2020-11-06"
+      },
+      "date": "2020-11-06T22:29:44",
+      "dimensions": "800×450",
+      "duration": "",
+      "thumbnail": "media/thumbs/0220b6c580d84d6d2e23517e.jpg",
+      "url": "media/images/0220b6c580d84d6d2e23517e.jpg"
+    },
+    {
+      "id": "a72f9f08e06d4934a6ae0004",
+      "name": "4624ce12eb1e97c58509357de9418a9e.jpg",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-11-11T17:08:15",
+        "modified": "2020-11-11T17:08:15",
+        "observed": "2020-11-11"
+      },
+      "date": "2020-11-11T17:08:15",
+      "dimensions": "419×945",
+      "duration": "",
+      "thumbnail": "media/thumbs/a72f9f08e06d4934a6ae0004.jpg",
+      "url": "media/images/a72f9f08e06d4934a6ae0004.jpg"
+    },
+    {
+      "id": "a0ec971fbee5508a6d6592d1",
+      "name": "62g4hrx7lgwtbaugn6qwgmhingpk9kj_19ohrnafo9mijpwmkhjaes1qxat_djhp-dv7zmb9jxuuj-i3azsf3_rjpgla_ttvg2ty6vvlvk4bufs2v-t9udw4jkgaflwnabnruef4y7fsm2lfvdk_-qw310-h474-nc.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2020-11-18T18:46:55",
+        "modified": "2020-11-18T18:46:55",
+        "observed": "2020-11-18"
+      },
+      "date": "2020-11-18T18:46:55",
+      "dimensions": "310×474",
+      "duration": "",
+      "thumbnail": "media/thumbs/a0ec971fbee5508a6d6592d1.jpg",
+      "url": "media/images/a0ec971fbee5508a6d6592d1.png"
+    },
+    {
+      "id": "70afa7793e848c2e7d05f7fe",
+      "name": "Thiff.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-11-24T21:17:25",
+        "modified": "2020-11-24T21:17:25",
+        "observed": "2020-11-24"
+      },
+      "date": "2020-11-24T21:17:25",
+      "dimensions": "560×560",
+      "duration": "",
+      "thumbnail": "media/thumbs/70afa7793e848c2e7d05f7fe.jpg",
+      "url": "media/images/70afa7793e848c2e7d05f7fe.png"
+    },
+    {
+      "id": "3ea5df7b5dd87aeae1b4401d",
+      "name": "GirallonAlpha.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-11-24T21:20:22",
+        "modified": "2020-11-24T21:20:22",
+        "observed": "2020-11-24"
+      },
+      "date": "2020-11-24T21:20:22",
+      "dimensions": "531×409",
+      "duration": "",
+      "thumbnail": "media/thumbs/3ea5df7b5dd87aeae1b4401d.jpg",
+      "url": "media/images/3ea5df7b5dd87aeae1b4401d.png"
+    },
+    {
+      "id": "3598b3eb94c69b32ef5e8812",
+      "name": "21df2a9b81de0fbd7600acb958eaf2df.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2020-12-03T18:53:58",
+        "modified": "2020-12-03T18:53:58",
+        "observed": "2020-12-03"
+      },
+      "date": "2020-12-03T18:53:58",
+      "dimensions": "1024×768",
+      "duration": "",
+      "thumbnail": "media/thumbs/3598b3eb94c69b32ef5e8812.jpg",
+      "url": "media/images/3598b3eb94c69b32ef5e8812.jpg"
+    },
+    {
+      "id": "3da191f5932b1f078ae86d0c",
+      "name": "MimicChest.png",
+      "kind": "image",
+      "chapter": "nightfang-spire",
+      "source": "local image",
+      "dates": {
+        "created": "2020-12-16T10:59:05",
+        "modified": "2020-12-16T10:59:05",
+        "observed": "2020-12-16"
+      },
+      "date": "2020-12-16T10:59:05",
+      "dimensions": "716×660",
+      "duration": "",
+      "thumbnail": "media/thumbs/3da191f5932b1f078ae86d0c.jpg",
+      "url": "media/images/3da191f5932b1f078ae86d0c.png"
+    },
+    {
+      "id": "ded63af023f2e169941fcab0",
+      "name": "vl63691_created.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-05T23:06:07",
+        "modified": "2021-01-05T23:06:07",
+        "observed": "2021-01-05"
+      },
+      "date": "2021-01-05T23:06:07",
+      "dimensions": "2480×3508",
+      "duration": "",
+      "thumbnail": "media/thumbs/ded63af023f2e169941fcab0.jpg",
+      "url": "media/images/ded63af023f2e169941fcab0.png"
+    },
+    {
+      "id": "7908baaf4c6e2cf4ba9f99ff",
+      "name": "BrindinfordDocks.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-07T09:51:00",
+        "modified": "2021-01-07T09:51:00",
+        "observed": "2021-01-07"
+      },
+      "date": "2021-01-07T09:51:00",
+      "dimensions": "3600×2400",
+      "duration": "",
+      "thumbnail": "media/thumbs/7908baaf4c6e2cf4ba9f99ff.jpg",
+      "url": "media/images/7908baaf4c6e2cf4ba9f99ff.jpg"
+    },
+    {
+      "id": "37214aa11f3b1055401cab70",
+      "name": "Almut Shield-BreakerToken.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-09T12:53:17",
+        "modified": "2021-01-09T12:53:17",
+        "observed": "2021-01-09"
+      },
+      "date": "2021-01-09T12:53:17",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/37214aa11f3b1055401cab70.jpg",
+      "url": "media/images/37214aa11f3b1055401cab70.png"
+    },
+    {
+      "id": "b327f5b9aed79c5a2a04ec08",
+      "name": "Faerun-Map.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-09T22:43:09",
+        "modified": "2021-01-10T22:56:06",
+        "observed": "2021-01-10"
+      },
+      "date": "2021-01-10T22:56:06",
+      "dimensions": "9800×6798",
+      "duration": "",
+      "thumbnail": "media/thumbs/b327f5b9aed79c5a2a04ec08.jpg",
+      "url": "media/images/b327f5b9aed79c5a2a04ec08.jpg"
+    },
+    {
+      "id": "2f45279208fff79f367c6f54",
+      "name": "RiverTravel.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-10T23:06:56",
+        "modified": "2021-01-10T23:06:56",
+        "observed": "2021-01-10"
+      },
+      "date": "2021-01-10T23:06:56",
+      "dimensions": "377×216",
+      "duration": "",
+      "thumbnail": "media/thumbs/2f45279208fff79f367c6f54.jpg",
+      "url": "media/images/2f45279208fff79f367c6f54.png"
+    },
+    {
+      "id": "ba2fe62daac1f1410b5a0001",
+      "name": "ThunderMap.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-13T09:15:53",
+        "modified": "2021-01-13T09:15:53",
+        "observed": "2021-01-13"
+      },
+      "date": "2021-01-13T09:15:53",
+      "dimensions": "300×300",
+      "duration": "",
+      "thumbnail": "media/thumbs/ba2fe62daac1f1410b5a0001.jpg",
+      "url": "media/images/ba2fe62daac1f1410b5a0001.png"
+    },
+    {
+      "id": "ec5e626aa61654f84d1c8d33",
+      "name": "GrimMap.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-13T09:16:47",
+        "modified": "2021-01-13T09:18:39",
+        "observed": "2021-01-13"
+      },
+      "date": "2021-01-13T09:18:39",
+      "dimensions": "600×660",
+      "duration": "",
+      "thumbnail": "media/thumbs/ec5e626aa61654f84d1c8d33.jpg",
+      "url": "media/images/ec5e626aa61654f84d1c8d33.png"
+    },
+    {
+      "id": "ec1f56c343ece78d692d7368",
+      "name": "Captian.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-13T16:14:49",
+        "modified": "2021-01-13T16:14:49",
+        "observed": "2021-01-13"
+      },
+      "date": "2021-01-13T16:14:49",
+      "dimensions": "437×619",
+      "duration": "",
+      "thumbnail": "media/thumbs/ec1f56c343ece78d692d7368.jpg",
+      "url": "media/images/ec1f56c343ece78d692d7368.png"
+    },
+    {
+      "id": "81ba4717e6ecc67397034f3b",
+      "name": "spider_cave_by_windboi_d4vn2k3.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-16T22:50:16",
+        "modified": "2021-01-16T22:52:45",
+        "observed": "2021-01-16"
+      },
+      "date": "2021-01-16T22:52:45",
+      "dimensions": "616×413",
+      "duration": "",
+      "thumbnail": "media/thumbs/81ba4717e6ecc67397034f3b.jpg",
+      "url": "media/images/81ba4717e6ecc67397034f3b.jpg"
+    },
+    {
+      "id": "04264cc2a4c11cc708c882f4",
+      "name": "WarbatPortrait.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-16T23:47:43",
+        "modified": "2021-01-16T23:47:43",
+        "observed": "2021-01-16"
+      },
+      "date": "2021-01-16T23:47:43",
+      "dimensions": "407×483",
+      "duration": "",
+      "thumbnail": "media/thumbs/04264cc2a4c11cc708c882f4.jpg",
+      "url": "media/images/04264cc2a4c11cc708c882f4.png"
+    },
+    {
+      "id": "20bb9ec3438ed11a8fe8c416",
+      "name": "DesmoduMotd.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-17T00:30:24",
+        "modified": "2021-01-17T00:30:24",
+        "observed": "2021-01-17"
+      },
+      "date": "2021-01-17T00:30:24",
+      "dimensions": "2070×1804",
+      "duration": "",
+      "thumbnail": "media/thumbs/20bb9ec3438ed11a8fe8c416.jpg",
+      "url": "media/images/20bb9ec3438ed11a8fe8c416.png"
+    },
+    {
+      "id": "268911643d62d2a7f94e99ab",
+      "name": "insidetent.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-01-22"
+      },
+      "date": "2021-01-22",
+      "dimensions": "522×524",
+      "duration": "",
+      "thumbnail": "media/thumbs/268911643d62d2a7f94e99ab.jpg",
+      "originalUrl": "https://files.d20.io/images/194707748/oFrlPfBZH9MnfHNkO6SQww/max.png?1611333319",
+      "url": "media/images/268911643d62d2a7f94e99ab.png"
+    },
+    {
+      "id": "ec700f7cca86cb654782da8b",
+      "name": "Thomo.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-22T11:39:29",
+        "modified": "2021-01-22T11:39:29",
+        "observed": "2021-01-22"
+      },
+      "date": "2021-01-22T11:39:29",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/ec700f7cca86cb654782da8b.jpg",
+      "url": "media/images/ec700f7cca86cb654782da8b.png"
+    },
+    {
+      "id": "595287b844ea1764d8b93027",
+      "name": "BearPitPoster.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-01-26T11:30:02",
+        "modified": "2021-01-26T11:30:02",
+        "observed": "2021-01-26"
+      },
+      "date": "2021-01-26T11:30:02",
+      "dimensions": "1244×1606",
+      "duration": "",
+      "thumbnail": "media/thumbs/595287b844ea1764d8b93027.jpg",
+      "url": "media/images/595287b844ea1764d8b93027.png"
+    },
+    {
+      "id": "ef58d8ad7a9cc62e11634415",
+      "name": "d0ajr7p97l311.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-02-03T00:08:03",
+        "modified": "2021-02-03T00:08:03",
+        "observed": "2021-02-03"
+      },
+      "date": "2021-02-03T00:08:03",
+      "dimensions": "3000×3000",
+      "duration": "",
+      "thumbnail": "media/thumbs/ef58d8ad7a9cc62e11634415.jpg",
+      "url": "media/images/ef58d8ad7a9cc62e11634415.jpg"
+    },
+    {
+      "id": "729b1eaf97713bff190b0f1e",
+      "name": "screen shot 2021-02-16 at 5.26.37 pm.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-02-17"
+      },
+      "date": "2021-02-17",
+      "dimensions": "952×1114",
+      "duration": "",
+      "thumbnail": "media/thumbs/729b1eaf97713bff190b0f1e.jpg",
+      "originalUrl": "https://files.d20.io/images/201715608/rEMYmr5XDHqMG2lcUeaDwg/max.png?1613567336",
+      "url": "media/images/729b1eaf97713bff190b0f1e.png"
+    },
+    {
+      "id": "9f0a771b2f3804c9bd4087af",
+      "name": "CloakAndDagger.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-02-19T15:30:15",
+        "modified": "2021-02-19T15:30:15",
+        "observed": "2021-02-19"
+      },
+      "date": "2021-02-19T15:30:15",
+      "dimensions": "649×319",
+      "duration": "",
+      "thumbnail": "media/thumbs/9f0a771b2f3804c9bd4087af.jpg",
+      "url": "media/images/9f0a771b2f3804c9bd4087af.png"
+    },
+    {
+      "id": "07b6c5e3c9ceef1c330daf91",
+      "name": "grimble haus no grid.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-02-24"
+      },
+      "date": "2021-02-24",
+      "dimensions": "2048×1264",
+      "duration": "",
+      "thumbnail": "media/thumbs/07b6c5e3c9ceef1c330daf91.jpg",
+      "originalUrl": "https://files.d20.io/images/203563329/lzqxeSAqFdQlf44VDn73sw/max.jpg?1614172776",
+      "url": "media/images/07b6c5e3c9ceef1c330daf91.jpg"
+    },
+    {
+      "id": "c7e52735ffcc06481d5f2910",
+      "name": "SmugglersCove.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-02-25T09:43:52",
+        "modified": "2021-02-25T09:43:53",
+        "observed": "2021-02-25"
+      },
+      "date": "2021-02-25T09:43:53",
+      "dimensions": "4200×2100",
+      "duration": "",
+      "thumbnail": "media/thumbs/c7e52735ffcc06481d5f2910.jpg",
+      "url": "media/images/c7e52735ffcc06481d5f2910.png"
+    },
+    {
+      "id": "8629c6d449ede9376ed3e706",
+      "name": "desmodumotd.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-03-03"
+      },
+      "date": "2021-03-03",
+      "dimensions": "2048×1784",
+      "duration": "",
+      "thumbnail": "media/thumbs/8629c6d449ede9376ed3e706.jpg",
+      "originalUrl": "https://files.d20.io/images/205456981/tNiUjX59-KoPc6cYTUN0Tg/max.png?1614805488",
+      "url": "media/images/8629c6d449ede9376ed3e706.png"
+    },
+    {
+      "id": "c248263e801ba8e95dfa248b",
+      "name": "notbora.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-03-05"
+      },
+      "date": "2021-03-05",
+      "dimensions": "1193×479",
+      "duration": "",
+      "thumbnail": "media/thumbs/c248263e801ba8e95dfa248b.jpg",
+      "originalUrl": "https://files.d20.io/images/205866970/aFcnhUXlZ6L7Pf12yDMPwQ/max.png?1614965038",
+      "url": "media/images/c248263e801ba8e95dfa248b.png"
+    },
+    {
+      "id": "4e03dbeaa0b6c72b2a16532f",
+      "name": "fishing_spot.webm",
+      "kind": "video",
+      "chapter": "deep-horizon",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-03-06"
+      },
+      "date": "2021-03-06",
+      "dimensions": "360×323",
+      "duration": 0.6,
+      "thumbnail": "media/thumbs/4e03dbeaa0b6c72b2a16532f.jpg",
+      "url": "https://files.d20.io/images/206356347/MJAkWk9Rh1UMTzTpTXlN9Q/med.webm?1615090148",
+      "originalUrl": "https://files.d20.io/images/206356347/MJAkWk9Rh1UMTzTpTXlN9Q/med.webm?1615090148"
+    },
+    {
+      "id": "70b576aaf3de932adbb7d801",
+      "name": "Screen Shot 2021-03-16 at 2.55.50 PM.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-03-16T14:55:55",
+        "modified": "2021-03-16T14:55:55",
+        "observed": "2021-03-16"
+      },
+      "date": "2021-03-16T14:55:55",
+      "dimensions": "3852×2584",
+      "duration": "",
+      "thumbnail": "media/thumbs/70b576aaf3de932adbb7d801.jpg",
+      "url": "media/images/70b576aaf3de932adbb7d801.png"
+    },
+    {
+      "id": "5bdfeb48b7550a7939617043",
+      "name": "FishingVendorpng.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2021-03-26T17:33:01",
+        "modified": "2021-03-26T17:33:01",
+        "observed": "2021-03-26"
+      },
+      "date": "2021-03-26T17:33:01",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/5bdfeb48b7550a7939617043.jpg",
+      "url": "media/images/5bdfeb48b7550a7939617043.png"
+    },
+    {
+      "id": "561357bf0a3c466e8a465d26",
+      "name": "the cuckoo.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-03-31"
+      },
+      "date": "2021-03-31",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/561357bf0a3c466e8a465d26.jpg",
+      "originalUrl": "https://files.d20.io/images/212398765/0Ntooy8Cf_YF4CthFDUVJg/max.png?1617228506",
+      "url": "media/images/561357bf0a3c466e8a465d26.png"
+    },
+    {
+      "id": "f3eab28be8f657193e06da4c",
+      "name": "vrock.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-03-31"
+      },
+      "date": "2021-03-31",
+      "dimensions": "560×560",
+      "duration": "",
+      "thumbnail": "media/thumbs/f3eab28be8f657193e06da4c.jpg",
+      "originalUrl": "https://files.d20.io/images/212398521/BAgQvRPC74WkL-B4pUZaiQ/max.png?1617228420",
+      "url": "media/images/f3eab28be8f657193e06da4c.png"
+    },
+    {
+      "id": "8c9ea1a5204750b06a91c655",
+      "name": "8153f0eaaed7be71c4676005db9fda8c.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-04-19"
+      },
+      "date": "2021-04-19",
+      "dimensions": "900×376",
+      "duration": "",
+      "thumbnail": "media/thumbs/8c9ea1a5204750b06a91c655.jpg",
+      "originalUrl": "https://files.d20.io/images/216903899/-_sTZr6jrd3x-l4ZePCNyg/max.jpg?1618860018",
+      "url": "media/images/8c9ea1a5204750b06a91c655.jpg"
+    },
+    {
+      "id": "dd23c6d51e7ce9cdb9cb73ba",
+      "name": "DesmodusSplash.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-04-21T10:36:28",
+        "modified": "2021-04-21T10:36:28",
+        "observed": "2021-04-21"
+      },
+      "date": "2021-04-21T10:36:28",
+      "dimensions": "624×816",
+      "duration": "",
+      "thumbnail": "media/thumbs/dd23c6d51e7ce9cdb9cb73ba.jpg",
+      "url": "media/images/dd23c6d51e7ce9cdb9cb73ba.png"
+    },
+    {
+      "id": "87b1e71336f3a50ff4d23e86",
+      "name": "Helkitrin.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-11T11:31:43",
+        "modified": "2021-05-11T11:31:43",
+        "observed": "2021-05-11"
+      },
+      "date": "2021-05-11T11:31:43",
+      "dimensions": "515×1000",
+      "duration": "",
+      "thumbnail": "media/thumbs/87b1e71336f3a50ff4d23e86.jpg",
+      "url": "media/images/87b1e71336f3a50ff4d23e86.png"
+    },
+    {
+      "id": "41e053f0f6b0f4711c02bd26",
+      "name": "deep_horizon___salamanders__citadel_main_level_by_dhuend13_dcho488.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:58:43",
+        "modified": "2021-05-18T10:33:41",
+        "observed": "2021-05-18"
+      },
+      "date": "2021-05-18T10:33:41",
+      "dimensions": "2483×2274",
+      "duration": "",
+      "thumbnail": "media/thumbs/41e053f0f6b0f4711c02bd26.jpg",
+      "url": "media/images/41e053f0f6b0f4711c02bd26.jpg"
+    },
+    {
+      "id": "a65886559ca6bb0475cdb657",
+      "name": "deep_horizon___salamanders__citadel_lower_level_by_dhuend13_dcho345.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-09-24T22:54:09",
+        "modified": "2021-05-18T10:34:15",
+        "observed": "2021-05-18"
+      },
+      "date": "2021-05-18T10:34:15",
+      "dimensions": "2365×1157",
+      "duration": "",
+      "thumbnail": "media/thumbs/a65886559ca6bb0475cdb657.jpg",
+      "url": "media/images/a65886559ca6bb0475cdb657.jpg"
+    },
+    {
+      "id": "0066bbb628017a2be9620bc8",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "332×344",
+      "duration": "",
+      "thumbnail": "media/thumbs/0066bbb628017a2be9620bc8.jpg",
+      "url": "media/images/0066bbb628017a2be9620bc8.png"
+    },
+    {
+      "id": "18337dfe4336b24d7e86e279",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "348×358",
+      "duration": "",
+      "thumbnail": "media/thumbs/18337dfe4336b24d7e86e279.jpg",
+      "url": "media/images/18337dfe4336b24d7e86e279.png"
+    },
+    {
+      "id": "2c556d3b353ff8194485c4a4",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "358×336",
+      "duration": "",
+      "thumbnail": "media/thumbs/2c556d3b353ff8194485c4a4.jpg",
+      "url": "media/images/2c556d3b353ff8194485c4a4.png"
+    },
+    {
+      "id": "30aa5bbcda0cc0d506ea246c",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "374×344",
+      "duration": "",
+      "thumbnail": "media/thumbs/30aa5bbcda0cc0d506ea246c.jpg",
+      "url": "media/images/30aa5bbcda0cc0d506ea246c.png"
+    },
+    {
+      "id": "4d556f96ff8a06bea3f1df44",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "378×358",
+      "duration": "",
+      "thumbnail": "media/thumbs/4d556f96ff8a06bea3f1df44.jpg",
+      "url": "media/images/4d556f96ff8a06bea3f1df44.png"
+    },
+    {
+      "id": "8b45e5cf13ee30b79d1c709f",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "374×338",
+      "duration": "",
+      "thumbnail": "media/thumbs/8b45e5cf13ee30b79d1c709f.jpg",
+      "url": "media/images/8b45e5cf13ee30b79d1c709f.png"
+    },
+    {
+      "id": "d74b25c457b1f04e7c628e1e",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "354×344",
+      "duration": "",
+      "thumbnail": "media/thumbs/d74b25c457b1f04e7c628e1e.jpg",
+      "url": "media/images/d74b25c457b1f04e7c628e1e.png"
+    },
+    {
+      "id": "e8a0ac87a79eb115fc844be2",
+      "name": "image.png",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2021-05-22T10:04:55",
+        "modified": "2021-05-22T10:04:55",
+        "observed": "2021-05-22"
+      },
+      "date": "2021-05-22T10:04:55",
+      "dimensions": "316×272",
+      "duration": "",
+      "thumbnail": "media/thumbs/e8a0ac87a79eb115fc844be2.jpg",
+      "url": "media/images/e8a0ac87a79eb115fc844be2.png"
+    },
+    {
+      "id": "5fcbd73c6cb3377179e0cfb4",
+      "name": "Screen Shot 2021-06-16 at 5.20.25 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-06-16T17:20:29",
+        "modified": "2021-06-16T17:20:30",
+        "observed": "2021-06-16"
+      },
+      "date": "2021-06-16T17:20:30",
+      "dimensions": "3344×2470",
+      "duration": "",
+      "thumbnail": "media/thumbs/5fcbd73c6cb3377179e0cfb4.jpg",
+      "url": "media/images/5fcbd73c6cb3377179e0cfb4.png"
+    },
+    {
+      "id": "f03c7b0ea064c1f34e0f642b",
+      "name": "citysewertwo.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-06-23"
+      },
+      "date": "2021-06-23",
+      "dimensions": "1750×1750",
+      "duration": "",
+      "thumbnail": "media/thumbs/f03c7b0ea064c1f34e0f642b.jpg",
+      "originalUrl": "https://files.d20.io/images/230195276/eNMt2Cvs2okfwT5h9o22Hw/max.png?1624479509",
+      "url": "media/images/f03c7b0ea064c1f34e0f642b.png"
+    },
+    {
+      "id": "de3ec6ccb9e8d06646b28e94",
+      "name": "babyoriginal.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-06-23T18:47:08",
+        "modified": "2021-06-23T18:47:08",
+        "observed": "2021-06-23"
+      },
+      "date": "2021-06-23T18:47:08",
+      "dimensions": "560×560",
+      "duration": "",
+      "thumbnail": "media/thumbs/de3ec6ccb9e8d06646b28e94.jpg",
+      "url": "media/images/de3ec6ccb9e8d06646b28e94.png"
+    },
+    {
+      "id": "51b3bc1686996ae4a0e1e18f",
+      "name": "1076712-Underdark-Village_Part1.jpg",
+      "kind": "image",
+      "chapter": "deep-horizon",
+      "source": "local image",
+      "dates": {
+        "created": "2020-02-03T15:09:10",
+        "modified": "2021-06-25T15:17:03",
+        "observed": "2021-06-25"
+      },
+      "date": "2021-06-25T15:17:03",
+      "dimensions": "875×875",
+      "duration": "",
+      "thumbnail": "media/thumbs/51b3bc1686996ae4a0e1e18f.jpg",
+      "url": "media/images/51b3bc1686996ae4a0e1e18f.jpg"
+    },
+    {
+      "id": "95bc65c351ca848dd6460954",
+      "name": "outlands.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-07-07"
+      },
+      "date": "2021-07-07",
+      "dimensions": "1600×1205",
+      "duration": "",
+      "thumbnail": "media/thumbs/95bc65c351ca848dd6460954.jpg",
+      "originalUrl": "https://files.d20.io/images/232862720/WxBwwZtovKl8hyZGGgI7_w/max.png?1625704855",
+      "url": "media/images/95bc65c351ca848dd6460954.png"
+    },
+    {
+      "id": "98f2647719524525fff2364c",
+      "name": "Screen Shot 2021-07-13 at 12.06.33 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-13T12:06:34",
+        "modified": "2021-07-13T12:06:34",
+        "observed": "2021-07-13"
+      },
+      "date": "2021-07-13T12:06:34",
+      "dimensions": "328×350",
+      "duration": "",
+      "thumbnail": "media/thumbs/98f2647719524525fff2364c.jpg",
+      "url": "media/images/98f2647719524525fff2364c.png"
+    },
+    {
+      "id": "12d0fa739b58d859556e5b07",
+      "name": "Screen Shot 2021-07-13 at 12.08.32 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-13T12:08:33",
+        "modified": "2021-07-13T12:08:33",
+        "observed": "2021-07-13"
+      },
+      "date": "2021-07-13T12:08:33",
+      "dimensions": "328×344",
+      "duration": "",
+      "thumbnail": "media/thumbs/12d0fa739b58d859556e5b07.jpg",
+      "url": "media/images/12d0fa739b58d859556e5b07.png"
+    },
+    {
+      "id": "c70af5773352df7a5fbd1dd2",
+      "name": "Screen Shot 2021-07-13 at 12.09.32 PM.png",
+      "kind": "image",
+      "chapter": "speaker-in-dreams",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-13T12:09:33",
+        "modified": "2021-07-13T12:09:33",
+        "observed": "2021-07-13"
+      },
+      "date": "2021-07-13T12:09:33",
+      "dimensions": "352×348",
+      "duration": "",
+      "thumbnail": "media/thumbs/c70af5773352df7a5fbd1dd2.jpg",
+      "url": "media/images/c70af5773352df7a5fbd1dd2.png"
+    },
+    {
+      "id": "905aae4f286595b0526dd6a9",
+      "name": "Screen Shot 2021-07-13 at 12.46.00 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-13T12:46:08",
+        "modified": "2021-07-13T12:46:08",
+        "observed": "2021-07-13"
+      },
+      "date": "2021-07-13T12:46:08",
+      "dimensions": "3574×2782",
+      "duration": "",
+      "thumbnail": "media/thumbs/905aae4f286595b0526dd6a9.jpg",
+      "url": "media/images/905aae4f286595b0526dd6a9.png"
+    },
+    {
+      "id": "6fc1acd0a39beb0f77654920",
+      "name": "Kraken.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2021-07-14",
+        "dropbox_server_modified": "2021-07-14"
+      },
+      "date": "2021-07-14",
+      "dimensions": "1280×720",
+      "duration": 40.87,
+      "thumbnail": "media/thumbs/6fc1acd0a39beb0f77654920.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/680iuk8ux15ibags843k3/Kraken.mp4?rlkey=dzmq563dj0a9038a1420ge7iv&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/680iuk8ux15ibags843k3/Kraken.mp4?rlkey=dzmq563dj0a9038a1420ge7iv&dl=0"
+    },
+    {
+      "id": "02ebf010ea0979c136f35f35",
+      "name": "Screen Shot 2021-07-14 at 4.57.20 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-14T16:57:26",
+        "modified": "2021-07-14T16:57:26",
+        "observed": "2021-07-14"
+      },
+      "date": "2021-07-14T16:57:26",
+      "dimensions": "3286×2098",
+      "duration": "",
+      "thumbnail": "media/thumbs/02ebf010ea0979c136f35f35.jpg",
+      "url": "media/images/02ebf010ea0979c136f35f35.png"
+    },
+    {
+      "id": "384ad499b9ac76d82ab29487",
+      "name": "lord_of_the_iron_fortress___zandikar_upper_level_by_dhuend13_dcho4rl.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-07-25"
+      },
+      "date": "2021-07-25",
+      "dimensions": "1876×2048",
+      "duration": "",
+      "thumbnail": "media/thumbs/384ad499b9ac76d82ab29487.jpg",
+      "originalUrl": "https://files.d20.io/images/236125772/WqSXnCGGk3g-G_dknkl0ZQ/max.jpg?1627187523",
+      "url": "media/images/384ad499b9ac76d82ab29487.jpg"
+    },
+    {
+      "id": "ddaf8ef51207938df3caced6",
+      "name": "packleader tavarus portrait.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-07-26"
+      },
+      "date": "2021-07-26",
+      "dimensions": "980×761",
+      "duration": "",
+      "thumbnail": "media/thumbs/ddaf8ef51207938df3caced6.jpg",
+      "originalUrl": "https://files.d20.io/images/236406684/v0-pSmqcRUpg36ShFeJFVw/max.jpg?1627321794",
+      "url": "media/images/ddaf8ef51207938df3caced6.jpg"
+    },
+    {
+      "id": "6d71257bc2e4d930bf393ecc",
+      "name": "Screen Shot 2021-07-26 at 12.57.23 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-07-26T12:57:28",
+        "modified": "2021-07-26T12:57:28",
+        "observed": "2021-07-26"
+      },
+      "date": "2021-07-26T12:57:28",
+      "dimensions": "1436×830",
+      "duration": "",
+      "thumbnail": "media/thumbs/6d71257bc2e4d930bf393ecc.jpg",
+      "url": "media/images/6d71257bc2e4d930bf393ecc.png"
+    },
+    {
+      "id": "51c3360536b2ed1e5dc855a3",
+      "name": "EastgateEnd.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2021-07-29",
+        "dropbox_server_modified": "2021-07-29"
+      },
+      "date": "2021-07-29",
+      "dimensions": "1920×1080",
+      "duration": 14.9,
+      "thumbnail": "media/thumbs/51c3360536b2ed1e5dc855a3.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/dnfpb3b3y8o3banu1j8mk/EastgateEnd.mp4?rlkey=vit6vj1phb362uivijd8iq0nj&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/dnfpb3b3y8o3banu1j8mk/EastgateEnd.mp4?rlkey=vit6vj1phb362uivijd8iq0nj&dl=0"
+    },
+    {
+      "id": "01e75d5444047b85731b35f3",
+      "name": "Pitboss.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-08-12T12:02:37",
+        "modified": "2021-08-12T12:02:37",
+        "observed": "2021-08-12"
+      },
+      "date": "2021-08-12T12:02:37",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/01e75d5444047b85731b35f3.jpg",
+      "url": "media/images/01e75d5444047b85731b35f3.png"
+    },
+    {
+      "id": "81cfc903a5a4c3dd179150c5",
+      "name": "Screen Shot 2021-08-18 at 12.42.06 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-08-18T12:42:13",
+        "modified": "2021-08-18T12:42:13",
+        "observed": "2021-08-18"
+      },
+      "date": "2021-08-18T12:42:13",
+      "dimensions": "2462×2076",
+      "duration": "",
+      "thumbnail": "media/thumbs/81cfc903a5a4c3dd179150c5.jpg",
+      "url": "media/images/81cfc903a5a4c3dd179150c5.png"
+    },
+    {
+      "id": "d7445c211f0b05bac41536d8",
+      "name": "acheron.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-08-26"
+      },
+      "date": "2021-08-26",
+      "dimensions": "2048×1151",
+      "duration": "",
+      "thumbnail": "media/thumbs/d7445c211f0b05bac41536d8.jpg",
+      "originalUrl": "https://files.d20.io/images/241924983/oMyjnuvG0ASEKPlG2vqMQg/max.png?1630016934",
+      "url": "media/images/d7445c211f0b05bac41536d8.png"
+    },
+    {
+      "id": "6ab322b6bd80066ebc4b5278",
+      "name": "archeronliongate.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-08-28"
+      },
+      "date": "2021-08-28",
+      "dimensions": "1050×1050",
+      "duration": "",
+      "thumbnail": "media/thumbs/6ab322b6bd80066ebc4b5278.jpg",
+      "originalUrl": "https://files.d20.io/images/242149897/lxrHCPx6ZIJ1p4bIygIIpw/max.png?1630124337",
+      "url": "media/images/6ab322b6bd80066ebc4b5278.png"
+    },
+    {
+      "id": "6041f61c931033a9025e1c90",
+      "name": "behir.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-09-01"
+      },
+      "date": "2021-09-01",
+      "dimensions": "560×560",
+      "duration": "",
+      "thumbnail": "media/thumbs/6041f61c931033a9025e1c90.jpg",
+      "originalUrl": "https://files.d20.io/images/242937648/xikZ6Bq240TiIelZh2beDQ/max.png?1630515954",
+      "url": "media/images/6041f61c931033a9025e1c90.png"
+    },
+    {
+      "id": "f17c4a6f9a8b506bc4cff390",
+      "name": "thomas.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-09-08"
+      },
+      "date": "2021-09-08",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/f17c4a6f9a8b506bc4cff390.jpg",
+      "originalUrl": "https://files.d20.io/images/244193251/ifm0X1V29EZF5ipyylRE-g/max.png?1631139874",
+      "url": "media/images/f17c4a6f9a8b506bc4cff390.png"
+    },
+    {
+      "id": "ef4d522a7c3bf30af0eeba73",
+      "name": "StaggerInnDownLit.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-09-09T23:06:13",
+        "modified": "2021-09-09T23:06:13",
+        "observed": "2021-09-09"
+      },
+      "date": "2021-09-09T23:06:13",
+      "dimensions": "2520×3080",
+      "duration": "",
+      "thumbnail": "media/thumbs/ef4d522a7c3bf30af0eeba73.jpg",
+      "url": "media/images/ef4d522a7c3bf30af0eeba73.jpg"
+    },
+    {
+      "id": "41ab16827334089424c6d24b",
+      "name": "varachus.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-09-21"
+      },
+      "date": "2021-09-21",
+      "dimensions": "256×256",
+      "duration": "",
+      "thumbnail": "media/thumbs/41ab16827334089424c6d24b.jpg",
+      "originalUrl": "https://files.d20.io/images/246510130/R5G1c46NURQ_EBzWIMAo-A/max.png?1632280490",
+      "url": "media/images/41ab16827334089424c6d24b.png"
+    },
+    {
+      "id": "af48327e602ab4dbd398aa3c",
+      "name": "Varachus_mission.mov",
+      "kind": "video",
+      "chapter": "iron-fortress",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2021-09-21",
+        "dropbox_server_modified": "2021-09-21"
+      },
+      "date": "2021-09-21",
+      "dimensions": "1024×768",
+      "duration": 33.87,
+      "thumbnail": "media/thumbs/af48327e602ab4dbd398aa3c.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/wrmmhld3j3swa2z1x1o8o/Varachus_mission.mov?rlkey=78eg949l0yld28eif4syh6uf0&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/wrmmhld3j3swa2z1x1o8o/Varachus_mission.mov?rlkey=78eg949l0yld28eif4syh6uf0&dl=0"
+    },
+    {
+      "id": "b9a9c380acaa4e7e99c737a6",
+      "name": "bloodstained_guild_notebook.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-09-21T12:24:47",
+        "modified": "2021-09-21T12:24:47",
+        "observed": "2021-09-21"
+      },
+      "date": "2021-09-21T12:24:47",
+      "dimensions": "1740×1562",
+      "duration": "",
+      "thumbnail": "media/thumbs/b9a9c380acaa4e7e99c737a6.jpg",
+      "url": "media/images/b9a9c380acaa4e7e99c737a6.png"
+    },
+    {
+      "id": "002f38d91a8c97d7a57567a1",
+      "name": "Varachus_mission.mov",
+      "kind": "video",
+      "chapter": "iron-fortress",
+      "source": "local video",
+      "dates": {
+        "created": "2021-09-21T23:10:28",
+        "modified": "2021-09-21T23:10:29",
+        "observed": "2021-09-21"
+      },
+      "date": "2021-09-21T23:10:29",
+      "dimensions": "1024x768",
+      "duration": "33.87",
+      "thumbnail": "media/thumbs/002f38d91a8c97d7a57567a1.jpg",
+      "url": "media/videos/002f38d91a8c97d7a57567a1.mp4"
+    },
+    {
+      "id": "b7c32d4ff0e730902b3b2756",
+      "name": "Screen Shot 2021-09-24 at 1.21.49 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-09-24T13:21:53",
+        "modified": "2021-09-24T13:21:53",
+        "observed": "2021-09-24"
+      },
+      "date": "2021-09-24T13:21:53",
+      "dimensions": "2014×2010",
+      "duration": "",
+      "thumbnail": "media/thumbs/b7c32d4ff0e730902b3b2756.jpg",
+      "url": "media/images/b7c32d4ff0e730902b3b2756.png"
+    },
+    {
+      "id": "24c4a0cd9f955ed86a52a26b",
+      "name": "starwhal.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-10-06"
+      },
+      "date": "2021-10-06",
+      "dimensions": "1159×566",
+      "duration": "",
+      "thumbnail": "media/thumbs/24c4a0cd9f955ed86a52a26b.jpg",
+      "originalUrl": "https://files.d20.io/images/249003128/LKNy4M8-2k5KnY5IzVStzg/max.png?1633538559",
+      "url": "media/images/24c4a0cd9f955ed86a52a26b.png"
+    },
+    {
+      "id": "9056c44dab81cc8dd7436e69",
+      "name": "Screen Shot 2021-10-25 at 4.46.50 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-10-25T16:46:53",
+        "modified": "2021-10-25T16:46:53",
+        "observed": "2021-10-25"
+      },
+      "date": "2021-10-25T16:46:53",
+      "dimensions": "2020×2020",
+      "duration": "",
+      "thumbnail": "media/thumbs/9056c44dab81cc8dd7436e69.jpg",
+      "url": "media/images/9056c44dab81cc8dd7436e69.png"
+    },
+    {
+      "id": "17713a6c3ffd55da811e8000",
+      "name": "FormianWarrior.webp",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-10-26T13:04:31",
+        "modified": "2021-10-26T13:04:31",
+        "observed": "2021-10-26"
+      },
+      "date": "2021-10-26T13:04:31",
+      "dimensions": "1024×1138",
+      "duration": "",
+      "thumbnail": "media/thumbs/17713a6c3ffd55da811e8000.jpg",
+      "url": "media/images/17713a6c3ffd55da811e8000.webp"
+    },
+    {
+      "id": "094c6a0901a563c02656f88f",
+      "name": "formian-queen.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-10-26T13:04:55",
+        "modified": "2021-10-26T13:04:55",
+        "observed": "2021-10-26"
+      },
+      "date": "2021-10-26T13:04:55",
+      "dimensions": "860×1149",
+      "duration": "",
+      "thumbnail": "media/thumbs/094c6a0901a563c02656f88f.jpg",
+      "url": "media/images/094c6a0901a563c02656f88f.png"
+    },
+    {
+      "id": "ca7443fa2a3c2c22bebfd40f",
+      "name": "Formian-Myrmarch.webp",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-10-26T13:05:47",
+        "modified": "2021-10-26T13:05:47",
+        "observed": "2021-10-26"
+      },
+      "date": "2021-10-26T13:05:47",
+      "dimensions": "360×450",
+      "duration": "",
+      "thumbnail": "media/thumbs/ca7443fa2a3c2c22bebfd40f.jpg",
+      "url": "media/images/ca7443fa2a3c2c22bebfd40f.webp"
+    },
+    {
+      "id": "b1627245d64cfcd10c7b01c5",
+      "name": "Trumpet_archon8_by_bobgreyvenstein-d87q6ll.webp",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2021-11-24T23:03:39",
+        "modified": "2021-11-24T23:03:39",
+        "observed": "2021-11-24"
+      },
+      "date": "2021-11-24T23:03:39",
+      "dimensions": "886×1026",
+      "duration": "",
+      "thumbnail": "media/thumbs/b1627245d64cfcd10c7b01c5.jpg",
+      "url": "media/images/b1627245d64cfcd10c7b01c5.webp"
+    },
+    {
+      "id": "4847851838a9af12e308c28d",
+      "name": "shooma.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2021-12-22"
+      },
+      "date": "2021-12-22",
+      "dimensions": "256×256",
+      "duration": "",
+      "thumbnail": "media/thumbs/4847851838a9af12e308c28d.jpg",
+      "originalUrl": "https://files.d20.io/images/261362137/VrGtM-BfNyeKKyWstnTyrw/max.png?1640204867",
+      "url": "media/images/4847851838a9af12e308c28d.png"
+    },
+    {
+      "id": "094db84d721bd6ee6015cad9",
+      "name": "durgeddin.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-01-02"
+      },
+      "date": "2022-01-02",
+      "dimensions": "600×850",
+      "duration": "",
+      "thumbnail": "media/thumbs/094db84d721bd6ee6015cad9.jpg",
+      "originalUrl": "https://files.d20.io/images/262874644/oBR1d3jSxO4SieHCZxVRnw/max.jpg?1641185976",
+      "url": "media/images/094db84d721bd6ee6015cad9.jpg"
+    },
+    {
+      "id": "ed27e0216253f4d607ceada3",
+      "name": "Hydra.JPG.webp",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-12T18:19:38",
+        "modified": "2022-01-12T18:19:38",
+        "observed": "2022-01-12"
+      },
+      "date": "2022-01-12T18:19:38",
+      "dimensions": "400×257",
+      "duration": "",
+      "thumbnail": "media/thumbs/ed27e0216253f4d607ceada3.jpg",
+      "url": "media/images/ed27e0216253f4d607ceada3.webp"
+    },
+    {
+      "id": "255b48b8180b3ee3e4f04314",
+      "name": "hqdefault.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-19T18:15:24",
+        "modified": "2022-01-19T18:15:24",
+        "observed": "2022-01-19"
+      },
+      "date": "2022-01-19T18:15:24",
+      "dimensions": "480×360",
+      "duration": "",
+      "thumbnail": "media/thumbs/255b48b8180b3ee3e4f04314.jpg",
+      "url": "media/images/255b48b8180b3ee3e4f04314.jpg"
+    },
+    {
+      "id": "1415547ad637ec143911eb51",
+      "name": "Screen Shot 2022-01-20 at 10.44.07 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-20T22:44:15",
+        "modified": "2022-01-20T22:44:15",
+        "observed": "2022-01-20"
+      },
+      "date": "2022-01-20T22:44:15",
+      "dimensions": "2196×1408",
+      "duration": "",
+      "thumbnail": "media/thumbs/1415547ad637ec143911eb51.jpg",
+      "url": "media/images/1415547ad637ec143911eb51.png"
+    },
+    {
+      "id": "1f5930d3dbbb2e9b789780c1",
+      "name": "Screen Shot 2022-01-21 at 12.28.35 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-21T12:28:38",
+        "modified": "2022-01-21T12:28:38",
+        "observed": "2022-01-21"
+      },
+      "date": "2022-01-21T12:28:38",
+      "dimensions": "1240×930",
+      "duration": "",
+      "thumbnail": "media/thumbs/1f5930d3dbbb2e9b789780c1.jpg",
+      "url": "media/images/1f5930d3dbbb2e9b789780c1.png"
+    },
+    {
+      "id": "b775ac65d741c519e4791ffc",
+      "name": "img605d2942de013.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-01-24"
+      },
+      "date": "2022-01-24",
+      "dimensions": "2048×1536",
+      "duration": "",
+      "thumbnail": "media/thumbs/b775ac65d741c519e4791ffc.jpg",
+      "originalUrl": "https://files.d20.io/images/267039874/8RIYwO4EE4Q-pVe8LJDFeg/max.jpg?1643085237",
+      "url": "media/images/b775ac65d741c519e4791ffc.jpg"
+    },
+    {
+      "id": "aa690e839fed796445368b23",
+      "name": "valeriya-zhukova-14-04-2020-11-06-10-edit.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-01-25"
+      },
+      "date": "2022-01-25",
+      "dimensions": "1920×1339",
+      "duration": "",
+      "thumbnail": "media/thumbs/aa690e839fed796445368b23.jpg",
+      "originalUrl": "https://files.d20.io/images/267087880/mfZ5tPag2aSNosyZXGWUnQ/max.jpg?1643126863",
+      "url": "media/images/aa690e839fed796445368b23.jpg"
+    },
+    {
+      "id": "ae99cb0884cc9d9fa247ce5a",
+      "name": "6903446db89e2c532617ab3249a86c1e.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-25T10:57:04",
+        "modified": "2022-01-25T10:57:04",
+        "observed": "2022-01-25"
+      },
+      "date": "2022-01-25T10:57:04",
+      "dimensions": "1700×1436",
+      "duration": "",
+      "thumbnail": "media/thumbs/ae99cb0884cc9d9fa247ce5a.jpg",
+      "url": "media/images/ae99cb0884cc9d9fa247ce5a.jpg"
+    },
+    {
+      "id": "e64872b471c45594fd3d4b6b",
+      "name": "Screen Shot 2022-01-25 at 3.31.34 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-25T15:31:39",
+        "modified": "2022-01-25T15:31:39",
+        "observed": "2022-01-25"
+      },
+      "date": "2022-01-25T15:31:39",
+      "dimensions": "3774×2658",
+      "duration": "",
+      "thumbnail": "media/thumbs/e64872b471c45594fd3d4b6b.jpg",
+      "url": "media/images/e64872b471c45594fd3d4b6b.png"
+    },
+    {
+      "id": "84e99e6738e0313eae1f8595",
+      "name": "ss_88a70ef321dd7fa0bf3fdd55347a95042f50e5fb.1920x1080.jpg",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-26T18:22:16",
+        "modified": "2022-01-26T18:22:16",
+        "observed": "2022-01-26"
+      },
+      "date": "2022-01-26T18:22:16",
+      "dimensions": "1280×720",
+      "duration": "",
+      "thumbnail": "media/thumbs/84e99e6738e0313eae1f8595.jpg",
+      "url": "media/images/84e99e6738e0313eae1f8595.jpg"
+    },
+    {
+      "id": "e881fea561117e0362ab7c8c",
+      "name": "portalble.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-01-27T23:33:23",
+        "modified": "2022-01-27T23:33:23",
+        "observed": "2022-01-27"
+      },
+      "date": "2022-01-27T23:33:23",
+      "dimensions": "873×1200",
+      "duration": "",
+      "thumbnail": "media/thumbs/e881fea561117e0362ab7c8c.jpg",
+      "url": "media/images/e881fea561117e0362ab7c8c.png"
+    },
+    {
+      "id": "fc81e20af5d1fc474d7995e8",
+      "name": "grandpa.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-02-23"
+      },
+      "date": "2022-02-23",
+      "dimensions": "675×663",
+      "duration": "",
+      "thumbnail": "media/thumbs/fc81e20af5d1fc474d7995e8.jpg",
+      "originalUrl": "https://files.d20.io/images/272488228/ybdlTdRxvx5x5HLeiCFWvQ/max.png?1645661706",
+      "url": "media/images/fc81e20af5d1fc474d7995e8.png"
+    },
+    {
+      "id": "ab10bdd3a0fb849d7cad7840",
+      "name": "anchor-vintage-style-in-blue-sticker-1599713545.5032225.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "local image",
+      "dates": {
+        "created": "2022-02-24T23:05:17",
+        "modified": "2022-02-24T23:05:17",
+        "observed": "2022-02-24"
+      },
+      "date": "2022-02-24T23:05:17",
+      "dimensions": "250×250",
+      "duration": "",
+      "thumbnail": "media/thumbs/ab10bdd3a0fb849d7cad7840.jpg",
+      "url": "media/images/ab10bdd3a0fb849d7cad7840.png"
+    },
+    {
+      "id": "d62bbd751ebaab8287fd65ad",
+      "name": "sunken2.png",
+      "kind": "image",
+      "chapter": "iron-fortress",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-02-26"
+      },
+      "date": "2022-02-26",
+      "dimensions": "537×201",
+      "duration": "",
+      "thumbnail": "media/thumbs/d62bbd751ebaab8287fd65ad.jpg",
+      "originalUrl": "https://files.d20.io/images/272924002/q4Zl3eOpNerr-_yC_RD3TA/max.png?1645894966",
+      "url": "media/images/d62bbd751ebaab8287fd65ad.png"
+    },
+    {
+      "id": "6b5d51233e51108435bcbab5",
+      "name": "Screen Shot 2022-02-26 at 9.54.00 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-02-26T21:54:04",
+        "modified": "2022-02-26T21:54:04",
+        "observed": "2022-02-26"
+      },
+      "date": "2022-02-26T21:54:04",
+      "dimensions": "2020×1372",
+      "duration": "",
+      "thumbnail": "media/thumbs/6b5d51233e51108435bcbab5.jpg",
+      "url": "media/images/6b5d51233e51108435bcbab5.png"
+    },
+    {
+      "id": "0f2c3c633d1066d39d91f80d",
+      "name": "Screen Shot 2022-02-26 at 10.30.20 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-02-26T22:30:24",
+        "modified": "2022-02-26T22:30:24",
+        "observed": "2022-02-26"
+      },
+      "date": "2022-02-26T22:30:24",
+      "dimensions": "2138×1452",
+      "duration": "",
+      "thumbnail": "media/thumbs/0f2c3c633d1066d39d91f80d.jpg",
+      "url": "media/images/0f2c3c633d1066d39d91f80d.png"
+    },
+    {
+      "id": "a308cf44333e421a57ee6d13",
+      "name": "Screen Shot 2022-02-27 at 10.51.56 PM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-02-27T22:51:58",
+        "modified": "2022-02-27T22:54:30",
+        "observed": "2022-02-27"
+      },
+      "date": "2022-02-27T22:54:30",
+      "dimensions": "4392×4672",
+      "duration": "",
+      "thumbnail": "media/thumbs/a308cf44333e421a57ee6d13.jpg",
+      "url": "media/images/a308cf44333e421a57ee6d13.png"
+    },
+    {
+      "id": "f8ec237b53624eb6546a7826",
+      "name": "Screen Shot 2022-03-12 at 9.50.33 AM.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-03-12T09:50:37",
+        "modified": "2022-03-12T09:50:37",
+        "observed": "2022-03-12"
+      },
+      "date": "2022-03-12T09:50:37",
+      "dimensions": "3122×2090",
+      "duration": "",
+      "thumbnail": "media/thumbs/f8ec237b53624eb6546a7826.jpg",
+      "url": "media/images/f8ec237b53624eb6546a7826.png"
+    },
+    {
+      "id": "d63e15ee7a99bf2ca578ee8d",
+      "name": "burning-village.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-03-16T18:37:45",
+        "modified": "2022-03-16T18:44:51",
+        "observed": "2022-03-16"
+      },
+      "date": "2022-03-16T18:44:51",
+      "dimensions": "1800×1200",
+      "duration": "",
+      "thumbnail": "media/thumbs/d63e15ee7a99bf2ca578ee8d.jpg",
+      "url": "media/images/d63e15ee7a99bf2ca578ee8d.jpg"
+    },
+    {
+      "id": "259eab3470d80228b0881f23",
+      "name": "terry.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-03-21"
+      },
+      "date": "2022-03-21",
+      "dimensions": "720×720",
+      "duration": "",
+      "thumbnail": "media/thumbs/259eab3470d80228b0881f23.jpg",
+      "originalUrl": "https://files.d20.io/images/276708332/_EgW4ZMqOzMNZOnbS-Hkmg/max.png?1647836806",
+      "url": "media/images/259eab3470d80228b0881f23.png"
+    },
+    {
+      "id": "cbee2138a5f9e7e3cbea4dd5",
+      "name": "2f35ff051892093e6b339c5168c13ab8.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-03-27T10:00:11",
+        "modified": "2022-03-27T10:09:43",
+        "observed": "2022-03-27"
+      },
+      "date": "2022-03-27T10:09:43",
+      "dimensions": "275×273",
+      "duration": "",
+      "thumbnail": "media/thumbs/cbee2138a5f9e7e3cbea4dd5.jpg",
+      "url": "media/images/cbee2138a5f9e7e3cbea4dd5.png"
+    },
+    {
+      "id": "2b936ebb147e0a23ede032ee",
+      "name": "619Eq4o8hRL._AC_UL1500_.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-03-27T13:47:22",
+        "modified": "2022-03-27T13:47:22",
+        "observed": "2022-03-27"
+      },
+      "date": "2022-03-27T13:47:22",
+      "dimensions": "1500×705",
+      "duration": "",
+      "thumbnail": "media/thumbs/2b936ebb147e0a23ede032ee.jpg",
+      "url": "media/images/2b936ebb147e0a23ede032ee.jpg"
+    },
+    {
+      "id": "117b3f59951c5e3e0d1982ba",
+      "name": "Nurn.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-03-29T20:49:22",
+        "modified": "2022-03-29T20:49:22",
+        "observed": "2022-03-29"
+      },
+      "date": "2022-03-29T20:49:22",
+      "dimensions": "256×256",
+      "duration": "",
+      "thumbnail": "media/thumbs/117b3f59951c5e3e0d1982ba.jpg",
+      "url": "media/images/117b3f59951c5e3e0d1982ba.png"
+    },
+    {
+      "id": "534b1a3debbfd011bd79aa03",
+      "name": "prisoncell.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-04-12T22:46:25",
+        "modified": "2022-04-12T22:55:49",
+        "observed": "2022-04-12"
+      },
+      "date": "2022-04-12T22:55:49",
+      "dimensions": "546×411",
+      "duration": "",
+      "thumbnail": "media/thumbs/534b1a3debbfd011bd79aa03.jpg",
+      "url": "media/images/534b1a3debbfd011bd79aa03.png"
+    },
+    {
+      "id": "8cf1d2aa5498f8d6b29c6ac7",
+      "name": "BattleForBrindinford.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2022-04-27T18:12:34",
+        "modified": "2022-04-27T18:12:34",
+        "observed": "2022-04-27"
+      },
+      "date": "2022-04-27T18:12:34",
+      "dimensions": "1828×1436",
+      "duration": "",
+      "thumbnail": "media/thumbs/8cf1d2aa5498f8d6b29c6ac7.jpg",
+      "url": "media/images/8cf1d2aa5498f8d6b29c6ac7.png"
+    },
+    {
+      "id": "13b26e39d350650727fa1e72",
+      "name": "Smithy.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-06-23T23:44:55",
+        "modified": "2022-06-23T23:48:29",
+        "observed": "2022-06-23"
+      },
+      "date": "2022-06-23T23:48:29",
+      "dimensions": "3248×2622",
+      "duration": "",
+      "thumbnail": "media/thumbs/13b26e39d350650727fa1e72.jpg",
+      "url": "media/images/13b26e39d350650727fa1e72.png"
+    },
+    {
+      "id": "9032b1bf7f56735f3e185656",
+      "name": "meepo.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-06-26"
+      },
+      "date": "2022-06-26",
+      "dimensions": "196×196",
+      "duration": "",
+      "thumbnail": "media/thumbs/9032b1bf7f56735f3e185656.jpg",
+      "originalUrl": "https://files.d20.io/images/291776643/fmbny33OC8AZsIh68j3G5g/max.png?1656280339",
+      "url": "media/images/9032b1bf7f56735f3e185656.png"
+    },
+    {
+      "id": "23f85b20823797efebbdb41a",
+      "name": "29251FE6-47CE-4A59-8D55-92D1D85E8FCF.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-06-26T17:24:31",
+        "modified": "2022-06-26T17:24:31",
+        "observed": "2022-06-26"
+      },
+      "date": "2022-06-26T17:24:31",
+      "dimensions": "2194×2806",
+      "duration": "",
+      "thumbnail": "media/thumbs/23f85b20823797efebbdb41a.jpg",
+      "url": "media/images/23f85b20823797efebbdb41a.png"
+    },
+    {
+      "id": "109395cc0590b0a1fd928f96",
+      "name": "Myra the Dragonhearted.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-06-26T18:05:21",
+        "modified": "2022-06-26T18:05:21",
+        "observed": "2022-06-26"
+      },
+      "date": "2022-06-26T18:05:21",
+      "dimensions": "680×864",
+      "duration": "",
+      "thumbnail": "media/thumbs/109395cc0590b0a1fd928f96.jpg",
+      "url": "media/images/109395cc0590b0a1fd928f96.jpg"
+    },
+    {
+      "id": "94f36f9823d642c7161cbab2",
+      "name": "Balders Gate.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-06-29T22:41:50",
+        "modified": "2022-06-29T22:41:50",
+        "observed": "2022-06-29"
+      },
+      "date": "2022-06-29T22:41:50",
+      "dimensions": "5025×3338",
+      "duration": "",
+      "thumbnail": "media/thumbs/94f36f9823d642c7161cbab2.jpg",
+      "url": "media/images/94f36f9823d642c7161cbab2.jpg"
+    },
+    {
+      "id": "c4e1dad40836a9fdd7a04a8a",
+      "name": "sleeper.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-07-13"
+      },
+      "date": "2022-07-13",
+      "dimensions": "256×256",
+      "duration": "",
+      "thumbnail": "media/thumbs/c4e1dad40836a9fdd7a04a8a.jpg",
+      "originalUrl": "https://files.d20.io/images/294386929/TVcg9h_k0tYqVCRSeRZzxQ/max.jpg?1657763935",
+      "url": "media/images/c4e1dad40836a9fdd7a04a8a.jpg"
+    },
+    {
+      "id": "f9f46dff5ad41aeb0eafe3d9",
+      "name": "5415321772_b60795b2f6_b.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-07-13T21:34:37",
+        "modified": "2022-07-13T21:34:37",
+        "observed": "2022-07-13"
+      },
+      "date": "2022-07-13T21:34:37",
+      "dimensions": "723×1023",
+      "duration": "",
+      "thumbnail": "media/thumbs/f9f46dff5ad41aeb0eafe3d9.jpg",
+      "url": "media/images/f9f46dff5ad41aeb0eafe3d9.jpg"
+    },
+    {
+      "id": "debdf292dda3fcdae533ec09",
+      "name": "UnderGuildSleep-Level3.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-07-23T00:47:14",
+        "modified": "2022-07-23T01:06:51",
+        "observed": "2022-07-23"
+      },
+      "date": "2022-07-23T01:06:51",
+      "dimensions": "1960×2380",
+      "duration": "",
+      "thumbnail": "media/thumbs/debdf292dda3fcdae533ec09.jpg",
+      "url": "media/images/debdf292dda3fcdae533ec09.png"
+    },
+    {
+      "id": "8e474840988f512b427b00e5",
+      "name": "8239607fe0d9c24f5cc757f776701a9c.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-08-15T13:08:01",
+        "modified": "2022-08-15T13:08:01",
+        "observed": "2022-08-15"
+      },
+      "date": "2022-08-15T13:08:01",
+      "dimensions": "440×850",
+      "duration": "",
+      "thumbnail": "media/thumbs/8e474840988f512b427b00e5.jpg",
+      "url": "media/images/8e474840988f512b427b00e5.jpg"
+    },
+    {
+      "id": "e1c1d7b491dc0599e96e7cd9",
+      "name": "table full.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2022-09-04"
+      },
+      "date": "2022-09-04",
+      "dimensions": "567×294",
+      "duration": "",
+      "thumbnail": "media/thumbs/e1c1d7b491dc0599e96e7cd9.jpg",
+      "originalUrl": "https://files.d20.io/images/303108005/0q9UyNv6wQC6UXIU3laFUw/max.png?1662339231",
+      "url": "media/images/e1c1d7b491dc0599e96e7cd9.png"
+    },
+    {
+      "id": "ddefec5277fc387e37ffe8fe",
+      "name": "y3wuee74e4w61.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-09-21T18:14:58",
+        "modified": "2022-09-21T18:14:58",
+        "observed": "2022-09-21"
+      },
+      "date": "2022-09-21T18:14:58",
+      "dimensions": "221×620",
+      "duration": "",
+      "thumbnail": "media/thumbs/ddefec5277fc387e37ffe8fe.jpg",
+      "url": "media/images/ddefec5277fc387e37ffe8fe.png"
+    },
+    {
+      "id": "db6594860f313406813e9577",
+      "name": "header.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2022-09-21T19:06:22",
+        "modified": "2022-09-21T19:06:22",
+        "observed": "2022-09-21"
+      },
+      "date": "2022-09-21T19:06:22",
+      "dimensions": "460×215",
+      "duration": "",
+      "thumbnail": "media/thumbs/db6594860f313406813e9577.jpg",
+      "url": "media/images/db6594860f313406813e9577.jpg"
+    },
+    {
+      "id": "cb39bf6c8e6c36673d27aaf7",
+      "name": "max.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2021-06-25T20:35:49",
+        "modified": "2022-10-05T13:01:46",
+        "observed": "2022-10-05"
+      },
+      "date": "2022-10-05T13:01:46",
+      "dimensions": "2048×1009",
+      "duration": "",
+      "thumbnail": "media/thumbs/cb39bf6c8e6c36673d27aaf7.jpg",
+      "url": "media/images/cb39bf6c8e6c36673d27aaf7.png"
+    },
+    {
+      "id": "28f8265d4ce8bf36b1040dcb",
+      "name": "ShowMeAKing.mov",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "local video",
+      "dates": {
+        "created": "2023-02-07T21:23:47",
+        "modified": "2023-02-07T21:23:47",
+        "observed": "2023-02-07"
+      },
+      "date": "2023-02-07T21:23:47",
+      "dimensions": "800x600",
+      "duration": "50.43",
+      "thumbnail": "media/thumbs/28f8265d4ce8bf36b1040dcb.jpg",
+      "url": "media/videos/28f8265d4ce8bf36b1040dcb.mp4"
+    },
+    {
+      "id": "72a78c71a9443f37358f2ce0",
+      "name": "ShowMeAKing.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-08",
+        "dropbox_server_modified": "2023-02-08"
+      },
+      "date": "2023-02-08",
+      "dimensions": "768×576",
+      "duration": 50.43,
+      "thumbnail": "media/thumbs/72a78c71a9443f37358f2ce0.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/lf6j6ew5wnee3inmkrr6f/ShowMeAKing.mp4?rlkey=x718azx988qnlp3bxy17vk9fz&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/lf6j6ew5wnee3inmkrr6f/ShowMeAKing.mp4?rlkey=x718azx988qnlp3bxy17vk9fz&dl=0"
+    },
+    {
+      "id": "fca618798784bfbb7b6387b1",
+      "name": "SleeperStart.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-08",
+        "dropbox_server_modified": "2023-02-08"
+      },
+      "date": "2023-02-08",
+      "dimensions": "768×576",
+      "duration": 14.27,
+      "thumbnail": "media/thumbs/fca618798784bfbb7b6387b1.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/fvg55ryorsa4l8c40t8j2/SleeperStart.mp4?rlkey=7uzv9vt4b02wfecrclg0b21v5&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/fvg55ryorsa4l8c40t8j2/SleeperStart.mp4?rlkey=7uzv9vt4b02wfecrclg0b21v5&dl=0"
+    },
+    {
+      "id": "c6dbbdd88f9b78243f07a02d",
+      "name": "demigorgon.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-02-09T15:47:33",
+        "modified": "2023-02-09T15:47:33",
+        "observed": "2023-02-09"
+      },
+      "date": "2023-02-09T15:47:33",
+      "dimensions": "659×832",
+      "duration": "",
+      "thumbnail": "media/thumbs/c6dbbdd88f9b78243f07a02d.jpg",
+      "url": "media/images/c6dbbdd88f9b78243f07a02d.png"
+    },
+    {
+      "id": "c10b8f3ca801c77d42e28a35",
+      "name": "eudostis.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "local video",
+      "dates": {
+        "created": "2023-02-09T17:27:30",
+        "modified": "2023-02-09T17:28:42",
+        "observed": "2023-02-09"
+      },
+      "date": "2023-02-09T17:28:42",
+      "dimensions": "720x576",
+      "duration": "82.56",
+      "thumbnail": "media/thumbs/c10b8f3ca801c77d42e28a35.jpg",
+      "url": "media/videos/c10b8f3ca801c77d42e28a35.mp4"
+    },
+    {
+      "id": "5193d3d3f751af4a8282b1d0",
+      "name": "Dreamer_aameul_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 20.35,
+      "thumbnail": "media/thumbs/5193d3d3f751af4a8282b1d0.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/k69mi2bjfki0hfxwln5jc/Dreamer_aameul_cc.mp4?rlkey=oj1hkw90yqwnklowqxrtpdg63&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/k69mi2bjfki0hfxwln5jc/Dreamer_aameul_cc.mp4?rlkey=oj1hkw90yqwnklowqxrtpdg63&dl=0"
+    },
+    {
+      "id": "c11c652b45ec645483d65961",
+      "name": "Dreamer_ashardalon_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 34.34,
+      "thumbnail": "media/thumbs/c11c652b45ec645483d65961.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/gwrr3nn9ttbtz4txu0eyc/Dreamer_ashardalon_cc.mp4?rlkey=kb6za0pvbbgdwjkqgalasg959&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/gwrr3nn9ttbtz4txu0eyc/Dreamer_ashardalon_cc.mp4?rlkey=kb6za0pvbbgdwjkqgalasg959&dl=0"
+    },
+    {
+      "id": "d29284a09681c4e52c91a182",
+      "name": "Dreamer_bastion_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 25.09,
+      "thumbnail": "media/thumbs/d29284a09681c4e52c91a182.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/3j4ah5b6db0kp0ffuue79/Dreamer_bastion_cc.mp4?rlkey=rbr1r80lduqmdsj25gca67iph&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/3j4ah5b6db0kp0ffuue79/Dreamer_bastion_cc.mp4?rlkey=rbr1r80lduqmdsj25gca67iph&dl=0"
+    },
+    {
+      "id": "1d1ceaba935fd54b924bf594",
+      "name": "Dreamer_desayeus_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 36.9,
+      "thumbnail": "media/thumbs/1d1ceaba935fd54b924bf594.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/81s3c4jj5o75bwo6dew2i/Dreamer_desayeus_cc.mp4?rlkey=he196qtstsrmh9v8ao5mj2cxp&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/81s3c4jj5o75bwo6dew2i/Dreamer_desayeus_cc.mp4?rlkey=he196qtstsrmh9v8ao5mj2cxp&dl=0"
+    },
+    {
+      "id": "49d391265bfec0f5b163b749",
+      "name": "Dreamer_eco_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 16.96,
+      "thumbnail": "media/thumbs/49d391265bfec0f5b163b749.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/h7b9d7iqmdcem6vdka8zc/Dreamer_eco_cc.mp4?rlkey=cilrdha6facqp4rpyispad3e0&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/h7b9d7iqmdcem6vdka8zc/Dreamer_eco_cc.mp4?rlkey=cilrdha6facqp4rpyispad3e0&dl=0"
+    },
+    {
+      "id": "2c86a2bcf466d530ded6deb1",
+      "name": "Dreamer_entry_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 21.02,
+      "thumbnail": "media/thumbs/2c86a2bcf466d530ded6deb1.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/64jo07b1y94m475gh41s1/Dreamer_entry_cc.mp4?rlkey=ukzz4vtm3o2bcbrotx63f4rv8&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/64jo07b1y94m475gh41s1/Dreamer_entry_cc.mp4?rlkey=ukzz4vtm3o2bcbrotx63f4rv8&dl=0"
+    },
+    {
+      "id": "2925c60b471e38de1b5cd9fb",
+      "name": "Dreamer_eudostis_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 82.56,
+      "thumbnail": "media/thumbs/2925c60b471e38de1b5cd9fb.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/r5ci2n9owlh845uoabnwx/Dreamer_eudostis_cc.mp4?rlkey=kg1rscrv6e01k6mje3nfw2pz1&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/r5ci2n9owlh845uoabnwx/Dreamer_eudostis_cc.mp4?rlkey=kg1rscrv6e01k6mje3nfw2pz1&dl=0"
+    },
+    {
+      "id": "3a46ea47eb4968e5e64e530e",
+      "name": "Dreamer_start_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-10",
+        "dropbox_server_modified": "2023-02-10"
+      },
+      "date": "2023-02-10",
+      "dimensions": "768×576",
+      "duration": 11.84,
+      "thumbnail": "media/thumbs/3a46ea47eb4968e5e64e530e.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/0z3v7kexdqok5cqyzdd6n/Dreamer_start_cc.mp4?rlkey=emafnwp24i08et0eq2y4hkpcr&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/0z3v7kexdqok5cqyzdd6n/Dreamer_start_cc.mp4?rlkey=emafnwp24i08et0eq2y4hkpcr&dl=0"
+    },
+    {
+      "id": "7565bbfcfb95b724a4159698",
+      "name": "Church of Terry.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-02-14T23:15:48",
+        "modified": "2023-02-14T23:15:48",
+        "observed": "2023-02-14"
+      },
+      "date": "2023-02-14T23:15:48",
+      "dimensions": "3500×3500",
+      "duration": "",
+      "thumbnail": "media/thumbs/7565bbfcfb95b724a4159698.jpg",
+      "url": "media/images/7565bbfcfb95b724a4159698.jpg"
+    },
+    {
+      "id": "eb9baf91ccb433a10edad20b",
+      "name": "father pelor.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2023-02-16"
+      },
+      "date": "2023-02-16",
+      "dimensions": "409×409",
+      "duration": "",
+      "thumbnail": "media/thumbs/eb9baf91ccb433a10edad20b.jpg",
+      "originalUrl": "https://files.d20.io/images/328253879/-EM1n29j-OCMnaqxTtmTig/max.jpg?1676568153",
+      "url": "media/images/eb9baf91ccb433a10edad20b.jpg"
+    },
+    {
+      "id": "4b3b5f1e123c818df00f01e9",
+      "name": "Brother Pelor.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2023-02-16T12:21:48",
+        "modified": "2023-02-16T12:21:48",
+        "observed": "2023-02-16"
+      },
+      "date": "2023-02-16T12:21:48",
+      "dimensions": "1200×1200",
+      "duration": "",
+      "thumbnail": "media/thumbs/4b3b5f1e123c818df00f01e9.jpg",
+      "url": "media/images/4b3b5f1e123c818df00f01e9.png"
+    },
+    {
+      "id": "2d3c68824292a1b91cfd1f74",
+      "name": "dreamer_age_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-02-28",
+        "dropbox_server_modified": "2023-02-28"
+      },
+      "date": "2023-02-28",
+      "dimensions": "768×576",
+      "duration": 52.75,
+      "thumbnail": "media/thumbs/2d3c68824292a1b91cfd1f74.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/0p1mvb3slkj4y7fs7qjqc/dreamer_age_cc.mp4?rlkey=jgcpnqhb32zzp6q5dqozero4b&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/0p1mvb3slkj4y7fs7qjqc/dreamer_age_cc.mp4?rlkey=jgcpnqhb32zzp6q5dqozero4b&dl=0"
+    },
+    {
+      "id": "d51ed1a65d8ef5a821e9c09e",
+      "name": "Dreamer_DreamALittleDream_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-03-02",
+        "dropbox_server_modified": "2023-03-02"
+      },
+      "date": "2023-03-02",
+      "dimensions": "768×576",
+      "duration": 31.49,
+      "thumbnail": "media/thumbs/d51ed1a65d8ef5a821e9c09e.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/hyok26cpkdp7obanw5f8w/Dreamer_DreamALittleDream_cc.mp4?rlkey=0m7xghmxi7f4t1y9cv72rir5a&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/hyok26cpkdp7obanw5f8w/Dreamer_DreamALittleDream_cc.mp4?rlkey=0m7xghmxi7f4t1y9cv72rir5a&dl=0"
+    },
+    {
+      "id": "c961a67cf6488711eddb57d6",
+      "name": "Dreamer_DreamALittleDreamShrop_cc.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-03-13",
+        "dropbox_server_modified": "2023-03-13"
+      },
+      "date": "2023-03-13",
+      "dimensions": "720×576",
+      "duration": 57.38,
+      "thumbnail": "media/thumbs/c961a67cf6488711eddb57d6.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/ln1b1ssrctf3tus6oxhvf/Dreamer_DreamALittleDreamShrop_cc.mp4?rlkey=bxqg43ek6okgz4q9y21gbd02q&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/ln1b1ssrctf3tus6oxhvf/Dreamer_DreamALittleDreamShrop_cc.mp4?rlkey=bxqg43ek6okgz4q9y21gbd02q&dl=0"
+    },
+    {
+      "id": "a10fc9a217815a9a75220b98",
+      "name": "Carnival_Barker_full.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-03-14T09:33:06",
+        "modified": "2023-03-14T09:33:06",
+        "observed": "2023-03-14"
+      },
+      "date": "2023-03-14T09:33:06",
+      "dimensions": "500×654",
+      "duration": "",
+      "thumbnail": "media/thumbs/a10fc9a217815a9a75220b98.jpg",
+      "url": "media/images/a10fc9a217815a9a75220b98.webp"
+    },
+    {
+      "id": "13a97c9f5a4025e947429080",
+      "name": "zemana.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2023-03-15"
+      },
+      "date": "2023-03-15",
+      "dimensions": "600×878",
+      "duration": "",
+      "thumbnail": "media/thumbs/13a97c9f5a4025e947429080.jpg",
+      "originalUrl": "https://files.d20.io/images/332711218/sCifNufgsXae-wEJDs48nw/max.jpg?1678902887",
+      "url": "media/images/13a97c9f5a4025e947429080.jpg"
+    },
+    {
+      "id": "1cc0377599bc69bd39fa2950",
+      "name": "Zemana.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-03-15T13:54:39",
+        "modified": "2023-03-15T13:54:39",
+        "observed": "2023-03-15"
+      },
+      "date": "2023-03-15T13:54:39",
+      "dimensions": "600×878",
+      "duration": "",
+      "thumbnail": "media/thumbs/1cc0377599bc69bd39fa2950.jpg",
+      "url": "media/images/1cc0377599bc69bd39fa2950.jpg"
+    },
+    {
+      "id": "7f0785a735acb7da0bcccf5c",
+      "name": "NewDreamShropPartOne_cc.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-04-01",
+        "dropbox_server_modified": "2023-04-01"
+      },
+      "date": "2023-04-01",
+      "dimensions": "720×576",
+      "duration": 69.06,
+      "thumbnail": "media/thumbs/7f0785a735acb7da0bcccf5c.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/t567u7opm11w5oxvmolzc/NewDreamShropPartOne_cc.mp4?rlkey=qb7323ehr59uuqdidbmum2zkg&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/t567u7opm11w5oxvmolzc/NewDreamShropPartOne_cc.mp4?rlkey=qb7323ehr59uuqdidbmum2zkg&dl=0"
+    },
+    {
+      "id": "1f5f1edbfbe56925b6ac7672",
+      "name": "NewDreamShropPartTwo_cc.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-04-01",
+        "dropbox_server_modified": "2023-04-01"
+      },
+      "date": "2023-04-01",
+      "dimensions": "768×576",
+      "duration": 33.73,
+      "thumbnail": "media/thumbs/1f5f1edbfbe56925b6ac7672.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/c1fdo361rdxye7jbofxz9/NewDreamShropPartTwo_cc.mp4?rlkey=l90unniqclb5e8eanno97p5l1&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/c1fdo361rdxye7jbofxz9/NewDreamShropPartTwo_cc.mp4?rlkey=l90unniqclb5e8eanno97p5l1&dl=0"
+    },
+    {
+      "id": "085db9b34b7e8637007e298b",
+      "name": "timepod.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-04-04T16:33:20",
+        "modified": "2023-04-04T16:33:20",
+        "observed": "2023-04-04"
+      },
+      "date": "2023-04-04T16:33:20",
+      "dimensions": "512×512",
+      "duration": "",
+      "thumbnail": "media/thumbs/085db9b34b7e8637007e298b.jpg",
+      "url": "media/images/085db9b34b7e8637007e298b.jpg"
+    },
+    {
+      "id": "fd2d8f2975a750d211f70411",
+      "name": "timepod.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-04-04T16:36:50",
+        "modified": "2023-04-04T16:36:50",
+        "observed": "2023-04-04"
+      },
+      "date": "2023-04-04T16:36:50",
+      "dimensions": "333×374",
+      "duration": "",
+      "thumbnail": "media/thumbs/fd2d8f2975a750d211f70411.jpg",
+      "url": "media/images/fd2d8f2975a750d211f70411.png"
+    },
+    {
+      "id": "a082c398ed94f2cc921f44e3",
+      "name": "tumblr_no8um3e2yg1ro2bqto1_500.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2023-04-25"
+      },
+      "date": "2023-04-25",
+      "dimensions": "500×326",
+      "duration": "",
+      "thumbnail": "media/thumbs/a082c398ed94f2cc921f44e3.jpg",
+      "originalUrl": "https://files.d20.io/images/339030374/HxO-gLMjS1e9WoTTernUOg/max.jpg?1682453616",
+      "url": "media/images/a082c398ed94f2cc921f44e3.jpg"
+    },
+    {
+      "id": "0c90e3b744f49d27d90247c4",
+      "name": "crab-encounter.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-04-25T16:15:50",
+        "modified": "2023-04-25T16:15:50",
+        "observed": "2023-04-25"
+      },
+      "date": "2023-04-25T16:15:50",
+      "dimensions": "516×600",
+      "duration": "",
+      "thumbnail": "media/thumbs/0c90e3b744f49d27d90247c4.jpg",
+      "url": "media/images/0c90e3b744f49d27d90247c4.webp"
+    },
+    {
+      "id": "40f1dbcd158ebe6cc33745b9",
+      "name": "GrampsToTheRescue.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-08-24",
+        "dropbox_server_modified": "2023-08-24"
+      },
+      "date": "2023-08-24",
+      "dimensions": "1280×720",
+      "duration": 101.81,
+      "thumbnail": "media/thumbs/40f1dbcd158ebe6cc33745b9.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/y1ums6rotmuejx6raa5em/GrampsToTheRescue.mp4?rlkey=02gx3zx8ux1kw9hb88ioyfzvk&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/y1ums6rotmuejx6raa5em/GrampsToTheRescue.mp4?rlkey=02gx3zx8ux1kw9hb88ioyfzvk&dl=0"
+    },
+    {
+      "id": "9853054ddd4a7b533a148120",
+      "name": "eoGCd63.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-09-19T17:34:10",
+        "modified": "2023-09-19T17:34:10",
+        "observed": "2023-09-19"
+      },
+      "date": "2023-09-19T17:34:10",
+      "dimensions": "1600×727",
+      "duration": "",
+      "thumbnail": "media/thumbs/9853054ddd4a7b533a148120.jpg",
+      "url": "media/images/9853054ddd4a7b533a148120.jpg"
+    },
+    {
+      "id": "9f3877ab6480f2ac2aacf29e",
+      "name": "Chamber_Start.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-11-08",
+        "dropbox_server_modified": "2023-11-08"
+      },
+      "date": "2023-11-08",
+      "dimensions": "1280×720",
+      "duration": 90.94,
+      "thumbnail": "media/thumbs/9f3877ab6480f2ac2aacf29e.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/2gq350vx3c8v1rbnz0pa1/Chamber_Start.mp4?rlkey=u75zdv7556hyujqcpae76fq5a&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/2gq350vx3c8v1rbnz0pa1/Chamber_Start.mp4?rlkey=u75zdv7556hyujqcpae76fq5a&dl=0"
+    },
+    {
+      "id": "f4bc05b2ea78c215dba00617",
+      "name": "narrator.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-11-08T00:11:53",
+        "modified": "2023-11-08T00:11:53",
+        "observed": "2023-11-08"
+      },
+      "date": "2023-11-08T00:11:53",
+      "dimensions": "736×736",
+      "duration": "",
+      "thumbnail": "media/thumbs/f4bc05b2ea78c215dba00617.jpg",
+      "url": "media/images/f4bc05b2ea78c215dba00617.jpg"
+    },
+    {
+      "id": "e4cdb9ae5e9fe6297199e8fb",
+      "name": "Chamber_End.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-11-09",
+        "dropbox_server_modified": "2023-11-09"
+      },
+      "date": "2023-11-09",
+      "dimensions": "1280×720",
+      "duration": 268.64,
+      "thumbnail": "media/thumbs/e4cdb9ae5e9fe6297199e8fb.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/pipb8htqlpclf93f8r3w6/Chamber_End.mp4?rlkey=9hgq4nb9x1xco95xwweshp2cx&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/pipb8htqlpclf93f8r3w6/Chamber_End.mp4?rlkey=9hgq4nb9x1xco95xwweshp2cx&dl=0"
+    },
+    {
+      "id": "cdcc6c696090285ff8be2af5",
+      "name": "Chamber_Next.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-11-09",
+        "dropbox_server_modified": "2023-11-09"
+      },
+      "date": "2023-11-09",
+      "dimensions": "1280×720",
+      "duration": 150.14,
+      "thumbnail": "media/thumbs/cdcc6c696090285ff8be2af5.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/jpmyez1rhrchhez6suqpy/Chamber_Next.mp4?rlkey=am142mylikcoi9z4e0xubz23f&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/jpmyez1rhrchhez6suqpy/Chamber_Next.mp4?rlkey=am142mylikcoi9z4e0xubz23f&dl=0"
+    },
+    {
+      "id": "9cbc94ecf76ec9e4a142802e",
+      "name": "Bastion Goals.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2023-11-10T15:58:43",
+        "modified": "2023-11-10T15:58:43",
+        "observed": "2023-11-10"
+      },
+      "date": "2023-11-10T15:58:43",
+      "dimensions": "3956×2306",
+      "duration": "",
+      "thumbnail": "media/thumbs/9cbc94ecf76ec9e4a142802e.jpg",
+      "url": "media/images/9cbc94ecf76ec9e4a142802e.png"
+    },
+    {
+      "id": "84c6b988bb1e647d9a2d7054",
+      "name": "max.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2023-11-15T15:25:18",
+        "modified": "2023-11-15T15:25:18",
+        "observed": "2023-11-15"
+      },
+      "date": "2023-11-15T15:25:18",
+      "dimensions": "736×736",
+      "duration": "",
+      "thumbnail": "media/thumbs/84c6b988bb1e647d9a2d7054.jpg",
+      "url": "media/images/84c6b988bb1e647d9a2d7054.png"
+    },
+    {
+      "id": "19efa29372286cde93e35d24",
+      "name": "Angry Dreamer.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2023-11-22",
+        "dropbox_server_modified": "2023-11-22"
+      },
+      "date": "2023-11-22",
+      "dimensions": "1280×720",
+      "duration": 56.67,
+      "thumbnail": "media/thumbs/19efa29372286cde93e35d24.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/tst5f3kut6z12l0wby9ob/Angry-Dreamer.mp4?rlkey=jcxhglj05jnro0zwdijjzacct&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/tst5f3kut6z12l0wby9ob/Angry-Dreamer.mp4?rlkey=jcxhglj05jnro0zwdijjzacct&dl=0"
+    },
+    {
+      "id": "fc5399725f2ef771d336192a",
+      "name": "crazy.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2023-11-22"
+      },
+      "date": "2023-11-22",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/fc5399725f2ef771d336192a.jpg",
+      "originalUrl": "https://files.d20.io/images/368806706/KAUv0bAk9dgbOQG0Yo16qQ/max.png?1700709900",
+      "url": "media/images/fc5399725f2ef771d336192a.png"
+    },
+    {
+      "id": "e41e8aeeecdd3db15ca6be0c",
+      "name": "Angry Dreamer.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "local video",
+      "dates": {
+        "created": "2023-11-22T17:45:49",
+        "modified": "2023-11-22T17:49:01",
+        "observed": "2023-11-22"
+      },
+      "date": "2023-11-22T17:49:01",
+      "dimensions": "1280x720",
+      "duration": "56.67",
+      "thumbnail": "media/thumbs/e41e8aeeecdd3db15ca6be0c.jpg",
+      "url": "media/videos/e41e8aeeecdd3db15ca6be0c.mp4"
+    },
+    {
+      "id": "92db6b1630e54173df2f1e5a",
+      "name": "CaptianPepper.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-01-04T15:58:22",
+        "modified": "2024-01-04T15:58:22",
+        "observed": "2024-01-04"
+      },
+      "date": "2024-01-04T15:58:22",
+      "dimensions": "512×512",
+      "duration": "",
+      "thumbnail": "media/thumbs/92db6b1630e54173df2f1e5a.jpg",
+      "url": "media/images/92db6b1630e54173df2f1e5a.webp"
+    },
+    {
+      "id": "91152e48419431995926abe0",
+      "name": "Dire_Weasel.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-01-05T23:55:03",
+        "modified": "2024-01-05T23:55:03",
+        "observed": "2024-01-05"
+      },
+      "date": "2024-01-05T23:55:03",
+      "dimensions": "200×200",
+      "duration": "",
+      "thumbnail": "media/thumbs/91152e48419431995926abe0.jpg",
+      "url": "media/images/91152e48419431995926abe0.png"
+    },
+    {
+      "id": "cbf240c67b9e3173b52e2a0d",
+      "name": "token_mon_weasel01[weasel,+stoat,++ferret,+familiar,+summon+monster,+summon].png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-01-07"
+      },
+      "date": "2024-01-07",
+      "dimensions": "280×280",
+      "duration": "",
+      "thumbnail": "media/thumbs/cbf240c67b9e3173b52e2a0d.jpg",
+      "originalUrl": "https://files.d20.io/images/374425738/PMVtoYFlFEBy-x930ufOEA/max.png?1704656229",
+      "url": "media/images/cbf240c67b9e3173b52e2a0d.png"
+    },
+    {
+      "id": "828542a64ccfdbefbe44299c",
+      "name": "ernie.mov",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-01-07T15:48:22",
+        "created": "2024-01-07T15:48:22"
+      },
+      "date": "2024-01-07T15:48:22",
+      "dimensions": "1440×1080",
+      "duration": 5.4,
+      "thumbnail": "media/thumbs/828542a64ccfdbefbe44299c.jpg",
+      "url": "media/videos/828542a64ccfdbefbe44299c.mp4"
+    },
+    {
+      "id": "2a81cd78d1d68ef7cbfed6b4",
+      "name": "Birth.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-01-08",
+        "dropbox_server_modified": "2024-01-08"
+      },
+      "date": "2024-01-08",
+      "dimensions": "1280×720",
+      "duration": 242.85,
+      "thumbnail": "media/thumbs/2a81cd78d1d68ef7cbfed6b4.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/pgtz1gohz3rbz2uavza1q/Birth.mp4?rlkey=i2vxu5z0i3q7sjc5z0t6xt00m&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/pgtz1gohz3rbz2uavza1q/Birth.mp4?rlkey=i2vxu5z0i3q7sjc5z0t6xt00m&dl=0"
+    },
+    {
+      "id": "845114928bcefca70bcdce15",
+      "name": "Fountain.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-01-08",
+        "dropbox_server_modified": "2024-01-08"
+      },
+      "date": "2024-01-08",
+      "dimensions": "1280×720",
+      "duration": 190.75,
+      "thumbnail": "media/thumbs/845114928bcefca70bcdce15.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/bozik0nfi6h6u9whjhqoq/Fountain.mp4?rlkey=yiso6zm3njy8yo37jnz7759r8&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/bozik0nfi6h6u9whjhqoq/Fountain.mp4?rlkey=yiso6zm3njy8yo37jnz7759r8&dl=0"
+    },
+    {
+      "id": "d095540d327536cc2bff46e4",
+      "name": "Fountain.mp4",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "local video",
+      "dates": {
+        "created": "2024-01-07T23:52:56",
+        "modified": "2024-01-08T00:05:38",
+        "observed": "2024-01-08"
+      },
+      "date": "2024-01-08T00:05:38",
+      "dimensions": "1280x720",
+      "duration": "190.75",
+      "thumbnail": "media/thumbs/d095540d327536cc2bff46e4.jpg",
+      "url": "media/videos/d095540d327536cc2bff46e4.mp4"
+    },
+    {
+      "id": "30b86f51278b96993fba03f9",
+      "name": "wp9357449.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-01-08T14:09:51",
+        "modified": "2024-01-08T14:09:51",
+        "observed": "2024-01-08"
+      },
+      "date": "2024-01-08T14:09:51",
+      "dimensions": "1920×1920",
+      "duration": "",
+      "thumbnail": "media/thumbs/30b86f51278b96993fba03f9.jpg",
+      "url": "media/images/30b86f51278b96993fba03f9.jpg"
+    },
+    {
+      "id": "504fb883f1a83b4c6c58b056",
+      "name": "admiral_fishing_rod_1.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-01-25"
+      },
+      "date": "2024-01-25",
+      "dimensions": "1080×1080",
+      "duration": "",
+      "thumbnail": "media/thumbs/504fb883f1a83b4c6c58b056.jpg",
+      "originalUrl": "https://files.d20.io/images/377169922/-f1NKbfeybMhJmrnD_x3vQ/max.webp?1706214068",
+      "url": "media/images/504fb883f1a83b4c6c58b056.webp"
+    },
+    {
+      "id": "335fec1d1fd8bbba8c82a782",
+      "name": "c0116493-800px-wm.png",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-01-27T15:22:32",
+        "modified": "2024-01-27T15:24:49",
+        "observed": "2024-01-27"
+      },
+      "date": "2024-01-27T15:24:49",
+      "dimensions": "800×656",
+      "duration": "",
+      "thumbnail": "media/thumbs/335fec1d1fd8bbba8c82a782.jpg",
+      "url": "media/images/335fec1d1fd8bbba8c82a782.png"
+    },
+    {
+      "id": "56a90f5b423ae628007fc8eb",
+      "name": "keraptis_symbol.jpg",
+      "kind": "image",
+      "chapter": "white-plume",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-02-06"
+      },
+      "date": "2024-02-06",
+      "dimensions": "200×215",
+      "duration": "",
+      "thumbnail": "media/thumbs/56a90f5b423ae628007fc8eb.jpg",
+      "originalUrl": "https://files.d20.io/images/379085529/hVycpctmEzDIgGW9Xn4_gg/max.jpg?1707259555",
+      "url": "media/images/56a90f5b423ae628007fc8eb.jpg"
+    },
+    {
+      "id": "9b5b7d88e158499cb78621e5",
+      "name": "NeverwinterMapClean-scaled.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-02-06T17:17:23",
+        "modified": "2024-02-06T17:17:23",
+        "observed": "2024-02-06"
+      },
+      "date": "2024-02-06T17:17:23",
+      "dimensions": "2560×1978",
+      "duration": "",
+      "thumbnail": "media/thumbs/9b5b7d88e158499cb78621e5.jpg",
+      "url": "media/images/9b5b7d88e158499cb78621e5.jpg"
+    },
+    {
+      "id": "f471e2eb538751c5f104bafd",
+      "name": "image-asset.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-02-07"
+      },
+      "date": "2024-02-07",
+      "dimensions": "615×485",
+      "duration": "",
+      "thumbnail": "media/thumbs/f471e2eb538751c5f104bafd.jpg",
+      "originalUrl": "https://files.d20.io/images/379235512/TiE-Zw5mki9v4EmRFw0PLg/max.jpg?1707358235",
+      "url": "media/images/f471e2eb538751c5f104bafd.jpg"
+    },
+    {
+      "id": "5188d7a7c3631240e46e9877",
+      "name": "v7tc7pl60kr81.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-02-20T17:32:34",
+        "modified": "2024-02-20T17:32:34",
+        "observed": "2024-02-20"
+      },
+      "date": "2024-02-20T17:32:34",
+      "dimensions": "4096×3072",
+      "duration": "",
+      "thumbnail": "media/thumbs/5188d7a7c3631240e46e9877.jpg",
+      "url": "media/images/5188d7a7c3631240e46e9877.webp"
+    },
+    {
+      "id": "2405e32de11e063e6c375617",
+      "name": "Bank_grid_logo-768x1024.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-02-23T23:46:38",
+        "modified": "2024-02-23T23:46:38",
+        "observed": "2024-02-23"
+      },
+      "date": "2024-02-23T23:46:38",
+      "dimensions": "768×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/2405e32de11e063e6c375617.jpg",
+      "url": "media/images/2405e32de11e063e6c375617.jpg"
+    },
+    {
+      "id": "92c6408d4077fda950990c49",
+      "name": "dvbktumsk7t61.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-03-03T13:36:38",
+        "modified": "2024-03-03T13:36:38",
+        "observed": "2024-03-03"
+      },
+      "date": "2024-03-03T13:36:38",
+      "dimensions": "2048×1655",
+      "duration": "",
+      "thumbnail": "media/thumbs/92c6408d4077fda950990c49.jpg",
+      "url": "media/images/92c6408d4077fda950990c49.webp"
+    },
+    {
+      "id": "a887bd5e1e803472ec1d4ff9",
+      "name": "Luskan_-_city_of_pirates.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-03-04T16:22:21",
+        "modified": "2024-03-04T16:22:21",
+        "observed": "2024-03-04"
+      },
+      "date": "2024-03-04T16:22:21",
+      "dimensions": "1000×568",
+      "duration": "",
+      "thumbnail": "media/thumbs/a887bd5e1e803472ec1d4ff9.jpg",
+      "url": "media/images/a887bd5e1e803472ec1d4ff9.webp"
+    },
+    {
+      "id": "9a8fe8b467539b524c1ecc91",
+      "name": "Thundertrain01.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-03-19",
+        "dropbox_server_modified": "2024-03-19"
+      },
+      "date": "2024-03-19",
+      "dimensions": "3186×1194",
+      "duration": 40.67,
+      "thumbnail": "media/thumbs/9a8fe8b467539b524c1ecc91.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/rdp2w7rmf17sv3n7fwcy5/Thundertrain01.mp4?rlkey=3f0pao0aiwuwmhcs1uv944lcc&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/rdp2w7rmf17sv3n7fwcy5/Thundertrain01.mp4?rlkey=3f0pao0aiwuwmhcs1uv944lcc&dl=0"
+    },
+    {
+      "id": "172be4b9372b8bfbc39418fb",
+      "name": "GrimsHome.jpg",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "local image",
+      "dates": {
+        "created": "2024-06-18T21:37:16",
+        "modified": "2024-06-18T21:37:16",
+        "observed": "2024-06-18"
+      },
+      "date": "2024-06-18T21:37:16",
+      "dimensions": "2048×1220",
+      "duration": "",
+      "thumbnail": "media/thumbs/172be4b9372b8bfbc39418fb.jpg",
+      "url": "media/images/172be4b9372b8bfbc39418fb.jpg"
+    },
+    {
+      "id": "038b5acc03e9499080155f61",
+      "name": "Starter_Finished.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-06-21",
+        "dropbox_server_modified": "2024-06-21"
+      },
+      "date": "2024-06-21",
+      "dimensions": "1280×720",
+      "duration": 140.38,
+      "thumbnail": "media/thumbs/038b5acc03e9499080155f61.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/xftm0mo5lb8jqi2e11a09/Starter_Finished.mp4?rlkey=90zk5y1pm9x8g4uh95w1d18bp&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/xftm0mo5lb8jqi2e11a09/Starter_Finished.mp4?rlkey=90zk5y1pm9x8g4uh95w1d18bp&dl=0"
+    },
+    {
+      "id": "ffd34e3e86bcbfe29df8bb16",
+      "name": "Starter_Finished.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-06-21T13:21:29",
+        "created": "2024-06-21T13:20:38"
+      },
+      "date": "2024-06-21T13:21:29",
+      "dimensions": "1280×720",
+      "duration": 140.38,
+      "thumbnail": "media/thumbs/ffd34e3e86bcbfe29df8bb16.jpg",
+      "url": "media/videos/ffd34e3e86bcbfe29df8bb16.mp4"
+    },
+    {
+      "id": "960f3cc750e2a28eff2f6ec3",
+      "name": "dall·e 2024-06-29 23.48.15 - a detailed view of the town of easthaven from dungeons & dragons 5th edition, set in the ten-towns area of the arctic north, during the time of the ri.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-06-29"
+      },
+      "date": "2024-06-29",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/960f3cc750e2a28eff2f6ec3.jpg",
+      "originalUrl": "https://files.d20.io/images/399008835/Zucer2kwesiuJkyvJMu0wQ/max.webp?1719719306",
+      "url": "media/images/960f3cc750e2a28eff2f6ec3.webp"
+    },
+    {
+      "id": "2f0b37683fe5db80602205d8",
+      "name": "dall·e 2024-06-30 00.43.44 - a graphic novel style scene depicting the execution square in the heart of easthaven, set in the ten-towns area during the rime of the frostmaiden mod.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-06-30"
+      },
+      "date": "2024-06-30",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/2f0b37683fe5db80602205d8.jpg",
+      "originalUrl": "https://files.d20.io/images/399013368/Qn1ckHnHqdoJSUe3DgG-xQ/max.webp?1719722844",
+      "url": "media/images/2f0b37683fe5db80602205d8.webp"
+    },
+    {
+      "id": "c0f81947bc84bb9cf3238e13",
+      "name": "dall·e 2024-06-30 00.48.39 - a graphic novel style street view of the white lady inn in easthaven, set in the ten-towns area during the rime of the frostmaiden module in 5th editi.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-06-30"
+      },
+      "date": "2024-06-30",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/c0f81947bc84bb9cf3238e13.jpg",
+      "originalUrl": "https://files.d20.io/images/399013508/RPQQlTjHhD9voC_TSruGxw/max.webp?1719722928",
+      "url": "media/images/c0f81947bc84bb9cf3238e13.webp"
+    },
+    {
+      "id": "900fa846ba001c10683d2d10",
+      "name": "dall·e 2024-06-30 09.54.08 - a street view of the northlook tavern, situated near the center of easthaven, easily accessible from the town's main thoroughfares and close to the do.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-06-30"
+      },
+      "date": "2024-06-30",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/900fa846ba001c10683d2d10.jpg",
+      "originalUrl": "https://files.d20.io/images/399051878/_raXLVVHE1S7l98BCM8X3A/max.webp?1719756031",
+      "url": "media/images/900fa846ba001c10683d2d10.webp"
+    },
+    {
+      "id": "f5b9667224f79addd6c2e7c5",
+      "name": "dall·e 2024-06-30 10.30.32 - a dramatic scene for a dungeons & dragons handout titled 'toil and trouble.' the image depicts the burning of the red wizard, dzaan, in easthaven. the.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-06-30"
+      },
+      "date": "2024-06-30",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/f5b9667224f79addd6c2e7c5.jpg",
+      "originalUrl": "https://files.d20.io/images/399055373/1ac3o9sJom7xhibop1BNoA/max.webp?1719757840",
+      "url": "media/images/f5b9667224f79addd6c2e7c5.webp"
+    },
+    {
+      "id": "2ec6e96ddd5eafb1d5bc635f",
+      "name": "Refresher.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-07-01",
+        "dropbox_server_modified": "2024-07-01"
+      },
+      "date": "2024-07-01",
+      "dimensions": "1280×720",
+      "duration": 134.02,
+      "thumbnail": "media/thumbs/2ec6e96ddd5eafb1d5bc635f.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/5dy4b9fxyrftw7dt8e4mv/Refresher.mp4?rlkey=7ckoscgn2tmae3n7lpq4hx4gn&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/5dy4b9fxyrftw7dt8e4mv/Refresher.mp4?rlkey=7ckoscgn2tmae3n7lpq4hx4gn&dl=0"
+    },
+    {
+      "id": "ccf715550ed99040131e41fd",
+      "name": "Refresher.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-07-01T16:06:23",
+        "created": "2024-07-01T16:05:33"
+      },
+      "date": "2024-07-01T16:06:23",
+      "dimensions": "1280×720",
+      "duration": 134.02,
+      "thumbnail": "media/thumbs/ccf715550ed99040131e41fd.jpg",
+      "url": "media/videos/ccf715550ed99040131e41fd.mp4"
+    },
+    {
+      "id": "3f7e1af6a0a41af2fe48f95f",
+      "name": "dall·e 2024-07-03 19.08.10 - in a desolate landscape, terry stands nearby with a vacant expression and unnaturally precise movements. his ceaseless mumbling, 'double my number… le.webp",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-07-03"
+      },
+      "date": "2024-07-03",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/3f7e1af6a0a41af2fe48f95f.jpg",
+      "originalUrl": "https://files.d20.io/images/399472815/7OhHD-Bd8F_s_NNIwmbytg/max.webp?1720048101",
+      "url": "media/images/3f7e1af6a0a41af2fe48f95f.webp"
+    },
+    {
+      "id": "11148c07fa6aaf5db6a638ed",
+      "name": "dall·e 2024-07-04 11.45.03 - a dark and sinister illustration of a penguin with glowing green eyes. the penguin is standing on an icy terrain under a moonlit night, with dark clou.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-07-04"
+      },
+      "date": "2024-07-04",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/11148c07fa6aaf5db6a638ed.jpg",
+      "originalUrl": "https://files.d20.io/images/399548387/nAPW64RJHFgU8N36slMuNQ/max.webp?1720113493",
+      "url": "media/images/11148c07fa6aaf5db6a638ed.webp"
+    },
+    {
+      "id": "ab0409c0d03e052826b3cdc7",
+      "name": "DooBeDooBeDoo.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2024-07-04",
+        "dropbox_server_modified": "2024-07-04"
+      },
+      "date": "2024-07-04",
+      "dimensions": "1280×720",
+      "duration": 96.22,
+      "thumbnail": "media/thumbs/ab0409c0d03e052826b3cdc7.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/7b4wtxonrjt79wqyjkxl5/DooBeDooBeDoo.mp4?rlkey=86dmop4qbjf1kcp9y72vr0lvk&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/7b4wtxonrjt79wqyjkxl5/DooBeDooBeDoo.mp4?rlkey=86dmop4qbjf1kcp9y72vr0lvk&dl=0"
+    },
+    {
+      "id": "6d2b20073f1e58248317ee17",
+      "name": "DooBeDooBeDoo.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-07-04T13:12:37",
+        "created": "2024-07-04T12:54:20"
+      },
+      "date": "2024-07-04T13:12:37",
+      "dimensions": "1280×720",
+      "duration": 96.22,
+      "thumbnail": "media/thumbs/6d2b20073f1e58248317ee17.jpg",
+      "url": "media/videos/6d2b20073f1e58248317ee17.mp4"
+    },
+    {
+      "id": "52c3702ae60f0227d5fc7030",
+      "name": "dall·e 2024-09-19 23.53.33 - a majestic holy avenger longsword of pelor, featuring a golden blade that radiates soft, divine light, symbolizing the power of the sun god, pelor. th.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-09-19"
+      },
+      "date": "2024-09-19",
+      "dimensions": "1024×1792",
+      "duration": "",
+      "thumbnail": "media/thumbs/52c3702ae60f0227d5fc7030.jpg",
+      "originalUrl": "https://files.d20.io/images/410171748/kBfseRDr2U-zz1G2wrV_rA/max.png?1726804425",
+      "url": "media/images/52c3702ae60f0227d5fc7030.png"
+    },
+    {
+      "id": "3d123f9ed11e32061659746b",
+      "name": "dall·e 2024-09-28 23.14.47 - a monstrous emperor penguin, almost fully transformed into a grotesque creature, standing among regular emperor penguins for scale. the monstrous empe.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-09-28"
+      },
+      "date": "2024-09-28",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/3d123f9ed11e32061659746b.jpg",
+      "originalUrl": "https://files.d20.io/images/411430457/Dxo4U92Fk5uHdldBexS3VQ/max.webp?1727579838",
+      "url": "media/images/3d123f9ed11e32061659746b.webp"
+    },
+    {
+      "id": "8840d1592c665ab405bde5c9",
+      "name": "phase2 pengu.png",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-10-20"
+      },
+      "date": "2024-10-20",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/8840d1592c665ab405bde5c9.jpg",
+      "originalUrl": "https://files.d20.io/images/414339787/PBtysu3ljL-0EIM5H6OQMw/max.png?1729469732",
+      "url": "media/images/8840d1592c665ab405bde5c9.png"
+    },
+    {
+      "id": "4312af925c6cec0142cde947",
+      "name": "dall·e 2024-10-31 23.04.30 - a high-resolution image of a legendary trident known as wave. the trident is crafted with an oceanic theme, with the prongs made of shimmering blue me.webp",
+      "kind": "image",
+      "chapter": "white-plume",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-10-31"
+      },
+      "date": "2024-10-31",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/4312af925c6cec0142cde947.jpg",
+      "originalUrl": "https://files.d20.io/images/415765559/NRjeu_QDdzgnTiylsKcZ8A/max.webp?1730430277",
+      "url": "media/images/4312af925c6cec0142cde947.webp"
+    },
+    {
+      "id": "33ea4e67202d93232369bb38",
+      "name": "dall·e 2024-11-04 17.04.33 - a group of human followers of pengu, known as dreamkeepers, standing together on a dark blue background as if on a bluescreen. they are mutated and fr.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-11-04"
+      },
+      "date": "2024-11-04",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/33ea4e67202d93232369bb38.jpg",
+      "originalUrl": "https://files.d20.io/images/416313276/B7NcyXsKpSdGOi--jIEXDg/max.webp?1730757910",
+      "url": "media/images/33ea4e67202d93232369bb38.webp"
+    },
+    {
+      "id": "a97a34fae271ff6c94762fa5",
+      "name": "dall·e 2024-11-12 21.47.26 - a distant view of a vast herd of penguins moving away from a recently devastated arctic city under a dramatic dusk sky with an aurora. in the foregrou.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2024-11-12"
+      },
+      "date": "2024-11-12",
+      "dimensions": "1792×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/a97a34fae271ff6c94762fa5.jpg",
+      "originalUrl": "https://files.d20.io/images/417342279/uID6gjl9lYqrkITmJZ_7cw/max.webp?1731466063",
+      "url": "media/images/a97a34fae271ff6c94762fa5.webp"
+    },
+    {
+      "id": "e303b74915996ae69b23a8c0",
+      "name": "PenguFinal.mov",
+      "kind": "video",
+      "chapter": "frostmaiden",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-12-21T10:18:11",
+        "created": "2024-12-21T10:18:10"
+      },
+      "date": "2024-12-21T10:18:11",
+      "dimensions": "730×544",
+      "duration": 56.93,
+      "thumbnail": "media/thumbs/e303b74915996ae69b23a8c0.jpg",
+      "url": "media/videos/e303b74915996ae69b23a8c0.mp4"
+    },
+    {
+      "id": "ef7b08301b1d7a766c75c9b2",
+      "name": "PenguFinal.mp4",
+      "kind": "video",
+      "chapter": "frostmaiden",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-12-21T11:54:51",
+        "created": "2024-12-21T11:54:42"
+      },
+      "date": "2024-12-21T11:54:51",
+      "dimensions": "720×576",
+      "duration": 73.38,
+      "thumbnail": "media/thumbs/ef7b08301b1d7a766c75c9b2.jpg",
+      "url": "media/videos/ef7b08301b1d7a766c75c9b2.mp4"
+    },
+    {
+      "id": "328df1db1f56173759de412b",
+      "name": "Final_final.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Desktop observed media",
+      "dates": {
+        "modified": "2024-12-26T23:19:34",
+        "created": "2024-12-26T23:19:24"
+      },
+      "date": "2024-12-26T23:19:34",
+      "dimensions": "720×576",
+      "duration": 73.38,
+      "thumbnail": "media/thumbs/328df1db1f56173759de412b.jpg",
+      "url": "media/videos/328df1db1f56173759de412b.mp4"
+    },
+    {
+      "id": "4e4b34aca337efd61d22d803",
+      "name": "dall·e 2025-01-09 22.49.43 - a terrifying and regal penguin-like undead queen, kaelith the forsaken queen, with icy blue glowing eyes. her body is warped and twisted into an unnat.webp",
+      "kind": "image",
+      "chapter": "frostmaiden",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2025-01-10"
+      },
+      "date": "2025-01-10",
+      "dimensions": "1024×1024",
+      "duration": "",
+      "thumbnail": "media/thumbs/4e4b34aca337efd61d22d803.jpg",
+      "originalUrl": "https://files.d20.io/images/424149617/j4coIZHqKuc_jDaWaIx3fA/max.webp?1736564787",
+      "url": "media/images/4e4b34aca337efd61d22d803.webp"
+    },
+    {
+      "id": "16d24d9bcf63aa36a4269793",
+      "name": "DivineDreams.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2025-03-24",
+        "dropbox_server_modified": "2025-03-24"
+      },
+      "date": "2025-03-24",
+      "dimensions": "1280×720",
+      "duration": 356.86,
+      "thumbnail": "media/thumbs/16d24d9bcf63aa36a4269793.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/izwktnd5l8g4780ot0fz9/DivineDreams.mp4?rlkey=uoe8c8nprws2wl9pvj83b8ynx&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/izwktnd5l8g4780ot0fz9/DivineDreams.mp4?rlkey=uoe8c8nprws2wl9pvj83b8ynx&dl=0"
+    },
+    {
+      "id": "d0a2c035724ddb3437495576",
+      "name": "20250711_1746_Dancing to Activate Portal_simple_compose_01jzxq8g39fr89t50zpam8bxpe.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "Dropbox published video",
+      "dates": {
+        "dropbox_client_modified": "2025-07-14",
+        "dropbox_server_modified": "2025-07-14"
+      },
+      "date": "2025-07-14",
+      "dimensions": "720×720",
+      "duration": 5.0,
+      "thumbnail": "media/thumbs/d0a2c035724ddb3437495576.jpg",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/v15qg69p4c6vdxegl3lsh/20250711_1746_Dancing-to-Activate-Portal_simple_compose_01jzxq8g39fr89t50zpam8bxpe.mp4?rlkey=z2eo11rsrrijcp5fn5snp6w9k&raw=1",
+      "originalUrl": "https://www.dropbox.com/scl/fi/v15qg69p4c6vdxegl3lsh/20250711_1746_Dancing-to-Activate-Portal_simple_compose_01jzxq8g39fr89t50zpam8bxpe.mp4?rlkey=z2eo11rsrrijcp5fn5snp6w9k&dl=0"
+    },
+    {
+      "id": "2cc3c3e5879f333a0d5169bb",
+      "name": "Fungal2.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2025-12-23"
+      },
+      "date": "2025-12-23",
+      "dimensions": "1024×296",
+      "duration": "",
+      "thumbnail": "media/thumbs/2cc3c3e5879f333a0d5169bb.jpg",
+      "originalUrl": "https://files.d20.io/images/468787886/9bTchAEdGA4g89VijJEz_g/max.png?1766470908",
+      "url": "media/images/2cc3c3e5879f333a0d5169bb.png"
+    },
+    {
+      "id": "2b54238995719e78071af082",
+      "name": "church_of_pelor_gm_numbered_map.jpg",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2026-06-29"
+      },
+      "date": "2026-06-29",
+      "dimensions": "1152×2048",
+      "duration": "",
+      "thumbnail": "media/thumbs/2b54238995719e78071af082.jpg",
+      "originalUrl": "https://files.d20.io/images/492332358/Syo0a8HlFl49wsQH38NxRA/max.jpg?1782766409",
+      "url": "media/images/2b54238995719e78071af082.jpg"
+    },
+    {
+      "id": "b5df35c40648b1b6ebd10829",
+      "name": "Pattern for Shrop Signature Fishing Rod.webp",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2026-08-08"
+      },
+      "date": "2026-08-08",
+      "dimensions": "768×768",
+      "duration": "",
+      "thumbnail": "media/thumbs/b5df35c40648b1b6ebd10829.jpg",
+      "originalUrl": "https://files.d20.io/images/496895998/UUsGcJ7gx1XGug8GTbOEgQ/max.webp?1786238152",
+      "url": "media/images/b5df35c40648b1b6ebd10829.webp"
+    },
+    {
+      "id": "c2e9b7512666f71c29158d3e",
+      "name": "Ashardalon.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2026-08-11"
+      },
+      "date": "2026-08-11",
+      "dimensions": "1254×1254",
+      "duration": "",
+      "thumbnail": "media/thumbs/c2e9b7512666f71c29158d3e.jpg",
+      "originalUrl": "https://files.d20.io/images/497227370/vQGJNqezb_hTRJ9E9YqbWQ/max.webp?1786486315",
+      "url": "media/images/c2e9b7512666f71c29158d3e.webp"
+    },
+    {
+      "id": "56c1be328128c97083ac9ff6",
+      "name": "Po.webp",
+      "kind": "image",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2026-08-11"
+      },
+      "date": "2026-08-11",
+      "dimensions": "1254×1254",
+      "duration": "",
+      "thumbnail": "media/thumbs/56c1be328128c97083ac9ff6.jpg",
+      "originalUrl": "https://files.d20.io/images/497204082/_NWrMGpiorq1aqEZ9mlPsQ/max.webp?1786472739",
+      "url": "media/images/56c1be328128c97083ac9ff6.webp"
+    },
+    {
+      "id": "6e14001db27c0ffd66491dc6",
+      "name": "backdropStand-cleaned-1280x720.png",
+      "kind": "image",
+      "chapter": "between-adventures",
+      "source": "local image",
+      "dates": {
+        "created": "2026-08-30T08:44:10",
+        "modified": "2026-08-30T08:44:10",
+        "observed": "2026-08-30"
+      },
+      "date": "2026-08-30T08:44:10",
+      "dimensions": "1280×720",
+      "duration": "",
+      "thumbnail": "media/thumbs/6e14001db27c0ffd66491dc6.jpg",
+      "url": "media/images/6e14001db27c0ffd66491dc6.png"
+    },
+    {
+      "id": "552b867b481e9a6e65697981",
+      "name": "party-somber-goodbye-more-waving.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "local video",
+      "dates": {
+        "created": "2026-08-30T08:52:25",
+        "modified": "2026-08-30T08:52:25",
+        "observed": "2026-08-30"
+      },
+      "date": "2026-08-30T08:52:25",
+      "dimensions": "1280x720",
+      "duration": "8.3",
+      "thumbnail": "media/thumbs/552b867b481e9a6e65697981.jpg",
+      "url": "media/videos/552b867b481e9a6e65697981.mp4"
+    },
+    {
+      "id": "d271ffaff4c6be084f5dbbdf",
+      "name": "fortress-spirit-warrior-action.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "local video",
+      "dates": {
+        "created": "2026-08-30T10:07:38",
+        "modified": "2026-08-30T10:07:38",
+        "observed": "2026-08-30"
+      },
+      "date": "2026-08-30T10:07:38",
+      "dimensions": "720x1280",
+      "duration": "8.3",
+      "thumbnail": "media/thumbs/d271ffaff4c6be084f5dbbdf.jpg",
+      "url": "media/videos/d271ffaff4c6be084f5dbbdf.mp4"
+    },
+    {
+      "id": "9b053ed4eab8d2eddbd772c2",
+      "name": "grim-chain-lightning-action.mp4",
+      "kind": "video",
+      "chapter": "between-adventures",
+      "source": "local video",
+      "dates": {
+        "created": "2026-08-30T10:24:10",
+        "modified": "2026-08-30T10:24:10",
+        "observed": "2026-08-30"
+      },
+      "date": "2026-08-30T10:24:10",
+      "dimensions": "720x1280",
+      "duration": "8.3",
+      "thumbnail": "media/thumbs/9b053ed4eab8d2eddbd772c2.jpg",
+      "url": "media/videos/9b053ed4eab8d2eddbd772c2.mp4"
+    },
+    {
+      "id": "f207733f09579b3a35d1b311",
+      "name": "ashardalon-bridge-12s-sora-2-pro-1920x1080.webm",
+      "kind": "video",
+      "chapter": "bastion",
+      "source": "Roll20 image",
+      "dates": {
+        "uploaded": "2026-09-02"
+      },
+      "date": "2026-09-02",
+      "dimensions": "1920×1080",
+      "duration": 12.21,
+      "thumbnail": "media/thumbs/f207733f09579b3a35d1b311.jpg",
+      "url": "https://files.d20.io/images/499614968/_ZjALnafZHGmkX3LNeiq9w/med.webm?1788325493",
+      "originalUrl": "https://files.d20.io/images/499614968/_ZjALnafZHGmkX3LNeiq9w/med.webm?1788325493"
+    }
+  ]
+}

@@ -1,15 +1,28 @@
-# Team Biscuit review gallery
+# Team Biscuit showcase
 
-Start from the repository with `npm run review`. Open http://127.0.0.1:48742/review/ . Python 3 is required. The default catalog is `~/Team-Biscuit-Reel-Inventory/reel-wide-net.csv`. To choose another: `python3 scripts/review_server.py --catalog /absolute/path/catalog.csv`.
+Public, static retrospective at `/review/`. `index.html`, `showcase.css`, and
+`showcase.js` render the timeline and hash-routed chapter galleries.
+`chapters.json` contains chronology notes and cover credits; `media.json` contains
+only the 312 selected memories, with original source dates and public media URLs.
 
-The server binds only to localhost and exposes media explicitly listed in that catalog, through opaque IDs. It supports byte ranges for seeking. It does not expose directories or arbitrary filesystem paths. macOS may deny Desktop/Downloads files; use “Choose local file to preview” for those files. File selection stays in the browser and is never uploaded. QuickTime codecs, HEIC and some TIFFs may need a converted preview.
+- 253 images, 59 films. Previously excluded assets remain excluded.
+- 198 local images and 20 local/Desktop films are hosted as web copies here.
+- Dropbox's 37 published films remain in Dropbox; only their posters are hosted.
+- Roll20 images have cached copies; its two selected video URLs remain remote.
+- No local paths, file pickers, decision controls, or private catalog imports.
+- Uncertain, conflicting, and provisional assignments go to Between Adventures.
+- Module periods are resource evidence, never asserted session dates.
 
-For hosting: `npm run build` includes `/review/` in dist. The static page requires a catalog loaded by the user. Export one with `python3 scripts/review_server.py --export /path/outside/repository/catalog.json` (also starts the local server). Import it using Load catalog. No private catalog, local paths, or user media is bundled. Hosted pages cannot access local media automatically; use the browser file picker or the localhost gallery. Dropbox entries with verified shared links play inline using the existing link with raw=1; Open original also opens the shared viewing page. The launcher reads optional dropbox-shared-links.json beside the CSV catalog. Links and catalogs stay outside the repository.
+Rebuild media with Pillow, ffmpeg, and ffprobe:
 
-Choices are saved to browser localStorage, scoped to the site origin. Export decisions regularly. Import merges IDs, replacing matching decisions. IDs are based on source paths/URLs; renaming a source changes its ID. Exports work between the local and hosted gallery if they use the same catalog. Notes, chapter overrides, must-include marks and clip times are preserved. Skip never deletes anything. Exact source URLs are deduplicated on load; same-stem names are shown as possible alternate versions, not asserted identical.
+```sh
+python scripts/build_showcase.py --inventory /path/to/Team-Biscuit-Reel-Inventory
+```
 
-Use 1/2/3/4 in the inspector for Keep/Maybe/Skip/Other campaign. Choose a chapter, add a note, and mark in/out at the playhead for playable video/audio. Published Dropbox versions are listed first. Recent Sunless/Glitterhelm holds stay visible with a campaign-check label. Chapter suggestions are unverified research clues, not session history.
+The builder reads only the current selected CSV/catalog and honors the permanent
+exclusion list. Desktop sources are copied into the inventory's showcase-staging
+folder first if OS permissions prevent direct reads. Source originals stay intact.
+The report in staging must show 312 items and zero errors before publishing.
 
-Chronology checks load from optional chronology-audit.json beside the CSV. The catalog includes date evidence and per-chapter assessments. The default view hides explicitly excluded newer-campaign assets; use Chronology to inspect exclusions or date conflicts. These checks never overwrite saved review decisions. Bounded ranges allow 90 days before and after for preparation and cleanup; uncertain Icewind Dale/Bastion ranges are not used as hard cutoffs.
-
-Local-image review recovery: with Pillow installed in your Python environment, run `python3 scripts/build_review_previews.py` before exporting the catalog to create 800-pixel JPEG review copies outside the repository. The exported JSON embeds these copies, so Load catalog displays them on GitHub Pages without uploading originals. Missing/unreadable sources remain candidates and report unavailable previews. Source files, image IDs and saved decisions are preserved.
+Use `npm run dev` for local static-site preview. `npm run build` validates and
+copies the whole site to dist. GitHub Pages publishes the main branch root.
