@@ -9,6 +9,8 @@ only the 312 selected memories, with original source dates and public media URLs
 - 198 local images and 20 local/Desktop films are hosted as web copies here.
 - Dropbox's 37 published films remain in Dropbox; only their posters are hosted.
 - Roll20 images have cached copies; its two selected video URLs remain remote.
+- Images are stored in `media/images/<chapter>/`; thumbnails are stored separately.
+- The date check and an image filing report explain provisional, old-source, and unresolved assignments.
 - No local paths, file pickers, decision controls, or private catalog imports.
 - Uncertain, conflicting, and provisional assignments go to Between Adventures.
 - Module periods are resource evidence, never asserted session dates.

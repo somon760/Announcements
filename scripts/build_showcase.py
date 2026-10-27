@@ -35,6 +35,7 @@ def build(inv):
   r=rows[i['id']];target=r['path_or_url'];remote=target.startswith('http');local=Path(target) if not remote else None
   if local and r['source']=='Desktop observed media':local=stage/local.name
   dates={k:v for k,v in i.get('chronology',{}).get('dates',{}).items() if v}
+  audit=i.get('chronology',{})
   original=originals.get(target,{})
   for key in ['created','modified']:
    if original.get(key):dates[key]=original[key]
@@ -44,8 +45,11 @@ def build(inv):
    # Finder copies retain source creation dates. Never use a generated web file's dates.
    if not dates.get('created') and getattr(stat,'st_birthtime',stat.st_mtime)<datetime.datetime(2026,10,27).timestamp():dates['created']=datetime.datetime.fromtimestamp(stat.st_birthtime).isoformat(timespec='seconds')
   chapters=i['chapters'];chapter=chapter_map.get(chapters[0],'between-adventures') if len(chapters)==1 else 'between-adventures'
+  # Brindinford's 2021 return is plausible, but the current archive does not
+  # establish its placement in Speaker. Keep those dated images in the liminal shelf.
+  if i['id'] in {'98f2647719524525fff2364c','12d0fa739b58d859556e5b07','c70af5773352df7a5fbd1dd2'}:chapter='between-adventures'
   if i.get('hold') or i.get('chronology',{}).get('status')=='date conflict' or 'PROVISIONAL' in i['basis']:chapter='between-adventures'
-  asset={'id':i['id'],'name':i['name'],'kind':i['kind'],'chapter':chapter,'source':i['source'],'dates':dates,'date':dates.get('modified') or dates.get('uploaded') or dates.get('dropbox_client_modified') or i.get('chronology',{}).get('date',''),'dimensions':i.get('dimensions',''),'duration':i.get('duration',''),'thumbnail':'media/thumbs/'+i['id']+'.jpg'}
+  asset={'id':i['id'],'name':i['name'],'kind':i['kind'],'chapter':chapter,'source':i['source'],'dates':dates,'date':dates.get('modified') or dates.get('uploaded') or dates.get('dropbox_client_modified') or i.get('chronology',{}).get('date',''),'dimensions':i.get('dimensions',''),'duration':i.get('duration',''),'dateChecks':audit.get('checks',{}),'dateReason':audit.get('reason',''),'dateStatus':audit.get('status',''),'thumbnail':'media/thumbs/'+i['id']+'.jpg'}
   thumb=OUT/asset['thumbnail']
   if i['kind']=='image':
    if remote:
@@ -56,10 +60,12 @@ def build(inv):
     if not thumb.exists():
      bg=Image.new('RGB',im.size,(32,30,28));rgba=im.convert('RGBA');bg.paste(rgba,mask=rgba.getchannel('A'));bg.thumbnail((720,720));bg.save(thumb,quality=84,optimize=True)
     # Preserve original formats where browsers support them. Convert only uncommon formats.
+    (OUT/'media/images'/chapter).mkdir(parents=True,exist_ok=True)
     if ext not in {'.png','.jpg','.jpeg','.webp','.gif','.avif'}:
-     ext='.png';dest=OUT/'media/images'/(i['id']+ext);im.save(dest)
+     ext='.png';dest=OUT/'media/images'/chapter/(i['id']+ext);im.save(dest)
     else:
-     dest=OUT/'media/images'/(i['id']+ext)
+     dest=OUT/'media/images'/chapter/(i['id']+ext)
+     dest.parent.mkdir(parents=True,exist_ok=True)
      if not dest.exists():shutil.copy2(src,dest)
    asset['url']=str(dest.relative_to(OUT))
   else:

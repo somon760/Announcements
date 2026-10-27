@@ -1,0 +1,199 @@
+{
+  "imageCount": 250,
+  "duplicateCopiesRemoved": 3,
+  "duplicates": [
+    {
+      "id": "1cc0377599bc69bd39fa2950",
+      "keep": "13a97c9f5a4025e947429080",
+      "reason": "Pixel-identical to the Roll20 version at the same 600x878 resolution; retain the published copy."
+    },
+    {
+      "id": "8629c6d449ede9376ed3e706",
+      "keep": "20bb9ec3438ed11a8fe8c416",
+      "reason": "Near-pixel-identical; local source is slightly larger (2070x1804 vs 2048x1784) and the earlier local original."
+    },
+    {
+      "id": "84c6b988bb1e647d9a2d7054",
+      "keep": "f4bc05b2ea78c215dba00617",
+      "reason": "Pixel-identical at 736x736; retain the Bastion narrator copy and remove the Brindinford max copy."
+    }
+  ],
+  "foldersByChapter": {
+    "deep-horizon": {
+      "count": 24,
+      "dateAssessments": {
+        "older source; possible reuse": 6,
+        "preparation buffer": 1,
+        "within provisional window": 17
+      },
+      "earliestFileDate": "2020-02-03",
+      "latestFileDate": "2021-06-25"
+    },
+    "between-adventures": {
+      "count": 45,
+      "dateAssessments": {
+        "within provisional window": 10,
+        "older source; possible reuse": 2,
+        "preparation buffer": 3,
+        "late for chapter": 32,
+        "unresolved window": 7,
+        "possible Brindinford revisit": 3,
+        "cleanup buffer": 1
+      },
+      "earliestFileDate": "2020-03-17",
+      "latestFileDate": "2026-08-30"
+    },
+    "speaker-in-dreams": {
+      "count": 44,
+      "dateAssessments": {
+        "older source; possible reuse": 9,
+        "preparation buffer": 20,
+        "within provisional window": 11,
+        "cleanup buffer": 4
+      },
+      "earliestFileDate": "2020-03-17",
+      "latestFileDate": "2020-11-18"
+    },
+    "iron-fortress": {
+      "count": 30,
+      "dateAssessments": {
+        "older source; possible reuse": 6,
+        "preparation buffer": 4,
+        "within provisional window": 20
+      },
+      "earliestFileDate": "2020-04-22",
+      "latestFileDate": "2022-02-26"
+    },
+    "standing-stone": {
+      "count": 10,
+      "dateAssessments": {
+        "within provisional window": 9,
+        "cleanup buffer": 1
+      },
+      "earliestFileDate": "2020-08-13",
+      "latestFileDate": "2020-10-22"
+    },
+    "nightfang-spire": {
+      "count": 26,
+      "dateAssessments": {
+        "within provisional window": 26
+      },
+      "earliestFileDate": "2020-09-24",
+      "latestFileDate": "2020-12-16"
+    },
+    "bastion": {
+      "count": 58,
+      "dateAssessments": {
+        "unresolved window": 58
+      },
+      "earliestFileDate": "2021-06-16",
+      "latestFileDate": "2026-08-11"
+    },
+    "white-plume": {
+      "count": 2,
+      "dateAssessments": {
+        "unresolved window": 2
+      },
+      "earliestFileDate": "2024-02-06",
+      "latestFileDate": "2024-10-31"
+    },
+    "frostmaiden": {
+      "count": 11,
+      "dateAssessments": {
+        "unresolved window": 11
+      },
+      "earliestFileDate": "2024-06-29",
+      "latestFileDate": "2025-01-10"
+    }
+  },
+  "workingDateRanges": {
+    "The Sunless Citadel": [
+      "2020-03-01",
+      "2020-04-30"
+    ],
+    "The Forge of Fury": [
+      "2020-05-01",
+      "2020-06-30"
+    ],
+    "The Speaker in Dreams": [
+      "2020-07-01",
+      "2020-08-31"
+    ],
+    "The Standing Stone": [
+      "2020-08-01",
+      "2020-09-30"
+    ],
+    "Heart of Nightfang Spire": [
+      "2020-09-01",
+      "2020-12-31"
+    ],
+    "Deep Horizon": [
+      "2021-01-01",
+      "2021-06-30"
+    ],
+    "Lord of the Iron Fortress": [
+      "2021-09-01",
+      "2022-02-28"
+    ],
+    "White Plume Mountain": [
+      "2022-01-01",
+      "2026-10-27"
+    ],
+    "Those Who Writhe Below": [
+      "2024-06-01",
+      "2024-06-30"
+    ],
+    "Team Gravy / Fungal Bloom": [
+      "2025-12-01",
+      "2026-10-27"
+    ],
+    "Icewind Dale / Frostmaiden": [
+      "2022-01-01",
+      "2026-10-27"
+    ],
+    "Bastion of Broken Souls": [
+      "2021-01-01",
+      "2026-10-27"
+    ]
+  },
+  "dateAssessmentCounts": {
+    "older source; possible reuse": 23,
+    "within provisional window": 93,
+    "preparation buffer": 28,
+    "cleanup buffer": 6,
+    "late for chapter": 32,
+    "unresolved window": 78,
+    "possible Brindinford revisit": 3
+  },
+  "lateMatchesRemainingInModuleFolders": [],
+  "olderPossibleReuseInModuleFolders": [
+    "1076749-Drow-Fortress_part1.jpg",
+    "overland_map.jpg",
+    "DEDUCE8.webp",
+    "423f8a2c9ed228a06fecfa68740c3eb6.png",
+    "636272706155064423.png",
+    "Durnan.png",
+    "Screen Shot 2020-03-29 at 6.54.42 PM.png",
+    "Shatterspike.png",
+    "Screen Shot 2020-04-01 at 2.15.06 PM.png",
+    "45babfbf0c5a94047fa3601c3c75605b.png",
+    "1144273-Abbey_Keep_D2.jpg",
+    "1144315-Abbey_Keep_E3.jpg",
+    "1144471-Abbey_Keep_E5.jpg",
+    "deep_horizon___shrine_of_vesperian_upper_level_by_dhuend13_dcho388.jpg",
+    "deep_horizon___shrine_of_vesperian_magma_chamber_by_dhuend13_dcho38x.jpg",
+    "lord_of_the_iron_fortress___cube_of_kolyoral_by_dhuend13_dcho4o6.jpg",
+    "lord_of_the_iron_fortress___cube_of_kolyoral__ref__by_dhuend13_dcho4ns.jpg",
+    "lord_of_the_iron_fortress___zandikar_ground_level_by_dhuend13_dcho5ca.jpg",
+    "deep_horizon___salamanders__citadel_main_level_by_dhuend13_dcho488.jpg",
+    "deep_horizon___salamanders__citadel_lower_level_by_dhuend13_dcho345.jpg",
+    "1076712-Underdark-Village_Part1.jpg"
+  ],
+  "tentativeBrindinfordImagesMovedToBetween": 3,
+  "notes": [
+    "Dates describe archived source files, not confirmed session dates.",
+    "Older dated source artwork may be reused later; it remains filed with a module when the source or working-folder match is strong.",
+    "No selected image with a late-for-chapter check remains inside a module folder. The 2021 Brindinford images remain in Between Adventures because the possible return placement is unconfirmed.",
+    "Bastion, Icewind Dale, and White Plume Mountain do not have bounded working date ranges in the archive; their folder assignments use the confirmed campaign sequence and direct asset evidence."
+  ]
+}
