@@ -1,0 +1,11 @@
+# Team Biscuit review gallery
+
+Start from the repository with `npm run review`. Open http://127.0.0.1:48742/review/ . Python 3 is required. The default catalog is `~/Team-Biscuit-Reel-Inventory/reel-wide-net.csv`. To choose another: `python3 scripts/review_server.py --catalog /absolute/path/catalog.csv`.
+
+The server binds only to localhost and exposes media explicitly listed in that catalog, through opaque IDs. It supports byte ranges for seeking. It does not expose directories or arbitrary filesystem paths. macOS may deny Desktop/Downloads files; use “Choose local file to preview” for those files. File selection stays in the browser and is never uploaded. QuickTime codecs, HEIC and some TIFFs may need a converted preview.
+
+For hosting: `npm run build` includes `/review/` in dist. The static page requires a catalog loaded by the user. Export one with `python3 scripts/review_server.py --export /path/outside/repository/catalog.json` (also starts the local server). Import it using Load catalog. No private catalog, local paths, or user media is bundled. Hosted pages cannot access local media automatically; use the browser file picker or the localhost gallery. Dropbox entries with verified shared links play inline using the existing link with raw=1; Open original also opens the shared viewing page. The launcher reads optional dropbox-shared-links.json beside the CSV catalog. Links and catalogs stay outside the repository.
+
+Choices are saved to browser localStorage, scoped to the site origin. Export decisions regularly. Import merges IDs, replacing matching decisions. IDs are based on source paths/URLs; renaming a source changes its ID. Exports work between the local and hosted gallery if they use the same catalog. Notes, chapter overrides, must-include marks and clip times are preserved. Skip never deletes anything. Exact source URLs are deduplicated on load; same-stem names are shown as possible alternate versions, not asserted identical.
+
+Use 1/2/3/4 in the inspector for Keep/Maybe/Skip/Other campaign. Choose a chapter, add a note, and mark in/out at the playhead for playable video/audio. Published Dropbox versions are listed first. Recent Sunless/Glitterhelm holds stay visible with a campaign-check label. Chapter suggestions are unverified research clues, not session history.
