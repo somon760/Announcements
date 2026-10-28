@@ -29,3 +29,15 @@
 .story-prose .story-hindsight p:not(.hindsight-label){margin-top:12px;font-size:15px;line-height:1.8}
 @media(max-width:1000px){.story-scene-illustrated{grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:28px}.story-companion-grid{gap:18px}.story-companion img{height:150px}}
 @media(max-width:700px){.chapter-story{padding:40px 6% 35px}.story-prose p{font-size:15px;line-height:1.85}.story-scene{margin-top:38px}.story-scene h3,.story-closing h3,.story-companions>h3{font-size:29px}.story-scene-illustrated{grid-template-columns:1fr;gap:24px}.story-illustration{max-width:460px}.story-companions{margin-top:40px;padding:30px 0}.story-companion-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:26px 20px}.story-companion img{height:160px}.story-companion h4{font-size:26px}}
+
+/* Each memory keeps a short place in the campaign beside its image or film. */
+.memory-entry{min-width:0;align-self:start}
+.memory-context{margin-top:12px;font-size:12px;line-height:1.75;color:#525e50}
+.memory-context p+p{margin-top:9px}
+.memory-story-link{display:inline-block;margin-top:10px;font-size:11px;line-height:1.6;text-decoration:underline;text-underline-offset:3px;color:var(--forest)}
+.memory-story-link:hover{color:#825c32}
+.viewer-info .memory-context{max-width:760px;font-size:14px;line-height:1.8;color:#d4dccb;margin:16px 0 20px}
+.viewer-info .memory-story-link{color:#c8d6b8;font-size:12px;margin:10px 0 0;border:0}
+.story-scene:focus{outline:none}
+.story-scene:focus-visible{outline:2px solid var(--gold);outline-offset:12px}
+@media(max-width:700px){.memory-grid{grid-template-columns:1fr;gap:32px}.memory-card h3{font-size:15px}.memory-context{font-size:14px;line-height:1.8}.memory-story-link{font-size:12px}.memory-visual{aspect-ratio:16/10}}

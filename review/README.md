@@ -48,3 +48,15 @@ Bastion destination is labelled as a return to an already-started mystery.
 
 Four additional Bastion story illustrations are under `media/story/bastion/`; they
 do not change the curated gallery manifest or its 320 selected items.
+
+Every selected gallery asset has a short passage and a friendly title in
+`asset-stories.json`, keyed by its existing media ID. These appear beneath the
+memory cards and inside the viewer. Each entry links to a narrated scene using
+`#/chapter-slug/scene/1`; scene numbers follow the existing `stories.json` order.
+When moving or inserting scenes, update the affected asset links as well.
+
+The 320 passages cover all 269 images and 51 films. Context can describe a recorded
+moment, explain a character or place, or frame reference artwork as atmosphere;
+it must not turn preparation or an illustration into an invented played event.
+The curated `media.json`, chapter order, exclusions and bottom adventure links
+remain unchanged. Phone galleries use one column so the passages remain readable.

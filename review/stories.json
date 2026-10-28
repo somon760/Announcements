@@ -16,7 +16,9 @@
         "image": {
           "src": "media/images/sunless-citadel/original-art-citadel-crevice.jpg",
           "alt": "Original adventure illustration of the ravine above the buried Citadel",
-          "caption": "The way into the Sunless Citadel."
+          "caption": "The way into the Sunless Citadel.",
+          "width": 1120,
+          "height": 700
         }
       },
       {
@@ -52,7 +54,9 @@
         "image": {
           "src": "media/images/sunless-citadel/original-art-twilight-grove.jpg",
           "alt": "Original adventure illustration of the Twilight Grove beneath the Citadel",
-          "caption": "The Twilight Grove, beneath the ruined fortress."
+          "caption": "The Twilight Grove, beneath the ruined fortress.",
+          "width": 800,
+          "height": 501
         },
         "hindsight": [
           {
@@ -79,25 +83,25 @@
           "name": "Shrop",
           "portrait": "media/portraits/shrop-early.png",
           "alt": "Shrop Shireslasher",
-          "text": "First through danger, bearer of Shatterspike, and the companion who remembered that the dead deserved a funeral."
+          "text": "First through danger, bearer of Shatterspike, and the companion who remembered that the dead deserved a funeral. His blunt courage would carry the company through far stranger doors than the Citadel’s."
         },
         {
           "name": "Grim",
           "portrait": "media/portraits/grim-early.png",
           "alt": "Grimbledee Brightburrow",
-          "text": "A solo adventurer who became a companion, a teacher, and a voice for restraint when the missing were finally found."
+          "text": "A solo adventurer who became a companion, a teacher, and a voice for restraint when the missing were finally found. His search for knowledge would make each unfamiliar name another reason to keep going."
         },
         {
           "name": "Terry",
           "portrait": "media/portraits/terry-early.png",
           "alt": "Terry Stronginthearm",
-          "text": "Healer, translator in training, solver of the apple’s mystery, and firm believer in the practical value of chalk."
+          "text": "Healer, translator in training, solver of the apple’s mystery, and firm believer in the practical value of chalk. The dwarf’s practical care travelled with the party long after its first expedition."
         },
         {
           "name": "Thunder",
           "portrait": "media/portraits/thunder-early.png",
           "alt": "Thunderdrum Stringcutter",
-          "text": "Finder of traps and hidden ways, deft with a lock, and learning to trust the company with a danger of his own."
+          "text": "Finder of traps and hidden ways, deft with a lock, and learning to trust the company with a danger of his own. His quick hands and the trust he placed in his friends would matter throughout the road ahead."
         }
       ]
     },
@@ -125,7 +129,9 @@
         "image": {
           "src": "media/images/forge-of-fury/original-art-rope-bridge.jpg",
           "alt": "Original adventure illustration of the rope bridge spanning the rift in Khundrukar",
-          "caption": "The crossing inside the Mountain Door. Thunder went first."
+          "caption": "The crossing inside the Mountain Door. Thunder went first.",
+          "width": 800,
+          "height": 1100
         }
       },
       {
@@ -146,7 +152,9 @@
         "image": {
           "src": "media/images/forge-of-fury/original-art-fungal-cavern.jpg",
           "alt": "Original adventure illustration of the fungal growth in the Glitterhame",
-          "caption": "The Glitterhame: strange beauty below the old stronghold."
+          "caption": "The Glitterhame: strange beauty below the old stronghold.",
+          "width": 800,
+          "height": 1058
         }
       },
       {
@@ -158,7 +166,9 @@
         "image": {
           "src": "media/images/forge-of-fury/original-art-duergar.jpg",
           "alt": "Original adventure illustration of duergar in Khundrukar",
-          "caption": "The gray dwarves had put the ruined stronghold to work again."
+          "caption": "The gray dwarves had put the ruined stronghold to work again.",
+          "width": 800,
+          "height": 533
         }
       },
       {
@@ -193,7 +203,9 @@
         "image": {
           "src": "media/images/forge-of-fury/old-cover-dragon-over-the-chasm.jpg",
           "alt": "Original Forge of Fury cover illustration of a black dragon above an underground chasm",
-          "caption": "Nightscale, the black dragon beneath Khundrukar."
+          "caption": "Nightscale, the black dragon beneath Khundrukar.",
+          "width": 800,
+          "height": 1027
         }
       }
     ],
@@ -252,7 +264,9 @@
         "image": {
           "src": "media/images/bastion/92db6b1630e54173df2f1e5a.webp",
           "alt": "Campaign portrait of Captain Timothy Pepper in his ornate naval coat and hat",
-          "caption": "Captain Pepper of the Deliverance, whose ship carried more than ordinary passengers."
+          "caption": "Captain Pepper of the Deliverance, whose ship carried more than ordinary passengers.",
+          "width": 512,
+          "height": 512
         }
       },
       {
@@ -264,7 +278,9 @@
         "image": {
           "src": "media/images/between-adventures/2cc3c3e5879f333a0d5169bb.png",
           "alt": "Campaign artwork of a cavern overgrown with luminous fungi",
-          "caption": "The fungal dark of Team Gravy’s detour."
+          "caption": "The fungal dark of Team Gravy’s detour.",
+          "width": 1024,
+          "height": 296
         }
       },
       {
@@ -340,7 +356,9 @@
         "image": {
           "src": "media/images/speaker-in-dreams/93f689726e512db35fe7dd6a.png",
           "alt": "Earlier overview map of Brindinford, showing the town’s landmarks before its fall",
-          "caption": "Brindinford before its fall: the familiar landmarks of The Speaker in Dreams."
+          "caption": "Brindinford before its fall: the familiar landmarks of The Speaker in Dreams.",
+          "width": 2060,
+          "height": 1604
         }
       }
     ],
@@ -398,7 +416,9 @@
         "image": {
           "src": "media/portraits/brother-xanthar.png",
           "alt": "Brother Xanthar’s later campaign portrait, depicting a pointed-eared humanoid face",
-          "caption": "Brother Xanthar—the familiar face attached to an older horror."
+          "caption": "Brother Xanthar—the familiar face attached to an older horror.",
+          "width": 512,
+          "height": 512
         },
         "hindsight": [
           {
@@ -434,7 +454,9 @@
         "image": {
           "src": "media/images/speaker-in-dreams/9f39fc9526da4b41376f1494.png",
           "alt": "Black-and-white adventure illustration of a crowded street fair with musicians, merchants, and revellers",
-          "caption": "The Halfling Faire: music, trade, and plenty of company to get lost among."
+          "caption": "The Halfling Faire: music, trade, and plenty of company to get lost among.",
+          "width": 1642,
+          "height": 1044
         }
       },
       {
@@ -447,7 +469,9 @@
         "image": {
           "src": "media/images/speaker-in-dreams/93f689726e512db35fe7dd6a.png",
           "alt": "Map of Brindinford showing Chatterstreet Market, the Reality Wrinkle, the Temple of Pelor, the bell tower, and the Baron’s keep",
-          "caption": "Brindinford, where a few streets separated the fair from the places behind its troubles."
+          "caption": "Brindinford, where a few streets separated the fair from the places behind its troubles.",
+          "width": 2060,
+          "height": 1604
         }
       },
       {
@@ -476,7 +500,9 @@
         "image": {
           "src": "media/images/speaker-in-dreams/5d0bbe4f94b29c353f94486f.png",
           "alt": "Campaign reference image of Shatterspike, a straight-bladed sword",
-          "caption": "Shatterspike: recovered in the Citadel, sacrificed for Pelor’s temple."
+          "caption": "Shatterspike: recovered in the Citadel, sacrificed for Pelor’s temple.",
+          "width": 500,
+          "height": 500
         }
       },
       {
@@ -489,7 +515,9 @@
         "image": {
           "src": "media/images/speaker-in-dreams/0d01d4de42b4abf89ddff040.png",
           "alt": "Campaign token depicting an armoured mind flayer",
-          "caption": "Ghaerleth Axom, the mind flayer behind the Baron’s captivity."
+          "caption": "Ghaerleth Axom, the mind flayer behind the Baron’s captivity.",
+          "width": 280,
+          "height": 280
         },
         "hindsight": [
           {
@@ -556,7 +584,9 @@
         "image": {
           "src": "media/images/standing-stone/e6040aa15774f15d17704419.jpg",
           "alt": "Campaign map of Ossington, with buildings and fields enclosed by two rings of standing stones",
-          "caption": "Ossington and the double circle: the village, its fields, and the boundary of its troubles."
+          "caption": "Ossington and the double circle: the village, its fields, and the boundary of its troubles.",
+          "width": 5120,
+          "height": 5120
         },
         "hindsight": [
           {
@@ -586,7 +616,9 @@
         "image": {
           "src": "media/images/standing-stone/60bbe3ca7f1d5d2746e98dbc.png",
           "alt": "Campaign map associated with Red Horse Hill, showing enormous dragon remains and wooden crossings",
-          "caption": "The remains at Red Horse Hill, where the search reached beneath the surface."
+          "caption": "The remains at Red Horse Hill, where the search reached beneath the surface.",
+          "width": 2442,
+          "height": 2394
         }
       },
       {
@@ -615,7 +647,9 @@
         "image": {
           "src": "media/images/standing-stone/9c130bff463d247dff018cb3.jpg",
           "alt": "Atmospheric campaign artwork associated with Ossington, depicting a dark village square beneath storm clouds",
-          "caption": "Ossington, as remembered in the campaign’s artwork."
+          "caption": "Ossington, as remembered in the campaign’s artwork.",
+          "width": 1024,
+          "height": 728
         }
       },
       {
@@ -704,7 +738,9 @@
         "image": {
           "src": "media/images/nightfang-spire/e33d8b3866f589b234156f09.webp",
           "alt": "Campaign illustration of a winged, tentacled mooncalf against the moon",
-          "caption": "The mooncalf, an enemy Shrop met with a berserker’s leap."
+          "caption": "The mooncalf, an enemy Shrop met with a berserker’s leap.",
+          "width": 340,
+          "height": 208
         }
       },
       {
@@ -741,7 +777,9 @@
         "image": {
           "src": "media/images/nightfang-spire/3f31a3634842eb857ea3c944.jpg",
           "alt": "Campaign map of the protected core of Nightfang Spire, with the heart chamber and Gulthias’s quarters",
-          "caption": "Nightfang’s protected core. Campaign map by Rubens Duarte."
+          "caption": "Nightfang’s protected core. Campaign map by Rubens Duarte.",
+          "width": 2463,
+          "height": 1205
         },
         "hindsight": [
           {
@@ -806,7 +844,9 @@
         "image": {
           "src": "media/images/deep-horizon/0220b6c580d84d6d2e23517e.jpg",
           "alt": "Campaign illustration of a desmodu, one of the batlike people of Deep Horizon",
-          "caption": "The desmodus: a people whose enclave had become a target."
+          "caption": "The desmodus: a people whose enclave had become a target.",
+          "width": 800,
+          "height": 450
         }
       },
       {
@@ -819,7 +859,9 @@
         "image": {
           "src": "media/images/deep-horizon/87b1e71336f3a50ff4d23e86.png",
           "alt": "Helkitrin’s campaign illustration, depicting a spear-bearing salamander",
-          "caption": "Helkitrin, whose interrogation exposed the trade linking the depths to the surface towns."
+          "caption": "Helkitrin, whose interrogation exposed the trade linking the depths to the surface towns.",
+          "width": 515,
+          "height": 1000
         },
         "hindsight": [
           {
@@ -840,7 +882,9 @@
         "image": {
           "src": "media/images/deep-horizon/faee4a83293e6912840d45ff.jpg",
           "alt": "Campaign map of the upper shrine of Vesperian beneath the earth",
-          "caption": "The shrine in the desmodu realm. Campaign map by Rubens Duarte."
+          "caption": "The shrine in the desmodu realm. Campaign map by Rubens Duarte.",
+          "width": 1219,
+          "height": 1146
         },
         "hindsight": [
           {
@@ -891,7 +935,9 @@
         "image": {
           "src": "media/images/iron-fortress/6ab322b6bd80066ebc4b5278.png",
           "alt": "Campaign illustration of a glowing circular planar gateway",
-          "caption": "The gateway on the road from Rigus to Acheron."
+          "caption": "The gateway on the road from Rigus to Acheron.",
+          "width": 1050,
+          "height": 1050
         }
       },
       {
@@ -903,7 +949,9 @@
         "image": {
           "src": "media/images/iron-fortress/209260823637357f02c48d91.jpg",
           "alt": "An immense iron cube floating in the darkness of Acheron",
-          "caption": "Kolyoral, an iron world beneath the company’s feet."
+          "caption": "Kolyoral, an iron world beneath the company’s feet.",
+          "width": 671,
+          "height": 420
         },
         "hindsight": [
           {
@@ -956,7 +1004,9 @@
         "image": {
           "src": "media/images/between-adventures/8cf1d2aa5498f8d6b29c6ac7.png",
           "alt": "Campaign battle map showing Brindinford and military markings around the city",
-          "caption": "Brindinford: the homeward road remained part of the wider conflict."
+          "caption": "Brindinford: the homeward road remained part of the wider conflict.",
+          "width": 1828,
+          "height": 1436
         }
       }
     ],
@@ -1008,7 +1058,9 @@
         "image": {
           "src": "media/images/white-plume/56a90f5b423ae628007fc8eb.jpg",
           "alt": "Black-and-white eight-armed emblem associated with Keraptis",
-          "caption": "Keraptis’s mark, and an invitation with teeth."
+          "caption": "Keraptis’s mark, and an invitation with teeth.",
+          "width": 200,
+          "height": 215
         }
       },
       {
@@ -1020,7 +1072,9 @@
         "image": {
           "src": "media/images/white-plume/4312af925c6cec0142cde947.webp",
           "alt": "Wave, a luminous blue and silver trident",
-          "caption": "Wave, one of the three legendary weapons named in Keraptis’s challenge."
+          "caption": "Wave, one of the three legendary weapons named in Keraptis’s challenge.",
+          "width": 1024,
+          "height": 1024
         },
         "hindsight": [
           {
@@ -1090,7 +1144,9 @@
         "image": {
           "src": "media/images/frostmaiden/960f3cc750e2a28eff2f6ec3.webp",
           "alt": "Snow-covered Easthaven buildings beside the frozen water, their windows glowing in the darkness",
-          "caption": "Easthaven, where a little food and warmth could mean another day."
+          "caption": "Easthaven, where a little food and warmth could mean another day.",
+          "width": 1792,
+          "height": 1024
         }
       },
       {
@@ -1135,7 +1191,9 @@
         "image": {
           "src": "media/images/frostmaiden/a97a34fae271ff6c94762fa5.webp",
           "alt": "A horde of penguin creatures near a devastated northern settlement",
-          "caption": "The penguin army turned an absurd shape into a very real terror."
+          "caption": "The penguin army turned an absurd shape into a very real terror.",
+          "width": 1792,
+          "height": 1024
         }
       },
       {
@@ -1156,7 +1214,9 @@
         "image": {
           "src": "media/images/frostmaiden/8840d1592c665ab405bde5c9.png",
           "alt": "A huge penguin monument beneath the aurora, surrounded by an army in the snow",
-          "caption": "Frostblight’s monument, before the ice and stone gave way."
+          "caption": "Frostblight’s monument, before the ice and stone gave way.",
+          "width": 1792,
+          "height": 1024
         },
         "hindsight": [
           {
@@ -1302,7 +1362,9 @@
         "image": {
           "src": "media/story/bastion/findulas-farewell.webp",
           "alt": "Findula’s handwritten farewell, grieving Eco and declaring her debt to the party paid",
-          "caption": "Findula’s farewell: the cost carried back from the prison."
+          "caption": "Findula’s farewell: the cost carried back from the prison. The folded page ends an alliance the company once had good reason to trust.",
+          "width": 1536,
+          "height": 1024
         }
       },
       {
@@ -1315,7 +1377,9 @@
         "image": {
           "src": "media/story/bastion/ernies-return.webp",
           "alt": "Brother Ernie smiling in an upstairs room crowded with recovered trunks, equipment, and belongings",
-          "caption": "An old friend, an improbable return, and most of the missing luggage."
+          "caption": "An old friend, an improbable return, and most of the missing luggage. The smile was familiar even after a journey no interpretive dance could adequately explain.",
+          "width": 1600,
+          "height": 967
         }
       },
       {
@@ -1328,7 +1392,9 @@
         "image": {
           "src": "media/story/bastion/ernies-farewell.webp",
           "alt": "Brother Ernie walking through a doorway as warm golden motes gather around his cloak",
-          "caption": "Ernie’s departure left its own mystery."
+          "caption": "Ernie’s departure left its own mystery. The company kept his gifts while the meaning of that departure remained its own mystery.",
+          "width": 1536,
+          "height": 1024
         }
       },
       {
@@ -1341,7 +1407,9 @@
         "image": {
           "src": "media/story/bastion/bastion-revealed.webp",
           "alt": "Campaign illustration of an immense branching crystal Bastion in the brilliance of the Positive Energy Plane",
-          "caption": "The Bastion of Unborn Souls, in the campaign’s travel illustration."
+          "caption": "The Bastion of Unborn Souls, in the campaign’s travel illustration. Within its radiant branches, the company’s oldest unfinished questions waited beside lives not yet begun.",
+          "width": 1600,
+          "height": 900
         }
       },
       {
@@ -1362,7 +1430,9 @@
         "image": {
           "src": "media/images/bastion/56c1be328128c97083ac9ff6.webp",
           "alt": "Campaign portrait of the armoured dragonspawn Po",
-          "caption": "Po, one of the defenders within the Bastion."
+          "caption": "Po, one of the defenders within the Bastion.",
+          "width": 1254,
+          "height": 1254
         }
       },
       {
@@ -1390,7 +1460,9 @@
         "image": {
           "src": "media/images/bastion/c2e9b7512666f71c29158d3e.webp",
           "alt": "Campaign portrait of Ashardalon, the ancient red dragon",
-          "caption": "Ashardalon: the ancient hunger at the heart of the journey."
+          "caption": "Ashardalon: the ancient hunger at the heart of the journey.",
+          "width": 1254,
+          "height": 1254
         },
         "hindsight": [
           {

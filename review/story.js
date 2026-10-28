@@ -10,9 +10,9 @@ const hindsight = notes => (notes ?? []).map(note => `<aside class="story-hindsi
 
 export function renderStory(story) {
   if (!story) return '';
-  const scenes = (story.scenes ?? []).map(scene => `<section class="story-scene${scene.image ? ' story-scene-illustrated' : ''}">
+  const scenes = (story.scenes ?? []).map((scene,index) => `<section id="story-scene-${index+1}" tabindex="-1" class="story-scene${scene.image ? ' story-scene-illustrated' : ''}">
     <div class="story-prose"><h3>${escape(scene.title)}</h3>${paragraphs(scene.paragraphs)}${hindsight(scene.hindsight)}</div>
-    ${scene.image ? `<figure class="story-illustration"><img src="${escape(scene.image.src)}" alt="${escape(scene.image.alt)}" loading="lazy"><figcaption>${escape(scene.image.caption)}</figcaption></figure>` : ''}
+    ${scene.image ? `<figure class="story-illustration"><img src="${escape(scene.image.src)}" alt="${escape(scene.image.alt)}"${scene.image.width&&scene.image.height?` width="${Number(scene.image.width)}" height="${Number(scene.image.height)}"`:""} loading="lazy"><figcaption>${escape(scene.image.caption)}</figcaption></figure>` : ''}
   </section>`).join('');
   const companions = story.companions ? `<section class="story-companions" aria-label="The companions">
     <h3>${escape(story.companions.title)}</h3><div class="story-companion-grid">${story.companions.people.map(person => `<article class="story-companion">
