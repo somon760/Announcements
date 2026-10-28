@@ -1,4 +1,4 @@
-import { renderBattleChronicle, bindBattleChronicle } from './battles.js?v=battle-chronicle-2';
+import { renderBattleChronicle, bindBattleChronicle } from './battles.js?v=battle-chronicle-3';
 import { renderStory } from './story.js?v=campaign-stories-21';
 import { renderCompanions, renderCharacter } from './characters.js?v=companions-10';
 const main=document.querySelector('#main'), dialog=document.querySelector('#viewer');
