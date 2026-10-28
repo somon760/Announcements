@@ -40,7 +40,7 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 31 such notes.
+recorded actions. The twelve narrated chapters contain 33 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return fifty years beyond its original time, as confirmed by Boss. The final
@@ -157,3 +157,13 @@ desmodu race. Deep Horizon, the Sleeper return and sunken Brindinford each carry
 labelled Hindsight connecting these events. No disaster casualty count, precise
 calendar year, investment payout or player knowledge at the time is inferred.
 Scene order, gallery, character statistics and battle-ledger totals are unchanged.
+
+
+Pengu’s loss-of-magic thread now begins with Shrop extinguishing the Nightmare
+Grotto candle, follows the northward warning, arcane/divine suppression and the
+Candle of the Dark One search, and reaches Frostblight and magic’s gradual
+recovery. The Rigus aftermath connects ward failure to the same crisis. Shrop’s
+profile includes a milestone and a labelled Revisionist consequence. The original
+grotto candle and the later Candle of the Dark One are distinct; Ashardalon’s
+soul predation remains a separate, continuing danger. Pengu’s egg’s later fate
+and the final candle working are not invented.

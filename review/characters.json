@@ -60,6 +60,12 @@
           "chapter": "nightfang-spire"
         },
         {
+          "title": "The candle in the Nightmare Grotto",
+          "text": "Shrop snuffed a candle in Crimson Crazuk’s Nightmare Grotto and released a spirit. The road north would bring the company against Pengu and a world losing its magic—the consequences of that release. The confrontation reached Frostblight, where Pengu’s fighting form collapsed into a living obsidian egg.",
+          "chapter": "white-plume",
+          "scene": 1
+        },
+        {
           "title": "A different kind of foresight",
           "text": "The northern road drew him towards Grek and Frostrazor under Eldath’s guidance. He carries the Boon of Foresight, alongside Champion resilience and extraordinary strength. Those gifts sit beside his blindness; they do not erase it or explain its beginning.",
           "chapter": "frostmaiden"
@@ -103,6 +109,14 @@
           "title": "The axe echoed an older command",
           "paragraphs": [
             "His cursed fixation can be read as a cruel return to the problem that made him desert: something else deciding what his strength was for. Thunder’s intervention gave that moment a different ending from the Vinlands. This is a reading of the arc, not a secret explanation Shrop is claimed to have discovered."
+          ]
+        },
+        {
+          "kind": "Hidden consequence",
+          "title": "What escaped when the candle went out",
+          "paragraphs": [
+            "The spirit Shrop released by extinguishing the candle was Pengu. Its freedom brought the loss of magic that followed the company into Icewind Dale, weakening Grim’s spells and Terry’s divine aid. The consequences reached beyond the north: Rigus’s magical wards failed, leaving the city open to the demon army.",
+            "Shrop’s part in the release belongs beside the company’s later struggle to stop Pengu. Frostblight fell and magic began a gradual recovery, while Pengu remained within the pulsing obsidian egg. The candle links his earlier act to that northern reckoning."
           ]
         }
       ],

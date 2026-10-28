@@ -1108,6 +1108,7 @@
         "paragraphs": [
           "White Plume belonged to a journey already tangled in dreams. Among the company’s detours was the Grotto of Nightmares, a pocket domain in the Deep Ethereal ruled by the lich Crimson Crazuk. This was a different grotto from the fungal stronghold they would later reach on the way home from Icewind Dale.",
           "There, the company heard from a pair of ghosts, found and looted a treasure pile, and learned to contend with the domain’s dangers. Outside Crazuk’s house, they defeated the creatures he sent to deal with them. The struggle ultimately ended in Crimson Crazuk’s destruction—a victory the Sleeper later acknowledged.",
+          "During that ordeal, Shrop snuffed a candle and released a spirit. That small extinguishing would reach far beyond Crazuk’s domain. The company’s road north would lead into a world losing the magic upon which so much of its strength depended.",
           "The nightmare’s dangers reached beyond wounds: souls could be held in candles, and ordinary magic offered no simple way out. That ordeal belonged to the larger mystery around the Guild of Sleep and its stolen Time Stone. The company’s next detour would carry it into its own earlier lives and towards Keraptis’s invitation."
         ],
         "hindsight": [
@@ -1115,6 +1116,13 @@
             "title": "Crazuk’s candles held more than flame",
             "paragraphs": [
               "Humanoids who died in the Nightmare Grotto could have their souls trapped in Crazuk’s candles. Ordinary resurrection could not reach them while they remained confined; destroying the lich and the candles was the way to free them. The domain’s danger extended beyond its walls and exhausting sleep into ownership of the dead."
+            ]
+          },
+          {
+            "title": "The spirit Shrop released was Pengu",
+            "paragraphs": [
+              "The candle Shrop snuffed had confined Pengu. Extinguishing it released the spirit whose influence would drain magic from the world. The failing spells, faltering divine power and waves of anti-magic in Icewind Dale were consequences of that release.",
+              "Crazuk’s defeat ended one nightmare, but the released spirit carried another out into the wider world. Pengu’s northern power and the company’s struggle to overcome it began with that candle in the grotto."
             ]
           }
         ]
@@ -1201,8 +1209,8 @@
       "title": "The road north from a stolen present",
       "paragraphs": [
         "White Plume ended with the company outside the mountain and carrying its rewards. The larger Sleeper detour took it through earlier Brindinford and finally into a world fifty years beyond its original time. The investments, the familiar streets, and the question of getting home belonged to that broken course through history. Brindinford’s volcanic destruction made the missing years a loss of place as well as time.",
-        "A further warning accused the company of breaking a seal and releasing a primordial menace. Its name was lost in the telling, but the demand was clear: repair what had been disturbed, and seek the answer to the north. That warning travelled with the renewed pursuit of Keraptis and the weapons.",
-        "The next great journey led into Icewind Dale, where winter held the towns and magic itself was beginning to fail. It was another turn away from Bastion’s investigation, with the company still carrying that unfinished mystery towards its eventual return."
+        "A warning accused the company of breaking a seal and releasing a primordial menace, then directed it north to repair what had been disturbed. Shrop’s extinguished candle had opened a danger whose consequences would follow them into Icewind Dale. The renewed pursuit of Keraptis and the weapons now ran alongside the need to confront the spirit that had escaped.",
+        "The next great journey led into Icewind Dale, where winter held the towns and magic itself was failing. The northern struggle would bring the company against Pengu, the spirit released in the Nightmare Grotto, while Bastion’s unfinished mystery still waited beyond it."
       ]
     },
     "eyebrow": "The dream, the mountain, and fifty missing years"
@@ -1211,7 +1219,7 @@
     "title": "Beyond the winter, a world at war",
     "opening": [
       "The journey into Icewind Dale followed the Sleeper’s time-displaced detour. Team Biscuit now stood fifty years beyond the original time it had left, with Bastion’s mystery still unfinished. In the Dale, winter would not release its hold. Food, shelter, a passable road, and a mine that could work again gave the company immediate work among the people of Ten-Towns.",
-      "The road would lead far beyond those first troubles. Pengu’s corruption, failing magic, the return of Keraptis’s influence, and the ruin of Frostblight carried the company towards a changed world. On the journey home, there would be a besieged keep, an army of demons, and another return to Brindinford."
+      "The road north carried the consequences of a candle snuffed in the Nightmare Grotto. Pengu was free, and magic was failing. Its corruption, the return of Keraptis’s influence and the ruin of Frostblight would carry the company towards a changed world. On the journey home, there would be a besieged keep, an army of demons, and another return to Brindinford."
     ],
     "scenes": [
       {
@@ -1240,15 +1248,25 @@
       {
         "title": "When the prayers grew faint",
         "paragraphs": [
-          "North of the Spine of the World, the company’s familiar strengths became less dependable. Magic weakened. For Terry, the loss reached into his connection with Pelor: faith remained, but the power that usually answered it could no longer be taken for granted.",
+          "North of the Spine of the World, the company’s familiar strengths became less dependable. Magic weakened. Grim’s more powerful spells became almost impossible to call upon; Terry’s connection with Pelor faltered. Arcane learning and divine devotion alike met a world in which the power they needed was ebbing away.",
           "At the Northlook, guidance came through Olaf. Pelor’s message pointed Terry towards the danger gathering in the north. Pengu, linked to the enormous Emperor Penguin statue, was feeding upon Auril’s power and sending waves of anti-magic across the land.",
+          "The loss changed more than the force of a spell. A difficult journey, a dangerous wound or a battle beyond the next ridge could no longer be approached with the same confidence in magical aid. The company had to adapt its surviving power to the cold and the creatures ahead. The weakening magic was part of the northern ordeal wherever they went.",
           "The wilderness supplied dangers of its own. The company faced remorhaz, frost giants, and the servants of Auril. Fighting through the cold was hard enough; doing so while spells and divine aid faltered changed the terms of every journey."
+        ],
+        "hindsight": [
+          {
+            "title": "One candle, a world losing its magic",
+            "paragraphs": [
+              "Pengu’s release began when Shrop extinguished the candle in the Nightmare Grotto. In the north, the freed spirit fed upon Auril’s power and sent anti-magic waves across the land. What the company faced in the Dale was the growing consequence of that earlier act.",
+              "The cold and the loss of magic reinforced one another. Ten-Towns struggled to survive while the company’s own spells and divine aid faltered. Confronting Pengu meant answering the danger released on the dream-bound road as well as overcoming the enemy waiting at Frostblight."
+            ]
+          }
         ]
       },
       {
         "title": "Wax, wick, and three chances",
         "paragraphs": [
-          "The Candle of the Dark One required materials with names as melancholy as the Dale itself: Moonlit Sorrow Vine, Ethereal Whispers Blossom, Melancholic Moonstone, Shadowkissed Silk, Whispering Willow Wood, and Mourning Mist Essence.",
+          "The Candle of the Dark One required materials with names as melancholy as the Dale itself: Moonlit Sorrow Vine, Ethereal Whispers Blossom, Melancholic Moonstone, Shadowkissed Silk, Whispering Willow Wood, and Mourning Mist Essence. This was a new working sought against Pengu, distinct from the candle Shrop had extinguished in the Nightmare Grotto.",
           "The search took the company among haunted places, the Frostmaiden’s followers, arcane wards, and a mountain shrine. Once the ingredients were gathered, Grim prepared three portions of wax and three wicks. They had the components for three attempts at the candle; the final working still lay ahead.",
           "Meanwhile, Eldath’s guidance drew Shrop towards the Cave of the Berserkers. Frostrazor was there, in the hands of the frost giant Grek. Another trail of legendary weapons was taking shape, and the name Keraptis waited at its centre."
         ],
@@ -1295,7 +1313,7 @@
       {
         "title": "Pengu’s last shape",
         "paragraphs": [
-          "In the northern stronghold, the company fought through corrupted emperors, Panguini, Dreamkeepers, and other creatures of the ice. Mad Kaelith fell during that struggle. At its heart waited Pengu, whose presence had reached across the Dale through corrupted creatures and failing magic.",
+          "In the northern stronghold, the company fought through corrupted emperors, Panguini, Dreamkeepers, and other creatures of the ice. Mad Kaelith fell during that struggle. At its heart waited Pengu, whose presence had reached across the Dale through corrupted creatures and failing magic. The spirit released from the grotto’s candle was now the enemy before them; the struggle against failing magic had reached its source.",
           "When the final blow landed, Pengu folded inward. Her immense body condensed into a black egg ten feet tall, its surface gleaming like obsidian. A slow pulse beat within it, drawing heat from the air. The enemy’s fighting form had fallen, but what remained was still alive with dreadful possibility.",
           "Then Frostblight broke apart. The great penguin statue shattered, the ice shelf fractured, and the company’s escape carried them into the arctic sea. They were left stranded on an isolated iceberg, with sheer ice above the water and no land in sight."
         ],
@@ -1318,7 +1336,8 @@
       {
         "title": "A vision on the ice",
         "paragraphs": [
-          "On the ice, the company’s dream brought Pelor, Eldath, and Auril together. Eldath spoke of magic healing gradually after its long suppression. Auril acknowledged how Pengu had made a prison of her domain. The vision offered hope, but it also returned the company to an older danger: Ashardalon’s hunger for souls.",
+          "On the ice, the company’s dream brought Pelor, Eldath, and Auril together. Eldath spoke of magic healing gradually after its long suppression. Pengu’s defeat had allowed the flow to begin returning, but the world would need time to regain its strength. Auril acknowledged how Pengu had made a prison of her domain. From the grotto’s extinguished candle to the breaking of Frostblight, the company had followed a calamity it had helped set loose and fought to overcome.",
+          "Recovery did not end every crisis. The vision returned the company to Ashardalon’s hunger for souls. Magic could begin to flow again while unborn lives were still being stolen; the road back to Bastion remained urgent.",
           "The gods’ message called them back towards Rigus. The crisis of births without souls had continued while they struggled in the north. The Bastion mystery they had begun before that journey was still waiting, and the world could not afford for it to remain unanswered.",
           "For Thunder, the dream also held the Deliverance and Captain Timothy Pepper. The Pendant of the Ethereal Anchor bound Thunder’s soul to the ghostly ship. Pepper had warned him of its price: dying while wearing it would make Thunder the ship’s captive captain in Pepper’s place. In the vision, the ship endured and searched for him; that reassurance did not remove the bargain.",
           "Another guide appeared beneath the ice: Angajuk, the great whale, offering passage onward. Deliverance and whale would carry different parts of the company’s story. The promise of a way forward led from the frozen sea towards the planes."
@@ -1344,7 +1363,9 @@
           {
             "title": "The hunger behind the silent cradles",
             "paragraphs": [
-              "Ashardalon was consuming souls before they could be born, feeding his failing demonic heart at the Bastion of Unborn Souls. The absent spark in the infants was the consequence of that predation reaching across the worlds. Cuthbert’s chronicle records the suffering among the living; the dragon’s feast explains what had been taken before those lives could begin."
+              "Pengu’s suppression of magic reached beyond Icewind Dale. When Rigus’s arcane and divine wards failed, the Lion’s Gate broke and the demons entered. The disaster Shrop’s candle had released helped strip the city of its defenses. The returning company met survivors whose war had begun in that magical collapse.",
+              "Ashardalon was consuming souls before they could be born, feeding his failing demonic heart at the Bastion of Unborn Souls. The absent spark in the infants was the consequence of that predation reaching across the worlds. Cuthbert’s chronicle records the suffering among the living; the dragon’s feast explains what had been taken before those lives could begin.",
+              "These dangers had different sources. Pengu’s release brought the loss of magic; Ashardalon’s feeding stole unborn souls. Breaking Pengu’s hold allowed magic to recover, but the dragon’s predation continued. The victory in the north could open the road back to Bastion without finishing the work waiting there."
             ]
           }
         ]
@@ -1370,7 +1391,7 @@
     "closing": {
       "title": "Home, beneath the streets",
       "paragraphs": [
-        "The northern expedition had begun with hungry towns, haunted waters, and a winter that would not end. It carried Team Biscuit through Frostrazor’s recovery, Pengu’s terrible transformation, the fall of Frostblight, and the return to people who had come to worship them. The demon army made that return a battle of its own.",
+        "The northern expedition had begun with hungry towns, haunted waters, and a winter that would not end. Beneath those troubles ran a thread from Shrop’s candle in the Nightmare Grotto: Pengu’s release, the loss of magic, and the struggle to break its hold. Frostrazor’s recovery, the fall of Frostblight and the first gradual healing of magic brought that struggle to a turning point. Pengu’s pulsing egg remained, and the people of the Red Keep still faced the demon army that had followed Rigus’s fall.",
         "At the end of the Icewind Dale journey, the way home led into Fungus Grotto and sunken Brindinford. There, Shrop, Grim, Terry, and Thunder would fight alongside Team Gravy—Brunn, Rook, Nox, and Elira—against giant ants among the buried remnants of a city they knew. The next passage belongs to both companies."
       ]
     }
