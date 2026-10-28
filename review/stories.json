@@ -376,19 +376,39 @@
       "people": [
         {
           "name": "Brunn Ironbelly",
-          "text": "Mountain Dwarf · Barbarian — Path of the Berserker"
+          "text": "Mountain Dwarf · Barbarian — Path of the Berserker",
+          "portrait": "media/portraits/team-gravy-brunn.png",
+          "alt": "Brunn Ironbelly, a shouting red-bearded dwarf with an axe, in his original Roll20 token.",
+          "paragraphs": [
+            "Brunn came south chasing tales of a fortress buried beneath Brindinford, hoping for dwarven steel or the ghosts of its makers. Broke but far from beaten, he was ready to follow the promise of fungus and fortune out of the Blasingdale tavern."
+          ]
         },
         {
           "name": "Rook Kestrel",
-          "text": "Aarakocra · Ranger — Hunter"
+          "text": "Aarakocra · Ranger — Hunter",
+          "portrait": "media/portraits/team-gravy-rook.png",
+          "alt": "Rook Kestrel, a feathered aarakocra archer drawing his bow, in his original Roll20 token.",
+          "paragraphs": [
+            "Rook had tracked the spreading blight downriver from the high peaks, arriving in Blasingdale with dwindling coin and arrows. The trail would carry the sharp-eyed hunter underground, far from the open sky his wings belonged to."
+          ]
         },
         {
           "name": "Nox Veyra",
-          "text": "Tiefling · Warlock — The Fiend"
+          "text": "Tiefling · Warlock — The Fiend",
+          "portrait": "media/portraits/team-gravy-nox.png",
+          "alt": "Nox Veyra, a dark-haired tiefling with red horns, in her original yellow-bordered Roll20 token.",
+          "paragraphs": [
+            "Nox followed rumors of old magic beneath the strangely flowing river, with dangerous sigils and infernal fire among her talents. When the grotto’s corruption denied her familiar a foothold, she took the theft of her pact-born companion as a personal challenge."
+          ]
         },
         {
           "name": "Elira Moss-Weaver",
-          "text": "Wood Elf · Druid — Circle of the Land (Underdark)"
+          "text": "Wood Elf · Druid — Circle of the Land (Underdark)",
+          "portrait": "media/portraits/team-gravy-elira.png",
+          "alt": "Elira Moss-Weaver, a wood elf druid in green with a wooden staff, in her original Roll20 token.",
+          "paragraphs": [
+            "Dreams of black water and broken stone drew Elira toward Blasingdale, where she recorded strange fungi while the locals whispered of a moss witch. She followed the sickness into the grotto determined to find the wound poisoning the land, even where the corruption rejected her fey companion."
+          ]
         }
       ]
     }

@@ -16,7 +16,7 @@ export function renderStory(story) {
   </section>`).join('');
   const companions = story.companions ? `<section class="story-companions" aria-label="The companions">
     <h3>${escape(story.companions.title)}</h3><div class="story-companion-grid">${story.companions.people.map(person => `<article class="story-companion">
-      ${person.portrait ? `<img src="${escape(person.portrait)}" alt="${escape(person.alt)}" loading="lazy">` : ''}<h4>${escape(person.name)}</h4><p>${escape(person.text)}</p>
+      ${person.portrait ? `<img src="${escape(person.portrait)}" alt="${escape(person.alt)}" loading="lazy">` : ''}<h4>${escape(person.name)}</h4><p>${escape(person.text)}</p>${paragraphs(person.paragraphs)}
     </article>`).join('')}</div>
   </section>` : '';
   return `<article class="chapter-story" aria-label="The story of this adventure">
