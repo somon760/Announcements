@@ -40,10 +40,10 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 33 such notes.
+recorded actions. The twelve narrated chapters contain 34 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
-return fifty years beyond its original time, as confirmed by Boss. The final
+return twenty years beyond its original time, as confirmed by Boss. The final
 Bastion destination is labelled as a return to an already-started mystery.
 
 Four additional Bastion story illustrations are under `media/story/bastion/`; they
@@ -151,7 +151,7 @@ scrolling. Filter controls use the same height across browsers.
 
 
 Boss confirmed the Deep Horizon consequence: the Brotherhood diverted lava to
-save the desmodu village. During the company’s missing fifty years, the resulting
+save the desmodu village. During the company’s missing twenty years, the resulting
 volcanic cataclysm collapsed Brindinford and the consequences wiped out the entire
 desmodu race. Deep Horizon, the Sleeper return and sunken Brindinford each carry
 labelled Hindsight connecting these events. No disaster casualty count, precise
@@ -167,3 +167,14 @@ profile includes a milestone and a labelled Revisionist consequence. The origina
 grotto candle and the later Candle of the Dark One are distinct; Ashardalon’s
 soul predation remains a separate, continuing danger. Pengu’s egg’s later fate
 and the final candle working are not invented.
+
+
+Boss corrected the time jump to twenty years on 2026-10-28. The former fifty-year
+wording is superseded throughout the narration, profiles and asset passages,
+including the Brindinford/desmodu aftermath. The northern Dream Sequence
+explicitly speaks of twenty years without new souls; the return and Bastion
+frame that warning as part of the ongoing crisis. No absolute onset year or
+exact total duration of Ashardalon’s residence is inferred. The current game’s
+posted 1 Hammer 1407 conflicts with earlier calendar output reaching 26 Eleasis
+1407; that correction remains with the GM. Player prose keeps relative chronology
+and narration rather than exposing the private date audit.
