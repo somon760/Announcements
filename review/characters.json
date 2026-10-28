@@ -1,0 +1,797 @@
+{
+  "version": 1,
+  "people": [
+    {
+      "slug": "shrop",
+      "name": "Shrop Shireslasher",
+      "shortName": "Shrop",
+      "company": "Team Biscuit",
+      "title": "The soldier who chose his own orders",
+      "summary": "A fugitive of the Stolen Sons, a breaker of doors, and the companion who kept going first—even without sight.",
+      "portrait": "media/portraits/shrop-early.png",
+      "portraitAlt": "Shrop’s original journal artwork: a broad cartoon figure in purple clothes, hat and scarf.",
+      "token": "media/portraits/shrop-token.png",
+      "tokenAlt": "Shrop’s yellow-bordered Roll20 token, wearing a purple hat and dark glasses.",
+      "facts": [
+        [
+          "Heritage",
+          "Half-Orc"
+        ],
+        [
+          "Calling",
+          "Champion Fighter"
+        ],
+        [
+          "Character sheet",
+          "Level 21"
+        ],
+        [
+          "Background",
+          "Soldier · Infantry"
+        ],
+        [
+          "Alignment",
+          "Neutral Good"
+        ],
+        [
+          "Defining detail",
+          "Blind; direct, strong and stubborn"
+        ]
+      ],
+      "backstory": [
+        "Shrop knew his mother’s name: Caroleena, or Carolee. Much else was missing. Born to an orc father and a human mother, he had never been fully accepted by one family and never known the other. At twelve he entered the Stolen Sons. Whether he had been conscripted, sold, or taken was a question his own history could not answer.",
+        "At sixteen, a job in the Western Vinlands gave him the name Shireslasher. The mission was already accomplished; the village did not need to be destroyed. He followed orders anyway. Something about that ruin stirred memories of his mother, and the name became a reminder of what obedience had cost. He left the mercenaries and spent years running from them. He still liked a soldier’s work. He meant to choose whose orders deserved following.",
+        "His bluntness concealed uncomfortable contradictions. He valued freedom, yet carried a harsh judgment of poverty born from his own poor childhood. He could insist on a funeral, let a child win an arm-wrestling match, and then meet the next problem by breaking its door. Team Biscuit gave those impulses a company to belong to."
+      ],
+      "progression": [
+        {
+          "title": "A name made in the Citadel",
+          "text": "Shrop helped bargain with the Hurcreles, freed Erky Timbers, recovered Shatterspike, and stood between the party and the dungeon’s teeth. His early history also records the discovery of Grim: the future company was still finding its shape.",
+          "chapter": "sunless-citadel"
+        },
+        {
+          "title": "The runaway met the wider trade",
+          "text": "Khundrukar brought more clues about the Stolen Sons, rescued commoners, duergar and Nightscale. The man who opened almost every door was following a very personal trail through someone else’s fortress.",
+          "chapter": "forge-of-fury"
+        },
+        {
+          "title": "A sacrifice, a curse, and Shreagle",
+          "text": "At Pelor’s temple he sacrificed Shatterspike. Around Ossington, Grim’s magic gave him the first Shreagle flight; later, the cursed axe narrowed his choices until Thunder had to restrain him. In Nightfang he made the mooncalf leap while berserk. Strength remained his answer, but it was not always his own will asking the question.",
+          "chapter": "nightfang-spire"
+        },
+        {
+          "title": "A different kind of foresight",
+          "text": "The northern road drew him towards Grek and Frostrazor under Eldath’s guidance. He carries the Boon of Foresight, alongside Champion resilience and extraordinary strength. Those gifts sit beside his blindness; they do not erase it or explain its beginning.",
+          "chapter": "frostmaiden"
+        },
+        {
+          "title": "The front of the company",
+          "text": "Sunken Brindinford joined his company to Team Gravy. The return to the Bastion then carried the old habit—go first, endure, make room for the others—towards the dragon whose name had followed them since the Citadel.",
+          "chapter": "bastion"
+        }
+      ],
+      "gifts": [
+        {
+          "name": "Frostmore and Foe Slasher",
+          "text": "Named weapons in an arsenal whose history includes both sacrifice and the danger of dependence."
+        },
+        {
+          "name": "Storm-giant strength",
+          "text": "His belt and formidable equipment turn an already imposing soldier into a force suited to impossible doors and enormous enemies."
+        },
+        {
+          "name": "Eldath’s foresight",
+          "text": "Eldath’s blessing adds foresight and protection to the endurance of the Champion. The blind fighter’s story continues on its own terms."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "The Stolen Sons were part of a larger market",
+          "paragraphs": [
+            "Helkitrin’s account connects the Stolen Sons to a trade in captives for metals, reaching places the company knew: Blasingdell, Ossington and Brindinford among them. Shrop’s pursuers belonged to a system that turned people into supplies. That wider design gives his escape another weight; it does not settle who took him from Caroleena or what became of her."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "The axe echoed an older command",
+          "paragraphs": [
+            "His cursed fixation can be read as a cruel return to the problem that made him desert: something else deciding what his strength was for. Thunder’s intervention gave that moment a different ending from the Vinlands. This is a reading of the arc, not a secret explanation Shrop is claimed to have discovered."
+          ]
+        }
+      ],
+      "unfinished": [
+        "Caroleena’s fate and the circumstances of Shrop’s conscription remain unanswered. The beginning of his blindness is not established here, and the fifty-year displacement must not be mistaken for fifty years of personal ageing.",
+        "The Bastion leaves room for the soldier’s final choice. No victory, death, cure or homecoming is written for him in advance."
+      ],
+      "memories": []
+    },
+    {
+      "slug": "grim",
+      "name": "Grimbledee Brightburrow",
+      "shortName": "Grim",
+      "company": "Team Biscuit",
+      "title": "The scholar who ran out of books",
+      "summary": "A dragon scholar with a family mystery, an ambitious spellbook, and a dangerous willingness to ask one more question.",
+      "portrait": "media/portraits/grim-portrait.png",
+      "portraitAlt": "Grim’s journal portrait: a bearded gnome in green robes holding blue magical flame.",
+      "token": "media/portraits/grim-token.png",
+      "tokenAlt": "Grim’s original red-bordered Roll20 token.",
+      "facts": [
+        [
+          "Heritage",
+          "Rock Gnome"
+        ],
+        [
+          "Calling",
+          "School of Enchantment Wizard"
+        ],
+        [
+          "Character sheet",
+          "Level 22"
+        ],
+        [
+          "Background",
+          "Sage · Alchemist"
+        ],
+        [
+          "Alignment",
+          "Lawful Neutral"
+        ],
+        [
+          "Ambition",
+          "Gather all known magic into one great tome"
+        ]
+      ],
+      "backstory": [
+        "Grim came from comfort, craftsmanship and books. His father, Hortletott Brightburrow, sold and bound them; his mother, Deannartie, made exquisite jewelry. His uncle Theothottle Braidedbeard offered something even more irresistible: a wizard’s library, and stories about dragons.",
+        "Theothottle spoke of his own grandfather Eudostis, who had seen a dragon while travelling with friends. A great diamond was said to have come from its hoard, though the missing stone’s provenance could not be proved. Grim inherited the uncle’s burrow and a much larger appetite for the subject. After more than thirty years exhausting the books and witnesses within reach, he understood what a library could no longer give him. He would have to go outside.",
+        "He left his family to tend his home and garden, promising to return intact, wealthier if possible, and wiser. His later ambition was grander still: one book containing all known magic. The gold eyes, carefully chosen clothes and wild beard belonged to a genial scholar whose own flaw admitted that an ancient mystery might be worth the price of a civilization."
+      ],
+      "progression": [
+        {
+          "title": "Lore became a working tool",
+          "text": "In the Citadel, dragon knowledge, translation and familiar scouting served the whole party. Grim taught Terry Draconic, helped handle the Hurcrele captives without simply killing them, and returned the family’s rings. Research had acquired consequences.",
+          "chapter": "sunless-citadel"
+        },
+        {
+          "title": "The dragon finally appeared",
+          "text": "Khundrukar offered Borol’s Ring, duergar questions, secret caches and Nightscale. The life achievement was wonderfully plain: dragons. The subject of decades of reading now watched him back.",
+          "chapter": "forge-of-fury"
+        },
+        {
+          "title": "A family face in a tomb",
+          "text": "At Brindinford he countered a bone devil’s summoning and carried the company safely from the bell tower with Feather Fall. Ossington brought a spirit in his mind and an elemental bargain. Nightfang then placed Eudostis’s likeness on a sarcophagus, turning the family tale into an immediate mystery.",
+          "chapter": "nightfang-spire"
+        },
+        {
+          "title": "The past was not finished",
+          "text": "The Sleeper episode drew Eudostis, the Time Stone and Crimson Crazuk into one account. The company returned to its own eighth-level lives before eventually reaching a time fifty years beyond its original present. Even a scholar of history could find himself misplaced inside it.",
+          "chapter": "white-plume"
+        },
+        {
+          "title": "Knowledge before a fallen god",
+          "text": "The northern candle-work placed him among rare ingredients and three prepared attempts; it does not supply a completed final working. Later, Grim approached Desayeus with peaceful intent and questions about the Soul Totem. At level 22 he commands Spell Mastery, Signature Spells and an enormous repertoire: the little dragon scholar had become an archmage.",
+          "chapter": "bastion"
+        }
+      ],
+      "gifts": [
+        {
+          "name": "The growing spellbook",
+          "text": "He once measured his unfinished collection spell by spell. Now his repertoire reaches Wish, Time Stop, Gate and other ninth-circle workings, while the ambition of the one great tome still draws him onward."
+        },
+        {
+          "name": "Familiars and borrowed shapes",
+          "text": "Queasel’s scouting and the Shreagle journeys show knowledge doing practical work: looking ahead, crossing water, and moving an entire company."
+        },
+        {
+          "name": "The ancient text",
+          "text": "He keeps an ancient text holding terrible secrets, bound to the promise that it must not fall into the wrong hands. What those pages contain remains a mystery of its own."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "Eudostis was not simply a name on a tomb",
+          "paragraphs": [
+            "Eudostis stole the Time Stone while trying to free the Sleeper, inadvertently removing the lock upon Crazuk. Lydzin later wished him into a parrot and kept him captive. The Sleeper partly repaired the damage to his mind and urged a return home. That hidden chain explains how an ancestor’s adventure became a living disaster; the actual homecoming remains unwritten."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "A scholar’s most dangerous question",
+          "paragraphs": [
+            "The scholar who valued an ancient answer above a civilization eventually stood before Desayeus, with a fragment needed to reach the Bastion and another person’s life bound into the route. Eco’s death and Findula’s farewell leave the appetite for knowledge beside its human cost. This is a retrospective reading of those events, not an invented confession or assignment of the killing blow."
+          ]
+        }
+      ],
+      "unfinished": [
+        "The missing family diamond, the full contents of the ancient text, the eventual completion of the great spellbook, and Eudostis’s safe return are not resolved here. The old notes themselves move from uncertainty about the ancestor to a more definite identification; they do not provide a complete family tree.",
+        "At the Bastion, the dragon scholar’s oldest subject has become the company’s unfinished confrontation."
+      ],
+      "memories": [
+        {
+          "src": "media/portraits/grim-early.png",
+          "alt": "Grim’s earlier campaign portrait.",
+          "caption": "An earlier face from the road, before the spellbook and the dragon mystery had grown so large."
+        }
+      ]
+    },
+    {
+      "slug": "terry",
+      "name": "Terry Stronginthearm",
+      "shortName": "Terry",
+      "company": "Team Biscuit",
+      "title": "Faith with a hammer in its hand",
+      "summary": "Healer, smith, sarcastic protector, and owner of a planar fortress—with a gift an old enemy could not imitate.",
+      "portrait": "media/portraits/terry-portrait.png",
+      "portraitAlt": "Terry’s campaign portrait: an armored dwarf holding a hammer before a golden sun.",
+      "token": "media/portraits/terry-token.png",
+      "tokenAlt": "Terry’s blue-bordered Roll20 portrait token.",
+      "facts": [
+        [
+          "Heritage",
+          "Mountain Dwarf"
+        ],
+        [
+          "Calling",
+          "War Domain Cleric 21 · Paladin 1"
+        ],
+        [
+          "Background",
+          "Outlander · Exile or outcast"
+        ],
+        [
+          "Alignment",
+          "Lawful Good"
+        ],
+        [
+          "Devotion",
+          "Pelor"
+        ],
+        [
+          "Holding",
+          "Iron Fortress of Zandikar"
+        ]
+      ],
+      "backstory": [
+        "Terry’s own account of his upbringing proceeds through goblins eaten by wolves, wolves slain by goblins, and further changes of household until he tired of the drama. A citadel at least promised three meals a day. When goblins and wolves combined to wreck that arrangement too, he took to the road and helped people—with sarcasm close at hand.",
+        "The outlander’s instincts were fierce and not always gentle. He watched over his friends like newborn pups, prized the greater good of the tribe, and distrusted the idea that money or manners could save anyone from a hungry owlbear. He also carried a harsher belief that the strong thrive and the weak perish. In practice, Team Biscuit repeatedly survived because he refused to let its members do the latter.",
+        "He belonged to the Stolen Sons chapter of Shrop and Thunder’s lives before the later company took shape. Dwarven history, smithcraft and a growing devotion to Pelor gave him a direction of his own. A war priest’s calling was an excellent fit for a man prepared to heal you, rebuke you, and then hit the thing that had hurt you."
+      ],
+      "progression": [
+        {
+          "title": "Chalk, healing and Draconic lessons",
+          "text": "In the Citadel he brought healing, helped unravel the twig-blight puzzle and struck a bargain with the Hurcreles. Grim’s Draconic lessons began one night at a time. Khundrukar added Gharin’s warhammer, rescued commoners, dwarven lore and Ironcore.",
+          "chapter": "forge-of-fury"
+        },
+        {
+          "title": "A commitment made in Brindinford",
+          "text": "Terry committed to Pelor, helped cleanse the temple, removed mummy curses from Shrop and Grim, and used Daylight during the struggle to save the Baron. The headless paladin and the hidden shrine near Ossington gave that commitment an older history.",
+          "chapter": "speaker-in-dreams"
+        },
+        {
+          "title": "A fortress became his responsibility",
+          "text": "Zandikar came to belong to Terry. Its armor conveyed authority over the gates and guardians; its forge drew on elemental fire. The dwarf who had wanted a reliable meal now held a fortress and a vast smithy across the planes.",
+          "chapter": "iron-fortress"
+        },
+        {
+          "title": "The north tested his independence",
+          "text": "Thunder saw Terry’s judgment and initiative fade into unnatural obedience, accompanied by a repeated numerical riddle. The change threatened the independence his friends knew; the riddle offered no easy answer. Elsewhere, the candle scheme made his unusual capacity for attunement dangerously valuable.",
+          "chapter": "frostmaiden"
+        },
+        {
+          "title": "The weight of a living saint",
+          "text": "The Red Keep’s survivors had raised a faith around the absent Blessed Company; Terry’s armor waited there. He returned through the demon army and the buried city before carrying Pelor’s faith into the Bastion’s soul crisis. His calling now joins a level-21 war cleric’s power to his first paladin level.",
+          "chapter": "bastion"
+        }
+      ],
+      "gifts": [
+        {
+          "name": "Pelor’s Boon of Attunement",
+          "text": "The blessing permits four attuned magic items. In the northern plot, that fourth place made the priest himself more important than simply owning the weapons."
+        },
+        {
+          "name": "The Armor of Zandikar",
+          "text": "Attunement carries the fortress’s authority. Its six regenerating blade golems and forge remain part of a holding, not six companions who travelled beside him."
+        },
+        {
+          "name": "Hammer, holy blade and healing",
+          "text": "The Hammer of Thunderbolts, Holy Avenger and Ironcore stand beside the healing and intervention that repeatedly held the company together."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "Keraptis needed the bearer",
+          "paragraphs": [
+            "The candle’s hidden requirement was attunement to all four weapons of power. Keraptis could manage three; Terry’s boon allowed four. The dwarf was therefore a potential target for abduction, not merely a rival treasure hunter. This explains the enemy’s need without pretending the company ever possessed Blackrazor: it was not among their stolen weapons."
+          ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The forge was a doorway",
+          "paragraphs": [
+            "Zandikar’s furnace was a portal to the Elemental Plane of Fire. Its heat powered more than craft: the fortress’s active systems and much of the armor’s command over its guardians depended on the forge. Ownership gave Terry a far-reaching responsibility with conditions, not an unconditional army."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "Faith could not grant every release",
+          "paragraphs": [
+            "Pelor’s permission opened a way into Desayeus’s prison without authorizing the prisoner’s freedom. Eco died, the fragment was obtained, and Findula withdrew from the company. Terry’s arc can be read against that distinction between divine access and moral certainty. The chronicle does not invent his private judgment of what happened there."
+          ]
+        }
+      ],
+      "unfinished": [
+        "The cause and final resolution of Terry’s altered behavior remain open. The candle’s final completion, the four-weapon working and any eventual cure are not assumed from the plan.",
+        "Zandikar and the Red Keep remain distinct places. His future as priest, smith, fortress-holder or surviving companion awaits the company’s last reckoning."
+      ],
+      "memories": [
+        {
+          "src": "media/portraits/terry-early.png",
+          "alt": "Terry’s earlier campaign portrait.",
+          "caption": "The dwarf on the earlier road: before Zandikar, the northern mysteries and the burden of the Blessed Company."
+        }
+      ]
+    },
+    {
+      "slug": "thunder",
+      "name": "Thunderdrum Stringcutter",
+      "shortName": "Thunder",
+      "company": "Team Biscuit",
+      "title": "The way home, and the blood that barred it",
+      "summary": "A performer turned thief, an inherited curse, a spectral ship’s bargain, and a bloodline feared by an ancient dragon.",
+      "portrait": "media/portraits/thunder-portrait.png",
+      "portraitAlt": "Thunder’s journal portrait, a long-haired figure leaning forward with an intent expression.",
+      "token": "media/portraits/thunder-token.png",
+      "tokenAlt": "Thunder’s original blue-bordered Roll20 token.",
+      "facts": [
+        [
+          "Heritage",
+          "Half-Elf"
+        ],
+        [
+          "Calling",
+          "Thief Rogue"
+        ],
+        [
+          "Character sheet",
+          "Level 21"
+        ],
+        [
+          "Background",
+          "Entertainer · Tumbler"
+        ],
+        [
+          "Alignment",
+          "Neutral"
+        ],
+        [
+          "Inheritance",
+          "Born wererat · descendant of Dydd"
+        ]
+      ],
+      "backstory": [
+        "Thunder’s mother was an elven musician travelling with a troupe; his human father owned a theater in Brindinford. They met during the annual festival, and Thunder was born after the performers had left town. He grew up among acrobatics, sleight of hand and drums, learning how to catch an audience before he learned how to escape one.",
+        "Curiosity eventually brought him to Brindinford to find his father. Human years had moved faster than he expected. He arrived during the old man’s final days and heard a deathbed confession: his father had been cursed as a wererat and feared passing it to his son. Thunder would not return to his mother until he could lift the inheritance. Performing sometimes gave way to burglary; a failed attempt sent him into service with the Stolen Sons, where he joined Terry and Shrop.",
+        "The wish to be famous sat beside the fear of going home. He collected rumors wherever he went and could smooth a room’s temper with charm, but his own family still waited without understanding his absence. The later discovery of Dydd’s blood gave his inheritance a second, much older meaning."
+      ],
+      "progression": [
+        {
+          "title": "Doors, traps and a difficult confession",
+          "text": "In the Citadel he disarmed traps, opened locks, helped free Erky, and began coming to terms with his lycanthropy before the company. The inheritance that had kept him from home was becoming something his companions could finally understand.",
+          "chapter": "sunless-citadel"
+        },
+        {
+          "title": "An entertainer became the scout",
+          "text": "Khundrukar brought traps, drumming, backstabs and an approach to Nightscale. Brindinford then gave him rumors, temple infiltration and a narrow survival behind the Wrinkle. Saithnar’s glasses helped him read the margins of dragon lore for Grim and Terry.",
+          "chapter": "speaker-in-dreams"
+        },
+        {
+          "title": "The hand that stopped a friend",
+          "text": "Around Ossington he found routes, investigated the tarn, discovered the abandoned Pelorian shrine and restrained Shrop’s cursed rampage. His usefulness was never confined to what he could steal.",
+          "chapter": "standing-stone"
+        },
+        {
+          "title": "The captaincy with a price",
+          "text": "The Pendant of the Ethereal Anchor opened the way to the Deliverance and tied his soul to its fate. Pepper warned him what death while wearing it would mean. The northern vision showed the ship searching for him; reassurance was not release from the bargain.",
+          "chapter": "frostmaiden"
+        },
+        {
+          "title": "Dydd’s words in his own voice",
+          "text": "Thunder received the Soul Totem fragment and spoke Dydd’s invocation in Desayeus’s prison. He has gained controlled lycanthropy, the master thief’s talents and the Boon of Swiftest Bladework. The journey now brings Dydd’s descendant towards Ashardalon, without prewriting the confrontation.",
+          "chapter": "bastion"
+        }
+      ],
+      "gifts": [
+        {
+          "name": "Controlled lycanthropy",
+          "text": "He can take rat and hybrid forms, though prolonged use carries a warning of eroding control. That progression sits beside the older family account of a curse he once had never outwardly manifested."
+        },
+        {
+          "name": "The Ethereal Anchor",
+          "text": "A portal key, a bond to the Deliverance, and the focus of his swiftest-bladework boon. Its bright possibilities carry a very dark condition."
+        },
+        {
+          "name": "Planar Rapier and Pale Piercer",
+          "text": "Named blades carried by a thief whose great strengths also include observation, investigation and moving through places others cannot reach."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "The hunted blood was a weapon in someone else’s plan",
+          "paragraphs": [
+            "Dydd had mortally wounded Ashardalon’s original heart. Thunder’s descent made that old injury relevant again, drawing the Cathezar’s pursuit. Behind it, Aameul sought Ammet—the demon now serving as the dragon’s heart—to gain an advantage over Hethradiah. Being useful against the dragon did not make every interested power an ally."
+          ]
+        },
+        {
+          "kind": "Hidden consequence",
+          "title": "Pepper’s freedom could become Thunder’s prison",
+          "paragraphs": [
+            "If Thunder died wearing the pendant, its condition would pull his soul aboard the Deliverance, bind him there, and release Pepper to the afterlife. He had received a warning; this retrospective does not pretend it was wholly unknown to him. What remains unfulfilled is the consequence, not the existence of the bargain."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "Two inheritances, neither chosen",
+          "paragraphs": [
+            "The wererat curse kept him from his mother; Dydd’s blood drew him towards the dragon. Read together, they make the performer’s desire to choose his own story especially sharp. That connection is an interpretation of his arc, not a new claim about the origin of either bloodline."
+          ]
+        }
+      ],
+      "unfinished": [
+        "His mother’s reunion, the final state of his curse, and the Deliverance’s ultimate captaincy remain open. Neither Pepper’s release nor Thunder’s death is assumed.",
+        "He has spoken the invocation, but no recorded final confrontation yet shows what he chose to do with it before Ashardalon."
+      ],
+      "memories": [
+        {
+          "src": "media/portraits/thunder-early.png",
+          "alt": "Thunder’s earlier campaign portrait.",
+          "caption": "An earlier image of the performer and scout, whose road home became a passage between worlds."
+        }
+      ]
+    },
+    {
+      "slug": "brunn",
+      "name": "Brunn Ironbelly",
+      "shortName": "Brunn",
+      "company": "Team Gravy",
+      "title": "An old soldier’s spark",
+      "summary": "A dwarf chasing buried steel found a living infestation—and a second company fighting for the same way out.",
+      "portrait": "media/portraits/team-gravy-brunn.png",
+      "portraitAlt": "Brunn’s original circular token: a roaring red-bearded dwarf with an axe.",
+      "token": "media/portraits/team-gravy-brunn.png",
+      "tokenAlt": "Brunn Ironbelly’s original Roll20 portrait token.",
+      "facts": [
+        [
+          "Heritage",
+          "Mountain Dwarf"
+        ],
+        [
+          "Calling",
+          "Barbarian · Path of the Berserker"
+        ],
+        [
+          "Company",
+          "Team Gravy"
+        ],
+        [
+          "First trail",
+          "Blasingdale to the buried stronghold"
+        ]
+      ],
+      "backstory": [
+        "Brunn had been drinking in the Blasingdale tavern since morning, trading stories for ale and ignoring the flinches his laughter caused. His coin was gone, his armor smelled of smoke, and his axe had been repaired often enough to know an anvil intimately. The old soldier’s spark had survived all three indignities.",
+        "He had come south after rumors of a fortress buried beneath Brindinford. It might contain dwarven steel, or the ghosts of those who forged it. When the other wanderers began speaking of fungus and fortune, he slammed down his mug. If it paid, he was in. The Berserker’s place in Team Gravy began with that thoroughly practical appetite."
+      ],
+      "progression": [
+        {
+          "title": "A different company took the boat",
+          "text": "Brunn joined Rook, Nox and Elira aboard the expedition carried by the Deliverance. Xanthar’s mapping task and the return deadline turned a tavern prospect into an underground commitment.",
+          "chapter": "fungal-bloom",
+          "scene": 1
+        },
+        {
+          "title": "Steel met the living ruin",
+          "text": "The stronghold offered more than old weapons: spores, restless bodies, surviving traps and a gate feeding the corruption. His search for buried craft became part of a fight over what could be allowed to keep growing.",
+          "chapter": "fungal-bloom",
+          "scene": 5
+        },
+        {
+          "title": "Eight companions against the colony",
+          "text": "After the falling boat and the Deliverance’s intervention, the road reached sunken Brindinford. Brunn and Team Gravy stood with Shrop, Grim, Terry and Thunder against the giant ants. The expedition had become a shared fight for survival.",
+          "chapter": "fungal-bloom",
+          "scene": 7
+        }
+      ],
+      "gifts": [
+        {
+          "name": "The repaired axe",
+          "text": "A battered weapon and smoke-scented armor speak of a soldier with more campaigns behind him than coin in his purse."
+        },
+        {
+          "name": "The Berserker’s calling",
+          "text": "The Berserker’s path suits the dwarf whose laughter can unsettle a tavern. Beneath the battered equipment, the old spark still burns."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "The old ruin had a celestial deadline",
+          "paragraphs": [
+            "The hobgoblin shapes concealed devas trying to stop a planar infestation. The ward kept them from the gate, while Hayyel’s fallback was to destroy the complex. The mortals exploring its corridors occupied an opening the celestials could not use. The fortress Brunn hoped might yield steel was already the site of a much larger emergency."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "Fortune became company",
+          "paragraphs": [
+            "The dwarf who joined for payment ended up beside seven other adventurers in a city held by ants. His introduction can be read against that widening circle of dependence. It is an interpretation, not a newly invented oath or a claim that the mercenary appetite vanished."
+          ]
+        }
+      ],
+      "unfinished": [
+        "The tale does not settle what dwarven relics Brunn ultimately kept, what he made of the ruin’s makers, or where he went after the shared struggle. His personal ending remains his to supply."
+      ],
+      "memories": []
+    },
+    {
+      "slug": "rook",
+      "name": "Rook Kestrel",
+      "shortName": "Rook",
+      "company": "Team Gravy",
+      "title": "The hunter beneath the sky",
+      "summary": "He followed a blight down from the peaks and found himself in tunnels, a falling boat, and the company of rather desperate goblins.",
+      "portrait": "media/portraits/team-gravy-rook.png",
+      "portraitAlt": "Rook’s original circular token: a brown-feathered aarakocra archer.",
+      "token": "media/portraits/team-gravy-rook.png",
+      "tokenAlt": "Rook Kestrel’s original Roll20 portrait token.",
+      "facts": [
+        [
+          "Heritage",
+          "Aarakocra"
+        ],
+        [
+          "Calling",
+          "Ranger · Hunter"
+        ],
+        [
+          "Company",
+          "Team Gravy"
+        ],
+        [
+          "First trail",
+          "The blight, downriver from the high peaks"
+        ]
+      ],
+      "backstory": [
+        "Rook’s arrival drew a crowd in Blasingdale. Few locals had seen an aarakocra; after the novelty faded, he became a curiosity by the tavern window, wings tucked against the cold. He had followed the same spreading blight that troubled Elira, tracing it downriver from the high peaks.",
+        "Now his money and arrows were running low. He watched for anyone who might hold a weapon—or pay for one. Brunn’s laugh ruffled his feathers; Nox’s smile made him look away. The sky already felt distant before the expedition carried him beneath the earth."
+      ],
+      "progression": [
+        {
+          "title": "Following the sickness into stone",
+          "text": "The river expedition gave his hunt a destination: a stronghold whose growth and water could both carry danger. The Hunter’s trail had narrowed into a place made to deny easy movement.",
+          "chapter": "fungal-bloom",
+          "scene": 2
+        },
+        {
+          "title": "Everyone suddenly admired his wings",
+          "text": "When the escape boat appeared in empty air above Brindinford Falls, the goblins clung to Rook in hope of being saved. Then the Deliverance appeared alongside the falling craft, its spectral crew ready to secure a most unconventional arrival.",
+          "chapter": "fungal-bloom",
+          "scene": 6
+        },
+        {
+          "title": "The hunt became a street war",
+          "text": "Beneath Brindinford, Team Gravy and Team Biscuit faced an organized colony through ruined streets and tunnels. The hunter who had followed one blight now fought for a path through another kind of living occupation.",
+          "chapter": "fungal-bloom",
+          "scene": 8
+        }
+      ],
+      "gifts": [
+        {
+          "name": "Bow and dwindling arrows",
+          "text": "An archer’s eye and a dwindling quiver came down from the peaks with him. In the grotto, every narrow passage brought the hunt closer."
+        },
+        {
+          "name": "Wings in a confined world",
+          "text": "His aarakocra heritage matters vividly in the falling-boat account, while the grotto and buried city place that freedom under pressure."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "The ants were being directed",
+          "paragraphs": [
+            "A neogi master and a queen lay behind the colony’s unnatural discipline. Filaments, devices and the bell-tower apparatus threaded control through the ruins. Rook’s opponents were more than large animals behaving unusually well; another will shaped the hunt. The note does not claim the two companies reached or destroyed that apparatus."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "The trail kept taking away the horizon",
+          "paragraphs": [
+            "The high-peak tracker’s story moves through a tavern window, underground passages and a brief, disastrous opening into the air. Read in hindsight, his wings make the pressure of the buried journey especially clear. No private fear of confinement is invented for him."
+          ]
+        }
+      ],
+      "unfinished": [
+        "The fate of his hunt beyond the buried city, his return to the peaks, and the colony’s final destruction are not supplied by the surviving account. His later ranks and achievements remain open."
+      ],
+      "memories": []
+    },
+    {
+      "slug": "nox",
+      "name": "Nox Veyra",
+      "shortName": "Nox",
+      "company": "Team Gravy",
+      "title": "An insult to the pact",
+      "summary": "A seeker of dangerous sigils found a realm that refused her familiar—and took the refusal personally.",
+      "portrait": "media/portraits/team-gravy-nox.png",
+      "portraitAlt": "Nox’s original yellow-bordered token: a dark-haired tiefling with red horns.",
+      "token": "media/portraits/team-gravy-nox.png",
+      "tokenAlt": "Nox Veyra’s original Roll20 portrait token.",
+      "facts": [
+        [
+          "Heritage",
+          "Tiefling"
+        ],
+        [
+          "Calling",
+          "Warlock · The Fiend"
+        ],
+        [
+          "Pact",
+          "Chain-warlock in her biography"
+        ],
+        [
+          "Company",
+          "Team Gravy"
+        ],
+        [
+          "First trail",
+          "Old magic beneath the strange river"
+        ]
+      ],
+      "backstory": [
+        "Nox arrived with the last caravan before the passes froze. Her purse was light, her patience thinner, and her preferred description—scholar of sigils—left out the more combustible implications of the flames at her fingertips. Horns, brimstone and a troublesome smile kept villagers at a comfortable distance. She was listening for old magic, not shopping for friendship.",
+        "The grotto turned her own pact against her expectations. She should have had a fiendish familiar at her side, but the corruption tore extraplanar companions apart before they could manifest. What she called an insult was also a practical loss of eyes and ears. It sharpened her determination to reach the magic deeper in the ruin before anyone else claimed it."
+      ],
+      "progression": [
+        {
+          "title": "A scholar joined the expedition",
+          "text": "Brunn, Rook and Elira became the company around her as the Deliverance carried them towards the river cut. Her search for dangerous lore had acquired allies, a map-making task and a deadline.",
+          "chapter": "fungal-bloom",
+          "scene": 1
+        },
+        {
+          "title": "The familiar could not follow",
+          "text": "The fungal realm denied her expected infernal companion. The gate at the stronghold’s heart made clear why a corridor-by-corridor clearing could not be the whole answer: the corruption still had a source.",
+          "chapter": "fungal-bloom",
+          "scene": 5
+        },
+        {
+          "title": "The company grew in the dark",
+          "text": "The escape led to the streets of sunken Brindinford and a shared fight with Team Biscuit. The tiefling who had arrived seeking neither friends nor permission now depended on a much larger band to keep the colony from closing the road.",
+          "chapter": "fungal-bloom",
+          "scene": 7
+        }
+      ],
+      "gifts": [
+        {
+          "name": "Pact and fire",
+          "text": "The flames at her fingertips and the familiar promised by her pact carry an infernal inheritance. The power has a place in her story; the patron behind it remains unnamed."
+        },
+        {
+          "name": "The scholar of sigils",
+          "text": "Dangerous old marks are her chosen field. Rumors of buried magic gave the scholar a reason to venture where the river ran strange."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "The refusal was not personal",
+          "paragraphs": [
+            "The fungal corruption rejected extraplanar spirits across the boundary: fiends, fey and familiars. Nox experienced it as a theft from her pact, but Elira’s loss belonged to the same larger disturbance. The two women’s apparently different magic had met one wound in the world."
+          ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The apparent hobgoblins had their own constraints",
+          "paragraphs": [
+            "The disguised devas were trying to stop the gate, yet its forbiddance barred their entry. Mortal explorers could act where those celestials could not. Their presence does not establish a bargain with Nox’s patron or a secret alliance between fiend and angel; neither is invented here."
+          ]
+        }
+      ],
+      "unfinished": [
+        "Her patron’s identity, the restoration of her familiar, and any lasting claim upon the grotto’s magic remain unanswered. An ending for her pact or her ambitions awaits her own account."
+      ],
+      "memories": []
+    },
+    {
+      "slug": "elira",
+      "name": "Elira Moss-Weaver",
+      "shortName": "Elira",
+      "company": "Team Gravy",
+      "title": "Following the wound",
+      "summary": "Dreams brought the moss witch to the river; the grotto’s refusal of living companionship made the search painfully solitary.",
+      "portrait": "media/portraits/team-gravy-elira.png",
+      "portraitAlt": "Elira’s original circular token: a wood elf druid in green with a wooden staff.",
+      "token": "media/portraits/team-gravy-elira.png",
+      "tokenAlt": "Elira Moss-Weaver’s original Roll20 portrait token.",
+      "facts": [
+        [
+          "Heritage",
+          "Wood Elf"
+        ],
+        [
+          "Calling",
+          "Druid · Circle of the Land (Underdark)"
+        ],
+        [
+          "Company",
+          "Team Gravy"
+        ],
+        [
+          "First trail",
+          "Dreams of black water and broken stone"
+        ]
+      ],
+      "backstory": [
+        "Elira followed the rot before she saw the river’s strange glow. Dreams of black water winding through broken stone had drawn her towards Blasingdale, and the journey only deepened her unease. She stood at the edges of rooms, listened, and sketched unfamiliar fungi in a worn journal while the locals muttered moss witch.",
+        "A little fey companion should have moved beside her, shaped from leaf-whispers and roots. Beneath Brindinford, the fungal influence unraveled that magic before the spirit could form. She could still feel its absence. Determined to find the wound poisoning the land, she continued into the corridors without the companionship her own magic should have offered."
+      ],
+      "progression": [
+        {
+          "title": "Dreams found their river",
+          "text": "The Deliverance expedition carried Elira’s private warning into a shared task. With Brunn, Rook and Nox, she approached the underground stronghold and the growth already claiming its rooms.",
+          "chapter": "fungal-bloom",
+          "scene": 1
+        },
+        {
+          "title": "The sickness had a doorway",
+          "text": "The gate revealed a source beyond the ordinary growth of a cavern. Necromantic spores and bodies put back to work made the infestation an assault upon life and death, not simply an unfamiliar ecosystem.",
+          "chapter": "fungal-bloom",
+          "scene": 5
+        },
+        {
+          "title": "No longer walking alone",
+          "text": "The escape brought Team Gravy into sunken Brindinford, where Team Biscuit joined the fight against the ants. The druid’s search for the land’s wound had reached a ruined town full of other people’s memories and a company large enough to share its dangers.",
+          "chapter": "fungal-bloom",
+          "scene": 9
+        }
+      ],
+      "gifts": [
+        {
+          "name": "The worn field journal",
+          "text": "The worn pages hold the work of a quiet observer: strange fungi, patiently sketched while others speak. The land’s smallest signs deserve her attention."
+        },
+        {
+          "name": "Underdark and fey magic",
+          "text": "Her circle belongs to the land beneath the surface, yet even her familiar could not endure this corruption. Familiar terrain did not make the wound harmless."
+        }
+      ],
+      "revisionist": [
+        {
+          "kind": "Hidden history",
+          "title": "Cleansing could have meant annihilation",
+          "paragraphs": [
+            "Hayyel’s alternative to stopping the planar gate was the destruction of the whole complex using its flammable stockpile. The celestial mission therefore carried a remedy as violent as its purpose was protective. Elira’s wish to heal the land stood in a place where others had prepared to burn the wound away."
+          ]
+        },
+        {
+          "kind": "Retrospective reading",
+          "title": "The dreams named the wound, not their sender",
+          "paragraphs": [
+            "The black river and broken stone lead neatly into the grotto’s reality, but that correspondence does not identify a deity, patron or other intelligence behind her dreams. Reading them as a summons is possible; naming who summoned her would go beyond the tale."
+          ]
+        }
+      ],
+      "unfinished": [
+        "The source of her dreams, the fate of her fey companion, and the land’s final recovery remain open. The story does not claim the gate was destroyed merely because a way to destroy it existed."
+      ],
+      "memories": []
+    }
+  ]
+}

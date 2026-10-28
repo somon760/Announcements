@@ -8,6 +8,8 @@ const hindsight = notes => (notes ?? []).map(note => `<aside class="story-hindsi
   <p class="hindsight-label">Hindsight</p><h4>${escape(note.title)}</h4>${paragraphs(note.paragraphs)}
 </aside>`).join('');
 
+const companionSlugs = {'Shrop Shireslasher':'shrop','Grimbledee Brightburrow':'grim','Terry Stronginthearm':'terry','Thunderdrum Stringcutter':'thunder','Brunn Ironbelly':'brunn','Rook Kestrel':'rook','Nox Veyra':'nox','Elira Moss-Weaver':'elira'};
+
 export function renderStory(story) {
   if (!story) return '';
   const scenes = (story.scenes ?? []).map((scene,index) => `<section id="story-scene-${index+1}" tabindex="-1" class="story-scene${scene.image ? ' story-scene-illustrated' : ''}">
@@ -16,7 +18,7 @@ export function renderStory(story) {
   </section>`).join('');
   const companions = story.companions ? `<section class="story-companions" aria-label="The companions">
     <h3>${escape(story.companions.title)}</h3><div class="story-companion-grid">${story.companions.people.map(person => `<article class="story-companion">
-      ${person.portrait ? `<img src="${escape(person.portrait)}" alt="${escape(person.alt)}" loading="lazy">` : ''}<h4>${escape(person.name)}</h4><p>${escape(person.text)}</p>${paragraphs(person.paragraphs)}
+      ${person.portrait ? `<img src="${escape(person.portrait)}" alt="${escape(person.alt)}" loading="lazy">` : ''}<h4>${companionSlugs[person.name] ? `<a href="#/companions/${companionSlugs[person.name]}">${escape(person.name)} ↗</a>` : escape(person.name)}</h4><p>${escape(person.text)}</p>${paragraphs(person.paragraphs)}
     </article>`).join('')}</div>
   </section>` : '';
   return `<article class="chapter-story" aria-label="The story of this adventure">

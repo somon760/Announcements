@@ -60,3 +60,22 @@ moment, explain a character or place, or frame reference artwork as atmosphere;
 it must not turn preparation or an illustration into an invented played event.
 The curated `media.json`, chapter order, exclusions and bottom adventure links
 remain unchanged. Phone galleries use one column so the passages remain readable.
+
+
+The companions area (`#/companions`) has eight individual profiles at
+`#/companions/shrop` through `#/companions/elira`. `characters.json` holds the
+player-facing biographies, chapter-linked progression, gifts, unresolved threads,
+and explicitly labelled Revisionist notes; `characters.js` renders the index and
+profiles. Team jumps use `#/companions/team-biscuit` and `#/companions/team-gravy`;
+profile sections use `/beginnings`, `/progression`, `/revisionist`, and `/portraits`.
+
+Revisionist notes distinguish hidden history, hidden consequences and retrospective
+readings. Interpretations are not recorded thoughts or new played events. Canonical
+PC PDFs supply sheet details; the four character-journal biographies and Boss's
+roster ground Team Gravy. Do not invent missing level histories, cures, patron
+identities, parentage answers or final-session outcomes. Existing early portraits
+remain, alongside original exported map tokens and later journal artwork.
+
+Main navigation, the home callout and named chapter rosters link into this area.
+Profiles link back to existing chapters/scenes and to neighboring companions.
+The adventure order and 320-item gallery remain independent and unchanged.

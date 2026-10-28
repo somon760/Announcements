@@ -41,3 +41,61 @@
 .story-scene:focus{outline:none}
 .story-scene:focus-visible{outline:2px solid var(--gold);outline-offset:12px}
 @media(max-width:700px){.memory-grid{grid-template-columns:1fr;gap:32px}.memory-card h3{font-size:15px}.memory-context{font-size:14px;line-height:1.8}.memory-story-link{font-size:12px}.memory-visual{aspect-ratio:16/10}}
+/* The two companies: portraits, lives and the truths behind their journeys. */
+.companions-intro{background:#e3e5da;padding-bottom:55px}
+.companions-intro h1{font-size:clamp(52px,6.5vw,88px);margin:20px 0 28px}
+.companions-intro h1 em{font-weight:400;color:#596a50}
+.companions-intro>p:not(.eyebrow){max-width:710px;font-size:16px;line-height:1.9}
+.companions-intro .revisionist-key{font-size:13px!important;margin-top:25px;padding:18px 22px;border-left:3px solid #8e9b7b;background:#d7ddcd}
+.company-jump,.profile-jump{display:flex;flex-wrap:wrap;gap:14px 26px;font-size:12px;margin-top:26px}
+.company-jump a,.profile-jump a{border-bottom:1px solid #a5ae99;padding-bottom:3px}
+.company-section{scroll-margin-top:25px}
+.company-section+.company-section{background:#e3e5da}
+.companion-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 40px}
+.companion-card{display:grid;grid-template-columns:145px minmax(0,1fr);align-items:center;gap:24px;padding:28px 0;border-top:1px solid var(--line)}
+.companion-card>img{width:145px;height:180px;object-fit:contain;transition:transform .2s}
+.companion-card:hover>img{transform:translateY(-4px)}
+.companion-card .eyebrow{font-size:9px;letter-spacing:.08em;line-height:1.8;color:var(--muted)}
+.companion-card h3{font-size:32px;line-height:1.1;margin:12px 0}
+.companion-card p:not(.eyebrow){font-size:13px;color:#525e50;line-height:1.8}
+.companion-card .explore{display:block;margin-top:16px;font-size:11px;font-weight:600}
+.companions-callout{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;background:#e3e5da}
+.companions-callout p:not(.eyebrow){max-width:460px;font-size:14px;margin:22px 0}
+.companions-callout-tokens{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
+.companions-callout-tokens img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
+.character-hero{display:grid;grid-template-columns:minmax(220px,350px) minmax(0,1fr);gap:70px;padding:65px 8%;align-items:center;background:#e3e5da}
+.character-portrait{margin:0;text-align:center}
+.character-portrait>img{width:100%;height:380px;object-fit:contain}
+.character-portrait figcaption{font-size:11px;color:var(--muted);margin-top:16px}
+.character-hero h1{font-size:clamp(45px,5vw,72px);line-height:1.05;margin:18px 0;overflow-wrap:anywhere}
+.character-title{font-family:var(--serif);font-size:29px;font-style:italic;color:#57694f}
+.character-deck{font-size:14px;max-width:620px;margin-top:18px;line-height:1.9}
+.character-facts{display:grid;grid-template-columns:1fr 1fr;gap:18px 24px;margin-top:30px;border-top:1px solid #bdc5b3;padding-top:23px}
+.character-facts dt{font-size:9px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.character-facts dd{font-size:13px;margin:5px 0 0;line-height:1.7}
+.character-reading{max-width:1160px;margin:0 auto;padding:0 8% 65px}
+.character-section{margin-top:65px;scroll-margin-top:30px}
+.character-section>h2{font-size:clamp(34px,4vw,48px);margin:12px 0 28px}
+.character-section h3{font-size:29px;line-height:1.2}
+.character-milestones{list-style:none;padding:0;margin:0;counter-reset:milestone}
+.character-milestones li{position:relative;border-left:1px solid #acb69f;padding:0 0 35px 38px;margin-left:12px;counter-increment:milestone;max-width:770px}
+.character-milestones li:before{content:counter(milestone,decimal-leading-zero);position:absolute;left:-14px;top:0;background:var(--paper);color:#718064;font-size:11px;width:28px;text-align:center;padding:5px 0}
+.character-milestones li:last-child{padding-bottom:0}
+.character-milestones p{font-size:15px;line-height:1.9;margin-top:14px}
+.character-milestones a{display:inline-block;font-size:11px;border-bottom:1px solid var(--line);margin-top:14px}
+.character-gifts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+.character-gifts section{border-top:1px solid var(--line);padding-top:20px}
+.character-gifts h3{font-size:26px}
+.character-gifts p{font-size:13px;color:#525e50;line-height:1.9;margin-top:14px}
+.revisionist-explainer{font-size:13px;color:var(--muted);max-width:720px;margin-bottom:25px}
+.character-revisionist{border-left:3px solid #8f9d78;background:#dfe4d6;padding:25px 30px;margin-top:22px;max-width:800px}
+.character-revisionist .eyebrow{font-size:9px;color:#506143;margin-bottom:12px}
+.character-revisionist p:not(.eyebrow){font-size:15px;line-height:1.9;margin-top:16px}
+.character-art{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:35px}
+.character-art figure{margin:0;max-width:320px}
+.character-art img{width:100%;height:250px;object-fit:contain}
+.character-art .map-token{object-fit:scale-down}
+.character-art figcaption{font-size:12px;line-height:1.8;color:var(--muted);margin-top:16px}
+.story-companion h4 a:hover{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:1000px){.companion-card{grid-template-columns:110px minmax(0,1fr);gap:18px}.companion-card>img{width:110px;height:150px}.companion-card h3{font-size:29px}.character-hero{gap:35px;grid-template-columns:220px minmax(0,1fr)}.character-portrait>img{height:300px}.character-gifts{grid-template-columns:1fr 1fr}.character-art{grid-template-columns:1fr 1fr}.companions-callout{gap:35px}}
+@media(max-width:700px){.companion-cards{grid-template-columns:1fr;gap:0}.companion-card{grid-template-columns:100px minmax(0,1fr);padding:25px 0;gap:20px}.companion-card>img{width:100px;height:150px}.companion-card h3{font-size:30px}.companions-intro h1{font-size:54px}.companions-intro>p:not(.eyebrow){font-size:15px}.companions-callout{grid-template-columns:1fr;gap:30px}.companions-callout-tokens{gap:18px}.character-hero{grid-template-columns:1fr;padding:35px 6%;gap:30px}.character-portrait>img{height:230px}.character-portrait figcaption{font-size:10px}.character-hero h1{font-size:46px}.character-title{font-size:27px}.character-facts{gap:16px}.character-reading{padding:0 6% 45px}.character-section{margin-top:45px}.character-section>h2{font-size:36px}.character-gifts,.character-art{grid-template-columns:1fr;gap:25px}.character-gifts section{max-width:440px}.character-revisionist{padding:22px 20px}.character-revisionist p:not(.eyebrow){font-size:14px}.character-art{justify-items:center}.character-art img{height:230px}.character-milestones li{padding-left:29px}.profile-jump{gap:14px 20px;font-size:11px}.site-header nav{flex-wrap:wrap;justify-content:flex-start;gap:10px 20px}}
