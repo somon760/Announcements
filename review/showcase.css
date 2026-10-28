@@ -139,3 +139,10 @@
 .character-possession-list dt,.character-trait-list dt{font-family:var(--serif);font-size:26px;line-height:1.25;overflow-wrap:anywhere}
 .character-possession-list dd,.character-trait-list dd{font-size:13px;line-height:1.9;color:#525e50;margin:12px 0 0}
 @media(max-width:700px){.character-stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.character-stat-grid>div{padding:16px}.character-stat-grid dd{font-size:25px}.ability-scores{grid-template-columns:repeat(3,minmax(0,1fr))}.ability-scores>div{border-bottom:1px solid var(--line)}.ability-scores>div:nth-child(3n){border-right:0}.ability-scores>div:nth-child(n+4){border-bottom:0}.battle-tallies,.character-possession-list,.character-trait-list{grid-template-columns:1fr;gap:25px}.battle-tally .character-stat-note{font-size:12px}.character-record-table{font-size:12px}.character-record-table th,.character-record-table td{padding:11px 6px}.character-stat-note{font-size:12px}.leveling-record>p{font-size:13px}}
+
+/* Familiar faces beside the home-page names. */
+.party-names{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:30px;width:min(100%,720px);min-width:0}
+.party-names a{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;line-height:1.3}
+.party-names img{width:90px;height:90px;object-fit:contain;transition:transform .2s}
+.party-names a:hover img{transform:translateY(-3px)}
+@media(max-width:700px){.party-names{grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:24px 20px}.party-names img{width:80px;height:80px}.party-strip .eyebrow{margin-bottom:24px}}
