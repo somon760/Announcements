@@ -29,16 +29,22 @@ The selected collection currently contains 320 items. Preserve the curated chapt
 Use `npm run dev` for local static-site preview. `npm run build` validates and
 copies the whole site to dist. GitHub Pages publishes the main branch root.
 
-Eleven adventures/interludes now have narrated treatments in `stories.json`, through
-Icewind Dale and the homeward Fungus Grotto crossover. The northern account includes
-Frostblight, the Red Keep/Reclamation, and the demon army. Bastion remains the next
-chapter to enhance. Galleries and the ordered bottom navigation are preserved.
+All twelve adventures/interludes now have narrated treatments in `stories.json`: 85
+scenes through the return to Bastion and its later recorded fighting. The northern
+account includes Frostblight, the Red Keep/Reclamation, and the demon army. Bastion
+adds Windglum, Eco and Desayeus, Findula’s farewell, Ernie’s return and protective
+rings, and the fight towards Ashardalon. The unplayed final confrontation and
+epilogues deliberately remain open for the GM’s later outcome. Galleries and the
+ordered bottom navigation are preserved.
 
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The current eleven narrated chapters contain 22 such notes.
+recorded actions. The twelve narrated chapters contain 26 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return fifty years beyond its original time, as confirmed by Boss. The final
 Bastion destination is labelled as a return to an already-started mystery.
+
+Four additional Bastion story illustrations are under `media/story/bastion/`; they
+do not change the curated gallery manifest or its 320 selected items.

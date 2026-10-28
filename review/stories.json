@@ -349,7 +349,7 @@
       "paragraphs": [
         "The old shop had belonged to Those Who Hear, the cult tied to the gibbering-mouther horrors of Team Biscuit’s earlier visit. Around it, the Magical District had fallen apart. No lights burned there, and the scouts saw no movement. Its survival left the company with a destination and another uneasy question.",
         "Team Biscuit and Team Gravy pushed towards the Wrinkle in search of answers, supplies, forgotten magic, or a way onward through the Sunken City. Behind them lay the grotto and the streets they had fought to cross. Ahead stood a familiar doorway in an unfamiliar darkness, with the colony still pressing through the ruins.",
-        "Beyond that still-unanswered doorway lay the older reckoning. The Cathezar’s pursuit, Thunder’s connection to Dydd, the secrets of Rigus, and the children born without souls had survived every detour. Ashardalon’s name had followed Team Biscuit since the Citadel. The journey stood on the threshold of returning to that unfinished struggle in Bastion of Broken Souls."
+        "Beyond the Wrinkle lay the older reckoning. The Cathezar’s pursuit, Thunder’s connection to Dydd, the secrets of Rigus, and the children born without souls had survived every detour. Ashardalon’s name had followed Team Biscuit since the Citadel. The shop’s passage would carry the company to Windglum in Pandemonium, returning its road to that unfinished struggle in Bastion of Broken Souls."
       ]
     },
     "eyebrow": "The tale of Team Biscuit and Team Gravy",
@@ -1224,6 +1224,196 @@
       "paragraphs": [
         "The northern expedition had begun with hungry towns, haunted waters, and a winter that would not end. It carried Team Biscuit through Frostrazor’s recovery, Pengu’s terrible transformation, the fall of Frostblight, and the return to people who had come to worship them. The demon army made that return a battle of its own.",
         "At the end of the Icewind Dale journey, the way home led into Fungus Grotto and sunken Brindinford. There, Shrop, Grim, Terry, and Thunder would fight alongside Team Gravy—Brunn, Rook, Nox, and Elira—against giant ants among the buried remnants of a city they knew. The next passage belongs to both companies."
+      ]
+    }
+  },
+  "bastion": {
+    "eyebrow": "The tale of Team Biscuit",
+    "title": "The road returns to the dragon",
+    "opening": [
+      "Ashardalon had been part of this story long before the company could reach him. His name lay beneath the Citadel, above the dead of Nightfang Spire, and behind a sickness that left newborn children without souls. The Cathezar’s pursuit had made the danger personal. The Church of the Elements, the First Tree, and the Guild of Sleep had begun to give it a shape.",
+      "Then the road had wandered through dreams, earlier lives, and a return fifty years beyond the time they had left. There had been investments laid against an uncertain future, the northern winter, the Red Keep, the demon army, and the buried streets of Brindinford. The company had carried its unfinished business through all of it.",
+      "Now Shrop, Grim, Terry, and Thunder returned to the question waiting beneath those adventures: how could four mortals reach a dragon feeding upon lives that had not yet begun?"
+    ],
+    "scenes": [
+      {
+        "title": "An old shop, a new world",
+        "paragraphs": [
+          "The Reality Wrinkle had survived where much of Brindinford had fallen. Team Biscuit and Team Gravy had fought their way through the giant ants of the Sunken City to reach the old Magical District. Beyond the familiar shop lay a passage out of the drowned and buried ruin.",
+          "The crossing delivered Team Biscuit into a cramped storeroom. Brindinford crates, ash-marked trunks, cracked scroll tubes, and old papers crowded the shelves. Much of what the Wrinkle’s mages had once brought here was gone. Outside, the wind screamed through Pandemonium.",
+          "The party had reached Windglum. Its next shelter was the room beyond the great mirror at the back of the Wrinkle, a hidden corner in a city far from the world it remembered. The ants and the ruined streets were behind them; the road to the Bastion had opened again."
+        ]
+      },
+      {
+        "title": "Findula finds the way",
+        "paragraphs": [
+          "Findula was waiting among the travel chests, a small harp across her lap. The lillend was an old ally whose freedom had cost the company effort and danger. She had a debt to repay, and the means of repayment would lead them towards Eco, the guardian of a much older prison.",
+          "Windglum offered a pause. Equipment could be replaced, wounds could close, and the crooked stalls could occupy adventurers who had spent too long away from a market. At night, the company returned through the mirror to bedrolls among the crates. Findula came and went, following traces and studying the difficult roads between worlds.",
+          "At last she summoned them to the backroom. A cleared table held a map, candles, and a strange compass with trembling crystal points. Her search had found Eco. The path would not remain fixed: the guardian’s location changed every day, and Findula could offer a way through only while the trace held. Preparations in Windglum suddenly had a deadline."
+        ]
+      },
+      {
+        "title": "The guardian who was the door",
+        "paragraphs": [
+          "Eco stood between the company and Desayeus, the God Who Was Banned. A solar accompanied by the planetar Bramam, she had guarded the prison for centuries. No hidden tunnel or convenient spell could replace her. Her own body could become the gateway.",
+          "The company sought permission. Shrop pressed the question of whether Eco could open the way under divine command; Pelor’s answer granted passage to speak with the prisoner, while expressly forbidding his release. They were to enter carefully and leave his chains alone.",
+          "Grim carried that distinction into the audience. The company came seeking counsel and aid against Ashardalon. It did not announce itself as Desayeus’s liberator. For a moment, a problem older than kingdoms had been approached with the surprisingly delicate instrument of a properly worded request."
+        ],
+        "hindsight": [
+          {
+            "title": "A life bound into the lock",
+            "paragraphs": [
+              "Eco’s guardianship carried a terrible provision: her death would open the passage for three days. She was both a person and the prison’s only living entrance. That made violence a possible way through, but it never made her an ordinary obstacle. Nor would an open doorway free Desayeus or the Faithful; the prison’s binding still held them."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The god who remembered his name",
+        "paragraphs": [
+          "Desayeus waited in a prison worn down by centuries. Broken instruments, ruined art, and the devotion of his remaining Faithful surrounded a being who had once been worshipped. His immense body still carried the bearing of a god. The fractured pendant at his chest carried what remained of his claim.",
+          "Grim and Thunder questioned him about the Bastion, the dragon, and the Soul Totem. Desayeus had been divine before he claimed dominion over the unborn. The other gods had stripped him of that divinity and broken the Totem. One fragment remained with him; another had provided Ashardalon with a way into the Bastion.",
+          "The company needed the piece he still wore. Its request touched the last remnant of an office he had lost, and the last possession he could hold against his judges. Grim asked to borrow it. Thunder brought the danger back to his own blood, hunted because of Dydd and seeking a way to end the fate that pursued him."
+        ],
+        "hindsight": [
+          {
+            "title": "Why the gods left mortals at the threshold",
+            "paragraphs": [
+              "The Ban of the Unborn forbade divine interference with souls before incarnation. Desayeus’s attempt to claim them had brought the other gods down upon him. Their fear of that same prohibition helped leave the Bastion beyond the aid mortals might expect from prayer. Pelor’s permission concerned Eco’s doorway; it was no promise that a god would enter the Bastion and finish the company’s work."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The price of the fragment",
+        "paragraphs": [
+          "The passage through the prison did not end as a simple exchange of questions and answers. By the time the company prepared to leave, Eco was defeated and gone. Desayeus had yielded his fragment of the Soul Totem. Thunder carried the small, heavy thing upon which the next journey depended.",
+          "The fragment was theirs. Desayeus remained behind. Around the company lay the ruined chambers of a prison whose silence now carried another loss.",
+          "They still had to return through Pandemonium to the Wrinkle. Beyond that lay the Positive Energy Plane and the Bastion itself. The means of continuing had been won, but the cost followed them out of the prison."
+        ]
+      },
+      {
+        "title": "A debt paid in grief",
+        "paragraphs": [
+          "When the company returned to the hidden room, Findula had gone. Her papers, instruments, and personal belongings had disappeared from among the familiar clutter. A folded note waited at the centre of the table.",
+          "Eco had been her sister. Findula had neither raised the blade nor opened the door herself, but she accepted that her choices had helped bring about Eco’s death. She believed stopping Ashardalon justified that terrible cost. Belief had not made it bearable, and repayment had not left affection intact.",
+          "She considered her debt settled. She did not expect to speak with the company again, and did not wish to. The farewell left Team Biscuit with a path forward and an ally it could no longer count upon."
+        ],
+        "image": {
+          "src": "media/story/bastion/findulas-farewell.webp",
+          "alt": "Findula’s handwritten farewell, grieving Eco and declaring her debt to the party paid",
+          "caption": "Findula’s farewell: the cost carried back from the prison."
+        }
+      },
+      {
+        "title": "The man who had survived the explosion",
+        "paragraphs": [
+          "Another familiar face met them with a very different welcome. Brother Ernie had been lost amid the dangerous business of the irionite bomb. The company had believed the explosion had taken him. Now he was here, weathered and battered, surrounded by boxes, trunks, bottles, books, clothing, and much of their recovered property.",
+          "There were questions about Rigus, Father Cuthbert, the Brotherhood, and the Church of Terry. Grim wanted to know how Ernie had survived and how he had crossed the planes. Ernie greeted them with his old broad smile and applied himself to the explanation with gestures and an interpretive dance of magnificent commitment and uncertain informational value.",
+          "Most of the stolen belongings had come back. Three great weapons had not: Whelm, Wave, and Frostrazor. Ernie’s apologetic chalk drawing showed a short thief carrying them away. Grim suspected a connection to his relative, but suspicion could not put the weapons back into their hands."
+        ],
+        "image": {
+          "src": "media/story/bastion/ernies-return.webp",
+          "alt": "Brother Ernie smiling in an upstairs room crowded with recovered trunks, equipment, and belongings",
+          "caption": "An old friend, an improbable return, and most of the missing luggage."
+        }
+      },
+      {
+        "title": "Four rings and a silent farewell",
+        "paragraphs": [
+          "Ernie’s last gift was practical enough to matter beyond the reunion. He gave each member of Team Biscuit a Ring of Positive Energy Protection, a ward for the realm they would have to cross. The journey ahead led into a place where life itself could kill an unprotected traveller.",
+          "He presented the rings without a speech. There were embraces, and then a departure through the office door. Warm motes of light gathered around the old friend as he faded from sight.",
+          "The disappearance offered no tidy account of what Ernie was or where he was going. It left the company with his gifts, their recovered possessions, and the memory of a man who had returned from an explosion to help them once more."
+        ],
+        "image": {
+          "src": "media/story/bastion/ernies-farewell.webp",
+          "alt": "Brother Ernie walking through a doorway as warm golden motes gather around his cloak",
+          "caption": "Ernie’s departure left its own mystery."
+        }
+      },
+      {
+        "title": "Into too much life",
+        "paragraphs": [
+          "With the Soul Totem fragment, the company could follow the road beyond Windglum. The shard served as the focus for their passage and the guide through the brilliance beyond it. Pandemonium’s screaming winds gave way to the white expanse of the Positive Energy Plane.",
+          "Here there was no ordinary ground or sky. A traveller chose a direction to become down, then fell through the light. The same energy that closed wounds pressed more life into a mortal body than it could safely contain. Healing and destruction stood dangerously close together.",
+          "The fragment drew them towards a vast crystalline form: the Bastion of Unborn Souls, spread across the radiance like an immense snowflake. Somewhere within its branching halls, souls gathered before their first lives. Somewhere deeper, Ashardalon was feeding."
+        ],
+        "image": {
+          "src": "media/story/bastion/bastion-revealed.webp",
+          "alt": "Campaign illustration of an immense branching crystal Bastion in the brilliance of the Positive Energy Plane",
+          "caption": "The Bastion of Unborn Souls, in the campaign’s travel illustration."
+        }
+      },
+      {
+        "title": "The entrance had teeth",
+        "paragraphs": [
+          "Reaching the Bastion did not mean entering it unopposed. Fiends had gathered at the approach, and an enormous spiderlike retriever guarded the way. The company had come carrying a key; the creatures waiting outside had no intention of making its use easy.",
+          "Glabrezu, a hezrou, and a nalfeshnee joined the fighting. The retriever struck with great claws and rays of destructive magic. Grim’s chain lightning leapt among the attackers while the others fought through the space around the guardian.",
+          "The struggle carried into the next advance, until the retriever and the fiends barring the entrance were overcome. The Soul Totem fragment gave the company a way through the sealed portal. Behind the threshold waited a fortress whose inhabitants had made the birthplace of souls into contested ground."
+        ]
+      },
+      {
+        "title": "Dragonspawn among the crystal trees",
+        "paragraphs": [
+          "Inside, Po, Krushar, and Thalidorus met the intruders. The defenders brought blades, axes, jaws, and fire into the crystal halls. Po issued challenges across the fighting; Krushar’s two heads and paired weapons made a brutal answer to anyone trying to hold the way.",
+          "Then Grisly came out of the grove. The half-dragon bear added another furnace of breath and a crushing weight of claws to an encounter already crowded with enemies. The beautiful crystal growth offered cover for something thoroughly capable of tearing an adventurer apart.",
+          "The company broke through. Po fell, followed by Grisly, Krushar, and Thalidorus. Their defeat opened the route deeper into the Bastion. The party searched what the fallen had carried, reclaimed useful protections and weapons, and continued towards the thing at the centre of it all."
+        ],
+        "image": {
+          "src": "media/images/bastion/56c1be328128c97083ac9ff6.webp",
+          "alt": "Campaign portrait of the armoured dragonspawn Po",
+          "caption": "Po, one of the defenders within the Bastion."
+        }
+      },
+      {
+        "title": "Predators in the birthplace of souls",
+        "paragraphs": [
+          "Four soulsippers waited along the company’s advance. Their attacks drained life in the very place where life should have been beginning. Team Biscuit destroyed them and pressed onwards, but the grove’s defenders were only the beginning of the resistance within the Bastion.",
+          "Farther in, the fighting reached the Cuckoo’s demon guard and Tamion’s ambush. A vrock’s screech cut through the battle. Tamion’s long whip could drag a victim into its grip. The halls demanded another expenditure of magic, endurance, and the company’s stubborn refusal to stop.",
+          "Terry was driven down during the later fighting. Around the battered company, the Bastion remained occupied and dangerous. Every chamber won brought them closer to Ashardalon; no chamber won could answer what would happen when they reached him."
+        ]
+      },
+      {
+        "title": "The blood the dragon feared",
+        "paragraphs": [
+          "Thunder had carried the answer to one part of the mystery within him. Dydd, the druid who had mortally wounded Ashardalon’s heart, was his ancestor. That bloodline had drawn the Cathezar’s pursuit and made him useful to powers whose interest in the dragon had nothing to do with saving children.",
+          "In Desayeus’s prison he had already spoken the challenge: he named Dydd, claimed their shared blood, and called upon the dragon to feel the pain of its heart’s destruction again. The words belonged to a reckoning older than the company, now carried by one of its own.",
+          "The lineage did not walk into the Bastion alone. Shrop had fought his way here without sight, Grim had argued with a fallen god, and Terry had carried faith into a conflict where divine permission came with limits. Whatever Dydd’s blood could do, four companions had brought it within reach of Ashardalon."
+        ]
+      },
+      {
+        "title": "What beat inside Ashardalon",
+        "paragraphs": [
+          "At the centre of the mystery stood a dragon who had survived his own ruined heart. Across tombs, fortresses, dreams, and planes, the company had followed the consequences of that survival. The stolen future of the unborn had become the means by which Ashardalon prolonged his life.",
+          "The Bastion had been a font of souls before the dragon claimed it. His presence had turned its abundance into a famine elsewhere. Every road the company had followed now narrowed towards a creature sustained by the lives the world was waiting to receive."
+        ],
+        "image": {
+          "src": "media/images/bastion/c2e9b7512666f71c29158d3e.webp",
+          "alt": "Campaign portrait of Ashardalon, the ancient red dragon",
+          "caption": "Ashardalon: the ancient hunger at the heart of the journey."
+        },
+        "hindsight": [
+          {
+            "title": "The replacement heart had a name",
+            "paragraphs": [
+              "Ashardalon’s replacement heart was Ammet, Eater of Souls, a demon bound within the dragon. That transplant was failing. Consuming the Bastion’s raw life force sustained Ashardalon and made him dependent upon remaining at its centre. His hoard had become the supply keeping him alive; the lives he consumed were souls that had never reached birth."
+            ]
+          },
+          {
+            "title": "A second predator wanted the prize",
+            "paragraphs": [
+              "Aameul, one of Demogorgon’s two minds, wanted Ammet’s soul strengthened by that stolen life. With it, he hoped to survive the destruction of Hethradiah and exist alone. His agents’ search for Dydd’s descendant was part of that design. A blow against Ashardalon could threaten one monster while serving another, and the demon within the dragon carried a danger of his own."
+            ]
+          }
+        ]
+      }
+    ],
+    "closing": {
+      "title": "Beyond the last door",
+      "paragraphs": [
+        "The journey had begun with missing adventurers and a ruined fortress beneath Oakhurst. It had brought four companions to a place where the future of countless strangers waited in crystal branches. Ashardalon’s hunger, Dydd’s old wound, and the ambitions of the Abyss had met at the same door.",
+        "What becomes of the dragon when his stolen refuge is challenged? What becomes of Ammet when the heart that imprisons him is threatened? And will the souls denied their first breath find their way into the world? Those answers belong to the reckoning at the centre of the Bastion.",
+        "Beyond that reckoning lie other unfinished threads: three missing weapons, a silent friend’s departure, Findula’s grief, investments waiting across the years, and the homes to which the company might yet return. There is room for the world to change again—and for Team Biscuit to discover what, after all this, it means to come home."
       ]
     }
   }
