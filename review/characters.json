@@ -181,19 +181,19 @@
         ]
       },
       "statistics": {
-        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
+        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
         "metrics": [
           [
-            "Sheet level",
-            "Champion Fighter 21"
+            "Recorded level",
+            "Champion Fighter 22"
           ],
           [
-            "Sheet experience",
-            "510,261 XP"
+            "Experience",
+            "623,440 XP"
           ],
           [
             "Maximum HP",
-            "267"
+            "300"
           ],
           [
             "Armor class",
@@ -204,7 +204,7 @@
             "+8"
           ],
           [
-            "Speed",
+            "Walking speed",
             "30 ft"
           ],
           [
@@ -227,7 +227,7 @@
           ],
           [
             "CON",
-            20
+            22
           ],
           [
             "INT",
@@ -235,7 +235,7 @@
           ],
           [
             "WIS",
-            12
+            13
           ],
           [
             "CHA",
@@ -244,19 +244,79 @@
         ],
         "skills": [
           [
+            "Acrobatics",
+            "+3"
+          ],
+          [
+            "Animal Handling",
+            "+1"
+          ],
+          [
+            "Arcana",
+            "+0"
+          ],
+          [
             "Athletics",
-            "+17"
+            "+15"
+          ],
+          [
+            "Deception",
+            "+1"
+          ],
+          [
+            "History",
+            "+0"
+          ],
+          [
+            "Insight",
+            "+1"
           ],
           [
             "Intimidation",
-            "+7"
+            "+8"
+          ],
+          [
+            "Investigation",
+            "+0"
+          ],
+          [
+            "Medicine",
+            "+1"
+          ],
+          [
+            "Nature",
+            "-5"
           ],
           [
             "Perception",
             "+7"
+          ],
+          [
+            "Performance",
+            "+1"
+          ],
+          [
+            "Persuasion",
+            "+1"
+          ],
+          [
+            "Religion",
+            "+0"
+          ],
+          [
+            "Sleight Of Hand",
+            "+3"
+          ],
+          [
+            "Stealth",
+            "+3"
+          ],
+          [
+            "Survival",
+            "+1"
           ]
         ],
-        "leveling": "The epic record lists Champion Fighter 22 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
+        "leveling": "The epic record preserves Champion Fighter 22 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -272,14 +332,123 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "advancement": [
+        "previousSnapshot": {
+          "metrics": [
+            [
+              "Sheet level",
+              "Champion Fighter 21"
+            ],
+            [
+              "Sheet experience",
+              "510,261 XP"
+            ],
+            [
+              "Maximum HP",
+              "267"
+            ],
+            [
+              "Armor class",
+              "30"
+            ],
+            [
+              "Initiative",
+              "+8"
+            ],
+            [
+              "Speed",
+              "30 ft"
+            ],
+            [
+              "Proficiency",
+              "+6"
+            ],
+            [
+              "Passive Perception",
+              "17"
+            ]
+          ],
+          "abilities": [
+            [
+              "STR",
+              29
+            ],
+            [
+              "DEX",
+              16
+            ],
+            [
+              "CON",
+              20
+            ],
+            [
+              "INT",
+              10
+            ],
+            [
+              "WIS",
+              12
+            ],
+            [
+              "CHA",
+              12
+            ]
+          ],
+          "skills": [
+            [
+              "Athletics",
+              "+17"
+            ],
+            [
+              "Intimidation",
+              "+7"
+            ],
+            [
+              "Perception",
+              "+7"
+            ]
+          ]
+        },
+        "journalSnapshot": {
+          "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
+          "metrics": [
+            [
+              "Maximum HP in battle",
+              "300"
+            ],
+            [
+              "Armor class in battle",
+              "30"
+            ],
+            [
+              "Walking speed",
+              "30 ft"
+            ]
+          ]
+        },
+        "saves": [
           [
-            "Recorded level",
-            "Champion Fighter 22"
+            "STR",
+            "+18"
           ],
           [
-            "Recorded experience",
-            "623,440 XP"
+            "DEX",
+            "+6"
+          ],
+          [
+            "CON",
+            "+15"
+          ],
+          [
+            "INT",
+            "+3"
+          ],
+          [
+            "WIS",
+            "+4"
+          ],
+          [
+            "CHA",
+            "+4"
           ]
         ]
       },
@@ -531,14 +700,14 @@
         ]
       },
       "statistics": {
-        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
+        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
         "metrics": [
           [
-            "Sheet level",
-            "Enchantment Wizard 22"
+            "Recorded level",
+            "School of Enchantment Wizard 22"
           ],
           [
-            "Sheet experience",
+            "Experience",
             "614,445 XP"
           ],
           [
@@ -547,14 +716,14 @@
           ],
           [
             "Armor class",
-            "21"
+            "18"
           ],
           [
             "Initiative",
             "+3"
           ],
           [
-            "Speed",
+            "Walking speed",
             "30 ft"
           ],
           [
@@ -563,11 +732,15 @@
           ],
           [
             "Passive Perception",
-            "18"
+            "19"
           ],
           [
             "Spell save DC",
-            "21"
+            "24"
+          ],
+          [
+            "Spell attack",
+            "+16"
           ]
         ],
         "abilities": [
@@ -585,11 +758,11 @@
           ],
           [
             "INT",
-            22
+            24
           ],
           [
             "WIS",
-            13
+            14
           ],
           [
             "CHA",
@@ -598,19 +771,79 @@
         ],
         "skills": [
           [
+            "Acrobatics",
+            "+3"
+          ],
+          [
+            "Animal Handling",
+            "+2"
+          ],
+          [
             "Arcana",
-            "+20"
+            "+21"
+          ],
+          [
+            "Athletics",
+            "+0"
+          ],
+          [
+            "Deception",
+            "+0"
           ],
           [
             "History",
-            "+13"
+            "+14"
+          ],
+          [
+            "Insight",
+            "+9"
+          ],
+          [
+            "Intimidation",
+            "+0"
           ],
           [
             "Investigation",
-            "+13"
+            "+14"
+          ],
+          [
+            "Medicine",
+            "+2"
+          ],
+          [
+            "Nature",
+            "+2"
+          ],
+          [
+            "Perception",
+            "+9"
+          ],
+          [
+            "Performance",
+            "+0"
+          ],
+          [
+            "Persuasion",
+            "+2"
+          ],
+          [
+            "Religion",
+            "+7"
+          ],
+          [
+            "Sleight Of Hand",
+            "+3"
+          ],
+          [
+            "Stealth",
+            "+3"
+          ],
+          [
+            "Survival",
+            "+2"
           ]
         ],
-        "leveling": "The epic record lists Enchantment Wizard 22 and 614,445 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
+        "leveling": "The epic record preserves School of Enchantment Wizard 22 and 614,445 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -626,14 +859,127 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "advancement": [
+        "previousSnapshot": {
+          "metrics": [
+            [
+              "Sheet level",
+              "Enchantment Wizard 22"
+            ],
+            [
+              "Sheet experience",
+              "614,445 XP"
+            ],
+            [
+              "Maximum HP",
+              "128"
+            ],
+            [
+              "Armor class",
+              "21"
+            ],
+            [
+              "Initiative",
+              "+3"
+            ],
+            [
+              "Speed",
+              "30 ft"
+            ],
+            [
+              "Proficiency",
+              "+7"
+            ],
+            [
+              "Passive Perception",
+              "18"
+            ],
+            [
+              "Spell save DC",
+              "21"
+            ]
+          ],
+          "abilities": [
+            [
+              "STR",
+              10
+            ],
+            [
+              "DEX",
+              16
+            ],
+            [
+              "CON",
+              14
+            ],
+            [
+              "INT",
+              22
+            ],
+            [
+              "WIS",
+              13
+            ],
+            [
+              "CHA",
+              10
+            ]
+          ],
+          "skills": [
+            [
+              "Arcana",
+              "+20"
+            ],
+            [
+              "History",
+              "+13"
+            ],
+            [
+              "Investigation",
+              "+13"
+            ]
+          ]
+        },
+        "journalSnapshot": {
+          "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
+          "metrics": [
+            [
+              "Maximum HP in battle",
+              "128"
+            ],
+            [
+              "Armor class in battle",
+              "21"
+            ],
+            [
+              "Walking speed",
+              "30 ft"
+            ]
+          ]
+        },
+        "saves": [
           [
-            "Recorded level",
-            "Enchantment Wizard 22"
+            "STR",
+            "+3"
           ],
           [
-            "Recorded experience",
-            "614,445 XP"
+            "DEX",
+            "+6"
+          ],
+          [
+            "CON",
+            "+5"
+          ],
+          [
+            "INT",
+            "+17"
+          ],
+          [
+            "WIS",
+            "+12"
+          ],
+          [
+            "CHA",
+            "+3"
           ]
         ]
       },
@@ -896,15 +1242,15 @@
         ]
       },
       "statistics": {
-        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
+        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
         "metrics": [
           [
-            "Sheet level",
-            "War Cleric 21 · Paladin 1"
+            "Recorded level",
+            "War Domain Cleric 21, Paladin 1"
           ],
           [
-            "Sheet experience",
-            "510,261 XP"
+            "Experience",
+            "623,440 XP"
           ],
           [
             "Maximum HP",
@@ -912,14 +1258,14 @@
           ],
           [
             "Armor class",
-            "30"
+            "29"
           ],
           [
             "Initiative",
             "+1"
           ],
           [
-            "Speed",
+            "Walking speed",
             "25 ft"
           ],
           [
@@ -933,6 +1279,10 @@
           [
             "Spell save DC",
             "19"
+          ],
+          [
+            "Spell attack",
+            "+11"
           ]
         ],
         "abilities": [
@@ -958,24 +1308,84 @@
           ],
           [
             "CHA",
-            10
+            6
           ]
         ],
         "skills": [
           [
+            "Acrobatics",
+            "+1"
+          ],
+          [
+            "Animal Handling",
+            "+5"
+          ],
+          [
+            "Arcana",
+            "-2"
+          ],
+          [
             "Athletics",
             "+14"
+          ],
+          [
+            "Deception",
+            "-2"
+          ],
+          [
+            "History",
+            "-2"
           ],
           [
             "Insight",
             "+11"
           ],
           [
+            "Intimidation",
+            "-2"
+          ],
+          [
+            "Investigation",
+            "-2"
+          ],
+          [
+            "Medicine",
+            "+5"
+          ],
+          [
+            "Nature",
+            "-2"
+          ],
+          [
+            "Perception",
+            "+5"
+          ],
+          [
+            "Performance",
+            "-2"
+          ],
+          [
+            "Persuasion",
+            "-2"
+          ],
+          [
+            "Religion",
+            "+4"
+          ],
+          [
+            "Sleight Of Hand",
+            "+1"
+          ],
+          [
+            "Stealth",
+            "+1"
+          ],
+          [
             "Survival",
             "+11"
           ]
         ],
-        "leveling": "The epic record lists War Cleric 21 · Paladin 1 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
+        "leveling": "The epic record preserves War Domain Cleric 21, Paladin 1 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -991,14 +1401,127 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "advancement": [
+        "previousSnapshot": {
+          "metrics": [
+            [
+              "Sheet level",
+              "War Cleric 21 · Paladin 1"
+            ],
+            [
+              "Sheet experience",
+              "510,261 XP"
+            ],
+            [
+              "Maximum HP",
+              "235"
+            ],
+            [
+              "Armor class",
+              "30"
+            ],
+            [
+              "Initiative",
+              "+1"
+            ],
+            [
+              "Speed",
+              "25 ft"
+            ],
+            [
+              "Proficiency",
+              "+6"
+            ],
+            [
+              "Passive Perception",
+              "15"
+            ],
+            [
+              "Spell save DC",
+              "19"
+            ]
+          ],
+          "abilities": [
+            [
+              "STR",
+              27
+            ],
+            [
+              "DEX",
+              13
+            ],
+            [
+              "CON",
+              20
+            ],
+            [
+              "INT",
+              6
+            ],
+            [
+              "WIS",
+              20
+            ],
+            [
+              "CHA",
+              10
+            ]
+          ],
+          "skills": [
+            [
+              "Athletics",
+              "+14"
+            ],
+            [
+              "Insight",
+              "+11"
+            ],
+            [
+              "Survival",
+              "+11"
+            ]
+          ]
+        },
+        "journalSnapshot": {
+          "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions. Terry’s battle maximum differs from the character record below; the surviving figures do not explain the change.",
+          "metrics": [
+            [
+              "Maximum HP in battle",
+              "222"
+            ],
+            [
+              "Armor class in battle",
+              "29"
+            ],
+            [
+              "Walking speed",
+              "25 ft"
+            ]
+          ]
+        },
+        "saves": [
           [
-            "Recorded level",
-            "War Cleric 21 · Paladin 1"
+            "STR",
+            "+11"
           ],
           [
-            "Recorded experience",
-            "623,440 XP"
+            "DEX",
+            "+4"
+          ],
+          [
+            "CON",
+            "+8"
+          ],
+          [
+            "INT",
+            "+1"
+          ],
+          [
+            "WIS",
+            "+14"
+          ],
+          [
+            "CHA",
+            "+7"
           ]
         ]
       },
@@ -1265,15 +1788,15 @@
         ]
       },
       "statistics": {
-        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
+        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
         "metrics": [
           [
-            "Sheet level",
-            "Thief Rogue 21"
+            "Recorded level",
+            "Thief Rogue 23"
           ],
           [
-            "Sheet experience",
-            "510,261 XP"
+            "Experience",
+            "623,440 XP"
           ],
           [
             "Maximum HP",
@@ -1281,14 +1804,14 @@
           ],
           [
             "Armor class",
-            "22"
+            "24"
           ],
           [
             "Initiative",
             "+8"
           ],
           [
-            "Speed",
+            "Walking speed",
             "30 ft"
           ],
           [
@@ -1332,19 +1855,75 @@
             "+20"
           ],
           [
-            "Stealth",
-            "+19"
+            "Animal Handling",
+            "+3"
           ],
           [
-            "Sleight of Hand",
-            "+19"
+            "Arcana",
+            "+3"
+          ],
+          [
+            "Athletics",
+            "+8"
+          ],
+          [
+            "Deception",
+            "+8"
+          ],
+          [
+            "History",
+            "+3"
+          ],
+          [
+            "Insight",
+            "+3"
+          ],
+          [
+            "Intimidation",
+            "+2"
           ],
           [
             "Investigation",
             "+15"
+          ],
+          [
+            "Medicine",
+            "+3"
+          ],
+          [
+            "Nature",
+            "+3"
+          ],
+          [
+            "Perception",
+            "+15"
+          ],
+          [
+            "Performance",
+            "+8"
+          ],
+          [
+            "Persuasion",
+            "+8"
+          ],
+          [
+            "Religion",
+            "+3"
+          ],
+          [
+            "Sleight Of Hand",
+            "+17"
+          ],
+          [
+            "Stealth",
+            "+14"
+          ],
+          [
+            "Survival",
+            "+9"
           ]
         ],
-        "leveling": "The epic record lists Thief Rogue 23 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
+        "leveling": "The epic record preserves Thief Rogue 23 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -1360,14 +1939,127 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "advancement": [
+        "previousSnapshot": {
+          "metrics": [
+            [
+              "Sheet level",
+              "Thief Rogue 21"
+            ],
+            [
+              "Sheet experience",
+              "510,261 XP"
+            ],
+            [
+              "Maximum HP",
+              "170"
+            ],
+            [
+              "Armor class",
+              "22"
+            ],
+            [
+              "Initiative",
+              "+8"
+            ],
+            [
+              "Speed",
+              "30 ft"
+            ],
+            [
+              "Proficiency",
+              "+6"
+            ],
+            [
+              "Passive Perception",
+              "25"
+            ]
+          ],
+          "abilities": [
+            [
+              "STR",
+              14
+            ],
+            [
+              "DEX",
+              27
+            ],
+            [
+              "CON",
+              12
+            ],
+            [
+              "INT",
+              16
+            ],
+            [
+              "WIS",
+              16
+            ],
+            [
+              "CHA",
+              14
+            ]
+          ],
+          "skills": [
+            [
+              "Acrobatics",
+              "+20"
+            ],
+            [
+              "Stealth",
+              "+19"
+            ],
+            [
+              "Sleight of Hand",
+              "+19"
+            ],
+            [
+              "Investigation",
+              "+15"
+            ]
+          ]
+        },
+        "journalSnapshot": {
+          "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
+          "metrics": [
+            [
+              "Maximum HP in battle",
+              "170"
+            ],
+            [
+              "Armor class in battle",
+              "24"
+            ],
+            [
+              "Walking speed",
+              "30 ft"
+            ]
+          ]
+        },
+        "saves": [
           [
-            "Recorded level",
-            "Thief Rogue 23"
+            "STR",
+            "+2"
           ],
           [
-            "Recorded experience",
-            "623,440 XP"
+            "DEX",
+            "+14"
+          ],
+          [
+            "CON",
+            "+1"
+          ],
+          [
+            "INT",
+            "+9"
+          ],
+          [
+            "WIS",
+            "+3"
+          ],
+          [
+            "CHA",
+            "+2"
           ]
         ]
       },
