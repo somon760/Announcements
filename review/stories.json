@@ -1740,7 +1740,7 @@
     "title": "The price of remembering",
     "opening": [
       "Xanthar offered Grim hints, clues and assistance in exchange for memories. The scholar could gain an answer and forget what he had paid for it.",
-      "In the solo adventure Boss remembers, Grim listened to recordings of his past, chose the true recollection and risked losing a memory when he chose wrongly. The surviving script, Echoes in the Abyss, supplies the aboleth’s purpose and several possible endings.",
+      "In the solo adventure the GM remembers, Grim listened to recordings of his past, chose the true recollection and risked losing a memory when he chose wrongly. The surviving script, Echoes in the Abyss, supplies the aboleth’s purpose and several possible endings.",
       "The scenes reconstruct that scenario, with its hidden design labelled Revisionist. Grim’s exact answers, the original audio and the final branch remain unrecovered."
     ],
     "scenes": [
@@ -1860,7 +1860,7 @@
       {
         "title": "6. How a memory could be lost",
         "paragraphs": [
-          "Boss recalls recorded voices and choices that could cost Grim a memory. The written scenario adds saving throws to recognise the illusions and resist Xanthar’s influence."
+          "The GM recalls recorded voices and choices that could cost Grim a memory. The written scenario adds saving throws to recognise the illusions and resist Xanthar’s influence."
         ],
         "hindsight": [
           {
@@ -1912,7 +1912,7 @@
             "label": "Revisionist · Unresolved outcome",
             "title": "The choice still missing from the account",
             "paragraphs": [
-              "Both endings are published here because they were possibilities. Neither has been selected as the canonical result. The exact audio choices, memories surrendered, assistance received for each payment and final answer remain open for Grim’s player or Boss to restore."
+              "Both endings are published here because they were possibilities. Neither has been selected as the canonical result. The exact audio choices, memories surrendered, assistance received for each payment and final answer remain open for Grim’s player or the GM to restore."
             ]
           }
         ]
@@ -1960,7 +1960,7 @@
     "closing": {
       "title": "A backstory with missing pages",
       "paragraphs": [
-        "Xanthar’s design is known. Grim’s final answer remains missing, along with the original recordings and the record of any memories surrendered. His player or Boss may yet restore those details."
+        "Xanthar’s design is known. Grim’s final answer remains missing, along with the original recordings and the record of any memories surrendered. His player or the GM may yet restore those details."
       ]
     }
   }

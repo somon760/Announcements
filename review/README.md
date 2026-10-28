@@ -45,7 +45,7 @@ Revisionist viewpoint from the surviving epic weapons. Optional `label` text
 changes the visible and accessible label; existing notes default to Hindsight.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
-return twenty years beyond its original time, as confirmed by Boss. The final
+return twenty years beyond its original time, as confirmed by the GM. The final
 Bastion destination is labelled as a return to an already-started mystery.
 
 Four additional Bastion story illustrations are under `media/story/bastion/`; they
@@ -73,7 +73,7 @@ profile sections use `/beginnings`, `/progression`, `/revisionist`, and `/portra
 
 Revisionist notes distinguish hidden history, hidden consequences and retrospective
 readings. Interpretations are not recorded thoughts or new played events. Canonical
-PC PDFs supply sheet details; the four character-journal biographies and Boss's
+PC PDFs supply sheet details; the four character-journal biographies and the GM's
 roster ground Team Gravy. Do not invent missing level histories, cures, patron
 identities, parentage answers or final-session outcomes. Existing early portraits
 remain, alongside original exported map tokens and later journal artwork.
@@ -112,7 +112,7 @@ Soldier entries and 2 Shadowfang entries. Gravy's other fungal entries remain
 company-unassigned until supported; no numbered PC stats are invented.
 
 
-Boss’s confirmed Wrinkle split is narrated in Fungus Grotto: Xanthar tricked
+The GM’s confirmed Wrinkle split is narrated in Fungus Grotto: Xanthar tricked
 Biscuit into the grotto portal and they arrived naked without gear; after the
 ant battles, the hell trap intended for Biscuit caught Gravy instead. Gravy remain
 lost in Hell. Biscuit continued to Windglum and the Bastion adventures; Ernie
@@ -159,7 +159,7 @@ kill and XP figures together, preserving table semantics and avoiding horizontal
 scrolling. Filter controls use the same height across browsers.
 
 
-Boss confirmed the Deep Horizon consequence: the Brotherhood diverted lava to
+The GM confirmed the Deep Horizon consequence: the Brotherhood diverted lava to
 save the desmodu village. During the company’s missing twenty years, the resulting
 volcanic cataclysm collapsed Brindinford and the consequences wiped out the entire
 desmodu race. Deep Horizon, the Sleeper return and sunken Brindinford each carry
@@ -175,10 +175,10 @@ recovery. The Rigus aftermath connects ward failure to the same crisis. Shrop’
 profile includes a milestone and a labelled Revisionist consequence. The original
 grotto candle and the later Candle of the Dark One are distinct; Ashardalon’s
 soul predation remains a separate, continuing danger. Pengu’s egg’s later fate
-is not invented; Boss subsequently confirmed the completed candle working and Blackrazor’s sacrifice.
+is not invented; the GM subsequently confirmed the completed candle working and Blackrazor’s sacrifice.
 
 
-Boss corrected the time jump to twenty years on 2026-10-28. The former fifty-year
+The GM corrected the time jump to twenty years on 2026-10-28. The former fifty-year
 wording is superseded throughout the narration, profiles and asset passages,
 including the Brindinford/desmodu aftermath. The northern Dream Sequence
 explicitly speaks of twenty years without new souls; the return and Bastion
@@ -189,7 +189,7 @@ posted 1 Hammer 1407 conflicts with earlier calendar output reaching 26 Eleasis
 and narration rather than exposing the private date audit.
 
 
-Boss confirmed the Pengu finale’s completed ritual: Terry used his four-item
+The GM confirmed the Pengu finale’s completed ritual: Terry used his four-item
 attunement boon with Wave, Whelm, Frostrazor and Blackrazor; the soul-eating
 Blackrazor was sacrificed. This supersedes earlier wording that the ritual’s
 completion was unknown or that Blackrazor never belonged to the company.
