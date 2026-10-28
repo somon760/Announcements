@@ -342,8 +342,17 @@
         "title": "Beyond the grotto: two companies in the dark",
         "paragraphs": [
           "Escaping the Fungal Grotto brought the adventurers beneath Faerûn and into the long-lost ruins of Brindinford. Team Biscuit and Team Gravy now shared the fight for a way through. Shrop, Grim, Terry, and Thunder stood alongside Brunn, Rook, Nox, and Elira in the buried remains of a town that had once welcomed music and crowds.",
-          "The cavern had swallowed the streets. Ash and broken stone lay across the old routes; warm vents and volcanic fire marked fractures in the earth. Shelter had to be won, and moving from one ruined district to the next meant finding a passage that the colony did not already hold.",
+          "The cavern had swallowed the streets. This was the Brindinford the company had found destroyed after its fifty-year displacement: collapsed by a great volcanic cataclysm during the years it had missed. Ash and broken stone lay across the old routes; warm vents and volcanic fire marked fractures in the earth. Shelter had to be won, and moving from one ruined district to the next meant finding a passage that the colony did not already hold.",
           "The grotto’s escape had brought them to another battlefield. Both companies would need to survive it together."
+        ],
+        "hindsight": [
+          {
+            "title": "The fire beneath familiar streets",
+            "paragraphs": [
+              "The ruined city carried the consequences of the Brotherhood’s lava diversion in Deep Horizon. What had been done to save the desmodu village eventually caused Brindinford’s volcanic collapse and, during the company’s missing fifty years, the genocide of the entire desmodu race. The ants now occupied a city broken by that earlier catastrophe.",
+              "Team Gravy joined Team Biscuit in the aftermath. The colony claimed streets already broken by fire and collapse. The journey through those ruins would lead both companies to the surviving Reality Wrinkle—and another calamity waiting behind a doorway."
+            ]
+          }
         ]
       },
       {
@@ -937,7 +946,8 @@
         "paragraphs": [
           "Helkitrin’s next revelation left little room for an unhurried investigation. The salamanders were attacking the desmodu enclave. He said the beholders had ordered the assault on behalf of a figure he called Calthazar, seeking a lost artifact within the enclave.",
           "The way to it ran through the lava barrier at the Temple of Vesperion. The Smith had sent troops with Dyson and his companions only minutes before the company arrived. Once the enclave was broken, drow forces waiting near Spire Lake were to enter by the old route and take surviving desmodus for the mines.",
-          "The plot joined the search for an artifact to an organised traffic in people. The company had reached an underground conflict while its machinery was still moving: attack, breach, occupation, enslavement."
+          "The plot joined the search for an artifact to an organised traffic in people. The company had reached an underground conflict while its machinery was still moving: attack, breach, occupation, enslavement.",
+          "Saving the desmodu village also meant changing the course of the fire beneath it. The Brotherhood rerouted the lava to spare the settlement. In the immediate struggle, that diversion offered the people of Deep Horizon a way to survive."
         ],
         "image": {
           "src": "media/images/deep-horizon/faee4a83293e6912840d45ff.jpg",
@@ -951,6 +961,13 @@
             "title": "The assault had a second harvest",
             "paragraphs": [
               "The salamanders’ attack was only the first stage. After the enclave’s destruction, drow waiting near Spire Lake were to enter by the old route and force the surviving desmodus into the mines. The artifact hunt offered its organisers both a prize and a new captive workforce. Calthazar remained the distant voice behind the beholders’ orders."
+            ]
+          },
+          {
+            "title": "The rescue’s fifty-year shadow",
+            "paragraphs": [
+              "The lava diversion had consequences far beyond the village it was meant to save. In the years Team Biscuit would miss, those changes caused a great volcanic cataclysm that collapsed Brindinford. During that same absence, the consequences of the diversion brought about the genocide of the desmodu: the entire people the Brotherhood had sought to save were wiped out.",
+              "The company did not stand through those intervening decades. Its later return, fifty years beyond its original time, brought it into a world already living with the aftermath. The rescue in Deep Horizon and the ruins of Brindinford belonged to one terrible chain of consequences."
             ]
           }
         ]
@@ -975,6 +992,7 @@
       "title": "A wider road than the descent",
       "paragraphs": [
         "Deep Horizon brought the company from caverns and ruined libraries to the records of people bought and sold. The desmodu enclave, the beholders, the salamanders, and the Stolen Sons were threads of the same struggle, with familiar towns caught in it.",
+        "The lava had been turned aside to save a village. The cost beyond that rescue lay in years the company had yet to lose; for now, the road led onwards.",
         "Beyond lay a journey through the Outlands and Rigus towards Acheron. The next fortress would put another kind of captivity at the heart of its work: the imprisoned spirits of smiths, forced into the reforging of the Blade of Fiery Might."
       ]
     }
@@ -1164,15 +1182,25 @@
         "title": "Back—but fifty years beyond their own time",
         "paragraphs": [
           "The company eventually made its way back from the flashback, but the return carried it fifty years beyond the original time it had left. Regaining the way forward had not restored the lost present. A half-century now stood between the adventurers and the world they had expected to find.",
+          "Brindinford had not survived that absence. A great volcanic cataclysm had collapsed the city, leaving the familiar streets in ruins. The town they had walked as their eighth-level selves—and where they had entrusted investments to Shoomma and the Bank of Frobozz—belonged to a world the catastrophe had broken.",
           "Their business with Shoomma and the Bank of Frobozz belonged to that time-displaced journey. The promises, property, and money left in Brindinford were now part of a much longer absence. The company had returned from an adventure through its own past into a future it had not lived.",
           "Bastion remained unfinished. The detour had changed when the company stood in the world, while the older questions about Ashardalon and the cycle of souls followed it into the years ahead."
+        ],
+        "hindsight": [
+          {
+            "title": "What happened while they were gone",
+            "paragraphs": [
+              "The catastrophe was a delayed consequence of Deep Horizon. The Brotherhood’s rerouting of the lava to save the desmodu village set in motion the disaster that destroyed Brindinford. Across the fifty years the company missed, that same chain of consequences wiped out the entire desmodu race.",
+              "The company returned to the aftermath, without having lived through the years between rescue and ruin. A village saved, a city buried, and a people lost: the missing decades had joined what once seemed separate parts of the road."
+            ]
+          }
         ]
       }
     ],
     "closing": {
       "title": "The road north from a stolen present",
       "paragraphs": [
-        "White Plume ended with the company outside the mountain and carrying its rewards. The larger Sleeper detour took it through earlier Brindinford and finally into a world fifty years beyond its original time. The investments, the familiar streets, and the question of getting home belonged to that broken course through history.",
+        "White Plume ended with the company outside the mountain and carrying its rewards. The larger Sleeper detour took it through earlier Brindinford and finally into a world fifty years beyond its original time. The investments, the familiar streets, and the question of getting home belonged to that broken course through history. Brindinford’s volcanic destruction made the missing years a loss of place as well as time.",
         "A further warning accused the company of breaking a seal and releasing a primordial menace. Its name was lost in the telling, but the demand was clear: repair what had been disturbed, and seek the answer to the north. That warning travelled with the renewed pursuit of Keraptis and the weapons.",
         "The next great journey led into Icewind Dale, where winter held the towns and magic itself was beginning to fail. It was another turn away from Bastion’s investigation, with the company still carrying that unfinished mystery towards its eventual return."
       ]

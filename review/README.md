@@ -40,7 +40,7 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 28 such notes.
+recorded actions. The twelve narrated chapters contain 31 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return fifty years beyond its original time, as confirmed by Boss. The final
@@ -148,3 +148,12 @@ Ledger layout: fixed desktop column widths and expandable story contexts keep
 rows compact. At 700px and below, each record becomes a labelled card with its
 kill and XP figures together, preserving table semantics and avoiding horizontal
 scrolling. Filter controls use the same height across browsers.
+
+
+Boss confirmed the Deep Horizon consequence: the Brotherhood diverted lava to
+save the desmodu village. During the company’s missing fifty years, the resulting
+volcanic cataclysm collapsed Brindinford and the consequences wiped out the entire
+desmodu race. Deep Horizon, the Sleeper return and sunken Brindinford each carry
+labelled Hindsight connecting these events. No disaster casualty count, precise
+calendar year, investment payout or player knowledge at the time is inferred.
+Scene order, gallery, character statistics and battle-ledger totals are unchanged.
