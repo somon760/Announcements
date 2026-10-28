@@ -8,12 +8,14 @@ const hindsight = notes => (notes ?? []).map(note => `<aside class="story-hindsi
   <p class="hindsight-label">${escape(note.label ?? 'Hindsight')}</p><h4>${escape(note.title)}</h4>${paragraphs(note.paragraphs)}
 </aside>`).join('');
 
+const relatedLinks = links => (links ?? []).length ? `<nav class="story-related-links" aria-label="Related character stories">${links.map(link => `<a href="${escape(link.href)}">${escape(link.label)}</a>`).join('')}</nav>` : '';
+
 const companionSlugs = {'Shrop Shireslasher':'shrop','Grimbledee Brightburrow':'grim','Terry Stronginthearm':'terry','Thunderdrum Stringcutter':'thunder','Brunn Ironbelly':'brunn','Rook Kestrel':'rook','Nox Veyra':'nox','Elira Moss-Weaver':'elira'};
 
 export function renderStory(story) {
   if (!story) return '';
   const scenes = (story.scenes ?? []).map((scene,index) => `<section id="story-scene-${index+1}" tabindex="-1" class="story-scene${scene.image ? ' story-scene-illustrated' : ''}">
-    <div class="story-prose"><h3>${escape(scene.title)}</h3>${paragraphs(scene.paragraphs)}${hindsight(scene.hindsight)}</div>
+    <div class="story-prose"><h3>${escape(scene.title)}</h3>${paragraphs(scene.paragraphs)}${hindsight(scene.hindsight)}${relatedLinks(scene.links)}</div>
     ${scene.image ? `<figure class="story-illustration"><img src="${escape(scene.image.src)}" alt="${escape(scene.image.alt)}"${scene.image.width&&scene.image.height?` width="${Number(scene.image.width)}" height="${Number(scene.image.height)}"`:""} loading="lazy"><figcaption>${escape(scene.image.caption)}</figcaption></figure>` : ''}
   </section>`).join('');
   const companions = story.companions ? `<section class="story-companions" aria-label="The companions">

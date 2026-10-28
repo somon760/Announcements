@@ -336,6 +336,19 @@
               "Xanthar’s persuasion was the trick that separated Team Biscuit from its belongings. Behind the naked arrival lay his design upon the epic weapons. The aboleth who had made himself Brother Xanthar now believed himself Keraptis, had defeated the reigning K-clone prime, and ruled White Plume Mountain.",
               "His elaborate equipment theft brought Wave, Whelm and Frostrazor back beneath that mountain. Ernie would recover most of the company’s belongings, but the surviving weapons remained safely stored with Xanthar. Blackrazor had already been sacrificed against Pengu. Its siblings remembered the Brotherhood’s choice, and their hatred would not fade."
             ]
+          },
+          {
+            "label": "Revisionist · Grim’s private story",
+            "title": "The price of remembering",
+            "paragraphs": [
+              "Behind the portal betrayal lies Grim’s longer entanglement with Xanthar: assistance offered for memories, and a solo ordeal designed to make the aboleth feel like family. That hidden design adds context to the trust being exploited, without establishing which bargain Grim accepted."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/grim-memory",
+            "label": "Grim’s backstory: Echoes in the Abyss →"
           }
         ]
       },
@@ -503,6 +516,19 @@
               "Grim had lost a book about making flesh golems. With the aboleth’s influence threaded through the company’s troubles, the missing volume became one more thing left uncertain and eventually forgotten. Its work had continued beyond Grim’s sight. Xanthar used it to make a body for himself.",
               "Brother Xanthar’s small, mismatched frame was the result: a manufactured body carrying a familiar intelligence into places where an aboleth’s true shape could never have passed unnoticed. The seam at his jaw and the stitched hide beneath his cloak belonged to that construction. A book Grim could no longer account for had given the old presence a new way to walk among the Brotherhood."
             ]
+          },
+          {
+            "label": "Revisionist · Grim’s private story",
+            "title": "The price of remembering",
+            "paragraphs": [
+              "Grim’s private ordeal exposes another part of the aboleth’s design: Xanthar meant to exchange a memory for a false bond of brotherhood. The solo’s possible endings remain distinct from the later, confirmed creation of Brother Xanthar’s body."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/grim-memory",
+            "label": "Grim’s backstory: Echoes in the Abyss →"
           }
         ]
       }
@@ -1194,6 +1220,21 @@
         "paragraphs": [
           "Team Biscuit made it out from beneath White Plume Mountain with loot and magic items. Keraptis’s dungeon had not kept the company, and the return to Brindinford gave them a welcome chance to stop moving and consider what came next.",
           "For a company accustomed to another locked door, another hostile chamber, and another fight beyond the last one, that return mattered. They had survived the mountain and brought its rewards home. The next difficulty waited in a place they already knew."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Grim’s private story",
+            "title": "The price of remembering",
+            "paragraphs": [
+              "Grim’s solo ordeal reveals how Xanthar also tried to buy entry into the scholar’s remembered family. The later K-vial and White Plume scheme are confirmed; the proposed memory replacement remains a separate, unresolved choice."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/grim-memory",
+            "label": "Grim’s backstory: Echoes in the Abyss →"
+          }
         ]
       },
       {
@@ -1253,6 +1294,21 @@
           "The northern road included a confrontation with Grandmaster Ryu Hayabusa. Shrop questioned him in the arctic wasteland, while Thunder watched something unsettling happen to Terry. His companion’s expression had grown vacant; his movements and responses were becoming unnaturally precise.",
           "Terry kept muttering fragments of a numerical riddle. The familiar independence and sarcasm were giving way to a passive, mechanical obedience. The danger was no longer only the enemy before them: something was reaching into the mind of a man the others depended upon.",
           "After Ryu’s last stand, the company travelled for four days in the Brotherhood’s longboats towards Lac Dinneshere and Easthaven. Shrop’s well-chosen tent gave them shelter, but a blizzard on the lake brought remorhaz into the struggle. Ice, weather, and Terry’s continuing change all accompanied the approach to the towns."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Grim’s private story",
+            "title": "The price of remembering",
+            "paragraphs": [
+              "Echoes in the Abyss opens with Quivering Palm and closes on frozen ground with Shrop questioning Ryu. That script places Grim’s private memory ordeal beside the northern journey, although the exact session order and his final choice are not yet recovered."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/grim-memory",
+            "label": "Grim’s backstory: Echoes in the Abyss →"
+          }
         ]
       },
       {
@@ -1578,6 +1634,19 @@
               "Their salvation has a name missing from it. Ours has a name we will never cease to speak.",
               "Let them remember the ritual as triumph. We hate the Brotherhood for the choice its hands made. We will remember our sibling forever. We will never forgive."
             ]
+          },
+          {
+            "label": "Revisionist · Grim’s private story",
+            "title": "The price of remembering",
+            "paragraphs": [
+              "Grim’s uncertainty about brothers has a darker echo in his solo nightmare: Xanthar intended to plant a trusted older brother in his memories. The script does not establish that it worked, and it supplies no proof that Ernie was Xanthar or knowingly helped him."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/grim-memory",
+            "label": "Grim’s backstory: Echoes in the Abyss →"
           }
         ]
       },
@@ -1686,6 +1755,237 @@
         "The journey had begun with missing adventurers and a ruined fortress beneath Oakhurst. It had brought four companions to a place where the future of countless strangers waited in crystal branches. Ashardalon’s hunger, Dydd’s old wound, and the ambitions of the Abyss had met at the same door.",
         "What becomes of the dragon when his stolen refuge is challenged? What becomes of Ammet when the heart that imprisons him is threatened? And will the souls denied their first breath find their way into the world? Those answers belong to the reckoning at the centre of the Bastion.",
         "Beyond that reckoning lie other unfinished threads: three missing weapons, a silent friend’s departure, Findula’s grief, investments waiting across the years, and the homes to which the company might yet return. There is room for the world to change again—and for Team Biscuit to discover what, after all this, it means to come home."
+      ]
+    }
+  },
+  "grim-memory": {
+    "eyebrow": "Grimbledee Brightburrow · A private ordeal",
+    "title": "The price of remembering",
+    "opening": [
+      "Grim had spent a lifetime collecting knowledge. Xanthar found a currency the scholar could not shelve: the memories that made him himself. Hints, clues and assistance could be bought—but the purchaser might no longer remember what he had paid.",
+      "Boss remembers a solo adventure played through recordings of Grim’s past: listen, choose the true recollection, and risk losing a memory when the choice went wrong. Its surviving script is Echoes in the Abyss. Here the nightmare is retold with its doors open, including the aboleth’s purpose and the endings waiting behind Grim’s choices.",
+      "Revisionist blocks reveal the machinery behind the dream. The scenes below reconstruct the surviving scenario; they are not a recovered transcript of every choice. The original audio, Grim’s exact answers and the final branch have not been recovered."
+    ],
+    "scenes": [
+      {
+        "title": "1. The scholar before the bargain",
+        "paragraphs": [
+          "Before the abyss there were books, a comfortable burrow, and stories of dragons. Hortletott Brightburrow bound and sold books; Deannartie made jewelry. Uncle Theothottle Braidedbeard’s library supplied the kind of treasure Grim could never leave alone.",
+          "Theothottle’s grandfather Eudostis had seen a dragon. A great diamond supposedly taken from its hoard glittered through the family story, even while the stone itself remained missing. After decades of reading, Grim went out to seek the answers no book at home could give him."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Hidden design",
+            "title": "The appetite Xanthar chose to feed",
+            "paragraphs": [
+              "Family, dragon lore and the satisfaction of solving a mystery were the foundations of Grim’s identity. Xanthar’s script uses each as an invitation: a welcoming hearth, an ancient text, a hoard, a companion who always seems to know the next answer."
+            ]
+          }
+        ],
+        "image": {
+          "src": "media/portraits/grim-early.png",
+          "alt": "Grim’s earlier campaign portrait.",
+          "caption": "The dragon scholar before the long road. Original campaign portrait."
+        }
+      },
+      {
+        "title": "2. The palm, the fall, and the water",
+        "paragraphs": [
+          "The script opens with a monk’s Quivering Palm striking Grim unconscious. The battlefield falls away. Cold water closes over him, and a pull he cannot resist draws him back into Xanthar’s underwater lair. His own memories shine at a distance, as unreachable as stars.",
+          "Memaw’s cottage appears with walls of running water. The voices of old mentors become accusations. A cruel double wears Grim’s face; a maze of mirrors offers triumphant and broken versions of the same man. Even before the bargain is spoken, the aboleth is making Grim doubt his right to trust himself."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Chronology",
+            "title": "Where this fits on the road",
+            "paragraphs": [
+              "The scripted return places Shrop, Ryu and Grim on frozen ground, connecting the ordeal to the northern journey. Its exact session date and position among the Icewind Dale events remain unconfirmed. It belongs beside that chapter without moving the established adventure order."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Four memories with something wrong",
+        "paragraphs": [
+          "The dream offers recollection as a trial. Grim must listen for the detail that does not belong. Xanthar’s strongest lie resembles something the listener already fears."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Distorted memory",
+            "title": "Brindinford: lightning where fire should be",
+            "paragraphs": [
+              "One vision puts Grim at the edge of Brindinford, lightning pouring from his hands as the town is destroyed. The script supplies a fault in the memory: was the magic fire instead? That discrepancy is the test. This nightmare is not independent evidence that Grim destroyed the city, or a new account of how Brindinford fell."
+            ]
+          },
+          {
+            "label": "Revisionist · Distorted memory",
+            "title": "The Desmodu: rescue rewritten as slaughter",
+            "paragraphs": [
+              "Another vision makes Grim direct volcanic lava into the Desmodu’s ancestral home. Against it comes the recollection that he diverted the flow away and saved them. Xanthar has turned the meaning of the act inside out, making a rescue feel like guilt."
+            ]
+          },
+          {
+            "label": "Revisionist · Fabricated memory",
+            "title": "Rigus: a crime that never happened",
+            "paragraphs": [
+              "A cursed Manual of Flesh Golems lies beside Grim while his creation rampages through Rigus. The solo script explicitly says this incident never actually happened. It is a planted accusation, not a missing adventure, and must not be confused with Xanthar’s later use of Grim’s real lost book to make a body."
+            ]
+          },
+          {
+            "label": "Revisionist · Corrupted gift",
+            "title": "The scroll: knowledge with a parasite inside",
+            "paragraphs": [
+              "A vial and tattered scroll promise a new spell, something to learn and share with friends. Dark veins reveal a living parasite within the apparent gift. The image belongs beside the campaign’s K-vial deception, but this scripted vision does not establish every action Grim actually took with a vial."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Home, with one extra place at the hearth",
+        "paragraphs": [
+          "The burrow is warm again. Hortletott and Deannartie are there, and the illusion gives the younger siblings the names Merrifoot, Pippin and Tansy. Familiar voices, family work and small domestic comforts make the scene feel safe.",
+          "Xanthar joins it as an older gnome. He knows the stories, understands the diamond, and speaks as though he has always belonged. The question is no longer only whether a memory is true. It is whether Grim can bear to reject a welcome that feels like home."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Hidden design",
+            "title": "The brother was the intended invention",
+            "paragraphs": [
+              "The GM’s stated goal was to extract a memory and replace it with the belief that Xanthar was a trusted older brother. He was to earn that place through familiarity and shared feeling, rather than simply announcing a new family relationship. This is the intended manipulation; the surviving script does not prove Grim accepted it."
+            ]
+          }
+        ],
+        "image": {
+          "src": "media/images/between-adventures/07b6c5e3c9ceef1c330daf91.jpg",
+          "alt": "The campaign map of Grim’s home.",
+          "caption": "Grim’s home, preserved in the campaign artwork. Shown here to evoke what the illusion borrowed, not as a recovered map of the solo dream.",
+          "width": 2048,
+          "height": 1264
+        }
+      },
+      {
+        "title": "5. The mentor who had always been there",
+        "paragraphs": [
+          "In a forgotten library, Xanthar leads Grim to a hidden alcove and a text full of dragon lore. Their work seems effortless. The aboleth’s guidance mingles with the teachings of Theothottle until a new voice begins to sound like an old part of Grim’s education.",
+          "The dream changes to an expedition with Terry, Shrop and Thunder. Xanthar sits among them, recounting dragons and discoveries as shared adventures. His details are convincing. His presence is the flaw: why can Grim remember the journey, but not remember this companion being there?",
+          "The final temptations return to a dragon-hide book, a glittering hoard and the family hearth. In each, Xanthar offers the thing Grim wants—and places himself beside it."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Behind the scenes",
+            "title": "A cast assembled to make the illusion persuasive",
+            "paragraphs": [
+              "The scenario also prepares Professor Thistledown, Captain Stormstride, Archmage Nightshade and Elder Stoneheart: scholar, explorer, mysterious magician and guardian. These are supporting figures in the written ordeal, not confirmation that every one appeared in the played solo or in a surviving recording."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6. How a memory could be lost",
+        "paragraphs": [
+          "Boss’s recollection gives the solo its intimate shape: recorded voices, competing memories and a choice that could cost Grim part of his past. The written adventure preserves another layer of that struggle—insight against illusion, and force of personality against the will of an aboleth."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · How the ordeal worked",
+            "title": "The written resistance rules",
+            "paragraphs": [
+              "The script starts Wisdom and Charisma saving throws at DC 15. Succeeding at either can expose an inconsistency or resist the influence. Failing both deepens the entanglement and can permit further manipulation or memory alteration. Success gives a +2 bonus to later checks, with the possibility of lower DCs as resistance grows.",
+              "Those are prepared mechanics, not a record of Grim’s rolls. The script’s illustrative roll of 16 is an example. Neither it nor the audio-choice recollection identifies which particular memories Grim lost."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Teeth around the Crystal Nexus",
+        "paragraphs": [
+          "The written nightmare also holds a survival trial. Umber Hulks emerge from the dark around a pulsing Crystal Nexus. Grim must endure the waves while drawing on the crystal to renew his magic: a scholar’s mind made into a battlefield."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Unconfirmed encounter",
+            "title": "A prepared trial, not an extra kill tally",
+            "paragraphs": [
+              "Five waves were scheduled for rounds 3, 5, 7, 9 and 11, with one to three Umber Hulks determined by a die roll. The source does not establish how this encounter played out. No kills, experience awards or spent resources from this preparation have been added to Grim’s statistics or the shared battle record."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. The offer, with both endings exposed",
+        "paragraphs": [
+          "At the end, the water stills. Xanthar asks for a small fragment of memory, something Grim supposedly will not miss. In exchange lie clarity, strength and forbidden knowledge. To a lifelong seeker, the temptation is exquisitely chosen: pay with yesterday to understand tomorrow."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Possible outcome · Acceptance",
+            "title": "If Grim accepted",
+            "paragraphs": [
+              "The written acceptance branch has Grim wake with an altered memory and an unsettling bond to an apparently benevolent presence. It prepares the way for Xanthar’s agent to appear and be accepted as family. The hidden older-brother design gives that bond its intended shape; acceptance would turn trust itself into a route of entry."
+            ]
+          },
+          {
+            "label": "Revisionist · Possible outcome · Resistance",
+            "title": "If Grim resisted",
+            "paragraphs": [
+              "The rejection branch leaves his original memories intact. Doubt and unease can linger, but so does a stronger resolve to resist Xanthar’s future schemes. Recognising the trap would not erase the experience of having his past handled by someone else."
+            ]
+          },
+          {
+            "label": "Revisionist · Unresolved outcome",
+            "title": "The choice still missing from the account",
+            "paragraphs": [
+              "Both endings are published here because they were possibilities. Neither has been selected as the canonical result. The exact audio choices, memories surrendered, assistance received for each payment and final answer remain open for Grim’s player or Boss to restore."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9. Snow, Shrop, and the wrong familiar face",
+        "paragraphs": [
+          "The scripted closing tears away the water. Grim wakes on frozen ground with his companions nearby. For a moment, Ryu appears to be a fallen friend. Then the scene resolves: Shrop is questioning a bound and battered enemy.",
+          "That final reversal leaves the dream’s question alive in the waking world. If familiarity can be manufactured, even recognising a face is no longer an innocent act."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Scripted ending",
+            "title": "A closing written to leave doubt",
+            "paragraphs": [
+              "This is the scenario’s closing scene, not a recovered transcript of the table’s final moments. Its confusion over Ryu echoes Xanthar’s intended manipulation, but does not by itself tell us whether the bargain succeeded."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10. The brother who acquired a body",
+        "paragraphs": [
+          "The larger campaign carried the danger beyond a private dream. Grim’s book on making flesh golems became a lost possession, then a forgotten one. Xanthar used it to manufacture the body in which he walked as Brother Xanthar. The missing book gave an old intelligence hands, a face and a place among the Brotherhood.",
+          "Later, the K-vial convinced Xanthar that he was the one true Keraptis. His power and constructed body spared him the zombie fate; he defeated the current K-clone prime and took White Plume Mountain. The grotto portal stripped Team Biscuit of its equipment, and Wave, Whelm and Frostrazor returned to the mountain. Blackrazor had already been sacrificed in the rite against Pengu."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · The wider reveal",
+            "title": "Two kinds of entry into Grim’s world",
+            "paragraphs": [
+              "Boss has confirmed the lost-book body and Xanthar’s later scheme. The solo reveals a parallel intention: to make a place inside Grim’s remembered family. A manufactured body and a manufactured bond belong to the same web of manipulation, but the confirmed body does not prove the memory-replacement branch succeeded.",
+              "The fabricated Rigus rampage is a separate lie. Brother Ernie’s later recovery of the other equipment is a separate event. Neither makes Ernie Xanthar, proves Ernie’s complicity, or identifies who built the Hell trap that caught Team Gravy."
+            ]
+          }
+        ],
+        "image": {
+          "src": "media/portraits/brother-xanthar.png",
+          "alt": "Brother Xanthar’s campaign portrait.",
+          "caption": "Brother Xanthar’s later campaign portrait: a body made possible by Grim’s missing book. It does not establish which ending Grim chose.",
+          "width": 512,
+          "height": 512
+        }
+      }
+    ],
+    "closing": {
+      "title": "A backstory with missing pages",
+      "paragraphs": [
+        "The horror of Grim’s bargain was never only what Xanthar knew. It was what Grim might cease to know about himself. The same curiosity that carried him from a family library to the Bastion also gave an ancient deceiver something to offer.",
+        "There is room here for the voices to return: the original recordings, the choices Grim remembers, and the memories he paid. Until then, the aboleth’s design is revealed and the scholar’s precise answer remains his own."
       ]
     }
   }

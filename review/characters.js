@@ -65,7 +65,7 @@ export function renderCharacter(person, people, chapters, battles) {
       </div>
     </header>
     <div class="character-reading">
-      <section id="character-beginnings" tabindex="-1" class="character-section story-prose"><p class="eyebrow">Before the company</p><h2>Where the road began.</h2>${prose(person.backstory)}</section>
+      <section id="character-beginnings" tabindex="-1" class="character-section story-prose"><p class="eyebrow">Before the company</p><h2>Where the road began.</h2>${prose(person.backstory)}${(person.relatedStories ?? []).map(story => `<aside class="character-revisionist"><p class="eyebrow">A story within the story</p><h3><a href="${escape(story.href)}">${escape(story.label)}</a></h3><p>${escape(story.description)}</p></aside>`).join('')}</section>
       ${statistics(person)}
       <section id="character-progression" tabindex="-1" class="character-section"><p class="eyebrow">A life in motion</p><h2>What the journey made.</h2><ol class="character-milestones">${person.progression.map(step => `<li><h3>${escape(step.title)}</h3><p>${escape(step.text)}</p>${chapterLink(step)}</li>`).join('')}</ol></section>
       ${renderCompanyHonours(person,battles,chapters)}
