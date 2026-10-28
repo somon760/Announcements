@@ -40,7 +40,7 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 33 such notes.
+recorded actions. The twelve narrated chapters contain 34 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return fifty years beyond its original time, as confirmed by Boss. The final
@@ -167,3 +167,14 @@ profile includes a milestone and a labelled Revisionist consequence. The origina
 grotto candle and the later Candle of the Dark One are distinct; Ashardalon’s
 soul predation remains a separate, continuing danger. Pengu’s egg’s later fate
 and the final candle working are not invented.
+
+
+Boss confirmed that no new souls reached birth in the world throughout the
+company’s fifty-year displacement and that Ashardalon has fed in the Bastion for
+more than fifty years. The time-travel return, Icewind vision/Rigus aftermath,
+Bastion opening/approach/dragon and two related profiles/passages carry that
+duration. An added Hindsight note explains the missing years. Older source-script
+references to twenty years are superseded by this GM confirmation; raw sources
+remain unchanged. No absolute calendar reconciliation, population figures, named
+children’s fates, permanent destruction of every consumed soul or finale recovery
+is inferred. Pengu’s loss of magic remains a distinct crisis.
