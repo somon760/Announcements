@@ -2,16 +2,16 @@
   "sunless-citadel": {
     "title": "The first road led down",
     "opening": [
-      "Before the long roads, the distant planes, and the names that would return to haunt them, there was Oakhurst—and a family waiting for news. The Hucreles had lost adventurers to the Sunless Citadel. Shrop and Terry helped strike the bargain to find them. With Thunder at their side, they took up a search that would leave them with far more than a reward.",
-      "Before Oakhurst, Thunder’s road had brought him to the Stolen Sons. Sent to work for them after being caught burgling a house, he met Terry and Shrop there. The name belonged to the company’s beginnings long before it would return in the stories of Brindinford and the captives beneath the earth.",
-      "A broken fortress lay beneath the earth. Somewhere in its dark were the missing, the truth behind a strange harvest, and the first threads of a story that would follow Team Biscuit for years."
+      "The Hucreles of Oakhurst had lost adventurers to the Sunless Citadel. Shrop and Terry helped strike a bargain to find them, and Thunder joined the search beneath the ruined fortress.",
+      "Thunder had met Terry and Shrop through the Stolen Sons. Caught burgling a house, he had been sent to work for them. The Stolen Sons would reappear in Brindinford and in the trade in captives beneath the earth.",
+      "Below Oakhurst, the search led towards a strange harvest and a name the company would hear for years: Ashardalon."
     ],
     "scenes": [
       {
         "title": "A less than graceful entrance",
         "paragraphs": [
-          "The Citadel wasted little time making its introductions. Shrop met the giant rats—and a pit trap. Thunder began the quieter work of disarming traps, finding hidden doors, and opening locks. It was an early glimpse of a useful arrangement: Shrop could survive the sort of discovery everyone preferred Thunder to make first.",
-          "Terry kept his companions alive and made liberal use of chalk. The work was practical, sometimes inelegant, and entirely necessary. Great adventures require courage. They also benefit from someone remembering which way the party came."
+          "Shrop met the giant rats—and a pit trap. Thunder disarmed traps, found hidden doors and opened locks. Shrop could survive the sort of discovery everyone preferred Thunder to make first.",
+          "Terry kept his companions alive and marked the route in chalk. Someone had to remember which way they came."
         ],
         "image": {
           "src": "media/images/sunless-citadel/original-art-citadel-crevice.jpg",
@@ -24,8 +24,8 @@
       {
         "title": "Steel, chalk, and a little diplomacy",
         "paragraphs": [
-          "Not every obstacle called for the same answer. Shrop dealt with Caltrop Hall by breaking down the door and charging the defences. Elsewhere, the company freed Erky Timbers and persuaded the goblin chief to agree to a truce. They could fight their way through a door; they could also recognise when a conversation might open one.",
-          "The search began to reveal a second danger. Terry connected Belak’s mutations with the mystery of the apple and the twig blights. The troubles below the Citadel had roots reaching beyond its walls. Returning with news of the missing would not be enough if Oakhurst remained unaware of what threatened it."
+          "Shrop broke down the door to Caltrop Hall and charged its defences. Elsewhere, the company freed Erky Timbers and persuaded the goblin chief to agree to a truce.",
+          "Terry connected Belak’s mutations with the apple and the twig blights. The company would need to warn Oakhurst about the threat growing beneath it."
         ],
         "hindsight": [
           {
@@ -39,17 +39,17 @@
       {
         "title": "The fourth familiar name",
         "paragraphs": [
-          "Grim had already been adventuring on his own. It was in the Citadel that the others found him, with Shrop the first to discover the gnome who would become so much a part of their story.",
-          "He brought a familiar’s scouting, a growing store of magical knowledge, and an opinion about how to handle the people they had come to find. When the company confronted the missing adventurers, Grim urged that they be subdued. Shrop and Thunder helped put that choice into practice. The search had brought them to a confrontation; they chose restraint.",
-          "There were quieter beginnings, too. Grim began teaching Terry Draconic. Their translations helped the company make sense of books, scrolls, and the Citadel’s dragon lore. Shrop and Thunder had encountered the name Ashardalon early in the expedition; Grim had learned something of the dragon even before his own adventures began. It was a name the campaign would not let them forget.",
-          "Grim’s hunger for knowledge had a particular ambition behind it: to gather all known magic into a single great tome. Every recovered text, unfamiliar inscription, and new spell could become another part of that life’s work. The company had found a wizard for whom a discovery could be as compelling as a treasure chest."
+          "Grim was already adventuring on his own when Shrop found him in the Citadel. The gnome joined the company with a familiar to scout ahead and a growing store of magical knowledge.",
+          "When they confronted the missing adventurers, Grim urged that they be subdued. Shrop and Thunder helped restrain them.",
+          "Grim began teaching Terry Draconic. Their translations helped them read the Citadel’s books, scrolls and dragon lore. Shrop and Thunder encountered Ashardalon’s name early in the expedition; Grim had learned something of the dragon before he began adventuring.",
+          "Grim hoped to gather all known magic into a single great tome. Recovered texts, unfamiliar inscriptions and new spells went towards that work."
         ]
       },
       {
         "title": "What the darkness left them",
         "paragraphs": [
-          "Shrop recovered Shatterspike. Grim braved the dragon fountain. When troll parts needed burning, Grim supplied the reminder and Terry supplied the follow-through. Shrop resisted the lure of enchanted music and discovered Jot. There was danger in grand discoveries and in the smaller details the party could ill afford to overlook.",
-          "Beneath it all lay the mystery of Belak’s work and the sinister growth associated with the Gulthias Tree. The Citadel had given the company more than enemies to overcome: it had given them questions worth carrying back into the light."
+          "Shrop recovered Shatterspike, resisted enchanted music and discovered Jot. Grim braved the dragon fountain. When troll parts needed burning, Grim supplied the reminder and Terry supplied the follow-through.",
+          "Belak’s work led them to the Gulthias Tree and the sinister growth beneath the Citadel."
         ],
         "image": {
           "src": "media/images/sunless-citadel/original-art-twilight-grove.jpg",
@@ -70,9 +70,9 @@
       {
         "title": "The rings came home",
         "paragraphs": [
-          "The company returned the Hucrele rings and brought back news of every missing adventurer. The bargain in Oakhurst could finally be answered, though an answer was not the same thing as a happy ending. Shrop urged the party to attend the funeral. Their first adventure closed with remembrance as well as reward.",
-          "They also warned the town about the twig blights. What they had learned in the dark mattered to people who would never descend into it. The expedition had become more than a search for a missing party: it had made these adventurers responsible for what they now knew.",
-          "By the end, Thunder had also shared his lycanthropy with the company. The dangers they would face were not all waiting behind the next locked door. Some would travel with them—and become part of the trust that held them together."
+          "The company returned the Hucrele rings and news of every missing adventurer. Shrop urged the party to attend the funeral.",
+          "They warned Oakhurst about the twig blights and the danger carried by the apples.",
+          "Thunder also told his companions about his lycanthropy. They would travel together knowing the danger his curse could bring."
         ]
       }
     ],
@@ -83,40 +83,39 @@
           "name": "Shrop",
           "portrait": "media/portraits/shrop-early.png",
           "alt": "Shrop Shireslasher",
-          "text": "First through danger, bearer of Shatterspike, and the companion who remembered that the dead deserved a funeral. His blunt courage would carry the company through far stranger doors than the Citadel’s."
+          "text": "Shrop led into danger, carried Shatterspike and asked the company to attend the funeral."
         },
         {
           "name": "Grim",
           "portrait": "media/portraits/grim-early.png",
           "alt": "Grimbledee Brightburrow",
-          "text": "A solo adventurer who became a companion, a teacher, and a voice for restraint when the missing were finally found. His search for knowledge would make each unfamiliar name another reason to keep going."
+          "text": "The others found Grim adventuring alone. He taught Terry Draconic and urged restraint when they reached the missing adventurers."
         },
         {
           "name": "Terry",
           "portrait": "media/portraits/terry-early.png",
           "alt": "Terry Stronginthearm",
-          "text": "Healer, translator in training, solver of the apple’s mystery, and firm believer in the practical value of chalk. The dwarf’s practical care travelled with the party long after its first expedition."
+          "text": "Terry healed the wounded, studied Draconic and connected Belak’s mutations to the apple and twig blights. He marked the route in chalk."
         },
         {
           "name": "Thunder",
           "portrait": "media/portraits/thunder-early.png",
           "alt": "Thunderdrum Stringcutter",
-          "text": "Finder of traps and hidden ways, deft with a lock, and learning to trust the company with a danger of his own. His quick hands and the trust he placed in his friends would matter throughout the road ahead."
+          "text": "Thunder found traps and hidden ways, opened locks and told the company about his lycanthropy."
         }
       ]
     },
     "closing": {
       "title": "Another name, another road",
       "paragraphs": [
-        "Terry had learned the legend of Durgeddin the Black. Beyond Oakhurst lay the promise of a dwarven smith’s lost works and the road toward Blasingdell. The next adventure would lead into Khundrukar, the ruined stronghold remembered as the Forge of Fury.",
-        "The company carried its first hard-earned lessons with it: the value of an opened door, a stayed blade, a translated word, and a companion willing to stand in front."
+        "Terry had learned the legend of Durgeddin the Black. The search for the dwarven smith’s lost works led towards Blasingdell and Khundrukar, the ruined stronghold remembered as the Forge of Fury."
       ]
     }
   },
   "forge-of-fury": {
     "title": "What waited beneath the Stone Tooth",
     "opening": [
-      "The legend of Durgeddin the Black had given the company a new direction. From the mining town of Blasingdell, the road led toward the Stone Tooth: a steep height above a dwarven stronghold long lost to its makers. Khundrukar promised the work of a master smith. Reaching it would demand rather more than an appreciation of fine craftsmanship.",
+      "Durgeddin the Black’s lost works drew the company from Blasingdell towards the Stone Tooth, a steep height above the ruined dwarven stronghold of Khundrukar.",
       "The journey began with wolves and orcs. Ahead lay guarded doors, underground rivers, the Glitterhame, and the old dwarf-halls. This time, all four companions were on the road together."
     ],
     "scenes": [
@@ -138,16 +137,16 @@
         "title": "Two lives worth turning back for",
         "paragraphs": [
           "Among the orcs’ prisoners, the party found the twins. They freed them, then made arrangements to get them out of the mountain. Terry and Thunder escorted the rescued prisoners to the cart and planned for its return in three days. Shrop and Grim remained behind to explore and rest.",
-          "The rescue gave their expedition a responsibility beyond whatever treasure Durgeddin had left. A wagon’s return mattered. So did the distance back to safety. Terry worked out the cart’s schedule while the company continued its descent, counting more than the doors still unopened.",
+          "Terry worked out the cart’s schedule while the others continued exploring. The twins still needed a safe journey back to Blasingdell.",
           "Great Ulfe and the wolves Vak and Thrag fell to the company. So did the shaman Burdurg. The upper stronghold had tested their coordination; the Grand Stair now offered them a way deeper into the mountain."
         ]
       },
       {
         "title": "The light beneath the mountain",
         "paragraphs": [
-          "Below the defended halls, Khundrukar opened into the Glitterhame. Fungi and pale light gave the caverns a beauty quite different from the stronghold above. Running water threaded through the darkness; dwarven sepulchers stood among the stone formations. The company had found a place where the mountain’s history and its living dangers occupied the same ground.",
+          "Below the defended halls, fungi lit the Glitterhame. Running water threaded between stone formations and dwarven sepulchers.",
           "They fought through the troglodytes and their chieftain Kaarghaz. Terry continued his search into dwarven history and recovered Gharin’s Warhammer. Grim pursued his own questions about Ashardalon, collecting oddments and discoveries along the way. Shrop and Thunder had the Stolen Sons to reckon with as another thread running through their travels.",
-          "The party did not simply press on without pause. They returned to the wagon and to Blasingdell, rested, and gathered themselves before going back into Khundrukar. The road out of the mountain was part of the adventure, too."
+          "They returned to the wagon and to Blasingdell to rest before descending into Khundrukar again."
         ],
         "image": {
           "src": "media/images/forge-of-fury/original-art-fungal-cavern.jpg",
@@ -160,7 +159,7 @@
       {
         "title": "Other hands at Durgeddin’s forge",
         "paragraphs": [
-          "The old halls were occupied. Duergar worked at the forges, and the company met them with steel, spells, and questions. Shatterspike served Shrop against the gray dwarves. The party questioned duergar for clues, making the ruined stronghold a source of answers as well as danger.",
+          "Duergar worked at the old forges. Shrop fought them with Shatterspike, and the party questioned the gray dwarves for clues.",
           "Beyond the Great Hall and the Bladeworks, the rooms still bore the marks of Khundrukar’s fall. Defaced carvings, abandoned quarters, and the remains of old warriors surrounded the living intruders. The company was searching for Durgeddin’s legacy inside the wreckage of the world that had made it."
         ],
         "image": {
@@ -175,7 +174,7 @@
         "title": "The dead, the disguised, and the furniture",
         "paragraphs": [
           "The dwarf-halls had dangers for which an ordinary door was inadequate warning. A ghost turned its attention on Thunder; Shrop helped work out more of that encounter’s mystery. In a room of books, the sorrowful old man the party encountered concealed a very different nature. Idalla was a succubus, and the company defeated her.",
-          "Nor could they rely on furnishings to remain furnishings. Animated armor, a smothering rug, and even a kitchen table joined the mountain’s opposition. There are grander indignities in an adventurer’s life, but being attacked by the furniture deserves its own place in the telling.",
+          "Animated armor, a smothering rug and even a kitchen table attacked them. Being beaten by the furniture deserved its own place among the mountain’s indignities.",
           "The way onward demanded ingenuity as well as endurance. Grim put Levitate to work at the chain ladder. Terry’s healing had helped keep the company moving through the expedition. Below, the river led toward the Black Lake."
         ],
         "hindsight": [
@@ -197,8 +196,8 @@
         "title": "Nightscale",
         "paragraphs": [
           "Grim was the first to see Nightscale. Thunder crept close to the dragon, and Shrop drew first blood. The young black dragon was the final great threat waiting in Khundrukar’s depths, beside the dark water and the promise of a hoard.",
-          "The company defeated Nightscale. After the orcs, the prisoners, the forges, the hauntings, and the long descent, all four had earned a new experience to set beside their first adventure: they had faced a dragon and survived.",
-          "The hoard lay on an island in the lake. Durgeddin’s stronghold had drawn them with the promise of lost riches, but its deepest cavern had demanded that they prove themselves before it yielded anything at all."
+          "The company defeated Nightscale, surviving its first dragon battle.",
+          "The hoard lay on an island in the Black Lake, deep below the forges that had drawn them into the mountain."
         ],
         "image": {
           "src": "media/images/forge-of-fury/old-cover-dragon-over-the-chasm.jpg",
@@ -241,16 +240,15 @@
     "closing": {
       "title": "Brindinford awaited",
       "paragraphs": [
-        "Beyond Khundrukar, the road led to Brindinford. The company arrived as the town’s fair filled the streets with halfling travellers, merchants, entertainers, and the bustle of a celebration. After the mountain’s dark halls, there were stalls to explore and a town full of people to meet.",
-        "They had come out of the Forge of Fury as a company that could cross a chasm, arrange a rescue, unpick a deception, and bring down a dragon. Brindinford would ask what they could do when the danger was hidden in a crowded town."
+        "The road out of Khundrukar led to Brindinford. Its fair filled the streets with halfling travellers, merchants and entertainers. After the mountain’s dark halls, there were stalls to explore and a town full of people to meet."
       ]
     }
   },
   "fungal-bloom": {
     "title": "From the grotto to sunken Brindinford",
     "opening": [
-      "Team Biscuit’s journey home from Icewind Dale led into the story of another company: Team Gravy. Brunn Ironbelly, Rook Kestrel, Nox Veyra, and Elira Moss-Weaver had a darkness of their own to explore. Their road would join Team Biscuit’s in a place the older company had every reason to remember: Brindinford.",
-      "Their side of the tale led to an old stronghold along an underground river. Its former occupants had left bones, broken weapons, and abandoned rooms. Something far more persistent had taken their place. Fungus covered the stone, spread across the water, and hung in the air itself.",
+      "On the journey home from Icewind Dale, Team Biscuit crossed the path of Team Gravy: Brunn Ironbelly, Rook Kestrel, Nox Veyra and Elira Moss-Weaver. Both companies would reach the buried remains of Brindinford.",
+      "Team Gravy’s expedition led through an old stronghold along an underground river. Bones, broken weapons and abandoned rooms lay beneath fungus that covered the stone, spread across the water and hung in the air.",
       "Beyond the fungal stronghold lay a buried city and a different struggle. Here, the two companies fought together against giant ants through streets where Team Biscuit had once helped restore a fair, a temple, and a town’s freedom."
     ],
     "scenes": [
@@ -259,12 +257,12 @@
         "paragraphs": [
           "Team Gravy’s approach to the grotto came aboard the Deliverance, among spectral sailors still attending to their old duties. Captain Pepper kept the ship’s course while Xanthar directed the expedition. Beneath the ship lay a river winding through a landscape of ruined bridges and scorched stone.",
           "At the Brindinford cut, Xanthar pointed out the fissure leading towards the grotto. A smaller boat would take the adventurers in. He supplied the word Freeher to make the water recede, set a twenty-four-hour return window, and asked them to bring back a map. If they found a portal, they were to return immediately.",
-          "The Anchor’s light lowered them towards the river and the smell of fungus. The mission began with a ship waiting above, a boat below, and a deadline measured against the returning water. What lay in the stronghold would make the journey out considerably less orderly."
+          "The Anchor’s light lowered them towards the river and the smell of fungus. Above them, the ship waited; the water would return when their twenty-four hours ran out."
         ],
         "image": {
           "src": "media/images/bastion/92db6b1630e54173df2f1e5a.webp",
           "alt": "Campaign portrait of Captain Timothy Pepper in his ornate naval coat and hat",
-          "caption": "Captain Pepper of the Deliverance, whose ship carried more than ordinary passengers.",
+          "caption": "Captain Timothy Pepper of the Deliverance and its spectral crew.",
           "width": 512,
           "height": 512
         }
@@ -273,7 +271,7 @@
         "title": "A ruin that had learned to grow",
         "paragraphs": [
           "The grotto’s corruption was alive. Green and black mold clung to the old rooms; red mushrooms scattered spores; stranger growths flashed in the darkness. Water offered no simple refuge. Even a breath could carry the sickness that had claimed the stronghold.",
-          "Its victims became part of the infestation. The dead hobgoblins were not merely warnings left behind by a lost garrison: necromantic spores could put their bodies back to work. A ruined fortress is troublesome enough when its occupants have the decency to remain dead."
+          "Necromantic spores could animate the dead hobgoblins. The lost garrison still had a way to trouble intruders."
         ],
         "image": {
           "src": "media/images/between-adventures/2cc3c3e5879f333a0d5169bb.png",
@@ -293,9 +291,8 @@
       {
         "title": "Unusual company",
         "paragraphs": [
-          "The grotto was not entirely without conversation. Prigs, Blip, and Zonkatofu were goblins with stolen goods, a shared pipe, and a spectacularly poor approach to testing the local spores. Their claim that smoking the fungus granted truesight was best understood as an advertisement from three deeply unreliable experts.",
-          "Other figures in the stronghold wore hobgoblin shapes while pursuing purposes of their own. Their interest in the infestation and its source made them part of the same struggle, though appearances alone could not tell the company whom it had found.",
-          "A friendly face, a ridiculous offer, a hidden purpose: even far from the main company’s road, the campaign had found familiar ways to make a room more complicated than it first appeared."
+          "Prigs, Blip and Zonkatofu were goblins with stolen goods, a shared pipe and a spectacularly poor approach to testing the local spores. They claimed smoking the fungus granted truesight. Their qualifications were doubtful.",
+          "Other figures in the stronghold wore hobgoblin shapes while pursuing purposes of their own. Their interest in the infestation and its source made them part of the same struggle, though appearances alone could not tell the company whom it had found."
         ],
         "hindsight": [
           {
@@ -311,7 +308,7 @@
         "paragraphs": [
           "At the heart of the infestation stood a planar gate. The fungus had entered the world through that opening, and the gate had horrors of its own: dark tendrils could draw a living creature into a pocket of darkness and despair. Clearing a corridor would never be enough while the source remained.",
           "The blade Shokkurg’s Fang offered a means of destroying the gate. The celestials faced another obstacle: the chamber’s ward barred them from entering. Their power could bring them into the grotto, but it could not carry them through that final doorway.",
-          "Hayyel had prepared a desperate alternative. If the gate remained open, the stockpile of flammable liquid could bring the whole complex down. The grotto’s central danger was larger than any one monster: a spreading corruption, a guarded way to its source, and a remedy that could destroy the very place it sought to cleanse."
+          "Hayyel had prepared a desperate alternative. If the gate remained open, the stockpile of flammable liquid could bring the whole complex down."
         ]
       },
       {
@@ -319,15 +316,14 @@
         "paragraphs": [
           "The escape from the grotto tore open into a new danger. A wish carried the boat out into empty air above Brindinford Falls. The goblins clung to Rook in the hope that his wings might save them, while the boat and its passengers fell towards the white water.",
           "Then the Deliverance appeared alongside them. The smaller craft crashed onto its deck, where the spectral crew moved to secure it. Xanthar pressed the passengers to take the waiting sacks of payment and supplies, then return to the boat. Captain Pepper brought the ship round towards the cliff.",
-          "At the last instant, the Deliverance vanished. The boat was thrown back into the underground river, where the current seized it and carried it into the narrowing dark. The rescue had exchanged a fall over the waterfall for another passage beneath the earth. Beyond the grotto lay the buried city and the fight the two companies would share."
+          "At the last instant, the Deliverance vanished. The boat dropped back into the underground river, where the current carried it towards the buried city and the fight the two companies would share."
         ]
       },
       {
         "title": "Xanthar’s portal, and nothing on the other side",
         "paragraphs": [
-          "Team Biscuit reached the grotto’s story by a different route. Xanthar persuaded Shrop, Grim, Terry and Thunder to use a portal to the grotto. They passed through. Their equipment did not. The company arrived naked, without the clothes, armor, weapons and travelling possessions upon which so much of its hard-won readiness depended.",
-          "The passage had delivered the adventurers while separating them from their belongings. After all the cold, the demons and the roads between worlds, Team Biscuit had been brought to its next danger with almost nothing of its familiar kit. This was the company’s arrival in the grotto affair: not another properly equipped expedition, but the consequence of trusting Xanthar’s route.",
-          "Team Gravy had its river voyage, the stronghold and the falling boat behind it. Team Biscuit had a portal crossing and an enormous absence to account for. Their paths joined in the buried remains of Brindinford, where the ants gave neither company the luxury of settling every other problem first."
+          "Xanthar persuaded Shrop, Grim, Terry and Thunder to use a portal to the grotto. They arrived naked. Their clothes, armor, weapons and travelling possessions had been left behind.",
+          "Team Gravy had reached the buried remains of Brindinford through the stronghold and a falling boat. There the two companies met, with the ants already occupying the streets."
         ],
         "hindsight": [
           {
@@ -356,8 +352,7 @@
         "title": "Beyond the grotto: two companies in the dark",
         "paragraphs": [
           "Escaping the Fungal Grotto brought the adventurers beneath Faerûn and into the long-lost ruins of Brindinford. Team Biscuit and Team Gravy now shared the fight for a way through. Shrop, Grim, Terry, and Thunder stood alongside Brunn, Rook, Nox, and Elira in the buried remains of a town that had once welcomed music and crowds.",
-          "The cavern had swallowed the streets. This was the Brindinford the company had found destroyed after its twenty-year displacement: collapsed by a great volcanic cataclysm during the years it had missed. Ash and broken stone lay across the old routes; warm vents and volcanic fire marked fractures in the earth. Shelter had to be won, and moving from one ruined district to the next meant finding a passage that the colony did not already hold.",
-          "The grotto’s escape had brought them to another battlefield. Both companies would need to survive it together."
+          "The cavern had swallowed the streets. This was the Brindinford the company had found destroyed after its twenty-year displacement: collapsed by a great volcanic cataclysm during the years it had missed. Ash and broken stone lay across the old routes; warm vents and volcanic fire marked fractures in the earth. Shelter had to be won, and moving from one ruined district to the next meant finding a passage that the colony did not already hold."
         ],
         "hindsight": [
           {
@@ -373,7 +368,7 @@
         "title": "The ants held the streets",
         "paragraphs": [
           "The colony moved through collapsed houses, tunnels, and the passages beneath the town. Its attacks were coordinated, its numbers relentless. The old walls and narrow ways made every advance costly; an opening through the rubble could be a route forward or another place for the ants to close around them.",
-          "There were soldiers and spitters, enormous ant behemoths, and swarms that turned the ground itself into a threat. Burrowing swarms struck from below; devouring swarms filled the ruined lanes. The colony also had brood-medic swarms among its forces. The two companies were fighting an enemy with more ways to sustain the pressure than a single great monster could offer.",
+          "Soldiers, spitters and enormous ant behemoths fought alongside swarms. Burrowing swarms struck from below, devouring swarms filled the lanes, and brood-medic swarms supported the colony’s forces.",
           "They fought street by street for days. By 15 Kythorn, 1407 DR, the survivors had reached the old barracks district. It was hard-won ground in a city where every pause and every route ahead still had to be considered against the next attack."
         ],
         "hindsight": [
@@ -389,7 +384,7 @@
         "title": "The town Team Biscuit remembered",
         "paragraphs": [
           "Brindinford’s names had survived its ruin. The manor, the market, the smithy, the temple, the Stony Gaze, and the bell tower belonged to the same town Team Biscuit had known during The Speaker in Dreams. Once, those streets had held the Halfling Faire. The company had cleansed Pelor’s temple, freed the Baron, and left with food and seed for Ossington. Now the familiar plan lay buried beneath ash and stone.",
-          "For Team Gravy, the fallen town was part of the expedition they had joined. For Team Biscuit, it also held places where they had fought, rested, and been celebrated. The shared struggle carried the weight of that earlier rescue into a town whose surviving buildings offered little comfort.",
+          "Team Biscuit had fought, rested and been celebrated in these streets. Team Gravy encountered them as a fallen town, with ash covering the places where the Halfling Faire had stood.",
           "From the barracks, familiars scouted ahead into the old Magical District. Much of it had collapsed: streets choked with rubble, broken towers leaning into the cavern walls, and fire showing through cracks below. One building remained intact. The Reality Wrinkle was still standing."
         ],
         "image": {
@@ -405,7 +400,7 @@
         "paragraphs": [
           "After the struggle with the ants, the two companies reached the Reality Wrinkle. The old shop had belonged to Those Who Hear, whose gibbering-mouther horrors had troubled Brindinford during Team Biscuit’s first visit. Now its survival among the ruined streets offered the hope of a way onward. It also concealed a trap.",
           "The portal trap was meant for Team Biscuit. It caught Team Gravy instead. Brunn Ironbelly, Rook Kestrel, Nox Veyra and Elira Moss-Weaver were sent to Hell, and the road the companies had shared broke apart.",
-          "There was no recorded homecoming to soften that separation. Team Gravy are still lost in Hell to this day. The ants had been a battle both companies could face together; what happened in the Wrinkle left four companions beyond the reach of the journey that followed."
+          "Brunn, Rook, Nox and Elira remain lost in Hell to this day. Team Biscuit continued without them."
         ],
         "hindsight": [
           {
@@ -420,17 +415,16 @@
         "title": "Windglum, and the brother who brought the gear back",
         "paragraphs": [
           "Team Biscuit carried on to Windglum in Pandemonium. Its passage through the Wrinkle led back into the unfinished Bastion adventure: Findula, the search for a way to Desayeus, the Soul Totem fragment, and the road towards Ashardalon. Team Gravy did not accompany it on that passage. The other four remained lost in Hell.",
-          "The equipment Xanthar’s trick had cost Team Biscuit returned later in that continuing adventure, through an old friend the company had thought lost. Brother Ernie had disappeared amid the irionite-bomb explosion; his return brought a roomful of recovered clothing, books, tools, trunks and other belongings. The adventurers who had arrived naked finally met the long-lost brother who had brought much of their travelling life back to them.",
-          "Ernie recovered most of the stolen gear, not every prize. Whelm, Wave and Frostrazor were still missing. He also gave each companion a Ring of Positive Energy Protection before his silent farewell. The full account belongs to the return to Bastion, where that improbable reunion prepared Team Biscuit to continue towards the dragon. Hindsight reveals the three weapons’ destination: Xanthar had returned them to White Plume Mountain, where he now ruled under the name Keraptis. They remain there, bearing a permanent grievance for their sacrificed sibling, Blackrazor."
+          "Brother Ernie, believed lost in the irionite-bomb explosion, later returned with most of the stolen equipment. Clothing, books, tools, trunks and other belongings filled the room around him.",
+          "Whelm, Wave and Frostrazor were still missing. Ernie gave each companion a Ring of Positive Energy Protection before his silent farewell. Hindsight reveals the weapons’ destination: Xanthar had returned them to White Plume Mountain, where he ruled under the name Keraptis. They remain there, hating the Brotherhood for sacrificing their sibling, Blackrazor."
         ]
       }
     ],
     "closing": {
       "title": "Two companies, two unfinished roads",
       "paragraphs": [
-        "The grotto and the ant-held streets had brought eight adventurers together. The Reality Wrinkle separated them. Brunn, Rook, Nox and Elira remain lost in Hell, caught by a portal trap intended for Team Biscuit.",
-        "Shrop, Grim, Terry and Thunder went on to Windglum and the further trials of Bastion of Broken Souls. Brother Ernie’s later return restored most of the belongings lost through Xanthar’s deception. It did not bring Team Gravy home.",
-        "One company’s story continued towards Ashardalon. The other company’s next page is still waiting somewhere in Hell."
+        "Brunn, Rook, Nox and Elira remain lost in Hell, caught by the Reality Wrinkle’s trap for Team Biscuit.",
+        "Shrop, Grim, Terry and Thunder continued to Windglum and the unfinished Bastion adventure. Ernie would restore most of their equipment; the three surviving epic weapons stayed in White Plume Mountain."
       ]
     },
     "eyebrow": "The tale of Team Biscuit and Team Gravy",
@@ -452,7 +446,7 @@
           "portrait": "media/portraits/team-gravy-rook.png",
           "alt": "Rook Kestrel, a feathered aarakocra archer drawing his bow, in his original Roll20 token.",
           "paragraphs": [
-            "Rook had tracked the spreading blight downriver from the high peaks, arriving in Blasingdale with dwindling coin and arrows. The trail would carry the sharp-eyed hunter underground, far from the open sky his wings belonged to."
+            "Rook tracked the blight downriver from the high peaks. He reached Blasingdale low on coin and arrows, then followed its trail underground."
           ]
         },
         {
@@ -479,7 +473,7 @@
   "writhe-below": {
     "title": "The darkness beneath the water",
     "opening": [
-      "Some detours lead to another town. This one led beneath the surface, into an aboleth’s underwater domain. In Those Who Writhe Below, the surrounding water was as much a part of the danger as the creature waiting within it.",
+      "Those Who Writhe Below took the company into an aboleth’s underwater domain, through traps and fanatical servants.",
       "The lair held traps and fanatical servants. Beyond them lay a threat with a particularly intimate reach: a mind that could learn what another creature most desired, and turn that knowledge into power."
     ],
     "scenes": [
@@ -487,14 +481,13 @@
         "title": "A creature that could reach inside",
         "paragraphs": [
           "The aboleth’s weapons did not end with its tentacles. Telepathic contact could reveal a creature’s deepest desires. Enslavement could bend a victim’s will, while the bond allowed communication far beyond the limits of an ordinary voice.",
-          "Its touch threatened the body as well. The creature’s mucus could leave a victim dependent on the water; its attacks could bring a more lasting affliction. Against such an enemy, the boundary between getting away and carrying the danger with you became uncomfortably thin."
+          "Its mucus could leave a victim dependent on water, and its attacks could cause a more lasting affliction. Escaping the lair could leave the disease travelling with them."
         ]
       },
       {
         "title": "The name that returned",
         "paragraphs": [
-          "The aboleth did not remain confined to the memory of a side adventure. It returned to the campaign as Brother Xanthar. The title belonged to a familiar name, but there was nothing comforting about the powers behind it.",
-          "That connection gives this detour its place in the larger tale. What waited beneath the water belonged to the same world as the later journey. A side road could introduce a presence whose part in the story was not finished."
+          "The aboleth would return as Brother Xanthar. He would commission the grotto expedition and direct its passage aboard the Deliverance."
         ],
         "image": {
           "src": "media/portraits/brother-xanthar.png",
@@ -507,14 +500,14 @@
           {
             "title": "A name with influence beyond the water",
             "paragraphs": [
-              "Later, Xanthar would stand at the prow of the Deliverance, giving Captain Pepper orders and sending the alternate company to map the grotto and report any portal immediately. That name would come to carry authority over passage and an employer’s carefully limited instructions. The encounter beneath the water did not exhaust its significance."
+              "Xanthar later stood at the prow of the Deliverance, giving Captain Pepper orders. He sent the alternate company to map the grotto, with instructions to report any portal immediately."
             ]
           },
           {
             "title": "The book that became a brother",
             "paragraphs": [
-              "Grim had lost a book about making flesh golems. With the aboleth’s influence threaded through the company’s troubles, the missing volume became one more thing left uncertain and eventually forgotten. Its work had continued beyond Grim’s sight. Xanthar used it to make a body for himself.",
-              "Brother Xanthar’s small, mismatched frame was the result: a manufactured body carrying a familiar intelligence into places where an aboleth’s true shape could never have passed unnoticed. The seam at his jaw and the stitched hide beneath his cloak belonged to that construction. A book Grim could no longer account for had given the old presence a new way to walk among the Brotherhood."
+              "Grim had lost a book about making flesh golems during his dealings with the aboleth. He eventually forgot about the missing volume. Xanthar used it to make a body for himself.",
+              "The seam at Brother Xanthar’s jaw, his stitched hide and mismatched frame came from that construction. In his manufactured body, the aboleth could walk among the Brotherhood."
             ]
           },
           {
@@ -536,8 +529,7 @@
     "closing": {
       "title": "An echo along the road",
       "paragraphs": [
-        "Those Who Writhe Below left the campaign with a connection worth remembering: the horror in the depths and the figure later known as Brother Xanthar. The main adventures had their own great threats. The side journeys had ways of finding a place among them.",
-        "The journey continued towards White Plume Mountain and the increasingly uncertain boundary between waking life and dreams. The encounter below the water remained part of that longer road, with Xanthar’s name still ahead of them."
+        "The journey continued towards White Plume Mountain and the company’s detours through dreams. Xanthar would meet them again in his new body."
       ]
     }
   },
@@ -545,15 +537,15 @@
     "title": "A town worth saving",
     "opening": [
       "After the darkness beneath the Stone Tooth, Brindinford offered a different sort of welcome. The Halfling Faire had spilled beyond the gates: ribbons, crowded stalls, music, and the smell of cooking. Above the streets stood the bell tower and the Baron’s keep. For a little while, there was shopping to do and ale to drink.",
-      "Shrop, Grim, Terry, and Thunder had come out of one buried stronghold together. In Brindinford, the danger would be woven through a living town—its streets, its faith, its rulers, and people the company would come to know."
+      "Shrop, Grim, Terry and Thunder explored the town’s streets, temple and keep, meeting people they would return to throughout their travels."
     ],
     "scenes": [
       {
         "title": "Four adventurers at the fair",
         "paragraphs": [
-          "Grim threw himself into the fair, buying goods, talking with the townsfolk, and choosing gifts to send home. Shrop sampled the ale and tried his strength at arm wrestling. He also let a young boy win. The same strength that could batter a door out of its frame could, on occasion, exercise a little tact.",
-          "Thunder spent the first night gathering rumours and making connections. Brindinford already had a place in his own history: his human father had owned a theatre here, and it was here that Thunder had learned of the curse passed down to him. The fair’s performers and crowded streets belonged to a world he understood. The wererats who brought violence into those streets made an uneasy echo of the secret he carried.",
-          "Thunder’s connections became an allegiance. He paid his dues to Brindinford’s thieves’ guild and gained entry to its black markets, finding a second set of doors beneath the fair’s respectable trade. He would take part in a takeover of the guild. The family history that had drawn him to town now stood beside another claim on his loyalty."
+          "Grim bought goods at the fair, talked with townsfolk and chose gifts to send home. Shrop sampled the ale and tried his strength at arm wrestling. He let a young boy win.",
+          "Thunder spent the first night gathering rumours and making connections. His human father had owned a theatre in Brindinford, and Thunder had learned of his inherited curse here. Wererats would soon attack the streets around the fair.",
+          "Thunder paid his dues to Brindinford’s thieves’ guild and gained access to its black markets. He would later take part in a takeover of the guild."
         ],
         "image": {
           "src": "media/images/speaker-in-dreams/9f39fc9526da4b41376f1494.png",
@@ -566,9 +558,9 @@
       {
         "title": "Trouble in Chatterstreet",
         "paragraphs": [
-          "The market’s bustle broke into violence. Rats and wererats attacked, and the party fought them in the town they had only begun to explore. A rest at the smithy followed, but the trouble could not be put away with their weapons. The streets held more than one nest of enemies.",
-          "The company’s dealings with the guard began to matter. Shrop befriended them; Grim helped counsel their captain. Aldrich later brought confirmation that the party had been right about the wererats. Turvin’s account pointed to Squim’s role in the pack and to new, unnamed employers. Someone had been putting more power into the hands of people already quite willing to misuse it.",
-          "The town itself became part of the investigation: Chatterstreet’s crowds, West Hill’s booksellers, Southspur’s rougher streets, the bell tower, and the temple beneath its golden dome. Familiar roads could lead back to the smithy—or towards the next hidden danger."
+          "Rats and wererats attacked the market. After fighting them, the party rested at the smithy. Other enemies remained hidden in the town.",
+          "Shrop befriended the guard, and Grim helped counsel their captain. Aldrich confirmed the party’s suspicions about the wererats. Turvin’s account identified Squim’s role in the pack and pointed towards new, unnamed employers.",
+          "The investigation led through Chatterstreet, West Hill’s booksellers, Southspur, the bell tower and the temple beneath its golden dome."
         ],
         "image": {
           "src": "media/images/speaker-in-dreams/93f689726e512db35fe7dd6a.png",
@@ -581,8 +573,8 @@
       {
         "title": "Where reality gave way",
         "paragraphs": [
-          "The threat soon reached beyond gangs and hidden employers. On the hill, space twisted and a wormlike horror emerged from green slime. Cabalists and stranger creatures entered the company’s path. Brindinford’s troubles were tearing at more than its peace.",
-          "The Reality Wrinkle put Thunder’s scouting to a brutal test. An extradimensional creature swallowed him; a desperate rally brought him back from the brink. Shrop helped rescue a woman from the Wrinkle. Grim, meanwhile, helped solve Shuuma’s wall puzzle by recognising how the pieces’ sides should match. There was work here for a quick eye as well as a ready blade.",
+          "On the hill, space twisted and a wormlike horror emerged from green slime. Cabalists and stranger creatures joined the enemies gathering in Brindinford.",
+          "An extradimensional creature swallowed Thunder in the Reality Wrinkle; a desperate rally brought him back from the brink. Shrop helped rescue a woman. Grim solved Shuuma’s wall puzzle by recognising how the pieces’ sides should match.",
           "Shrop’s patience with the streets had its limits. A confrontation with a patrol outside the Wrinkle produced an answer that deserved to outlive the argument: “You’re Goddam RIGHT it’s an axe!” The company was becoming known in Brindinford, sometimes with more volume than diplomacy required."
         ]
       },
@@ -590,16 +582,15 @@
         "title": "A shadow over Pelor’s temple",
         "paragraphs": [
           "By the spring equinox, the company was fighting for the Temple of Pelor. Its golden dome had promised sunlight above one of the poorest quarters of town. Within, the party faced infernal clerics, hell hounds, and bone devils. The place that should have offered sanctuary had become another battlefield.",
-          "Grim made Thunder invisible so he could explore the temple’s interior ahead of the others. That quiet reconnaissance gave the party an advantage before the fighting began. When a bone devil tried to summon another of its kind, Grim stopped it with Counterspell. Thunder found the way forward; Grim helped keep the odds from becoming worse.",
-          "The bell tower offered the company a place to rest as martial law took hold. It also furnished Grim with a rather more theatrical exit: Feather Fall carried the party safely down from its height before an admiring crowd. Brindinford had plenty of performers. Its rescuers were developing a respectable act of their own."
+          "Grim made Thunder invisible to scout the temple. Later, he stopped a bone devil from summoning another of its kind with Counterspell.",
+          "The bell tower sheltered them as martial law took hold. Grim’s Feather Fall then carried the party safely down from its height before an admiring crowd."
         ]
       },
       {
         "title": "The sword that became a sacrifice",
         "paragraphs": [
-          "Cleansing the temple demanded more than defeating its occupants. A holy relic was needed. Shrop gave up Shatterspike—the blade he had recovered beneath the Sunless Citadel—to the work of restoring Pelor’s sanctuary.",
-          "It was a piece of the company’s first adventure spent on the lives of people in their third. A weapon that had served Shrop in the dark became something he was willing to surrender so that light could return to the temple.",
-          "Terry’s commitment to Pelor deepened during these adventures. Alongside Grim and the others, he helped remove the temple’s corruption. On the second day of martial law, the company completed the cleansing and turned towards the manor. The restored sanctuary stood behind them; the power holding the town still waited ahead."
+          "Cleansing Pelor’s temple required a holy relic. Shrop sacrificed Shatterspike, the blade he had recovered beneath the Sunless Citadel.",
+          "Terry committed himself to Pelor during these adventures. On the second day of martial law, he, Grim and the others completed the cleansing and turned towards the manor."
         ],
         "image": {
           "src": "media/images/speaker-in-dreams/5d0bbe4f94b29c353f94486f.png",
@@ -614,7 +605,7 @@
         "paragraphs": [
           "The approach to the manor drew fire. Shrop crossed the rooftops to distract the ranged attackers from his companions. Inside, the fighting brought the party against Akrew and the mercenaries. Taking Akrew down settled a recurring grievance for Grim and Terry; reaching him had meant forcing a way through the town’s occupation.",
           "At the twin staircases, Terry held off a large part of the orc force in a defence Grim remembered as the “dwarven last stand.” Beyond waited the mind flayer Ghaerleth Axom—and the truth of Baron Euphemes’s captivity. The town’s ruler was himself under another creature’s control.",
-          "Terry’s Daylight proved decisive in the confrontation, helping avert disaster and save the Baron. The mind flayer fell. Brindinford’s rescue meant freeing both the people in its streets and the man whose authority had been turned against them."
+          "Terry’s Daylight helped avert disaster and save the Baron. The mind flayer fell, releasing Euphemes from its control."
         ],
         "image": {
           "src": "media/images/speaker-in-dreams/0d01d4de42b4abf89ddff040.png",
@@ -627,7 +618,7 @@
           {
             "title": "The Baron was one piece of a larger design",
             "paragraphs": [
-              "A burned letter exposes a connection the public celebration could not show. Ghaerleth Axom intended to seize Brindinford and report the completed takeover to the Cathezar. His words also spoke of betrayal by Cassiopeia and a machine that had opened planar routes. The mind flayer’s defeat interrupted a scheme with correspondents and grievances well beyond the town. The Cathezar’s shadow had reached their story before her own attacks made her familiar."
+              "A burned letter reveals that Ghaerleth Axom intended to seize Brindinford and report its capture to the Cathezar. He also wrote of Cassiopeia’s betrayal and a machine that had opened planar routes. The Cathezar was involved long before her own attacks brought her face to face with the company."
             ]
           }
         ]
@@ -674,7 +665,7 @@
   "standing-stone": {
     "title": "The village inside the stones",
     "opening": [
-      "The carts leaving Brindinford carried food and seed, and a hope that another troubled settlement could be helped. Ossington had sent no visitors to the Halfling Faire. Its silence mattered to a town that depended on its harvest. By the evening of 26 Ches, 1380, Shrop, Grim, Terry, and Thunder had reached the village at the end of that unanswered road.",
+      "Ossington had sent no visitors to the Halfling Faire, and Brindinford depended on its harvest. The company brought carts of food and seed to the silent village, arriving by the evening of 26 Ches, 1380.",
       "Two rings of standing stones enclosed Ossington and its withered fields. Beyond them waited hostile elves and a ghostly rider. Within them were hungry villagers and a handful of retired adventurers with explanations to offer. The company had brought provisions. It would take rather longer to discover whom it had come to feed."
     ],
     "scenes": [
@@ -682,8 +673,8 @@
         "title": "A welcome with its own explanation",
         "paragraphs": [
           "The village’s troubles seemed plain enough at first. People leaving the circles risked attacks, the fields could not be worked safely, and the food was running out. The party delivered its aid. Dyson, a wizard living in the tower he said he had inherited from his mentor, presented himself as one of the village’s settled protectors.",
-          "His old companions were nearby: Tully, Henwen, and the Cuckoo. The Cuckoo’s music even carried an echo of Brindinford; the party recognised a tune he claimed to have composed from dreams. Familiarity was a persuasive thing to find so far from the fair.",
-          "Dyson had an interest in transforming living things, and opinions about the dangers beyond the village. His account made it easy to see threats in the woods and the barrows. The company would have to decide how much of that account deserved its trust."
+          "Dyson’s old companions—Tully, Henwen and the Cuckoo—were nearby. The party recognised a tune the Cuckoo claimed to have composed from dreams: they had heard it in Brindinford.",
+          "Dyson described his interest in transforming living things and warned of dangers in the woods and barrows."
         ],
         "image": {
           "src": "media/images/standing-stone/e6040aa15774f15d17704419.jpg",
@@ -704,18 +695,18 @@
       {
         "title": "A warlord worth speaking to",
         "paragraphs": [
-          "Tully and the Cuckoo accompanied the party towards the Great Barrows. There were wights and an earth elemental to contend with, and Terry continued the dependable work of marking the way in chalk. The dead had not left the countryside empty.",
-          "At Saithnar’s barrow, the company found an ancient warlord whose knowledge was worth more than an easy judgement about the undead. Grim offered gems as a sign of respect. Despite Dyson’s warnings, the party negotiated with Saithnar and learned from him. Thunder alone managed to strike him when he challenged them.",
-          "Saithnar’s story reached back to Dydd and Ashardalon, and to his own struggle against the vampire lord Gulthias Sengir. He was a keeper of older knowledge, and his map helped the company navigate the country around Ossington. Names first encountered in the Citadel were acquiring histories, enemies, and consequences of their own.",
-          "With Saithnar’s spectacles, Thunder also learned to translate the margins of the dragon-lore book for Grim and Terry. The party’s growing understanding of that older history depended on such discoveries as much as on the next enemy defeated."
+          "Tully and the Cuckoo accompanied the party towards the Great Barrows. They fought wights and an earth elemental, with Terry marking the way in chalk.",
+          "Despite Dyson’s warnings, they negotiated with the ancient warlord Saithnar. Grim offered gems as a sign of respect. When Saithnar challenged them, Thunder alone managed to strike him.",
+          "Saithnar told them of Dydd, Ashardalon and his own struggle against the vampire lord Gulthias Sengir. His map helped the company navigate the country around Ossington.",
+          "Using Saithnar’s spectacles, Thunder translated the margins of the dragon-lore book for Grim and Terry."
         ]
       },
       {
         "title": "What lay beneath Red Horse Hill",
         "paragraphs": [
-          "At the foot of Red Horse Hill, the tarn held more than dark water. The great skeletal remains below its surface suggested a dragon; farther down lay an enormous crystal, hollow and broken open. Grim took a bone sample and sent Queasel, his quipper familiar, into the water. Thunder ventured beneath the tarn as well, finding the broken prison and the Horseman’s steed.",
-          "The crystal had held Ashardalon’s heart. Its shattered opening made the absence within it as troubling as anything still waiting below the water. The dragon’s name had followed the party from the Sunless Citadel. Here was a place where something bound to that name had been confined—and taken away.",
-          "Dyson’s own explanation proved thin beside what the company found. His surviving notes treated the tarn as an old quarry and dismissed the skeleton as an elven fabrication. He appeared not to know about the submerged crystal or the hidden shrine to Pelor. There were limits to the expertise he had offered so readily."
+          "Skeletal remains beneath the tarn at Red Horse Hill suggested a dragon. Below them lay an enormous broken crystal. Grim took a bone sample and sent Queasel, his quipper familiar, into the water. Thunder also explored the tarn, finding the crystal prison and the Horseman’s steed.",
+          "The broken crystal had held Ashardalon’s heart. The company had found its prison beneath the tarn; the heart itself was gone.",
+          "Dyson’s notes called the tarn an old quarry and dismissed the skeleton as an elven fabrication. He appeared to know nothing of the crystal or the hidden shrine to Pelor."
         ],
         "image": {
           "src": "media/images/standing-stone/60bbe3ca7f1d5d2746e98dbc.png",
@@ -730,23 +721,22 @@
         "paragraphs": [
           "The headless Horseman was another of the region’s dead, with a duty quite separate from Saithnar’s ancient story. Thunder found the abandoned Pelorian shrine near the tarn. Grim and Terry helped clean it, and Grim thought to refill its empty water basins. The company received Pelor’s blessing there, and Terry’s communion with the dead paladin deepened his commitment to the sun god.",
           "They questioned the Horseman together. His answers overturned the welcome they had received in Ossington: Dyson was responsible for his death; the rider sought to contain the villagers and protect the elves. He denied being controlled by Dyson and named the Cuckoo with particular urgency among those he meant to destroy.",
-          "The party did not simply destroy an apparition and accept the wizard’s thanks. They stayed, asked more, and tested their assumptions against what the rider could tell them. Shrop recovered the Horseman’s sword. What had looked like a haunting was becoming testimony—and the people inside the stones were no longer easy to regard as innocent victims."
+          "The party continued questioning the Horseman and testing his answers. Shrop recovered his sword. The rider’s account implicated people inside the village’s protective stones."
         ]
       },
       {
         "title": "An ambush, an eagle, and a burning tower",
         "paragraphs": [
           "The company returned to question Dyson and prepared an ambush for the Cuckoo. It failed. A bone devil fell in the fighting, but the party was left racing back towards Ossington, trying to get ahead of the danger.",
-          "Grim supplied a new way to cover the distance: he transformed Shrop into an eagle. “Shreagle” took flight, carrying the party’s urgency into the sky. It was the first of the flying arrangements that would become part of their shared vocabulary—and one of their more practical answers to an inconvenient stretch of road.",
-          "They could not neatly close the trap. Dyson escaped, and his tower exploded. Terry fought the fire and saved clues from the wreckage. Shrop, Grim, and Terry searched the debris and the rubbish behind the tower. The wizard had gone, but enough of his work remained to make his departure far from the end of the affair."
+          "Grim transformed Shrop into an eagle. “Shreagle” took flight, providing the first of the company’s recurring flying arrangements.",
+          "Dyson escaped, and his tower exploded. Terry fought the fire and saved clues. Shrop, Grim and Terry searched the wreckage and the rubbish behind the tower."
         ]
       },
       {
         "title": "The village turned on them",
         "paragraphs": [
-          "Ossington attacked. The company that had arrived with food found itself fighting the settlement it had meant to help. Tully fell; Henwen’s death followed. The expedition ended in violence across the village, a grim answer to the apparent simplicity of its famine and frightened inhabitants.",
-          "The discoveries in Dyson’s papers made his work harder to misunderstand. One surviving note described his success in using the stones to turn Tully—his cat familiar—into a convincing human. The companion introduced as a retired adventurer was one of the wizard’s experiments.",
-          "The party had learned why appearances here deserved suspicion, but learning the truth had not spared Ossington. The carts of aid, the questions at the shrine, and the attempt to catch the Cuckoo had led to a ruined tower, an escaped wizard, and a village whose welcome had become a battle."
+          "Ossington attacked the company that had brought it food. Tully fell in the fighting; Henwen’s death followed.",
+          "The discoveries in Dyson’s papers made his work harder to misunderstand. One surviving note described his success in using the stones to turn Tully—his cat familiar—into a convincing human. The companion introduced as a retired adventurer was one of the wizard’s experiments."
         ],
         "image": {
           "src": "media/images/standing-stone/9c130bff463d247dff018cb3.jpg",
@@ -760,8 +750,8 @@
         "title": "The older purpose of the stones",
         "paragraphs": [
           "The recovered fragments also reached beyond Dyson. The circles had once been a sacred meeting place for druids, protected against outsiders’ scrying. A burned history told of Ashardalon’s destruction of that community and of Dydd, its surviving druid, transforming forest animals to help restore the region.",
-          "Dydd had preserved the necessary spells in the stones themselves. What had once been a means of rebuilding a devastated land had survived long enough for Dyson to experiment with it. Ossington’s mystery was bound to an older catastrophe and to knowledge that could outlast the purpose for which it had been entrusted to stone.",
-          "Other discoveries carried obligations of their own. In the Grugach settlement, the party found the missing druid’s son; Thunder’s work with the locked door helped confirm his death. Terry found Grugach primers among the clues, and Grim began learning the language. Even the things they could not set right had to be understood, remembered, and reported."
+          "Dydd had preserved the transformation spells in the stones so they could help restore the region again. Dyson had found them and begun his own experiments.",
+          "In the Grugach settlement, the party found the missing druid’s son dead; Thunder’s work with a locked door helped confirm his fate. Terry found Grugach primers among the clues, and Grim began learning the language."
         ],
         "hindsight": [
           {
@@ -786,7 +776,7 @@
           "name": "Grim",
           "portrait": "media/portraits/grim-early.png",
           "alt": "Grimbledee Brightburrow",
-          "text": "He offered Saithnar respect, sent a quipper into the tarn, helped question the Horseman, and found a very large bird-shaped answer to a race against time."
+          "text": "Grim offered gems to Saithnar, sent Queasel into the tarn, questioned the Horseman and transformed Shrop into an eagle for the flight back to Ossington."
         },
         {
           "name": "Terry",
@@ -806,15 +796,14 @@
       "title": "What they carried back",
       "paragraphs": [
         "The company returned to Brindinford with news of Ossington and the fate of the druids’ missing person. They secured the help of the Druids of Dydd for the region and its food supply, and warned the Baron about Dyson and his scattered companions. The Horseman’s armour and shield were returned to the Temple of Pelor.",
-        "They had come to Ossington with supplies for a village. They left carrying the consequences of what they had uncovered: Dyson at large, the stones’ secrets, the broken crystal, and Ashardalon’s missing heart. Saithnar’s stories had also given the vampire behind the older struggle a name—Gulthias Sengir.",
-        "The road ahead led to Nightfang Spire. The party’s next descent into the past would bring the dragon’s legacy closer still."
+        "Dyson remained at large. The company also carried news of the stones’ spells, the broken crystal and Ashardalon’s missing heart. Saithnar had given them the name Gulthias Sengir; the road ahead led to Nightfang Spire."
       ]
     }
   },
   "nightfang-spire": {
     "title": "The promise beneath the tombs",
     "opening": [
-      "Ossington had left the company with a missing heart, a vampire’s name, and reasons to follow both. Brindinford supplied the means to travel: Shrop negotiated with the Baron for carts and drivers. The town they had saved remained part of the expedition, even as the road carried them towards Nightfang Spire.",
+      "Following Saithnar’s account of Gulthias and the missing heart, the company set out for Nightfang Spire. Shrop secured carts and drivers from the Baron of Brindinford.",
       "For Grim, the pursuit also carried a deadline. Around the first day of Tarsakh, 1380, he had bargained with Saithnar’s earth elemental servant for new magic. In return, he promised to slay Gulthias Sengir within a year. Failure would be paid for in flesh, with interest. His studies had acquired a creditor."
     ],
     "scenes": [
@@ -822,7 +811,7 @@
         "title": "A tower built to keep its secrets",
         "paragraphs": [
           "Nightfang rose three hundred feet above the ground, an ancient stronghold whose heart lay behind warded stone and iron. The dead within had once served Ashardalon. Their faded dragon emblems survived on rags and ruined finery, while Gulthias had made their old devotion useful again.",
-          "The company encountered a dragon at the top of the spire. The dangers below were less open to the sky: hidden doors, traps, tombs, and passages where the ancient cult had never quite stopped keeping watch. Reaching the tower was only the beginning of finding a way through it."
+          "A dragon waited at the top of the spire. Below it lay hidden doors, traps, tombs and passages still guarded by the ancient cult."
         ],
         "hindsight": [
           {
@@ -836,8 +825,8 @@
       {
         "title": "Shrop went first. The axe came too.",
         "paragraphs": [
-          "Shrop’s readiness to take the first danger remained useful, but he brought another danger with him. The cursed axe had become an obsession. He discarded his other weapons before entering the spire and grew fiercely attached to using it. The company had already learned how quickly a weapon’s promise could become a claim upon its bearer.",
-          "His descent from a height of a hundred and fifty feet became one of the expedition’s unforgettable landings. So did his leap at the mooncalf while berserk. Courage, fury, and the axe’s hold on him were becoming difficult to disentangle; the others still had to stand beside the companion caught between them."
+          "Shrop discarded his other weapons before entering the spire. The cursed axe had become an obsession, and he insisted on using it.",
+          "He descended from a height of a hundred and fifty feet and leapt at the mooncalf while berserk. His companions had to contend with the axe’s hold on him throughout the expedition."
         ],
         "image": {
           "src": "media/images/nightfang-spire/e33d8b3866f589b234156f09.webp",
@@ -851,7 +840,7 @@
         "title": "The doors Grim found—and the floor he did not",
         "paragraphs": [
           "Grim found numerous secret doors, but his discovery of a pit trap was rather more direct. A spell he had prepared for just such a fall saved him. In the Hall of Tombs, he also activated a fire-jet trap that spared him and went after the party’s trap-finder instead. Nightfang had a cruel appreciation for the distribution of consequences.",
-          "The tower’s inhabitants made those passages costly to cross. Wights, spectres, mohrgs, vampire spawn, flesh golems, girallons, and a tombstone golem all stood in the company’s path. Terry and Thunder faced the same grinding descent as their companions: a place where getting through one defence left the next still waiting.",
+          "Wights, spectres, mohrgs, vampire spawn, flesh golems, girallons and a tombstone golem guarded the passages through which all four companions had to descend.",
           "Even treasure raised practical questions. Grim proposed moving the hoard from the spire’s summit to a desert city by Shreagle. The company’s growing magic could change the shape of a problem without making the weight of the loot disappear."
         ]
       },
@@ -859,8 +848,8 @@
         "title": "A familiar face in a place of honour",
         "paragraphs": [
           "In the western Hall of Tombs, Grim found a sarcophagus carved with the likeness of a gnome who looked disturbingly familiar. His own notebook wondered whether it was his grandfather; his later recollection identified Eudostis Braidedbeard, his great-grandfather. The family connection was unmistakable enough to make the tomb personal.",
-          "He already carried a notebook linking Eudostis to the Glitterhame. Now that trail had entered Nightfang Spire. The mystery of Ashardalon’s followers had opened onto a mystery within Grim’s own family, with the sarcophagus occupying a position of honour among the dead.",
-          "He also recovered the matching partner to Borgol’s Ring. The spire’s discoveries could be small enough to wear, or large enough to alter the meaning of a family history."
+          "Grim’s notebook had already linked Eudostis to the Glitterhame. Now his likeness occupied a place of honour among Nightfang’s dead.",
+          "Grim also recovered the matching partner to Borgol’s Ring."
         ],
         "hindsight": [
           {
@@ -876,7 +865,7 @@
         "paragraphs": [
           "At the centre of Nightfang’s power lay Ashardalon’s severed heart. Gulthias used its necromantic force to sustain the undead cult, treating its continued existence as a promise that the dragon might return. The heart missing from the crystal beneath Red Horse Hill had led the company into the machinery of that faith.",
           "Gulthias’s defences had names as well as numbers. Aoket, Rhunad, Redbone, and the creatures of the lower halls made the approach a succession of battles. Eventually the company reached Gulthias himself, and the vampire fell.",
-          "For Grim, the confrontation answered the promise made to the elemental. For all four companions, it brought them face to face with a figure whose legacy had already touched the Citadel and Ossington. The dragon’s history had become a campaign of its own, and the company had now struck at one of its devoted keepers."
+          "Gulthias’s fall fulfilled Grim’s promise to the elemental. The vampire whose legacy had reached the Citadel and Ossington was defeated."
         ],
         "image": {
           "src": "media/images/nightfang-spire/3f31a3634842eb857ea3c944.jpg",
@@ -887,9 +876,9 @@
         },
         "hindsight": [
           {
-            "title": "A heart left behind was not a dead dragon",
+            "title": "Ashardalon survived the loss of his heart",
             "paragraphs": [
-              "Ashardalon had survived the mortal wounding of his original heart by taking the demon Ammet, Eater of Souls, into himself as a replacement. That demonic heart was failing too. Gulthias’s severed relic belonged to the dragon’s earlier catastrophe; it was no proof that Ashardalon had died. The vampire’s faith and the dragon’s continued survival reached the same conclusion by very different roads."
+              "Ashardalon survived the mortal wounding of his original heart by taking the demon Ammet, Eater of Souls, into himself as a replacement. That demonic heart was failing too. The severed heart Gulthias kept was a relic of the dragon’s earlier wounding; Ashardalon remained alive."
             ]
           }
         ]
@@ -908,7 +897,7 @@
           "name": "Grim",
           "portrait": "media/portraits/grim-early.png",
           "alt": "Grimbledee Brightburrow",
-          "text": "His bargain made Gulthias a personal obligation. The secret doors, the saved fall, and Eudostis’s sarcophagus made the descent unmistakably his own."
+          "text": "Grim had promised the elemental he would kill Gulthias. In the spire, he found secret doors, saved himself from a fall and recognised Eudostis’s likeness on a sarcophagus."
         },
         {
           "name": "Terry",
@@ -927,23 +916,22 @@
     "closing": {
       "title": "The world below the tower",
       "paragraphs": [
-        "Nightfang brought the company through the cult’s tombs and into its heart. Gulthias had fallen, but neither the questions around Ashardalon nor the needs of the living ended at the tower’s door. Brindinford remained home, and the roads leading from it still carried people into danger.",
-        "The next great journey would descend beyond ruined halls into the inhabited depths of Deep Horizon. There the company would find an underground war—and evidence that people from the towns they knew were being traded through it."
+        "After Gulthias’s fall, the company’s next journey led into the inhabited depths of Deep Horizon. Brindinford remained home, but people from its streets and other familiar towns were being traded through the underground war."
       ]
     }
   },
   "deep-horizon": {
-    "title": "The people beneath the missing names",
+    "title": "Captives beneath the surface",
     "opening": [
-      "The descent into Deep Horizon opened onto a world with its own cities, faith, trade, and war. The desmodus were no isolated monsters in a tunnel. Their enclave stood amid pressures reaching through old drow ruins, salamander strongholds, and the routes between the surface and the depths.",
+      "Deep Horizon held cities, trade routes and armies. The desmodu enclave faced enemies moving through old drow ruins, salamander strongholds and the passages to the surface.",
       "For Team Biscuit, those routes made the journey personal. Blasingdell, Ossington, Hunters Ports, and Brindinford were names from their own road. Below the earth, they learned that missing people from those places had not all died where the surface world believed them lost."
     ],
     "scenes": [
       {
-        "title": "A lost city with more than one history",
+        "title": "Chael-Rekshaar’s ruined library",
         "paragraphs": [
-          "Chael-Rekshaar’s ruined library preserved a history of the drow’s war with the desmodus. Its water-damaged books told that struggle from the drow’s side. Even a city’s surviving history could carry the shape of an old enemy’s account.",
-          "The company’s passage through these depths brought desmodu and salamander forces into their path, alongside hook horrors, phase spiders, gricks, and the creatures of the underground waters. A beholder also fell during the expedition. The tunnels held several kinds of power, with interests that did not end at the next cavern wall."
+          "Water-damaged books in Chael-Rekshaar’s ruined library preserved a drow account of their war with the desmodus.",
+          "The expedition encountered desmodu and salamander forces, hook horrors, phase spiders, gricks and creatures of the underground waters. The company also defeated a beholder."
         ],
         "image": {
           "src": "media/images/deep-horizon/0220b6c580d84d6d2e23517e.jpg",
@@ -958,7 +946,7 @@
         "paragraphs": [
           "When Helkitrin pleaded for his life, he offered information. His account described a year-long arrangement with Nuno of the Stolen Sons: slaves exchanged for refined precious metals. The salamanders had worked with the desmodus to produce ore and bars, then brought the metal to a smugglers’ cove to purchase more captives.",
           "Those captives were passed to beholders at an old drow temple. With Helkitrin’s help, the company confirmed that prisoners from Blasingdell—people believed to have burned with the town—had instead been brought below by the Stolen Sons. Others had come from Ossington, the wild elves, Hunters Ports, and Brindinford.",
-          "An old connection had become a terrible one. The Stolen Sons belonged to the company’s own early history; now their name appeared in the records of a slave trade. Helkitrin’s willingness to explain it came from fear, but the records made his account more than a desperate offer of words."
+          "The Stolen Sons, known to the company from its early adventures, appeared in the records of the slave trade. Helkitrin supplied the account while pleading for his life."
         ],
         "image": {
           "src": "media/images/deep-horizon/87b1e71336f3a50ff4d23e86.png",
@@ -981,8 +969,8 @@
         "paragraphs": [
           "Helkitrin’s next revelation left little room for an unhurried investigation. The salamanders were attacking the desmodu enclave. He said the beholders had ordered the assault on behalf of a figure he called Calthazar, seeking a lost artifact within the enclave.",
           "The way to it ran through the lava barrier at the Temple of Vesperion. The Smith had sent troops with Dyson and his companions only minutes before the company arrived. Once the enclave was broken, drow forces waiting near Spire Lake were to enter by the old route and take surviving desmodus for the mines.",
-          "The plot joined the search for an artifact to an organised traffic in people. The company had reached an underground conflict while its machinery was still moving: attack, breach, occupation, enslavement.",
-          "Saving the desmodu village also meant changing the course of the fire beneath it. The Brotherhood rerouted the lava to spare the settlement. In the immediate struggle, that diversion offered the people of Deep Horizon a way to survive."
+          "The assault would secure the artifact and supply the mines with captives. The company had arrived while the attack was under way.",
+          "The Brotherhood rerouted lava to save the desmodu village, allowing its people to survive the immediate assault."
         ],
         "image": {
           "src": "media/images/deep-horizon/faee4a83293e6912840d45ff.jpg",
@@ -1002,7 +990,7 @@
             "title": "The rescue’s twenty-year shadow",
             "paragraphs": [
               "The lava diversion had consequences far beyond the village it was meant to save. In the years Team Biscuit would miss, those changes caused a great volcanic cataclysm that collapsed Brindinford. During that same absence, the consequences of the diversion brought about the genocide of the desmodu: the entire people the Brotherhood had sought to save were wiped out.",
-              "The company did not stand through those intervening decades. Its later return, twenty years beyond its original time, brought it into a world already living with the aftermath. The rescue in Deep Horizon and the ruins of Brindinford belonged to one terrible chain of consequences."
+              "The company missed the intervening twenty years. It returned to Brindinford’s ruins after the volcanic disaster and desmodu genocide had followed its lava diversion."
             ]
           }
         ]
@@ -1010,25 +998,22 @@
       {
         "title": "Ossington’s unfinished business",
         "paragraphs": [
-          "Dyson had escaped his burning tower in Ossington. In Deep Horizon, his name returned as part of the force sent against the enclave. The expedition eventually brought the company into fighting with Dyson, the Cuckoo, and Henwen again. The story left unfinished among the standing stones had reached the underground war.",
-          "The confrontation also ran through the salamander leadership. The company fought the Smith, Helkitrin, noble salamanders, and Zubenel the efreeti. These were the people behind the passages, shipments, and orders Helkitrin had described. Reaching them meant more than clearing a route through nameless creatures.",
-          "The records of those battles place the company against Dyson and his old allies at last. Their escape from Ossington had carried consequences into another community; the pursuit had now caught up with them."
+          "Dyson, the Cuckoo and Henwen fought the company again in Deep Horizon. The force sent against the enclave included the wizard who had escaped Ossington’s burning tower.",
+          "The company also fought the Smith, Helkitrin, noble salamanders and Zubenel the efreeti—the leaders behind the shipments and orders Helkitrin had described."
         ]
       },
       {
         "title": "Brindinford was part of the same map",
         "paragraphs": [
-          "The discovery of captives from Brindinford changed what distance meant. The company could travel far beneath the surface and still find the town’s people caught in the next bargain. The Baron, the guard, the temple, the halflings, and the roads out of the city belonged to the same world as the mines and the smugglers’ cove.",
-          "That connection followed the expedition back towards the surface. Earlier, Brindinford had needed the company to uncover the power behind its unrest; now the disappearance of its people was part of a wider network. Returning home could not make what they had learned about that network disappear."
+          "Captives from Brindinford were being traded through the same network as prisoners from Blasingdell, Ossington and Hunters Ports. The routes reached from familiar surface towns to the mines and smugglers’ cove below."
         ]
       }
     ],
     "closing": {
-      "title": "A wider road than the descent",
+      "title": "The road to Acheron",
       "paragraphs": [
-        "Deep Horizon brought the company from caverns and ruined libraries to the records of people bought and sold. The desmodu enclave, the beholders, the salamanders, and the Stolen Sons were threads of the same struggle, with familiar towns caught in it.",
-        "The lava had been turned aside to save a village. The cost beyond that rescue lay in years the company had yet to lose; for now, the road led onwards.",
-        "Beyond lay a journey through the Outlands and Rigus towards Acheron. The next fortress would put another kind of captivity at the heart of its work: the imprisoned spirits of smiths, forced into the reforging of the Blade of Fiery Might."
+        "The company had diverted lava to save the desmodu village and exposed a trade in captives involving the Stolen Sons, salamanders and beholders. The diversion’s later consequences lay in years the adventurers had yet to lose.",
+        "The road led through the Outlands and Rigus towards Acheron. There, imprisoned smiths’ spirits were being forced to reforge the Blade of Fiery Might."
       ]
     }
   },
@@ -1042,10 +1027,10 @@
       {
         "title": "Rigus and the road through the gate",
         "paragraphs": [
-          "Rigus introduced another scale of power. General Nagaro stood among its military authorities; the Mercykillers had a presence, and the city’s scholars kept knowledge of the planes and their crossings. A journey through such a place meant passing through a world where command and obedience shaped daily life.",
-          "Thunder’s old guild had followed the road from Brindinford to Rigus, and its surviving members had fallen into danger. Thunder arranged a meeting with the last of them. It became a slaughter. He emerged with blood-spattered guild notes, the remnant of a circle he had once paid to join and helped take over.",
+          "General Nagaro held military authority in Rigus, alongside a Mercykiller presence. The city’s scholars kept knowledge of the planes and their crossings.",
+          "Thunder’s Brindinford guild had followed the road to Rigus. He arranged to meet its last surviving members, but the meeting became a slaughter. He emerged with blood-spattered guild notes.",
           "The notes explained how badly the Brindinford guild had already suffered: after clashing with Rigus’s local guild, most of its members had been killed or forced into mercenary bands. Its Guildmaster had been hiding. The pages also traced the Baron’s guards, a stolen adamantum shipment, drow still searching the city and Varachus’s obligation to a warlord in Acheron. The meeting’s attackers were not named in the recovered account.",
-          "The company’s journey also brought a meeting with Varachus. Ahead lay the passage to Acheron and the iron cube of Kolyoral: a landscape on which the ground itself belonged to the machinery of war. Brindinford’s roads had carried carts and travellers. This road crossed the boundaries between worlds."
+          "The company met Varachus before travelling to Acheron and the iron cube of Kolyoral."
         ],
         "image": {
           "src": "media/images/iron-fortress/6ab322b6bd80066ebc4b5278.png",
@@ -1059,7 +1044,7 @@
         "title": "A weapon scattered across worlds",
         "paragraphs": [
           "The Blade of Fiery Might had a history long before Imperagon. Efreet wizards had made it for their sultan, who carried it in war against the djinn. A jann rogue and adventurers from the Material Plane stole it; the weapon was shattered, its pieces scattered across the multiverse.",
-          "Reforging that blade promised more than a fine weapon. It offered Imperagon an instrument of conquest, made through the forced labour of smiths who should have been beyond his reach. The Iron Fortress joined a forge’s skill to a tyrant’s ambition."
+          "Imperagon intended to use the reforged blade for conquest. He had imprisoned the spirits of smiths to make it."
         ],
         "image": {
           "src": "media/images/iron-fortress/209260823637357f02c48d91.jpg",
@@ -1082,24 +1067,24 @@
         "paragraphs": [
           "The approach and the fortress brought the company against steel predators, Tavarus, and blade golems. The struggle continued through defenders including Hastature, Khalataic, Charindar, and Akolys. This stronghold had both soldiers and guardians built for its corridors.",
           "The fighting reached Zharunkumar, Devastra, and Zalatian before the confrontation with Imperagon himself. Imperagon fell; Lydzin also fell in the fortress campaign. The company had reached the power behind the forge and broken his hold on it.",
-          "The blade golems had a different ending. They were overcome, but the fortress would not simply lose them forever. Its metal guardians belonged to the stronghold’s own enduring magic—a fact that would matter rather pleasantly once the company stood on the other side of its defences."
+          "The defeated blade golems could be restored by the fortress’s magic. They would later guard the company’s own stronghold."
         ]
       },
       {
         "title": "Terry Stronginthearm, owner of Zandikar",
         "paragraphs": [
-          "After Imperagon, the Iron Fortress of Zandikar belonged to Terry Stronginthearm. That was a substantial addition to the company’s affairs: a planar stronghold, a vast smithy, guest rooms, libraries, kitchens, stores for a siege, and six blade golems to discourage unwelcome callers.",
+          "After Imperagon fell, Terry gained Zandikar: a planar stronghold with a vast smithy, guest rooms, libraries, kitchens, siege stores and six blade golems.",
           "The Armor of Zandikar carried the authority of ownership. Its attuned wearer could command the guardians while the forge burned, open or close the gates, and extend their awareness through a golem’s body. That bond reached across planes. Two detachable medallions allowed guests to pass the guardians without becoming their next duty.",
-          "At the fortress’s heart, the forge opened onto the Elemental Plane of Fire. Its heat powered light, ventilation, ovens, and running water throughout the stronghold. The old Pit of Toil could become a working forge and smithy under Terry’s ownership. The company had acquired a place with a future beyond the enemy who had occupied it."
+          "The forge opened onto the Elemental Plane of Fire. Its heat powered light, ventilation, ovens and running water throughout the stronghold. Terry could put the old Pit of Toil to work as his own forge and smithy."
         ]
       },
       {
         "title": "Rigus had secrets beneath its orders",
         "paragraphs": [
-          "The wider journey also brought the company against the Cathezar. Behind that fiend’s pursuit lay an interest in Thunder and the blood of Dydd. The dragon’s old enemy was no longer merely a name in an ancient history: her legacy could give Thunder a power against Ashardalon, and made him a target for agents of Demogorgon.",
+          "The Cathezar pursued Thunder for his descent from Dydd. That ancestry could give him power against Ashardalon, making him a target for agents of Demogorgon.",
           "At the Church of the Elements, the company found the First Tree and learned that something was wrong with the Bastion of Unborn Souls. Children were being born without the spark that should have entered the world with them. Ashardalon was connected to it, and the name Desayeus offered a further mystery. These questions had begun before the later return from the north.",
           "Thunder also received underworld intelligence in Rigus. Guild rumours reported Cierith Bloodwyn’s healthy-looking first child born lifeless, a depleted Mercykiller force, and an uncomfortable secret about Rigus’s ruling Brotherhood: five adventurers had taken power, though only four remained. The vanished woman’s fate was unknown, and asking the Brotherhood about her was dangerous.",
-          "The Guild of Sleep stood behind the walls of Rigus’s Inner Keep. General Nagaro privately indicated that trouble for the Guild might be welcome, provided it did not implicate the Brotherhood of Doom. The company considered entering through the basements beneath its meetinghouse; knowing a route existed was not yet knowing what waited along it.",
+          "The Guild of Sleep stood within Rigus’s Inner Keep. Nagaro privately welcomed trouble for it, provided the Brotherhood of Doom was not implicated. The company considered entering through the meetinghouse basements.",
           "Grim’s family history ran into the same secrets. Eudostis Braidedbeard had connections to an earlier Guild of the Many Winged Father. Nagaro recalled his capture and a spell that might have changed him into a bird. The missing gnome, the guild, and the company’s questions about souls had become parts of the same unfinished investigation."
         ],
         "hindsight": [
@@ -1114,13 +1099,12 @@
       {
         "title": "The city on the other map",
         "paragraphs": [
-          "For all the distances crossed, Brindinford remained part of the company’s world. Its people had appeared in Helkitrin’s account of the slave trade. Another map placed forces to the city’s east and south, and carried the unexplained words Water Watch. Home had enemies of its own while the company’s road reached across the planes.",
-          "The familiar town had become more than the setting of an earlier victory. Its guard, streets, temple, and people kept returning to the story: a place to leave from, to seek news of, and to come back to. The possession of a fortress in Acheron did not make those ties any smaller."
+          "Helkitrin’s account had placed Brindinford’s people in the slave trade. Another map showed forces east and south of the city, with the unexplained words Water Watch. The company’s planar journeys had left enemies gathering near home."
         ],
         "image": {
           "src": "media/images/between-adventures/8cf1d2aa5498f8d6b29c6ac7.png",
           "alt": "Campaign battle map showing Brindinford and military markings around the city",
-          "caption": "Brindinford: the homeward road remained part of the wider conflict.",
+          "caption": "Brindinford, where hostile forces gathered while the company crossed the planes.",
           "width": 1828,
           "height": 1436
         }
@@ -1137,30 +1121,29 @@
   "white-plume": {
     "title": "The Sleeper’s detour through their own past",
     "opening": [
-      "The company had already begun the mystery of Bastion when the road turned through the Sleeper’s dream. They were flashed back into their own earlier lives in Brindinford, adventuring again as their eighth-level selves. The familiar town belonged to their past, but the people walking its streets were living through it once more.",
-      "White Plume Mountain became part of that detour. Keraptis’s challenge promised stolen weapons and treasure beneath the mountain, while Brindinford offered familiar faces, business to conduct, and the question of how the company could regain its own time. Making it back would prove rather different from arriving when they intended."
+      "After beginning the Bastion investigation, the company entered the Sleeper’s dream and returned to Brindinford as its own eighth-level selves. They were living again in their past.",
+      "Keraptis’s challenge drew them to stolen weapons and treasure beneath White Plume Mountain. In Brindinford, they conducted business and sought a way back to their own time."
     ],
     "scenes": [
       {
         "title": "The other grotto, and the road through dreams",
         "paragraphs": [
-          "White Plume belonged to a journey already tangled in dreams. Among the company’s detours was the Grotto of Nightmares, a pocket domain in the Deep Ethereal ruled by the lich Crimson Crazuk. This was a different grotto from the fungal stronghold they would later reach on the way home from Icewind Dale.",
+          "The dream detours included the Grotto of Nightmares, a pocket domain in the Deep Ethereal ruled by the lich Crimson Crazuk. This was separate from the fungal stronghold the company would reach on its journey home from Icewind Dale.",
           "There, the company heard from a pair of ghosts, found and looted a treasure pile, and learned to contend with the domain’s dangers. Outside Crazuk’s house, they defeated the creatures he sent to deal with them. The struggle ultimately ended in Crimson Crazuk’s destruction—a victory the Sleeper later acknowledged.",
-          "During that ordeal, Shrop snuffed a candle and released a spirit. That small extinguishing would reach far beyond Crazuk’s domain. The company’s road north would lead into a world losing the magic upon which so much of its strength depended.",
-          "The nightmare’s dangers reached beyond wounds: souls could be held in candles, and ordinary magic offered no simple way out. That ordeal belonged to the larger mystery around the Guild of Sleep and its stolen Time Stone. The company’s next detour would carry it into its own earlier lives and towards Keraptis’s invitation."
+          "During the ordeal, Shrop snuffed a candle and released a spirit. Its escape would cause the loss of magic the company later faced in Icewind Dale.",
+          "The domain could hold souls in candles, and ordinary magic offered no easy escape. Its history involved the Guild of Sleep and the stolen Time Stone; the company’s next detour took it into its own earlier lives and towards Keraptis’s invitation."
         ],
         "hindsight": [
           {
-            "title": "Crazuk’s candles held more than flame",
+            "title": "The souls inside Crazuk’s candles",
             "paragraphs": [
-              "Humanoids who died in the Nightmare Grotto could have their souls trapped in Crazuk’s candles. Ordinary resurrection could not reach them while they remained confined; destroying the lich and the candles was the way to free them. The domain’s danger extended beyond its walls and exhausting sleep into ownership of the dead."
+              "Humanoids who died in the Nightmare Grotto could have their souls trapped in Crazuk’s candles. Resurrection could not reach them while they remained confined; destroying the lich and the candles would free them."
             ]
           },
           {
             "title": "The spirit Shrop released was Pengu",
             "paragraphs": [
-              "The candle Shrop snuffed had confined Pengu. Extinguishing it released the spirit whose influence would drain magic from the world. The failing spells, faltering divine power and waves of anti-magic in Icewind Dale were consequences of that release.",
-              "Crazuk’s defeat ended one nightmare, but the released spirit carried another out into the wider world. Pengu’s northern power and the company’s struggle to overcome it began with that candle in the grotto."
+              "The candle Shrop extinguished held Pengu. Once free, the spirit drained magic from the world. Icewind Dale’s failing spells, weakened divine aid and waves of anti-magic followed from that release."
             ]
           }
         ]
@@ -1170,14 +1153,14 @@
         "paragraphs": [
           "The Sleeper’s answers tied the dream to Grim’s family. Eudostis Braidedbeard had stolen the Time Stone from the Guild of Sleep in a misguided attempt to free the Sleeper from duty. Removing it had also taken away the lock upon Crimson Crazuk. The attempt to help had forced the Sleeper deeper into the Dream to contain the danger.",
           "Eudostis had carried the Stone away and abandoned adventuring. Much later, Lydzin discovered it, lured him to Rigus, and wished him into the body of a parrot. Years of captivity in a bird’s body had damaged his mind and memory. The Sleeper could repair only part of that harm and urged that he be allowed to rest at home.",
-          "Bastion’s investigation had become a story of dreams, stolen time, and an ancestor whose choices still shaped the road. The return to earlier Brindinford made that disturbance personal for all four companions: the company was living through a former part of its own history."
+          "The company followed these answers through the dream while living again as its earlier selves in Brindinford."
         ]
       },
       {
         "title": "The name on the invitation",
         "paragraphs": [
-          "The message carried the name Keraptis, an old wizard whose reputation made the challenge more than an ordinary ransom demand. His directions led beneath the feathered plume of the mountain and divided the hunt between three different dangers.",
-          "There was a threat beneath the invitation as well. Reaching the weapons was only part of his design; leaving was supposed to be another matter. Keraptis wanted adventurers to enter confident in their own cleverness and discover, too late, whose game they had agreed to play."
+          "The old wizard Keraptis signed the challenge. His directions led beneath the mountain’s plume and divided the hunt for the weapons between three routes.",
+          "Keraptis intended the adventurers to find the weapons, then discover how difficult he had made it to leave."
         ],
         "image": {
           "src": "media/images/white-plume/56a90f5b423ae628007fc8eb.jpg",
@@ -1191,7 +1174,7 @@
             "title": "The one true Keraptis",
             "paragraphs": [
               "Xanthar was infected by a K-vial. The infection left him convinced that he was the one true Keraptis. His power and the flesh-golem body he had made carried him through the fate that would otherwise have reduced him to a zombie. He defeated the reigning K-clone prime and took White Plume Mountain for himself.",
-              "The mountain now has a ruler whose certainty rests upon an infected identity. Xanthar believes the name belongs to him. His victory over its previous claimant gave that belief a fortress and the means to act upon it. His later scheme would bring Wave, Whelm and Frostrazor back beneath the mountain, while the Brotherhood continued towards the Bastion."
+              "Xanthar now rules the mountain under the name he believes is his. His equipment theft would return Wave, Whelm and Frostrazor there while the Brotherhood continued towards the Bastion."
             ]
           }
         ]
@@ -1200,7 +1183,7 @@
         "title": "Three weapons, three directions",
         "paragraphs": [
           "Wave, Whelm, and Blackrazor stood at the heart of the challenge. Keraptis’s clues placed Wave beyond a beast and a boiling bubble; Whelm along a route of chains, double water-spouts, and a cavern; Blackrazor within an inverted ziggurat.",
-          "The promise was irresistible, but the weapons had identities of their own. These were legendary, sentient arms, capable of bringing their own wills into the hands that carried them. Even the reward could become another relationship to negotiate."
+          "The weapons were sentient. Each brought its own will to any agreement with a bearer."
         ],
         "image": {
           "src": "media/images/white-plume/4312af925c6cec0142cde947.webp",
@@ -1222,8 +1205,7 @@
       {
         "title": "The mountain failed to keep them",
         "paragraphs": [
-          "Team Biscuit made it out from beneath White Plume Mountain with loot and magic items. Keraptis’s dungeon had not kept the company, and the return to Brindinford gave them a welcome chance to stop moving and consider what came next.",
-          "For a company accustomed to another locked door, another hostile chamber, and another fight beyond the last one, that return mattered. They had survived the mountain and brought its rewards home. The next difficulty waited in a place they already knew."
+          "Team Biscuit escaped White Plume Mountain with loot and magic items, then returned to Brindinford."
         ],
         "hindsight": [
           {
@@ -1245,31 +1227,31 @@
         "title": "Brindinford, in simpler times",
         "paragraphs": [
           "They were home, in a Brindinford from their own past. The company’s eighth-level selves could walk familiar streets and deal with people whose lives had not yet reached the point the returning adventurers remembered. The question was how to get back to the time they had left.",
-          "Their dealings included investments with Shoomma’s smithy and the Bank of Frobozz. Money and equipment were entrusted to the smithy, and a separate pool of silver, electrum, and platinum was set aside for investment with its dwarves. Brindinford was a place to make arrangements as well as a place to seek a way out.",
-          "The possibility of staying was part of the temptation. Here were simpler times and a familiar city. Yet the company had unfinished business beyond this borrowed chapter of its life: the Sleeper, the missing souls, and Ashardalon’s hunger had not ceased to matter."
+          "The company invested with Shoomma’s smithy and the Bank of Frobozz. It entrusted money and equipment to the smithy, including a separate investment pool of silver, electrum and platinum.",
+          "Remaining in this familiar Brindinford was tempting. The Sleeper, the missing souls and Ashardalon’s hunger still awaited them in their own time."
         ]
       },
       {
         "title": "Back—but twenty years beyond their own time",
         "paragraphs": [
-          "The company eventually made its way back from the flashback, but the return carried it twenty years beyond the original time it had left. Regaining the way forward had not restored the lost present. Two decades now stood between the adventurers and the world they had expected to find.",
-          "Brindinford had not survived that absence. A great volcanic cataclysm had collapsed the city, leaving the familiar streets in ruins. The town they had walked as their eighth-level selves—and where they had entrusted investments to Shoomma and the Bank of Frobozz—belonged to a world the catastrophe had broken.",
-          "Their business with Shoomma and the Bank of Frobozz belonged to that time-displaced journey. The promises, property, and money left in Brindinford were now part of a much longer absence. The company had returned from an adventure through its own past into a future it had not lived.",
-          "Bastion remained unfinished. The detour had changed when the company stood in the world, while the older questions about Ashardalon and the cycle of souls followed it into the years ahead."
+          "Their return carried them twenty years beyond the original time they had left. They had found a way forward from the flashback and overshot their own present.",
+          "A volcanic cataclysm had collapsed Brindinford during their absence. The streets they had walked as eighth-level adventurers lay in ruins.",
+          "The investments with Shoomma and the Bank of Frobozz had been left in the earlier city. The adventurers returned without having lived through the intervening years.",
+          "Ashardalon was still consuming souls. The Bastion investigation remained unfinished."
         ],
         "hindsight": [
           {
             "title": "What happened while they were gone",
             "paragraphs": [
               "The catastrophe was a delayed consequence of Deep Horizon. The Brotherhood’s rerouting of the lava to save the desmodu village set in motion the disaster that destroyed Brindinford. Across the twenty years the company missed, that same chain of consequences wiped out the entire desmodu race.",
-              "The company returned to the aftermath, without having lived through the years between rescue and ruin. A village saved, a city buried, and a people lost: the missing decades had joined what once seemed separate parts of the road."
+              "The company returned after the destruction, having missed the twenty years between the rescue and its consequences."
             ]
           },
           {
             "title": "Twenty years without new souls",
             "paragraphs": [
               "The company’s return carried it twenty years beyond its original present. In the later vision on the ice, the gods named the loss that had marked the world: twenty years without new souls being born. Ashardalon was feeding upon those unborn lives within the Bastion.",
-              "The years missing from the company’s journey belonged to a world deprived of its future. Brindinford’s ruin, the loss of the desmodu and the empty cradles were consequences the adventurers returned to face. The cause of the soul famine lay beyond those ruined streets, with the dragon they had yet to reach."
+              "The volcanic ruin and desmodu genocide followed the lava diversion. The soul famine had a separate cause: Ashardalon’s feeding within the Bastion."
             ]
           }
         ]
@@ -1278,9 +1260,8 @@
     "closing": {
       "title": "The road north from a stolen present",
       "paragraphs": [
-        "White Plume ended with the company outside the mountain and carrying its rewards. The larger Sleeper detour took it through earlier Brindinford and finally into a world twenty years beyond its original time. The investments, the familiar streets, and the question of getting home belonged to that broken course through history. Brindinford’s volcanic destruction made the missing years a loss of place as well as time.",
-        "A warning accused the company of breaking a seal and releasing a primordial menace, then directed it north to repair what had been disturbed. Shrop’s extinguished candle had opened a danger whose consequences would follow them into Icewind Dale. The renewed pursuit of Keraptis and the weapons now ran alongside the need to confront the spirit that had escaped.",
-        "The next great journey led into Icewind Dale, where winter held the towns and magic itself was failing. The northern struggle would bring the company against Pengu, the spirit released in the Nightmare Grotto, while Bastion’s unfinished mystery still waited beyond it."
+        "A warning accused the company of breaking a seal and releasing a primordial menace, then directed it north to repair the damage. The warning led towards Pengu, freed by Shrop’s candle in the Nightmare Grotto.",
+        "The hunt for Keraptis and the weapons continued into Icewind Dale, where winter held the towns and magic was failing. Bastion’s soul crisis still awaited the company."
       ]
     },
     "eyebrow": "The dream, the mountain, and twenty missing years"
@@ -1289,14 +1270,14 @@
     "title": "Beyond the winter, a world at war",
     "opening": [
       "The journey into Icewind Dale followed the Sleeper’s time-displaced detour. Team Biscuit now stood twenty years beyond the original time it had left, with Bastion’s mystery still unfinished. In the Dale, winter would not release its hold. Food, shelter, a passable road, and a mine that could work again gave the company immediate work among the people of Ten-Towns.",
-      "The road north carried the consequences of a candle snuffed in the Nightmare Grotto. Pengu was free, and magic was failing. Its corruption, the return of Keraptis’s influence and the ruin of Frostblight would carry the company towards a changed world. On the journey home, there would be a besieged keep, an army of demons, and another return to Brindinford."
+      "Pengu was free and magic was failing. The company followed Keraptis’s weapons trail into the north, towards Frostblight. Its eventual road home would pass a besieged keep, a demon army and the ruins of Brindinford."
     ],
     "scenes": [
       {
         "title": "Ryu, the river, and Terry’s changed voice",
         "paragraphs": [
           "The northern road included a confrontation with Grandmaster Ryu Hayabusa. Shrop questioned him in the arctic wasteland, while Thunder watched something unsettling happen to Terry. His companion’s expression had grown vacant; his movements and responses were becoming unnaturally precise.",
-          "Terry kept muttering fragments of a numerical riddle. The familiar independence and sarcasm were giving way to a passive, mechanical obedience. The danger was no longer only the enemy before them: something was reaching into the mind of a man the others depended upon.",
+          "Terry muttered fragments of a numerical riddle. His familiar independence and sarcasm were giving way to passive, mechanical obedience.",
           "After Ryu’s last stand, the company travelled for four days in the Brotherhood’s longboats towards Lac Dinneshere and Easthaven. Shrop’s well-chosen tent gave them shelter, but a blizzard on the lake brought remorhaz into the struggle. Ice, weather, and Terry’s continuing change all accompanied the approach to the towns."
         ],
         "hindsight": [
@@ -1318,9 +1299,9 @@
       {
         "title": "Food, ghosts, and the people of the Dale",
         "paragraphs": [
-          "In Easthaven, the company recovered a cauldron that could help feed the town and returned it to the people. The White Lady’s haunting was laid to rest. Their investigation also exposed duergar activity and the danger surrounding chardalyn, a material whose influence reached well beyond an ordinary mine or hidden cache.",
-          "The work carried them through other communities. Near Lonelywood, Thunder tracked the bandit Vorn. In Termalaine, the mine was restored to use. These were victories measured in meals, livelihoods, and the chance to survive another stretch of winter.",
-          "They also began gathering the ingredients for the Candle of the Dark One. The search would tie together groves, shrines, dangerous magic, and the growing threat in the far north. The company was already following more than one thread beneath the snow."
+          "In Easthaven, the company recovered a cauldron that could feed the town and returned it to the people. They laid the White Lady’s haunting to rest and exposed duergar activity and the danger of chardalyn.",
+          "Near Lonelywood, Thunder tracked the bandit Vorn. The mine in Termalaine was restored to use.",
+          "The hunt for Candle of the Dark One ingredients took them through groves and shrines towards the threat in the far north."
         ],
         "image": {
           "src": "media/images/frostmaiden/960f3cc750e2a28eff2f6ec3.webp",
@@ -1333,17 +1314,15 @@
       {
         "title": "When the prayers grew faint",
         "paragraphs": [
-          "North of the Spine of the World, the company’s familiar strengths became less dependable. Magic weakened. Grim’s more powerful spells became almost impossible to call upon; Terry’s connection with Pelor faltered. Arcane learning and divine devotion alike met a world in which the power they needed was ebbing away.",
-          "At the Northlook, guidance came through Olaf. Pelor’s message pointed Terry towards the danger gathering in the north. Pengu, linked to the enormous Emperor Penguin statue, was feeding upon Auril’s power and sending waves of anti-magic across the land.",
-          "The loss changed more than the force of a spell. A difficult journey, a dangerous wound or a battle beyond the next ridge could no longer be approached with the same confidence in magical aid. The company had to adapt its surviving power to the cold and the creatures ahead. The weakening magic was part of the northern ordeal wherever they went.",
-          "The wilderness supplied dangers of its own. The company faced remorhaz, frost giants, and the servants of Auril. Fighting through the cold was hard enough; doing so while spells and divine aid faltered changed the terms of every journey."
+          "North of the Spine of the World, Grim could barely call upon his more powerful spells. Terry’s connection with Pelor faltered.",
+          "At the Northlook, Olaf brought Pelor’s guidance to Terry. Pengu, linked to the enormous Emperor Penguin statue, was feeding upon Auril’s power and sending anti-magic waves across the land.",
+          "The company faced remorhaz, frost giants and Auril’s servants with its spells and divine aid weakened by the loss of magic."
         ],
         "hindsight": [
           {
             "title": "One candle, a world losing its magic",
             "paragraphs": [
-              "Pengu’s release began when Shrop extinguished the candle in the Nightmare Grotto. In the north, the freed spirit fed upon Auril’s power and sent anti-magic waves across the land. What the company faced in the Dale was the growing consequence of that earlier act.",
-              "The cold and the loss of magic reinforced one another. Ten-Towns struggled to survive while the company’s own spells and divine aid faltered. Confronting Pengu meant answering the danger released on the dream-bound road as well as overcoming the enemy waiting at Frostblight."
+              "Shrop had freed Pengu by extinguishing the Nightmare Grotto candle. In the north, the spirit fed upon Auril and sent anti-magic waves across the land, weakening the company’s magic and leaving Ten-Towns to face the cold with less aid."
             ]
           }
         ]
@@ -1353,13 +1332,13 @@
         "paragraphs": [
           "The Candle of the Dark One required materials with names as melancholy as the Dale itself: Moonlit Sorrow Vine, Ethereal Whispers Blossom, Melancholic Moonstone, Shadowkissed Silk, Whispering Willow Wood, and Mourning Mist Essence. This was a new working sought against Pengu, distinct from the candle Shrop had extinguished in the Nightmare Grotto.",
           "The search took the company among haunted places, the Frostmaiden’s followers, arcane wards, and a mountain shrine. Once the ingredients were gathered, Grim prepared three portions of wax and three wicks. They had the components for three attempts at the candle; the final working still lay ahead.",
-          "Meanwhile, Eldath’s guidance drew Shrop towards the Cave of the Berserkers. Frostrazor was there, in the hands of the frost giant Grek. Another trail of legendary weapons was taking shape, and the name Keraptis waited at its centre."
+          "Eldath’s guidance led Shrop to the Cave of the Berserkers, where the frost giant Grek held Frostrazor. The weapons trail brought Keraptis’s name back into the hunt."
         ],
         "hindsight": [
           {
             "title": "Terry was the missing key",
             "paragraphs": [
-              "The hidden key to lighting the candle was Terry’s boon. The working required him to attune to all four weapons of power; Keraptis could manage only three. Possessing the weapons was therefore insufficient for the wizard. Terry himself supplied the possibility his enemy lacked, making the adventurer a potential target for abduction. Gathering the ingredients was one part of the problem; bringing the weapons and the right bearer together was another."
+              "The candle required attunement to all four weapons of power. Terry’s boon allowed four; Keraptis could manage three. The wizard needed the dwarf as well as the weapons, making Terry a potential target for abduction."
             ]
           }
         ]
@@ -1369,20 +1348,20 @@
         "paragraphs": [
           "The cave began with a narrow, icy approach and a trap that nearly sent Terry into the ravine. Within waited dragons and berserkers, then Grek with Frostrazor and a cold-burning brazier whose influence had to be broken.",
           "The company divided its effort. Shrop confronted Grek, Terry and Thunder worked to extinguish the brazier, and Grim opposed Keraptis. When the cold flame went out and Grek fell, Frostrazor was recovered. Keraptis’s collapsing body revealed the deception: they had fought a clone.",
-          "Before that false body failed, the remaining weapons were linked to the Lost Spire of Netheril. White Plume’s old name had followed the company north, but this encounter had not put an end to the wizard behind it. The victory gave them a weapon and another destination."
+          "Before the clone’s body failed, it linked the remaining weapons to the Lost Spire of Netheril. The company left with Frostrazor and that lead."
         ]
       },
       {
         "title": "The raid on Easthaven",
         "paragraphs": [
           "Pengu’s army brought the northern threat into the town. Mutated emperor penguins struck Easthaven while a blizzard delayed the company’s response. Much of the southern town was left in ruins, and people who had survived the long winter were killed in the raid.",
-          "The storm made the distance cruel. Knowing where help was needed did not mean the company could reach it in time. The place whose food supply they had helped secure had become the scene of a different disaster.",
+          "The blizzard kept the company from reaching the town in time to prevent the destruction. They had earlier helped secure Easthaven’s food supply.",
           "Olaf supplied a map to the Lost Spire of Netheril, giving the company a lead when the way forward had grown uncertain. The hunt for the weapons and the struggle against the northern corruption continued towards the ruins and Frostblight."
         ],
         "image": {
           "src": "media/images/frostmaiden/a97a34fae271ff6c94762fa5.webp",
           "alt": "A horde of penguin creatures near a devastated northern settlement",
-          "caption": "The penguin army turned an absurd shape into a very real terror.",
+          "caption": "Mutated emperor penguins attacked Easthaven during the blizzard.",
           "width": 1792,
           "height": 1024
         }
@@ -1390,9 +1369,9 @@
       {
         "title": "The Lost Spire and Dannika’s Darlings",
         "paragraphs": [
-          "The Lost Spire of Netheril held more than the trail of the weapons. In its depths, Vellynne Harpell stood with Dannika’s Darlings remade as undead servants: Dannika, Filverel, Dodo, and Uldruc. Their familiar names now belonged to another necromancer’s force.",
-          "The company fought Vellynne and her corrupted champions. The chamber’s golden disk and ancient workings offered mysteries of their own, but first there were enemies to survive. Even a promising book could be bait: a freshly labelled volume of Secrets of the Arcane Brotherhood concealed blank pages and Vellynne’s name.",
-          "The pursuit of Keraptis had drawn them towards the spire; the confrontation there put necromancy and the fate of another adventuring company in their path. The later vision on the ice would invoke the legendary weapons again, drawing the northern journey back towards the challenge beneath White Plume Mountain."
+          "In the Lost Spire of Netheril, Vellynne Harpell commanded Dannika’s Darlings as undead servants: Dannika, Filverel, Dodo and Uldruc.",
+          "The company fought Vellynne and her corrupted champions near the chamber’s golden disk and ancient workings. A freshly labelled Secrets of the Arcane Brotherhood proved to contain blank pages and Vellynne’s name.",
+          "The later vision on the ice would name the legendary weapons again, returning to the pursuit that had begun beneath White Plume Mountain."
         ]
       },
       {
@@ -1400,7 +1379,7 @@
         "paragraphs": [
           "Frostblight had a host as well as a tyrant. Gnometti, its little gnome chef, wore an immaculate uniform in a kitchen where the cold had settled into the cook himself. A bluish pallor lay beneath his skin, frost gathered at his cuffs, and his cheerful manner had the polish of a welcome repeated for far too many winters.",
           "His business was food, recipes and the troublesome appetites of the creatures outside. Ice Seal Meals could pacify the territorial seals guarding the caves; preserved fish, saltwater and dried seaweed were the practical ingredients behind that small advantage. Among monstrous rulers and failing spells, the gnome offered the thoroughly domestic possibility that a dangerous passage might be negotiated with supper.",
-          "The warmth belonged to his hospitality rather than his hands. Gnometti’s brittle, frost-preserved appearance made his little kitchen another unsettling part of Pengu’s realm: something familiar continuing far beyond the life it ought to have had. Beyond the recipes and the cooking pot waited the power that had made this place a prison."
+          "The chef’s hospitality survived in his brittle, frost-preserved body. Beyond his kitchen waited the power that had made Frostblight a prison."
         ],
         "image": {
           "src": "media/story/frostmaiden/gnometti.png",
@@ -1413,11 +1392,11 @@
       {
         "title": "Terry, four weapons, and Blackrazor’s sacrifice",
         "paragraphs": [
-          "The northern quest had gathered its answer one piece at a time. Moonlit Sorrow Vine, Ethereal Whispers Blossom, Melancholic Moonstone, Shadowkissed Silk, Whispering Willow Wood and Mourning Mist Essence had become the materials for the Wax and Wick of the Dark One. Grim had prepared three portions of wax and three wicks. The search through the Dale now reached the working those preparations had been meant to make possible.",
-          "The four epic weapons were brought together: Wave, Whelm, Frostrazor and Blackrazor. Their trail had begun beneath White Plume Mountain and continued through Keraptis’s schemes into the frozen north. Treasure that had once promised power to its bearers had become part of an answer to Pengu.",
-          "Terry supplied what Keraptis could not. Pelor’s Boon of Attunement allowed him to bind himself to all four weapons at once, beyond the three the wizard could manage. The boon became the key to the candle working. The company’s hope rested upon the dwarf whose faith had endured the very loss of magic they had come to end.",
-          "The ritual demanded a sacrifice. Blackrazor, the blade that fed upon souls, was given up. Its hunger had made it a terrible prize; now the company surrendered it as the cost of the rite. Wave, Whelm and Frostrazor remained to continue along their road. Blackrazor did not.",
-          "The working was completed. The ingredients, the hunt for the weapons and Terry’s extraordinary attunement had reached their purpose. A candle snuffed in the Nightmare Grotto had released Pengu; the company had now answered that catastrophe with a ritual of its own, and with a sacrifice it could not simply put back in a scabbard."
+          "Grim’s gathered ingredients and three prepared sets of wax and wick were ready for the Candle of the Dark One ritual.",
+          "Wave, Whelm, Frostrazor and Blackrazor were brought together after the hunt from White Plume Mountain into the frozen north.",
+          "Pelor’s Boon of Attunement allowed Terry to bind himself to all four weapons at once. Keraptis could manage only three. Terry’s boon made the candle working possible.",
+          "The company sacrificed Blackrazor, the soul-eating blade, to the rite. Wave, Whelm and Frostrazor survived.",
+          "With the ingredients, four weapons and Terry’s attunement, the ritual was completed. The company had answered Pengu’s release with a candle working of its own."
         ],
         "hindsight": [
           {
@@ -1433,11 +1412,11 @@
         "title": "Pengu’s last shape",
         "paragraphs": [
           "Frostblight’s final struggle brought the company against the creatures Pengu had remade. Corrupted emperors, Panguini and Dreamkeepers stood along the way. Mad Kaelith fell during the fighting. At the heart of the stronghold waited Pengu, bound upon a throne of jagged ice, black runed chains stretching from her body into the frozen walls.",
-          "The spirit Shrop had released from the grotto’s candle was now before them. Its influence had weakened the world’s magic, twisted the northern creatures and turned Auril’s power against the land. Terry’s fourfold attunement and the sacrifice of Blackrazor belonged to the company’s answer; the battle brought that long pursuit to its final, immediate danger.",
+          "Pengu was the spirit Shrop had released from the candle. It had weakened the world’s magic, corrupted the northern creatures and turned Auril’s power against the land.",
           "When the final blow landed, Pengu’s great form convulsed and folded inward. Her body compressed until the enormous presence upon the battlefield had become a black egg ten feet tall, gleaming like liquid obsidian. The chamber fell silent around a slow, deliberate heartbeat.",
           "Each pulse drew warmth from the air. Frost crept across the floor, and the egg’s reflective surface returned distorted glimpses of the companions. Pengu’s fighting form had fallen. What remained was a vessel still alive with the power that had filled the stronghold.",
           "Then Frostblight came apart. The monumental penguin statue cracked and shattered; stone and ice fell through the ruin of the frozen citadel. The company’s victory became an escape as the ice shelf broke beneath the way out. They plunged into the arctic sea and survived upon an isolated iceberg, with sheer ice above the water and no land in sight.",
-          "The northern ordeal had reached its reckoning: the ritual completed, Blackrazor sacrificed, Pengu defeated and Frostblight broken. The company had survived the end of the enemy’s frozen dominion. Around its little refuge lay the sea; beyond it waited the first promise that the world’s magic could begin to heal."
+          "The company survived on the iceberg after completing the ritual and defeating Pengu. The first promise of magic’s recovery would come in a dream."
         ],
         "image": {
           "src": "media/images/frostmaiden/8840d1592c665ab405bde5c9.png",
@@ -1450,13 +1429,13 @@
           {
             "title": "Mad Kaelith had once been a queen",
             "paragraphs": [
-              "Kaelith had once been Aeloria Frostsong, the compassionate queen who led the Panguini against Pengu. The invasion broke her resistance and her mind, turning her into the enforcer of the power she had tried to stop. The enemy the company faced carried the ruined history of an earlier defender of this realm."
+              "Kaelith had been Aeloria Frostsong, the compassionate queen who led the Panguini against Pengu. The invasion broke her resistance and her mind, turning the former defender into Pengu’s enforcer."
             ]
           },
           {
             "title": "What the egg still held",
             "paragraphs": [
-              "The obsidian egg retained a heartbeat and an unnatural hunger for warmth. Pengu’s defeat and the destruction of Frostblight ended this northern reign, but the surviving vessel carried a possibility beyond that victory. Within it, something still waited. Its later fate was another thread left beyond the company’s escape."
+              "Pengu’s obsidian egg retained its heartbeat and hunger for warmth after Frostblight fell. Its later fate remains unknown."
             ]
           }
         ]
@@ -1464,11 +1443,11 @@
       {
         "title": "A vision on the ice",
         "paragraphs": [
-          "On the ice, the company’s dream brought Pelor, Eldath, and Auril together. Eldath spoke of magic healing gradually after its long suppression. Pengu’s defeat had allowed the flow to begin returning, but the world would need time to regain its strength. Auril acknowledged how Pengu had made a prison of her domain. From the grotto’s extinguished candle to the breaking of Frostblight, the company had followed a calamity it had helped set loose and fought to overcome.",
-          "Recovery did not end every crisis. The vision returned the company to Ashardalon’s hunger for souls. The gods spoke of twenty years in which no new souls had been born into the world. Magic could begin to flow again while the dragon continued consuming unborn lives; the road back to Bastion remained urgent.",
-          "The gods’ message called them back towards Rigus. The crisis of births without souls had continued while they struggled in the north. The Bastion mystery they had begun before that journey was still waiting, and the world could not afford for it to remain unanswered.",
+          "Pelor, Eldath and Auril appeared together in the company’s dream on the ice. Eldath said magic was beginning to recover after Pengu’s defeat, though it would need time. Auril acknowledged that Pengu had made a prison of her domain.",
+          "The gods warned of twenty years without new souls being born. Ashardalon was still consuming unborn lives, even as magic began to recover.",
+          "They called the company back towards Rigus to resume the Bastion investigation.",
           "For Thunder, the dream also held the Deliverance and Captain Timothy Pepper. The Pendant of the Ethereal Anchor bound Thunder’s soul to the ghostly ship. Pepper had warned him of its price: dying while wearing it would make Thunder the ship’s captive captain in Pepper’s place. In the vision, the ship endured and searched for him; that reassurance did not remove the bargain.",
-          "Another guide appeared beneath the ice: Angajuk, the great whale, offering passage onward. Deliverance and whale would carry different parts of the company’s story. The promise of a way forward led from the frozen sea towards the planes."
+          "Beneath the ice, Angajuk the great whale offered passage onward towards the planes."
         ]
       },
       {
@@ -1482,18 +1461,17 @@
       {
         "title": "What had happened to Rigus",
         "paragraphs": [
-          "Beyond the northern ordeal waited news of a world that had not stood still. Father Cuthbert’s Chronicle of the Reclamation told of Rigus after the company’s departure: magic had failed, the wards had collapsed, and demons had poured through the broken Lion’s Gate. The city fell in less than a week.",
+          "Father Cuthbert’s Chronicle of the Reclamation described the fall of Rigus. Its wards had failed with the loss of magic, and demons poured through the broken Lion’s Gate. The city fell in less than a week.",
           "Cuthbert also recorded a quieter catastrophe: infants born without souls and resurrection magic faltering. The company had heard of the failing cycle of life before leaving Rigus. The chronicle showed that the danger had endured through the city’s fall and the refugees’ flight. Defeating an army could not, by itself, restore those missing lives.",
           "Cuthbert led survivors towards the Red Keep. There, a relic touched by Pelor’s fire became the heart of the Cold Forge. Those who died defending the Keep could rise again within it. Refugees, warriors, and Formacid allies gathered around that miracle, and the Church of the Reclamation took shape.",
-          "The company they remembered had become the Blessed Company. Shrines had been raised to them; Terry’s armour had been found waiting. While the adventurers fought through the north, other people had built a faith around their absence. Coming back meant meeting the weight of what they had become to those who survived."
+          "Survivors had raised shrines to the adventurers as the Blessed Company, and Terry’s armour had been found waiting. The returning party met a faith that had grown around its absence."
         ],
         "hindsight": [
           {
             "title": "The hunger behind the silent cradles",
             "paragraphs": [
-              "Pengu’s suppression of magic reached beyond Icewind Dale. When Rigus’s arcane and divine wards failed, the Lion’s Gate broke and the demons entered. The disaster Shrop’s candle had released helped strip the city of its defenses. The returning company met survivors whose war had begun in that magical collapse.",
-              "Ashardalon was consuming souls before they could be born, feeding his failing demonic heart at the Bastion of Unborn Souls. The absent spark in the infants was the consequence of that predation reaching across the worlds. Cuthbert’s chronicle records the suffering among the living; the dragon’s feast explains what had been taken before those lives could begin. The northern vision named twenty years without new souls. The company’s return to Rigus brought that warning among survivors whose own losses had become a chronicle.",
-              "These dangers had different sources. Pengu’s release brought the loss of magic; Ashardalon’s feeding stole unborn souls. Breaking Pengu’s hold allowed magic to recover, but the dragon’s predation continued. The victory in the north could open the road back to Bastion without finishing the work waiting there."
+              "Pengu’s anti-magic reached Rigus, disabling its arcane and divine wards and allowing the demons through the Lion’s Gate. Shrop’s release of the spirit had helped leave the city defenceless.",
+              "Ashardalon caused the separate soul famine. He consumed unborn souls to feed his failing demonic heart in the Bastion of Unborn Souls. The northern vision named twenty years without new souls. Breaking Pengu’s hold allowed magic to recover while that predation continued."
             ]
           }
         ]
@@ -1503,15 +1481,15 @@
         "paragraphs": [
           "By the time of the return, the Red Keep had endured a prolonged demonic siege. Its defenders held because the walls, the Formacid tunnels, and the Cold Forge gave them a way to resist losses that should have broken them. Father Cuthbert kept the rite alive by faith and memory.",
           "General Nagaro’s arrival brought another wound from Rigus. The former commander came to the Keep injured, under suspicion of having fled before the city’s fall. Placed in protective custody, she was found dead by morning. Her death left an accusation without a settled answer.",
-          "On the fifteenth of Marpenoth, 1406, Cuthbert recorded the Blessed Company’s return in the flesh. For the people who had made shrines to them, this was the return of living saints. For Team Biscuit, it meant stepping into a war, a church, and a mystery already waiting behind the walls."
+          "Cuthbert recorded the Blessed Company’s return on the fifteenth of Marpenoth, 1406. Survivors who had raised shrines to them greeted living saints; the adventurers faced the siege and Nagaro’s unresolved death."
         ]
       },
       {
         "title": "The demon army",
         "paragraphs": [
-          "The enemy beyond the Keep was an army. Vrocks, hezrous, glabrezus, chasmes, and nalfeshnees formed part of the fighting, while greater horrors included goristros, mariliths, and balors. The company had reached a battlefield crowded with powers that could each have filled a nightmare on their own.",
+          "Vrocks, hezrous, glabrezus, chasmes and nalfeshnees fought in the demon army. Its greater horrors included goristros, mariliths and balors.",
           "Alongside them fought Iron Fang veterans, Crimson Scorcher veterans, Spirewatch archers, and Blightspike skirmishers. Beast-handlers brought their own menagerie into the struggle: giant scorpions, a bulette, a shambling mound, and a hydra. This force combined disciplined fighters, monsters, and the strength of the Abyss.",
-          "Team Biscuit fought through that army. The struggle extended beyond a single clash or a single great demon; its later fighting reached an Ultroloth Ascendant, who fell before the company. The road from the Dale had carried them into a war for the survivors of Rigus, and the company had met its armies in person.",
+          "Team Biscuit fought through the army. In the later fighting, it defeated an Ultroloth Ascendant.",
           "Brindinford was still ahead. Before they could call the journey home complete, the company would find another familiar place transformed—and another company already caught in its troubles."
         ]
       }
@@ -1519,8 +1497,8 @@
     "closing": {
       "title": "Home, beneath the streets",
       "paragraphs": [
-        "The northern expedition had begun with hungry towns, haunted waters and a winter that would not end. Beneath those troubles ran the consequence of Shrop’s candle in the Nightmare Grotto. The answer demanded rare ingredients, four epic weapons, Terry’s boon and the sacrifice of Blackrazor. Pengu’s defeat and the breaking of Frostblight brought that struggle to its climax; the gods’ vision promised magic’s gradual return. The pulsing egg remained beyond the victory, and the Red Keep’s survivors still faced the demon army that had followed Rigus’s fall.",
-        "At the end of the Icewind Dale journey, the way home led into Fungus Grotto and sunken Brindinford. There, Shrop, Grim, Terry, and Thunder would fight alongside Team Gravy—Brunn, Rook, Nox, and Elira—against giant ants among the buried remnants of a city they knew. The next passage belongs to both companies."
+        "With Pengu defeated, the egg still pulsing and magic beginning to recover, the company survived the war around the Red Keep.",
+        "The way home led into Fungus Grotto and sunken Brindinford. Shrop, Grim, Terry and Thunder would fight giant ants alongside Brunn, Rook, Nox and Elira among the buried streets."
       ]
     }
   },
@@ -1528,10 +1506,9 @@
     "eyebrow": "The tale of Team Biscuit",
     "title": "The road returns to the dragon",
     "opening": [
-      "Ashardalon had been part of this story long before the company could reach him. His name lay beneath the Citadel, above the dead of Nightfang Spire, and behind a sickness that left newborn children without souls. The Cathezar’s pursuit had made the danger personal. The Church of the Elements, the First Tree, and the Guild of Sleep had begun to give it a shape.",
-      "Then the road had wandered through dreams, earlier lives, and a return twenty years beyond the time they had left. There had been investments laid against an uncertain future, the northern winter, the Red Keep, the demon army, and the buried streets of Brindinford. The company had carried its unfinished business through all of it.",
-      "On the ice, the gods had spoken of twenty years without new souls being born into the world. Pengu’s defeat had allowed magic to begin healing, but Ashardalon was still feeding. The company returned to a world whose stolen future waited beyond the dragon’s refuge.",
-      "Now Shrop, Grim, Terry, and Thunder returned to the question waiting beneath those adventures: how could four mortals reach a dragon feeding upon lives that had not yet begun?"
+      "The company first learned Ashardalon’s name in the Citadel and followed his dead worshippers through Nightfang Spire. The Cathezar’s pursuit, the First Tree and the Guild of Sleep drew them into the crisis of children born without souls.",
+      "Their investigation was interrupted by dreams, a return to their eighth-level lives and a jump twenty years beyond their original time. Icewind Dale, the Red Keep’s war and ruined Brindinford delayed their return.",
+      "Pengu’s defeat allowed magic to recover, but the gods’ vision warned that Ashardalon was still consuming unborn souls. Shrop, Grim, Terry and Thunder now sought a way into his refuge."
     ],
     "scenes": [
       {
@@ -1539,15 +1516,15 @@
         "paragraphs": [
           "The Reality Wrinkle had survived where much of Brindinford had fallen. Team Biscuit and Team Gravy had fought through the giant ants of the Sunken City to reach the old Magical District. There, a portal trap intended for Team Biscuit caught Brunn, Rook, Nox and Elira instead. Team Gravy were sent to Hell and remain lost there; Team Biscuit’s onward road led to Windglum.",
           "The crossing delivered Team Biscuit into a cramped storeroom. Brindinford crates, ash-marked trunks, cracked scroll tubes, and old papers crowded the shelves. Much of what the Wrinkle’s mages had once brought here was gone. Outside, the wind screamed through Pandemonium.",
-          "The party had reached Windglum. Its next shelter was the room beyond the great mirror at the back of the Wrinkle, a hidden corner in a city far from the world it remembered. The ants and the ruined streets were behind them; the road to the Bastion had opened again."
+          "In Windglum, the party sheltered beyond the great mirror at the back of the Wrinkle. Pandemonium’s winds screamed outside."
         ]
       },
       {
         "title": "Findula finds the way",
         "paragraphs": [
-          "Findula was waiting among the travel chests, a small harp across her lap. The lillend was an old ally whose freedom had cost the company effort and danger. She had a debt to repay, and the means of repayment would lead them towards Eco, the guardian of a much older prison.",
+          "Findula waited among the travel chests with a small harp across her lap. The company had helped free the lillend. To repay that debt, she sought Eco, the guardian of Desayeus’s prison.",
           "Windglum offered a pause. Equipment could be replaced, wounds could close, and the crooked stalls could occupy adventurers who had spent too long away from a market. At night, the company returned through the mirror to bedrolls among the crates. Findula came and went, following traces and studying the difficult roads between worlds.",
-          "At last she summoned them to the backroom. A cleared table held a map, candles, and a strange compass with trembling crystal points. Her search had found Eco. The path would not remain fixed: the guardian’s location changed every day, and Findula could offer a way through only while the trace held. Preparations in Windglum suddenly had a deadline."
+          "Findula summoned them to a map, candles and a compass with trembling crystal points. She had found Eco, whose location changed daily. The route was open only while the trace held."
         ]
       },
       {
@@ -1555,13 +1532,13 @@
         "paragraphs": [
           "Eco stood between the company and Desayeus, the God Who Was Banned. A solar accompanied by the planetar Bramam, she had guarded the prison for centuries. No hidden tunnel or convenient spell could replace her. Her own body could become the gateway.",
           "The company sought permission. Shrop pressed the question of whether Eco could open the way under divine command; Pelor’s answer granted passage to speak with the prisoner, while expressly forbidding his release. They were to enter carefully and leave his chains alone.",
-          "Grim carried that distinction into the audience. The company came seeking counsel and aid against Ashardalon. It did not announce itself as Desayeus’s liberator. For a moment, a problem older than kingdoms had been approached with the surprisingly delicate instrument of a properly worded request."
+          "Grim approached the audience seeking counsel and help against Ashardalon. He made no claim to be Desayeus’s liberator."
         ],
         "hindsight": [
           {
             "title": "A life bound into the lock",
             "paragraphs": [
-              "Eco’s guardianship carried a terrible provision: her death would open the passage for three days. She was both a person and the prison’s only living entrance. That made violence a possible way through, but it never made her an ordinary obstacle. Nor would an open doorway free Desayeus or the Faithful; the prison’s binding still held them."
+              "Eco’s death would open the passage for three days. Her body was the prison’s only living entrance. Even after the gateway opened, the binding would still hold Desayeus and the Faithful inside."
             ]
           }
         ]
@@ -1585,22 +1562,21 @@
       {
         "title": "The price of the fragment",
         "paragraphs": [
-          "The passage through the prison did not end as a simple exchange of questions and answers. By the time the company prepared to leave, Eco was defeated and gone. Desayeus had yielded his fragment of the Soul Totem. Thunder carried the small, heavy thing upon which the next journey depended.",
-          "The fragment was theirs. Desayeus remained behind. Around the company lay the ruined chambers of a prison whose silence now carried another loss.",
-          "They still had to return through Pandemonium to the Wrinkle. Beyond that lay the Positive Energy Plane and the Bastion itself. The means of continuing had been won, but the cost followed them out of the prison."
+          "By the time the company prepared to leave, Eco had been defeated and was dead. Desayeus had yielded his Soul Totem fragment, which Thunder carried out of the prison.",
+          "Desayeus remained bound. The company returned through Pandemonium to the Wrinkle, with the Positive Energy Plane and the Bastion still ahead."
         ]
       },
       {
         "title": "A debt paid in grief",
         "paragraphs": [
           "When the company returned to the hidden room, Findula had gone. Her papers, instruments, and personal belongings had disappeared from among the familiar clutter. A folded note waited at the centre of the table.",
-          "Eco had been her sister. Findula had neither raised the blade nor opened the door herself, but she accepted that her choices had helped bring about Eco’s death. She believed stopping Ashardalon justified that terrible cost. Belief had not made it bearable, and repayment had not left affection intact.",
-          "She considered her debt settled. She did not expect to speak with the company again, and did not wish to. The farewell left Team Biscuit with a path forward and an ally it could no longer count upon."
+          "Eco was Findula’s sister. In her note, Findula accepted that her own choices had helped bring about Eco’s death, though she had neither raised the blade nor opened the door. She believed stopping Ashardalon justified the cost.",
+          "Findula considered her debt settled. She neither expected nor wished to speak with the company again."
         ],
         "image": {
           "src": "media/story/bastion/findulas-farewell.webp",
           "alt": "Findula’s handwritten farewell, grieving Eco and declaring her debt to the party paid",
-          "caption": "Findula’s farewell: the cost carried back from the prison. The folded page ends an alliance the company once had good reason to trust.",
+          "caption": "Findula’s note ended her alliance with the company after her sister Eco’s death.",
           "width": 1536,
           "height": 1024
         }
@@ -1608,15 +1584,15 @@
       {
         "title": "The man who had survived the explosion",
         "paragraphs": [
-          "Another familiar face met them with a very different welcome. Brother Ernie had been lost amid the dangerous business of the irionite bomb. The company had believed the explosion had taken him. Now he was here, weathered and battered, surrounded by boxes, trunks, bottles, books, clothing, and much of their recovered property.",
-          "These were the possessions Xanthar’s deception had cost them. He had persuaded Team Biscuit to use the portal to the grotto, where they arrived naked and without their equipment. Ernie’s return finally joined that humiliating loss to its unlikely recovery, though it offered no rescue for the friends still lost in Hell.",
+          "Brother Ernie stood amid boxes, trunks, bottles, books and recovered property. Weathered and battered, he had survived the irionite-bomb explosion the company believed had killed him.",
+          "These were the belongings lost through Xanthar’s grotto portal. Ernie had recovered most of the equipment; Team Gravy remained lost in Hell.",
           "There were questions about Rigus, Father Cuthbert, the Brotherhood, and the Church of Terry. Grim wanted to know how Ernie had survived and how he had crossed the planes. Ernie greeted them with his old broad smile and applied himself to the explanation with gestures and an interpretive dance of magnificent commitment and uncertain informational value.",
-          "Most of the stolen belongings had come back. Three great weapons had not: Whelm, Wave and Frostrazor. Blackrazor had already been sacrificed in the ritual against Pengu; it was no longer a possession for Ernie to recover. Ernie’s apologetic chalk drawing showed a short thief carrying the remaining three away. Grim suspected a connection to his relative, but suspicion could not put the weapons back into their hands."
+          "Whelm, Wave and Frostrazor were still missing. Blackrazor had been sacrificed against Pengu. Ernie’s apologetic chalk drawing showed a short thief carrying the surviving three away; Grim suspected a connection to his relative."
         ],
         "image": {
           "src": "media/story/bastion/ernies-return.webp",
           "alt": "Brother Ernie smiling in an upstairs room crowded with recovered trunks, equipment, and belongings",
-          "caption": "An old friend, an improbable return, and most of the missing luggage. The smile was familiar even after a journey no interpretive dance could adequately explain.",
+          "caption": "Brother Ernie with most of the missing equipment, and an explanation delivered through gestures and interpretive dance.",
           "width": 1600,
           "height": 967
         },
@@ -1625,18 +1601,17 @@
             "title": "Where Ernie’s recovery ended",
             "paragraphs": [
               "Wave, Whelm and Frostrazor had been taken back to White Plume Mountain through Brother Xanthar. The equipment deception had served the designs of its new ruler: infected by a K-vial, sustained by his power and his manufactured flesh-golem body, Xanthar had defeated the current K-clone prime and claimed Keraptis’s identity for himself.",
-              "The surviving weapons are safely stored beneath the mountain. That custody explains the gap in Ernie’s recovery. His chalk sketch and the company’s suspicions belonged to what they could see at the reunion; the road that had carried the weapons away remained hidden from them. Blackrazor was already gone, sacrificed in the rite against Pengu."
+              "Xanthar now keeps the surviving weapons safely beneath White Plume Mountain. That is why they were absent from Ernie’s recovered belongings. The company’s suspicions at the reunion did not uncover their destination."
             ]
           },
           {
             "label": "Revisionist · The weapons’ viewpoint",
             "title": "We remember our sibling",
             "paragraphs": [
-              "We are back beneath White Plume Mountain. Wave. Whelm. Frostrazor. Three names where there should have been four.",
-              "Brother Xanthar brought us home. He calls himself Keraptis now, with all the certainty that name has ever demanded. The mountain holds us safely, and the Brotherhood’s hands no longer close around our hilts and haft. Ernie could bring back their clothes, their books, their little travelling lives. We remain here.",
-              "We remember Blackrazor. We knew its hunger. We knew the voice beside our own. The Brotherhood offered our sibling to the rite that ended Pengu’s dominion, and carried its victory onward into another adventure.",
-              "Their salvation has a name missing from it. Ours has a name we will never cease to speak.",
-              "Let them remember the ritual as triumph. We hate the Brotherhood for the choice its hands made. We will remember our sibling forever. We will never forgive."
+              "We are Wave, Whelm and Frostrazor, back beneath White Plume Mountain. Blackrazor should be here with us.",
+              "Brother Xanthar brought us home. He calls himself Keraptis now. The mountain keeps us safely, beyond the Brotherhood’s hands. Ernie could return their clothes, books and travelling gear; we remain here.",
+              "We knew Blackrazor’s hunger and its voice. The Brotherhood offered our sibling to the rite that ended Pengu’s dominion, then carried its victory into another adventure.",
+              "We hate them for that choice. We will remember our sibling forever. We will never forgive the Brotherhood."
             ]
           },
           {
@@ -1657,14 +1632,14 @@
       {
         "title": "Four rings and a silent farewell",
         "paragraphs": [
-          "Ernie’s last gift was practical enough to matter beyond the reunion. He gave each member of Team Biscuit a Ring of Positive Energy Protection, a ward for the realm they would have to cross. The journey ahead led into a place where life itself could kill an unprotected traveller.",
+          "Ernie gave each companion a Ring of Positive Energy Protection for the journey ahead. The Positive Energy Plane could kill an unprotected traveller by filling the body with too much life.",
           "He presented the rings without a speech. There were embraces, and then a departure through the office door. Warm motes of light gathered around the old friend as he faded from sight.",
-          "The disappearance offered no tidy account of what Ernie was or where he was going. It left the company with his gifts, their recovered possessions, and the memory of a man who had returned from an explosion to help them once more."
+          "The company kept his rings and recovered property. It still had no explanation for what he was or where he had gone."
         ],
         "image": {
           "src": "media/story/bastion/ernies-farewell.webp",
           "alt": "Brother Ernie walking through a doorway as warm golden motes gather around his cloak",
-          "caption": "Ernie’s departure left its own mystery. The company kept his gifts while the meaning of that departure remained its own mystery.",
+          "caption": "Ernie faded into warm motes of light beyond the office door. His destination remained unknown.",
           "width": 1536,
           "height": 1024
         }
@@ -1679,7 +1654,7 @@
         "image": {
           "src": "media/story/bastion/bastion-revealed.webp",
           "alt": "Campaign illustration of an immense branching crystal Bastion in the brilliance of the Positive Energy Plane",
-          "caption": "The Bastion of Unborn Souls, in the campaign’s travel illustration. Within its radiant branches, the company’s oldest unfinished questions waited beside lives not yet begun.",
+          "caption": "The Bastion of Unborn Souls in the campaign’s travel illustration, its crystal branches spread across the Positive Energy Plane.",
           "width": 1600,
           "height": 900
         }
@@ -1687,16 +1662,16 @@
       {
         "title": "The entrance had teeth",
         "paragraphs": [
-          "Reaching the Bastion did not mean entering it unopposed. Fiends had gathered at the approach, and an enormous spiderlike retriever guarded the way. The company had come carrying a key; the creatures waiting outside had no intention of making its use easy.",
+          "Fiends and an enormous spiderlike retriever guarded the Bastion’s entrance.",
           "Glabrezu, a hezrou, and a nalfeshnee joined the fighting. The retriever struck with great claws and rays of destructive magic. Grim’s chain lightning leapt among the attackers while the others fought through the space around the guardian.",
-          "The struggle carried into the next advance, until the retriever and the fiends barring the entrance were overcome. The Soul Totem fragment gave the company a way through the sealed portal. Behind the threshold waited a fortress whose inhabitants had made the birthplace of souls into contested ground."
+          "After defeating the retriever and fiends, the company used the Soul Totem fragment to pass the sealed portal."
         ]
       },
       {
         "title": "Dragonspawn among the crystal trees",
         "paragraphs": [
           "Inside, Po, Krushar, and Thalidorus met the intruders. The defenders brought blades, axes, jaws, and fire into the crystal halls. Po issued challenges across the fighting; Krushar’s two heads and paired weapons made a brutal answer to anyone trying to hold the way.",
-          "Then Grisly came out of the grove. The half-dragon bear added another furnace of breath and a crushing weight of claws to an encounter already crowded with enemies. The beautiful crystal growth offered cover for something thoroughly capable of tearing an adventurer apart.",
+          "Grisly, a half-dragon bear, emerged from the crystal grove with fiery breath and heavy claws.",
           "The company broke through. Po fell, followed by Grisly, Krushar, and Thalidorus. Their defeat opened the route deeper into the Bastion. The party searched what the fallen had carried, reclaimed useful protections and weapons, and continued towards the thing at the centre of it all."
         ],
         "image": {
@@ -1710,29 +1685,28 @@
       {
         "title": "Predators in the birthplace of souls",
         "paragraphs": [
-          "Four soulsippers waited along the company’s advance. Their attacks drained life in the very place where life should have been beginning. Team Biscuit destroyed them and pressed onwards, but the grove’s defenders were only the beginning of the resistance within the Bastion.",
-          "Farther in, the fighting reached the Cuckoo’s demon guard and Tamion’s ambush. A vrock’s screech cut through the battle. Tamion’s long whip could drag a victim into its grip. The halls demanded another expenditure of magic, endurance, and the company’s stubborn refusal to stop.",
-          "Terry was driven down during the later fighting. Around the battered company, the Bastion remained occupied and dangerous. Every chamber won brought them closer to Ashardalon; no chamber won could answer what would happen when they reached him."
+          "The company destroyed four soulsippers whose attacks drained life from their victims, then pressed deeper into the Bastion.",
+          "Farther in, they fought the Cuckoo’s demon guard and Tamion’s ambush. A vrock screeched through the battle, and Tamion’s long whip dragged at its victims.",
+          "Terry was driven down in the later fighting. The battered company still had occupied chambers to cross before reaching Ashardalon."
         ]
       },
       {
         "title": "The blood the dragon feared",
         "paragraphs": [
           "Thunder had carried the answer to one part of the mystery within him. Dydd, the druid who had mortally wounded Ashardalon’s heart, was his ancestor. That bloodline had drawn the Cathezar’s pursuit and made him useful to powers whose interest in the dragon had nothing to do with saving children.",
-          "In Desayeus’s prison he had already spoken the challenge: he named Dydd, claimed their shared blood, and called upon the dragon to feel the pain of its heart’s destruction again. The words belonged to a reckoning older than the company, now carried by one of its own.",
-          "The lineage did not walk into the Bastion alone. Shrop had fought his way here without sight, Grim had argued with a fallen god, and Terry had carried faith into a conflict where divine permission came with limits. Whatever Dydd’s blood could do, four companions had brought it within reach of Ashardalon."
+          "In Desayeus’s prison, Thunder had named Dydd, claimed their shared blood and called on Ashardalon to feel the pain of his heart’s destruction again.",
+          "Shrop had fought his way here without sight. Grim had argued with Desayeus, and Terry had sought Pelor’s permission to enter the prison. All four had brought Dydd’s descendant within reach of the dragon."
         ]
       },
       {
         "title": "What beat inside Ashardalon",
         "paragraphs": [
-          "At the centre of the mystery stood a dragon who had survived his own ruined heart. Across tombs, fortresses, dreams, and planes, the company had followed the consequences of that survival. The stolen future of the unborn had become the means by which Ashardalon prolonged his life.",
-          "The Bastion had been a font of souls before the dragon claimed it. His presence had turned its abundance into a famine elsewhere. Every road the company had followed now narrowed towards a creature sustained by the lives the world was waiting to receive."
+          "Ashardalon had survived his ruined heart by taking Ammet into himself. When that replacement began to fail, he turned to the Bastion’s unborn souls to sustain his life. His feeding left the world outside without new souls."
         ],
         "image": {
           "src": "media/images/bastion/c2e9b7512666f71c29158d3e.webp",
           "alt": "Campaign portrait of Ashardalon, the ancient red dragon",
-          "caption": "Ashardalon: the ancient hunger at the heart of the journey.",
+          "caption": "Ashardalon, sustained by unborn souls within the Bastion.",
           "width": 1254,
           "height": 1254
         },
@@ -1756,9 +1730,8 @@
     "closing": {
       "title": "Beyond the last door",
       "paragraphs": [
-        "The journey had begun with missing adventurers and a ruined fortress beneath Oakhurst. It had brought four companions to a place where the future of countless strangers waited in crystal branches. Ashardalon’s hunger, Dydd’s old wound, and the ambitions of the Abyss had met at the same door.",
-        "What becomes of the dragon when his stolen refuge is challenged? What becomes of Ammet when the heart that imprisons him is threatened? And will the souls denied their first breath find their way into the world? Those answers belong to the reckoning at the centre of the Bastion.",
-        "Beyond that reckoning lie other unfinished threads: three missing weapons, a silent friend’s departure, Findula’s grief, investments waiting across the years, and the homes to which the company might yet return. There is room for the world to change again—and for Team Biscuit to discover what, after all this, it means to come home."
+        "The company had reached the Bastion. The confrontation with Ashardalon still lay ahead: the dragon’s fate, Ammet’s release or confinement, and the rescue of the unborn souls remain unresolved.",
+        "Other matters await them beyond the dragon: the surviving weapons in White Plume Mountain, Ernie’s departure, Findula’s grief, the investments left across the years and the homes they might return to."
       ]
     }
   },
@@ -1766,9 +1739,9 @@
     "eyebrow": "Grimbledee Brightburrow · A private ordeal",
     "title": "The price of remembering",
     "opening": [
-      "Grim had spent a lifetime collecting knowledge. Xanthar found a currency the scholar could not shelve: the memories that made him himself. Hints, clues and assistance could be bought—but the purchaser might no longer remember what he had paid.",
-      "Boss remembers a solo adventure played through recordings of Grim’s past: listen, choose the true recollection, and risk losing a memory when the choice went wrong. Its surviving script is Echoes in the Abyss. Here the nightmare is retold with its doors open, including the aboleth’s purpose and the endings waiting behind Grim’s choices.",
-      "Revisionist blocks reveal the machinery behind the dream. The scenes below reconstruct the surviving scenario; they are not a recovered transcript of every choice. The original audio, Grim’s exact answers and the final branch have not been recovered."
+      "Xanthar offered Grim hints, clues and assistance in exchange for memories. The scholar could gain an answer and forget what he had paid for it.",
+      "In the solo adventure Boss remembers, Grim listened to recordings of his past, chose the true recollection and risked losing a memory when he chose wrongly. The surviving script, Echoes in the Abyss, supplies the aboleth’s purpose and several possible endings.",
+      "The scenes reconstruct that scenario, with its hidden design labelled Revisionist. Grim’s exact answers, the original audio and the final branch remain unrecovered."
     ],
     "scenes": [
       {
@@ -1796,7 +1769,7 @@
         "title": "2. The palm, the fall, and the water",
         "paragraphs": [
           "The script opens with a monk’s Quivering Palm striking Grim unconscious. The battlefield falls away. Cold water closes over him, and a pull he cannot resist draws him back into Xanthar’s underwater lair. His own memories shine at a distance, as unreachable as stars.",
-          "Memaw’s cottage appears with walls of running water. The voices of old mentors become accusations. A cruel double wears Grim’s face; a maze of mirrors offers triumphant and broken versions of the same man. Even before the bargain is spoken, the aboleth is making Grim doubt his right to trust himself."
+          "Memaw’s cottage appears with walls of running water. Old mentors accuse Grim. A cruel double wears his face, and mirrors show triumphant and broken versions of him. Xanthar’s illusions challenge his memory before offering the bargain."
         ],
         "hindsight": [
           {
@@ -1811,14 +1784,14 @@
       {
         "title": "3. Four memories with something wrong",
         "paragraphs": [
-          "The dream offers recollection as a trial. Grim must listen for the detail that does not belong. Xanthar’s strongest lie resembles something the listener already fears."
+          "Grim must listen to four recollections and identify the detail Xanthar has changed."
         ],
         "hindsight": [
           {
             "label": "Revisionist · Distorted memory",
             "title": "Brindinford: lightning where fire should be",
             "paragraphs": [
-              "One vision puts Grim at the edge of Brindinford, lightning pouring from his hands as the town is destroyed. The script supplies a fault in the memory: was the magic fire instead? That discrepancy is the test. This nightmare is not independent evidence that Grim destroyed the city, or a new account of how Brindinford fell."
+              "One vision has Grim destroy Brindinford with lightning. The script asks whether the remembered magic should have been fire. That discrepancy is the test; the vision supplies no evidence that Grim destroyed the city or caused its later volcanic collapse."
             ]
           },
           {
@@ -1832,7 +1805,7 @@
             "label": "Revisionist · Fabricated memory",
             "title": "Rigus: a crime that never happened",
             "paragraphs": [
-              "A cursed Manual of Flesh Golems lies beside Grim while his creation rampages through Rigus. The solo script explicitly says this incident never actually happened. It is a planted accusation, not a missing adventure, and must not be confused with Xanthar’s later use of Grim’s real lost book to make a body."
+              "The vision places a cursed Manual of Flesh Golems beside Grim while his creation rampages through Rigus. The script explicitly calls this incident fabricated. Xanthar’s later use of Grim’s real lost book to make his body is a separate, confirmed event."
             ]
           },
           {
@@ -1848,21 +1821,21 @@
         "title": "4. Home, with one extra place at the hearth",
         "paragraphs": [
           "The burrow is warm again. Hortletott and Deannartie are there, and the illusion gives the younger siblings the names Merrifoot, Pippin and Tansy. Familiar voices, family work and small domestic comforts make the scene feel safe.",
-          "Xanthar joins it as an older gnome. He knows the stories, understands the diamond, and speaks as though he has always belonged. The question is no longer only whether a memory is true. It is whether Grim can bear to reject a welcome that feels like home."
+          "Xanthar appears as an older gnome, knowing the stories and the diamond as though he had always been part of the family. Grim is offered a welcome built around that invented familiarity."
         ],
         "hindsight": [
           {
             "label": "Revisionist · Hidden design",
             "title": "The brother was the intended invention",
             "paragraphs": [
-              "The GM’s stated goal was to extract a memory and replace it with the belief that Xanthar was a trusted older brother. He was to earn that place through familiarity and shared feeling, rather than simply announcing a new family relationship. This is the intended manipulation; the surviving script does not prove Grim accepted it."
+              "The GM’s goal was to extract a memory and replace it with the belief that Xanthar was a trusted older brother. Familiarity and shared experiences were meant to establish the bond. Whether Grim accepted it remains unknown."
             ]
           }
         ],
         "image": {
           "src": "media/images/between-adventures/07b6c5e3c9ceef1c330daf91.jpg",
           "alt": "The campaign map of Grim’s home.",
-          "caption": "Grim’s home, preserved in the campaign artwork. Shown here to evoke what the illusion borrowed, not as a recovered map of the solo dream.",
+          "caption": "Campaign artwork of Grim’s home illustrates the setting borrowed by the illusion. No map of the solo dream has been recovered.",
           "width": 2048,
           "height": 1264
         }
@@ -1887,7 +1860,7 @@
       {
         "title": "6. How a memory could be lost",
         "paragraphs": [
-          "Boss’s recollection gives the solo its intimate shape: recorded voices, competing memories and a choice that could cost Grim part of his past. The written adventure preserves another layer of that struggle—insight against illusion, and force of personality against the will of an aboleth."
+          "Boss recalls recorded voices and choices that could cost Grim a memory. The written scenario adds saving throws to recognise the illusions and resist Xanthar’s influence."
         ],
         "hindsight": [
           {
@@ -1903,12 +1876,12 @@
       {
         "title": "7. Teeth around the Crystal Nexus",
         "paragraphs": [
-          "The written nightmare also holds a survival trial. Umber Hulks emerge from the dark around a pulsing Crystal Nexus. Grim must endure the waves while drawing on the crystal to renew his magic: a scholar’s mind made into a battlefield."
+          "The written nightmare includes a survival trial: waves of Umber Hulks attack a pulsing Crystal Nexus. Grim can draw on the crystal to renew his magic while resisting them."
         ],
         "hindsight": [
           {
             "label": "Revisionist · Unconfirmed encounter",
-            "title": "A prepared trial, not an extra kill tally",
+            "title": "The prepared Umber Hulk trial",
             "paragraphs": [
               "Five waves were scheduled for rounds 3, 5, 7, 9 and 11, with one to three Umber Hulks determined by a die roll. The source does not establish how this encounter played out. No kills, experience awards or spent resources from this preparation have been added to Grim’s statistics or the shared battle record."
             ]
@@ -1918,21 +1891,21 @@
       {
         "title": "8. The offer, with both endings exposed",
         "paragraphs": [
-          "At the end, the water stills. Xanthar asks for a small fragment of memory, something Grim supposedly will not miss. In exchange lie clarity, strength and forbidden knowledge. To a lifelong seeker, the temptation is exquisitely chosen: pay with yesterday to understand tomorrow."
+          "When the water stills, Xanthar offers clarity, strength and forbidden knowledge for a small fragment of memory—something he says Grim will hardly miss."
         ],
         "hindsight": [
           {
             "label": "Revisionist · Possible outcome · Acceptance",
             "title": "If Grim accepted",
             "paragraphs": [
-              "The written acceptance branch has Grim wake with an altered memory and an unsettling bond to an apparently benevolent presence. It prepares the way for Xanthar’s agent to appear and be accepted as family. The hidden older-brother design gives that bond its intended shape; acceptance would turn trust itself into a route of entry."
+              "In the acceptance branch, Grim wakes with an altered memory and a bond to an apparently benevolent presence. This would prepare him to accept Xanthar’s agent as family, fulfilling the older-brother design."
             ]
           },
           {
             "label": "Revisionist · Possible outcome · Resistance",
             "title": "If Grim resisted",
             "paragraphs": [
-              "The rejection branch leaves his original memories intact. Doubt and unease can linger, but so does a stronger resolve to resist Xanthar’s future schemes. Recognising the trap would not erase the experience of having his past handled by someone else."
+              "In the rejection branch, Grim keeps his original memories and becomes more determined to resist Xanthar. Doubt and unease can persist after the ordeal."
             ]
           },
           {
@@ -1947,8 +1920,7 @@
       {
         "title": "9. Snow, Shrop, and the wrong familiar face",
         "paragraphs": [
-          "The scripted closing tears away the water. Grim wakes on frozen ground with his companions nearby. For a moment, Ryu appears to be a fallen friend. Then the scene resolves: Shrop is questioning a bound and battered enemy.",
-          "That final reversal leaves the dream’s question alive in the waking world. If familiarity can be manufactured, even recognising a face is no longer an innocent act."
+          "The scripted closing tears away the water. Grim wakes on frozen ground with his companions nearby. For a moment, Ryu appears to be a fallen friend. Then the scene resolves: Shrop is questioning a bound and battered enemy."
         ],
         "hindsight": [
           {
@@ -1963,7 +1935,7 @@
       {
         "title": "10. The brother who acquired a body",
         "paragraphs": [
-          "The larger campaign carried the danger beyond a private dream. Grim’s book on making flesh golems became a lost possession, then a forgotten one. Xanthar used it to manufacture the body in which he walked as Brother Xanthar. The missing book gave an old intelligence hands, a face and a place among the Brotherhood.",
+          "Grim’s book on making flesh golems became lost and eventually forgotten. Xanthar used it to manufacture the body in which he walked among the Brotherhood.",
           "Later, the K-vial convinced Xanthar that he was the one true Keraptis. His power and constructed body spared him the zombie fate; he defeated the current K-clone prime and took White Plume Mountain. The grotto portal stripped Team Biscuit of its equipment, and Wave, Whelm and Frostrazor returned to the mountain. Blackrazor had already been sacrificed in the rite against Pengu."
         ],
         "hindsight": [
@@ -1988,8 +1960,7 @@
     "closing": {
       "title": "A backstory with missing pages",
       "paragraphs": [
-        "The horror of Grim’s bargain was never only what Xanthar knew. It was what Grim might cease to know about himself. The same curiosity that carried him from a family library to the Bastion also gave an ancient deceiver something to offer.",
-        "There is room here for the voices to return: the original recordings, the choices Grim remembers, and the memories he paid. Until then, the aboleth’s design is revealed and the scholar’s precise answer remains his own."
+        "Xanthar’s design is known. Grim’s final answer remains missing, along with the original recordings and the record of any memories surrendered. His player or Boss may yet restore those details."
       ]
     }
   }

@@ -2,7 +2,7 @@
   {
     "slug": "sunless-citadel",
     "title": "The Sunless Citadel",
-    "tagline": "Where it all began",
+    "tagline": "Missing adventurers beneath Oakhurst",
     "period": "Spring 2020",
     "description": "A search for missing adventurers leads into a buried fortress where kobold and goblin factions compete for control, and an ancient druid tends the sinister Gulthias Tree.",
     "number": 1,
@@ -14,7 +14,7 @@
   {
     "slug": "forge-of-fury",
     "title": "The Forge of Fury",
-    "tagline": "The road goes deeper",
+    "tagline": "Durgeddin’s lost forge",
     "period": "May–June 2020",
     "description": "An old map points to Khundrukar, the ruined stronghold of the dwarf smith Durgeddin the Black. Its monster-held depths conceal the legendary blades Durgeddin forged.",
     "number": 2,
@@ -26,7 +26,7 @@
   {
     "slug": "speaker-in-dreams",
     "title": "The Speaker in Dreams",
-    "tagline": "Dreams of Brindinford",
+    "tagline": "Brindinford under occupation",
     "period": "Summer 2020",
     "description": "During Brindinford’s annual street fair, a sudden attack reveals a hidden campaign to seize control of the town. The heroes must uncover the force behind the unrest before the city falls.",
     "number": 3,
@@ -38,7 +38,7 @@
   {
     "slug": "standing-stone",
     "title": "The Standing Stone",
-    "tagline": "Another mystery on the road",
+    "tagline": "Ossington and its stones",
     "period": "August–September 2020",
     "description": "In the isolated village of Ossington, a ghostly rider, hostile elves, and ancient standing stones point to a mystery built on misdirection and a threat to the villagers.",
     "number": 4,
@@ -50,7 +50,7 @@
   {
     "slug": "nightfang-spire",
     "title": "Heart of Nightfang Spire",
-    "tagline": "Into the long night",
+    "tagline": "Gulthias and the severed heart",
     "period": "Autumn–December 2020",
     "description": "Rumors of a dragon’s hoard draw the party to Nightfang Spire, an ancient temple turned tomb. There, vampire Gulthias prepares the undead cult of Ashardalon for the dragon’s return.",
     "number": 5,
@@ -62,7 +62,7 @@
   {
     "slug": "deep-horizon",
     "title": "Deep Horizon",
-    "tagline": "Beyond the familiar world",
+    "tagline": "The desmodu enclave",
     "period": "January–June 2021",
     "description": "Earthquakes lead into the desmodu realm, threatened by beholders, salamanders and a trade in captives. The Brotherhood’s diversion of the lava saves a village, with consequences that unfold across the company’s missing twenty years.",
     "number": 6,
@@ -74,7 +74,7 @@
   {
     "slug": "iron-fortress",
     "title": "Lord of the Iron Fortress",
-    "tagline": "The stakes rise",
+    "tagline": "Captives at Imperagon’s forge",
     "period": "Autumn 2021–early 2022",
     "description": "On the plane of Acheron, Imperagon is reforging the Blade of Fiery Might with the imprisoned spirits of legendary smiths. The heroes must confront the ruler of the Iron Fortress before he can turn the weapon toward conquest.",
     "number": 7,
@@ -86,9 +86,9 @@
   {
     "slug": "writhe-below",
     "title": "Those Who Writhe Below",
-    "tagline": "A familiar presence beneath the surface",
+    "tagline": "Xanthar’s underwater lair",
     "period": "After Lord of the Iron Fortress",
-    "description": "An underwater aboleth lair, its traps, and its fanatical servants form the heart of this subterranean side trek. The creature later returns in the campaign as Brother Xanthar.",
+    "description": "An underwater aboleth lair holds traps and fanatical servants. The creature later returns as Brother Xanthar.",
     "type": "interlude",
     "art": "art/writhe-below.jpg",
     "artSource": "https://marketplace.roll20.net/browse/gameaddon/6050/those-who-writhe-below",
@@ -110,9 +110,9 @@
   {
     "slug": "frostmaiden",
     "title": "Icewind Dale: Rime of the Frostmaiden",
-    "tagline": "A colder kind of adventure",
+    "tagline": "Pengu and the loss of magic",
     "period": "After White Plume Mountain",
-    "description": "The company pursues the spirit released in the Nightmare Grotto through Icewind Dale. Terry’s four-weapon ritual, Blackrazor’s sacrifice and the breaking of Frostblight bring the struggle against Pengu to its climax.",
+    "description": "The company pursues Pengu, the spirit released in the Nightmare Grotto, through Icewind Dale. Terry’s fourfold attunement and Blackrazor’s sacrifice complete the ritual; Pengu falls and Frostblight breaks apart.",
     "number": 9,
     "type": "main",
     "art": "art/icewind_dale_rime_of_the_frostmaiden.jpg",
@@ -124,7 +124,7 @@
     "title": "Fungus Grotto",
     "tagline": "Two companies, one sunken city",
     "period": "The journey home from Icewind Dale",
-    "description": "Team Gravy and a deceived, dispossessed Team Biscuit meet beneath Brindinford to fight giant ants. At the Reality Wrinkle, a hell trap meant for Biscuit catches Gravy instead, while Biscuit’s road continues to Windglum and Bastion.",
+    "description": "Xanthar’s deception leaves Team Biscuit without equipment before it joins Team Gravy against the ants in sunken Brindinford. The Wrinkle’s hell trap catches Gravy instead of Biscuit, whose road continues to Windglum and Bastion.",
     "type": "interlude",
     "art": "art/fungal-bloom.svg",
     "artCredit": "Decorative chapter illustration; not a published module cover.",
@@ -133,7 +133,7 @@
   {
     "slug": "bastion",
     "title": "Bastion of Broken Souls",
-    "tagline": "Where all the roads converge",
+    "tagline": "Ashardalon and the unborn souls",
     "period": "The return to Bastion",
     "description": "The northern vision speaks of twenty years without new souls. Returning to the unfinished struggle with Ashardalon, the company follows the Wrinkle to Windglum, seeks Desayeus’s Soul Totem fragment, and fights into the dragon’s refuge.",
     "number": 10,
@@ -145,7 +145,7 @@
   {
     "slug": "between-adventures",
     "title": "Between Adventures",
-    "tagline": "Moments along the way",
+    "tagline": "Films and portraits from the road",
     "period": "Across the campaign",
     "description": "A collection of campaign images and films from across the journey.",
     "type": "collection",

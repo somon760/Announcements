@@ -1,4 +1,4 @@
-import { renderCompanyHonours } from './battles.js?v=battle-chronicle-2';
+import { renderCompanyHonours } from './battles.js?v=battle-chronicle-4';
 const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
 }[character]));
@@ -25,20 +25,20 @@ function statistics(person) {
 
 
 function possessions(person) {
-  return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">Distinctive belongings from the character’s sheets, biography and adventures. A remembered possession is not a guarantee that it was carried or attuned at every point in the journey.</p>${person.inventoryNote ? `<p class="character-stat-note">${escape(person.inventoryNote)}</p>` : ''}<dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
+  return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">These belongings are recorded at different points in the sheets, biography and adventures. Possession and attunement may have changed along the way.</p>${person.inventoryNote ? `<p class="character-stat-note">${escape(person.inventoryNote)}</p>` : ''}<dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
     ${person.traits ? `<section id="character-traits" tabindex="-1" class="character-section"><p class="eyebrow">Habits, talents &amp; contradictions</p><h2>Distinctly ${escape(person.shortName)}.</h2><dl class="character-trait-list">${person.traits.map(trait => `<div><dt>${escape(trait.name)}</dt><dd>${escape(trait.text)}</dd></div>`).join('')}</dl></section>` : ''}`;
 }
 
 export function renderCompanions(people) {
   return `<article class="companions-index">
     <header class="section companions-intro"><p class="eyebrow">The people who made the tale</p>
-      <h1>Eight lives.<br><em>One tangled story.</em></h1>
-      <p>Before the dragons, the broken cities and the roads between worlds, there were people with reasons to leave home. Meet the two companies: their beginnings, their changing gifts, and the secrets waiting behind their adventures.</p>
-      <p class="revisionist-key"><strong>Revisionist</strong> notes open the curtain on hidden history or offer a retrospective reading of an arc. They do not give a character knowledge they never had. Unanswered mysteries remain unanswered.</p>
+      <h1>Team Biscuit<br><em>and Team Gravy.</em></h1>
+      <p>Meet the eight companions through their reasons for leaving home, their adventures and their changing abilities. Each profile includes equipment, portraits and the secrets revealed in hindsight.</p>
+      <p class="revisionist-key"><strong>Revisionist</strong> notes distinguish hidden history from interpretation while preserving what the characters knew at the time.</p>
       <nav class="company-jump" aria-label="Choose a company"><a href="#/companions/team-biscuit">Team Biscuit ↓</a><a href="#/companions/team-gravy">Team Gravy ↓</a></nav>
     </header>
     ${['Team Biscuit', 'Team Gravy'].map((company, index) => `<section id="${index ? 'team-gravy' : 'team-biscuit'}" tabindex="-1" class="section company-section">
-      <div class="section-intro"><div><p class="eyebrow">${index ? 'The other company' : 'The familiar four'}</p><h2>${company}</h2></div><p>${index ? 'An expedition through the fungal dark, a falling boat, and a fight alongside Team Biscuit in sunken Brindinford—before the Wrinkle’s trap left all four lost in Hell.' : 'From the Citadel to the Bastion: a soldier, a scholar, a priest and a performer, carrying more history than they first understood.'}</p></div>
+      <div class="section-intro"><div><p class="eyebrow">${index ? 'The other company' : 'The familiar four'}</p><h2>${company}</h2></div><p>${index ? 'An expedition through the fungal dark, a falling boat, and a fight alongside Team Biscuit in sunken Brindinford—before the Wrinkle’s trap left all four lost in Hell.' : 'Shrop the soldier, Grim the scholar, Terry the priest and Thunder the performer travelled from the Citadel to the Bastion.'}</p></div>
       <div class="companion-cards">${people.filter(person => person.company === company).map(person => `<a class="companion-card" href="${profileUrl(person)}">
         <img src="${escape(person.portrait)}" alt="${escape(person.portraitAlt)}" loading="lazy" width="300" height="300">
         <div><p class="eyebrow">${escape(person.facts[0][1])} · ${escape(person.facts[1][1])}</p><h3>${escape(person.name)}</h3><p>${escape(person.summary)}</p><span class="explore">Read ${escape(person.shortName)}’s story ↗</span></div>
@@ -71,7 +71,7 @@ export function renderCharacter(person, people, chapters, battles) {
       ${renderCompanyHonours(person,battles,chapters)}
       <section class="character-section"><p class="eyebrow">Gifts, keepsakes &amp; burdens</p><h2>What they carried.</h2><div class="character-gifts">${person.gifts.map(gift => `<section><h3>${escape(gift.name)}</h3><p>${escape(gift.text)}</p></section>`).join('')}</div></section>
       ${possessions(person)}
-      <section id="character-revisionist" tabindex="-1" class="character-section"><p class="eyebrow">Behind the tale</p><h2>What the road concealed.</h2><p class="revisionist-explainer">These notes speak from beyond the character’s viewpoint. Hidden history reveals a cause or design; a retrospective reading offers an interpretation. Unfinished endings still have room to be written.</p>${person.revisionist.map(note => `<aside class="character-revisionist" aria-label="Revisionist: ${escape(note.kind)}"><p class="eyebrow">Revisionist · ${escape(note.kind)}</p><h3>${escape(note.title)}</h3>${prose(note.paragraphs)}</aside>`).join('')}</section>
+      <section id="character-revisionist" tabindex="-1" class="character-section"><p class="eyebrow">Behind the tale</p><h2>What the road concealed.</h2><p class="revisionist-explainer">Hidden history reveals causes and designs beyond the character’s knowledge. Retrospective readings interpret the events; unresolved outcomes remain open.</p>${person.revisionist.map(note => `<aside class="character-revisionist" aria-label="Revisionist: ${escape(note.kind)}"><p class="eyebrow">Revisionist · ${escape(note.kind)}</p><h3>${escape(note.title)}</h3>${prose(note.paragraphs)}</aside>`).join('')}</section>
       <section class="character-section story-prose"><p class="eyebrow">Threads still loose</p><h2>The unwritten pages.</h2>${prose(person.unfinished)}</section>
       <section id="character-portraits" tabindex="-1" class="character-section"><p class="eyebrow">Faces from the table</p><h2>Portraits &amp; tokens.</h2><div class="character-art">
         <figure><a href="${escape(person.portrait)}" target="_blank" rel="noopener"><img src="${escape(person.portrait)}" alt="${escape(person.portraitAlt)}" loading="lazy" width="300" height="300"></a><figcaption>${sameArtwork ? 'The journal uses this same original artwork as its portrait and token. Open the image ↗' : 'The campaign journal portrait. Open the image ↗'}</figcaption></figure>

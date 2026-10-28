@@ -40,23 +40,23 @@
       ],
       "backstory": [
         "Shrop knew his mother’s name: Caroleena, or Carolee. Much else was missing. Born to an orc father and a human mother, he had never been fully accepted by one family and never known the other. At twelve he entered the Stolen Sons. Whether he had been conscripted, sold, or taken was a question his own history could not answer.",
-        "At sixteen, a job in the Western Vinlands gave him the name Shireslasher. The mission was already accomplished; the village did not need to be destroyed. He followed orders anyway. Something about that ruin stirred memories of his mother, and the name became a reminder of what obedience had cost. He left the mercenaries and spent years running from them. He still liked a soldier’s work. He meant to choose whose orders deserved following.",
-        "His bluntness concealed uncomfortable contradictions. He valued freedom, yet carried a harsh judgment of poverty born from his own poor childhood. He could insist on a funeral, let a child win an arm-wrestling match, and then meet the next problem by breaking its door. Team Biscuit gave those impulses a company to belong to."
+        "At sixteen, he followed orders to destroy a village in the Western Vinlands after the mission was already accomplished. The raid earned him the name Shireslasher and stirred memories of his mother. He deserted the mercenaries and spent years running from them, still drawn to soldiering but determined to choose whose orders he followed.",
+        "He valued freedom while judging poverty harshly, despite his own poor childhood. Among his companions, he could insist on a funeral, let a boy win at arm wrestling and break down the next door."
       ],
       "progression": [
         {
           "title": "A name made in the Citadel",
-          "text": "Shrop helped bargain with the Hurcreles, freed Erky Timbers, recovered Shatterspike, and stood between the party and the dungeon’s teeth. His early history also records the discovery of Grim: the future company was still finding its shape.",
+          "text": "Shrop helped bargain with the Hurcreles, freed Erky Timbers, recovered Shatterspike and discovered Grim in the Citadel.",
           "chapter": "sunless-citadel"
         },
         {
           "title": "The runaway met the wider trade",
-          "text": "Khundrukar brought more clues about the Stolen Sons, rescued commoners, duergar and Nightscale. The man who opened almost every door was following a very personal trail through someone else’s fortress.",
+          "text": "At Khundrukar, he opened doors, fought duergar and Nightscale, helped rescue commoners and found more clues about the Stolen Sons.",
           "chapter": "forge-of-fury"
         },
         {
           "title": "A sacrifice, a curse, and Shreagle",
-          "text": "At Pelor’s temple he sacrificed Shatterspike. Around Ossington, Grim’s magic gave him the first Shreagle flight; later, the cursed axe narrowed his choices until Thunder had to restrain him. In Nightfang he made the mooncalf leap while berserk. Strength remained his answer, but it was not always his own will asking the question.",
+          "text": "He sacrificed Shatterspike at Pelor’s temple. Near Ossington, Grim first transformed him into Shreagle. Thunder later restrained him when the cursed axe took hold; in Nightfang, Shrop leapt at the mooncalf while berserk.",
           "chapter": "nightfang-spire"
         },
         {
@@ -78,14 +78,14 @@
         },
         {
           "title": "The front of the company",
-          "text": "Sunken Brindinford joined his company to Team Gravy. The return to the Bastion then carried the old habit—go first, endure, make room for the others—towards the dragon whose name had followed them since the Citadel.",
+          "text": "After fighting beside Team Gravy in sunken Brindinford, Shrop returned to the Bastion. He continued going first towards the dragon whose name he had learned in the Citadel.",
           "chapter": "bastion"
         }
       ],
       "gifts": [
         {
           "name": "Frostmore and Foe Slasher",
-          "text": "Named weapons in an arsenal whose history includes both sacrifice and the danger of dependence."
+          "text": "His named weapons, carried after the sacrifice of Shatterspike and his struggle with the cursed axe."
         },
         {
           "name": "Storm-giant strength",
@@ -93,7 +93,7 @@
         },
         {
           "name": "Eldath’s foresight",
-          "text": "Eldath’s blessing adds foresight and protection to the endurance of the Champion. The blind fighter’s story continues on its own terms."
+          "text": "Eldath’s blessing grants foresight and protection alongside his Champion endurance. He remains blind."
         }
       ],
       "revisionist": [
@@ -101,14 +101,14 @@
           "kind": "Hidden history",
           "title": "The Stolen Sons were part of a larger market",
           "paragraphs": [
-            "Helkitrin’s account connects the Stolen Sons to a trade in captives for metals, reaching places the company knew: Blasingdell, Ossington and Brindinford among them. Shrop’s pursuers belonged to a system that turned people into supplies. That wider design gives his escape another weight; it does not settle who took him from Caroleena or what became of her."
+            "Helkitrin linked the Stolen Sons to captives traded for metals from Blasingdell, Ossington and Brindinford. The mercenaries pursuing Shrop belonged to that network. Who took him from Caroleena, and what became of her, remain unknown."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "The axe echoed an older command",
           "paragraphs": [
-            "His cursed fixation can be read as a cruel return to the problem that made him desert: something else deciding what his strength was for. Thunder’s intervention gave that moment a different ending from the Vinlands. This is a reading of the arc, not a secret explanation Shrop is claimed to have discovered."
+            "The cursed axe repeats a danger Shrop knew in the Vinlands: another will directing his strength. Thunder’s intervention broke that pattern on this occasion. This is a retrospective reading; Shrop is not known to have made the comparison himself."
           ]
         },
         {
@@ -116,7 +116,7 @@
           "title": "What escaped when the candle went out",
           "paragraphs": [
             "The spirit Shrop released by extinguishing the candle was Pengu. Its freedom brought the loss of magic that followed the company into Icewind Dale, weakening Grim’s spells and Terry’s divine aid. The consequences reached beyond the north: Rigus’s magical wards failed, leaving the city open to the demon army.",
-            "Shrop’s part in the release belongs beside the company’s later struggle to stop Pengu. Terry’s fourfold attunement and the sacrifice of Blackrazor completed the northern rite; Frostblight fell and magic began a gradual recovery. Pengu’s living obsidian egg remained beyond that victory. The candle links Shrop’s earlier act to the company’s answer."
+            "Terry’s fourfold attunement and Blackrazor’s sacrifice completed the rite against Pengu. Frostblight fell and magic began to recover, while Pengu’s living obsidian egg remained. The company had fought the spirit Shrop released."
           ]
         }
       ],
@@ -339,19 +339,19 @@
         },
         {
           "name": "Gold signet ring bearing the town seal of Ossington",
-          "text": "A small, specific connection to the town whose mysteries pulled the company towards Dydd’s older history."
+          "text": "The signet bears Ossington’s town seal, retained from the settlement whose mystery led the company towards Dydd’s history."
         },
         {
           "name": "Shrops Signature Grippy Fishing Rod",
-          "text": "Listed with a Topwater Popper, Minnow Bait and Silver Spinners. Even an epic fighter keeps equipment for quieter contests."
+          "text": "Listed with a Topwater Popper, Minnow Bait and Silver Spinners for fishing between expeditions."
         },
         {
           "name": "Bands of the Found and Lost",
-          "text": "A distinctive named possession on his sheet; its name is preserved without assigning it an unrecorded rescue or power."
+          "text": "Listed on his sheet. Its particular powers and use in play remain unrecorded here."
         },
         {
           "name": "Socks of the Well-Rested and Brooch of Many Sizes",
-          "text": "Two of the less martial comforts and conveniences travelling with the formidable armor."
+          "text": "Comforts and conveniences listed alongside his armor."
         },
         {
           "name": "Pattern for Doom of Pengu",
@@ -361,7 +361,7 @@
       "traits": [
         {
           "name": "Blind, alert and direct",
-          "text": "He meets trouble head-on, enjoys strength and breaking things, and prefers a simple solution. The blindness remains part of his character; foresight is not a written cure."
+          "text": "He enjoys strength, breaking things and direct solutions. His foresight boon has not cured his blindness."
         },
         {
           "name": "Champion’s critical edge",
@@ -384,7 +384,7 @@
           "text": "He values the freedom to choose his own battles, yet carries an unreasoning hatred of enemies and a harsh judgment of poverty born from his own childhood."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
+      "inventoryNote": "Xanthar’s portal left Team Biscuit naked and separated from its equipment. Ernie later recovered most belongings; Wave, Whelm and Frostrazor were still missing. Hindsight: Xanthar returned those three to White Plume Mountain, where he now rules as the self-proclaimed Keraptis. They remain safely stored there and will never forgive the Brotherhood for sacrificing their sibling, Blackrazor."
     },
     {
       "slug": "grim",
@@ -392,7 +392,7 @@
       "shortName": "Grim",
       "company": "Team Biscuit",
       "title": "The scholar who ran out of books",
-      "summary": "A dragon scholar with a family mystery, an ambitious spellbook, and a dangerous willingness to ask one more question.",
+      "summary": "A dragon scholar compiling a great spellbook, following his ancestor Eudostis and bargaining with powers eager to use his curiosity.",
       "portrait": "media/portraits/grim-portrait.png",
       "portraitAlt": "Grim’s journal portrait: a bearded gnome in green robes holding blue magical flame.",
       "token": "media/portraits/grim-token.png",
@@ -424,19 +424,19 @@
         ]
       ],
       "backstory": [
-        "Grim came from comfort, craftsmanship and books. His father, Hortletott Brightburrow, sold and bound them; his mother, Deannartie, made exquisite jewelry. His uncle Theothottle Braidedbeard offered something even more irresistible: a wizard’s library, and stories about dragons.",
-        "Theothottle spoke of his own grandfather Eudostis, who had seen a dragon while travelling with friends. A great diamond was said to have come from its hoard, though the missing stone’s provenance could not be proved. Grim inherited the uncle’s burrow and a much larger appetite for the subject. After more than thirty years exhausting the books and witnesses within reach, he understood what a library could no longer give him. He would have to go outside.",
-        "He left his family to tend his home and garden, promising to return intact, wealthier if possible, and wiser. His later ambition was grander still: one book containing all known magic. The gold eyes, carefully chosen clothes and wild beard belonged to a genial scholar whose own flaw admitted that an ancient mystery might be worth the price of a civilization."
+        "Grim’s father, Hortletott Brightburrow, sold and bound books; his mother, Deannartie, made jewelry. Uncle Theothottle Braidedbeard shared his wizard’s library and stories about dragons.",
+        "Theothottle said his grandfather Eudostis had seen a dragon while travelling with friends. A missing diamond supposedly came from its hoard, though its provenance was uncertain. Grim inherited his uncle’s burrow and spent more than thirty years exhausting the books and witnesses within reach before leaving to find a dragon himself.",
+        "His family tended his home and garden while he travelled, promising to return intact, wealthier if possible and wiser. He hoped eventually to compile all known magic in one book. Gold-eyed, carefully dressed and wildly bearded, he admitted a flaw: an ancient mystery might be worth the price of a civilization."
       ],
       "progression": [
         {
           "title": "Lore became a working tool",
-          "text": "In the Citadel, dragon knowledge, translation and familiar scouting served the whole party. Grim taught Terry Draconic, helped handle the Hurcrele captives without simply killing them, and returned the family’s rings. Research had acquired consequences.",
+          "text": "In the Citadel, Grim scouted with his familiar, taught Terry Draconic and translated dragon lore. He urged the party to subdue the Hurcrele captives and helped return their rings.",
           "chapter": "sunless-citadel"
         },
         {
           "title": "The dragon finally appeared",
-          "text": "Khundrukar offered Borol’s Ring, duergar questions, secret caches and Nightscale. The life achievement was wonderfully plain: dragons. The subject of decades of reading now watched him back.",
+          "text": "Khundrukar brought Borol’s Ring, duergar to question, secret caches and Nightscale. Grim finally saw the dragon he had spent decades studying.",
           "chapter": "forge-of-fury"
         },
         {
@@ -446,7 +446,7 @@
         },
         {
           "title": "The past was not finished",
-          "text": "The Sleeper episode drew Eudostis, the Time Stone and Crimson Crazuk into one account. The company returned to its own eighth-level lives before eventually reaching a time twenty years beyond its original present. Even a scholar of history could find himself misplaced inside it. The later northern vision spoke of twenty years without new souls: the company’s missing years had carried it into a world still suffering beneath Ashardalon’s hunger.",
+          "text": "The Sleeper explained Eudostis’s connection to the Time Stone and Crimson Crazuk. The company returned to its eighth-level lives, then overshot its original present by twenty years. A later divine vision named twenty years without new souls while Ashardalon fed in the Bastion.",
           "chapter": "white-plume"
         },
         {
@@ -457,7 +457,7 @@
         },
         {
           "title": "Knowledge before a fallen god",
-          "text": "Grim’s northern candle-work gathered the ingredients and prepared three sets of wax and wick. Terry’s fourfold attunement and Blackrazor’s sacrifice then brought the ritual against Pengu to completion. Later, Grim approached Desayeus with peaceful intent and questions about the Soul Totem. At level 22 he commands Spell Mastery, Signature Spells and an enormous repertoire: the little dragon scholar had become an archmage.",
+          "text": "Grim gathered the candle ingredients and prepared three sets of wax and wick. Terry’s fourfold attunement and Blackrazor’s sacrifice completed the Pengu ritual. Grim later approached Desayeus peacefully to ask about the Soul Totem. At level 22, he commands Spell Mastery, Signature Spells and an extensive repertoire.",
           "chapter": "bastion"
         }
       ],
@@ -478,24 +478,24 @@
       "revisionist": [
         {
           "kind": "Hidden history",
-          "title": "Eudostis was not simply a name on a tomb",
+          "title": "Eudostis’s captivity",
           "paragraphs": [
-            "Eudostis stole the Time Stone while trying to free the Sleeper, inadvertently removing the lock upon Crazuk. Lydzin later wished him into a parrot and kept him captive. The Sleeper partly repaired the damage to his mind and urged a return home. That hidden chain explains how an ancestor’s adventure became a living disaster; the actual homecoming remains unwritten."
+            "Eudostis stole the Time Stone to free the Sleeper, inadvertently unlocking Crazuk’s prison. Lydzin later wished him into a parrot and kept him captive. The Sleeper partly repaired his mind and urged him to rest at home; his actual homecoming remains unrecorded."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "A scholar’s most dangerous question",
           "paragraphs": [
-            "The scholar who valued an ancient answer above a civilization eventually stood before Desayeus, with a fragment needed to reach the Bastion and another person’s life bound into the route. Eco’s death and Findula’s farewell leave the appetite for knowledge beside its human cost. This is a retrospective reading of those events, not an invented confession or assignment of the killing blow."
+            "Grim’s willingness to trade a civilization for ancient knowledge invites comparison with the route through Desayeus’s prison. He sought a fragment needed to reach Bastion; Eco died, and Findula withdrew. That comparison is interpretive. It neither supplies Grim’s private judgment nor identifies who dealt Eco’s killing blow."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The book that became Brother Xanthar",
           "paragraphs": [
-            "While Grim was dealing with the aboleth across the company’s adventures, his book on making flesh golems became a lost possession and then a forgotten one. Xanthar used it to manufacture the body in which he appeared as Brother Xanthar. The scholar’s missing volume had given that old intelligence a new way to walk among the Brotherhood.",
-            "The body became part of a further transformation. A K-vial infected Xanthar with the conviction that he was the one true Keraptis. His power and flesh-golem form kept him from becoming a zombie; he defeated the current K-clone prime and took White Plume Mountain. The later equipment theft returned Wave, Whelm and Frostrazor there. Grim’s uncertainty at Ernie’s reunion did not reveal how far the consequences of his missing book had travelled."
+            "Grim lost and eventually forgot his flesh-golem book during his dealings with the aboleth. Xanthar used it to make the body in which he appeared as Brother Xanthar.",
+            "A K-vial convinced Xanthar that he was the one true Keraptis. His power and flesh-golem body spared him the zombie fate, and he defeated the current K-clone prime to take White Plume Mountain. His equipment theft returned Wave, Whelm and Frostrazor there. Grim did not discover that destination at Ernie’s reunion."
           ]
         },
         {
@@ -508,15 +508,15 @@
         }
       ],
       "unfinished": [
-        "The missing family diamond, the full contents of the ancient text, the eventual completion of the great spellbook, and Eudostis’s safe return are not resolved here. The old notes themselves move from uncertainty about the ancestor to a more definite identification; they do not provide a complete family tree.",
-        "At the Bastion, the dragon scholar’s oldest subject has become the company’s unfinished confrontation.",
+        "The family diamond, ancient text’s contents, great spellbook’s completion and Eudostis’s safe return remain unresolved. Grim’s old notes grew more certain about his ancestor’s identity, but leave gaps in the family tree.",
+        "Ashardalon, the dragon he studied, still awaits the company in the Bastion.",
         "Which memories did Grim surrender to Xanthar, and which voices did he recognise as false? The solo’s hidden purpose is known; its exact choices and ending still leave space for his own recollection."
       ],
       "memories": [
         {
           "src": "media/portraits/grim-early.png",
           "alt": "Grim’s earlier campaign portrait.",
-          "caption": "An earlier face from the road, before the spellbook and the dragon mystery had grown so large."
+          "caption": "An earlier campaign portrait of Grim."
         }
       ],
       "battleRecord": {
@@ -737,19 +737,19 @@
         },
         {
           "name": "Alchemist’s Supplies and Tinker’s Tools",
-          "text": "Practical extensions of the sage’s curiosity, with a herbalism kit and cook’s utensils in the same travelling collection."
+          "text": "He carries a herbalism kit and cook’s utensils alongside these supplies."
         },
         {
           "name": "Wand of Magic Missiles",
-          "text": "A dependable instrument in an arsenal that eventually reached ninth-circle spells."
+          "text": "A wand retained alongside his later ninth-circle spells."
         },
         {
           "name": "Bag of Holding and Bag of Tricks",
-          "text": "Storage for an acquisitive scholar, and a reminder that the next useful creature need not come from a conventional doorway."
+          "text": "Magical storage and a source of creatures, both listed among his belongings."
         },
         {
           "name": "Lantern of Revealing",
-          "text": "A fitting companion to the investigator who dislikes leaving a mystery unseen."
+          "text": "A magical lantern among the scholar’s tools for exploring hidden places."
         },
         {
           "name": "Candle of the Dark One",
@@ -761,7 +761,7 @@
         },
         {
           "name": "Lost book on making flesh golems — former possession",
-          "text": "A volume Grim lost and eventually forgot amid the aboleth thread. Revisionist: Xanthar used it to make his Brother Xanthar body. It is a former possession, not part of Grim’s current equipment."
+          "text": "Grim lost and forgot this volume amid his dealings with the aboleth. Revisionist: Xanthar used it to make his Brother Xanthar body. It is a former possession."
         }
       ],
       "traits": [
@@ -790,7 +790,7 @@
           "text": "Common, Draconic, Dwarvish, Gnomish, Undercommon, and reading and writing in Grugach."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it.",
+      "inventoryNote": "Xanthar’s portal left Team Biscuit naked and separated from its equipment. Ernie later recovered most belongings; Wave, Whelm and Frostrazor were still missing. Hindsight: Xanthar returned those three to White Plume Mountain, where he now rules as the self-proclaimed Keraptis. They remain safely stored there and will never forgive the Brotherhood for sacrificing their sibling, Blackrazor.",
       "relatedStories": [
         {
           "href": "#/grim-memory",
@@ -805,7 +805,7 @@
       "shortName": "Terry",
       "company": "Team Biscuit",
       "title": "Faith with a hammer in its hand",
-      "summary": "Healer, smith, sarcastic protector, and owner of a planar fortress—with a gift an old enemy could not imitate.",
+      "summary": "A sarcastic healer and smith, owner of Zandikar, whose fourfold attunement made the Pengu ritual possible.",
       "portrait": "media/portraits/terry-portrait.png",
       "portraitAlt": "Terry’s campaign portrait: an armored dwarf holding a hammer before a golden sun.",
       "token": "media/portraits/terry-token.png",
@@ -842,8 +842,8 @@
       ],
       "backstory": [
         "Terry’s own account of his upbringing proceeds through goblins eaten by wolves, wolves slain by goblins, and further changes of household until he tired of the drama. A citadel at least promised three meals a day. When goblins and wolves combined to wreck that arrangement too, he took to the road and helped people—with sarcasm close at hand.",
-        "The outlander’s instincts were fierce and not always gentle. He watched over his friends like newborn pups, prized the greater good of the tribe, and distrusted the idea that money or manners could save anyone from a hungry owlbear. He also carried a harsher belief that the strong thrive and the weak perish. In practice, Team Biscuit repeatedly survived because he refused to let its members do the latter.",
-        "He belonged to the Stolen Sons chapter of Shrop and Thunder’s lives before the later company took shape. Dwarven history, smithcraft and a growing devotion to Pelor gave him a direction of his own. A war priest’s calling was an excellent fit for a man prepared to heal you, rebuke you, and then hit the thing that had hurt you."
+        "He watched over friends like newborn pups and put the tribe’s good first. Money and manners, he thought, offered little help against a hungry owlbear. He also believed the strong thrive and the weak perish, though he repeatedly healed companions who would otherwise have died.",
+        "Terry knew Shrop and Thunder through the Stolen Sons before Team Biscuit formed. His travels brought him to dwarven history, smithcraft and service as Pelor’s war priest."
       ],
       "progression": [
         {
@@ -853,22 +853,22 @@
         },
         {
           "title": "A commitment made in Brindinford",
-          "text": "Terry committed to Pelor, helped cleanse the temple, removed mummy curses from Shrop and Grim, and used Daylight during the struggle to save the Baron. The headless paladin and the hidden shrine near Ossington gave that commitment an older history.",
+          "text": "Terry committed to Pelor, helped cleanse the temple, removed mummy curses from Shrop and Grim, and used Daylight to save the Baron. Near Ossington, he found Pelor’s hidden shrine and communed with the dead paladin.",
           "chapter": "speaker-in-dreams"
         },
         {
           "title": "A fortress became his responsibility",
-          "text": "Zandikar came to belong to Terry. Its armor conveyed authority over the gates and guardians; its forge drew on elemental fire. The dwarf who had wanted a reliable meal now held a fortress and a vast smithy across the planes.",
+          "text": "After Imperagon’s defeat, Terry gained Zandikar and its vast smithy. The armor conveyed authority over gates and guardians while its forge drew on elemental fire.",
           "chapter": "iron-fortress"
         },
         {
           "title": "The north tested his independence",
-          "text": "Thunder saw Terry’s judgment and initiative fade into unnatural obedience, accompanied by a repeated numerical riddle. The change threatened the independence his friends knew; the riddle offered no easy answer. Elsewhere, the candle scheme made his unusual capacity for attunement dangerously valuable.",
+          "text": "Thunder saw Terry become unnaturally obedient, repeating a numerical riddle as his judgment and initiative faded. Meanwhile, the candle working made his four-item attunement valuable to Keraptis.",
           "chapter": "frostmaiden"
         },
         {
           "title": "The bearer the ritual needed",
-          "text": "At the climax of the Pengu ordeal, Pelor’s Boon of Attunement let Terry bind himself to Wave, Whelm, Frostrazor and Blackrazor at once. The completed working of the Candle of the Dark One took Blackrazor as its sacrifice. His rare capacity became the hinge of a victory that broke Frostblight and allowed the world’s magic to begin recovering.",
+          "text": "Pelor’s boon let Terry attune to Wave, Whelm, Frostrazor and Blackrazor at once. The company sacrificed Blackrazor to complete the Candle of the Dark One ritual. Pengu was defeated, Frostblight fell and magic began to recover.",
           "chapter": "frostmaiden",
           "scene": 9
         },
@@ -880,18 +880,18 @@
         },
         {
           "title": "The weight of a living saint",
-          "text": "The Red Keep’s survivors had raised a faith around the absent Blessed Company; Terry’s armor waited there. He returned through the demon army and the buried city before carrying Pelor’s faith into the Bastion’s soul crisis. His calling now joins a level-21 war cleric’s power to his first paladin level. The gods’ warning of twenty years without new souls gave that return a terrible urgency, even as magic began to heal after Pengu.",
+          "text": "At the Red Keep, survivors worshipped the absent adventurers as the Blessed Company; Terry’s armor waited there. He fought through the demon army and buried Brindinford, then returned to the Bastion’s soul crisis. He is now a level-21 war cleric with one paladin level. The gods had warned of twenty years without new souls.",
           "chapter": "bastion"
         }
       ],
       "gifts": [
         {
           "name": "Pelor’s Boon of Attunement",
-          "text": "The blessing permits four attuned magic items. In the northern plot, that fourth place made the priest himself more important than simply owning the weapons."
+          "text": "The blessing permits four attuned magic items. It allowed Terry to complete the northern candle working that Keraptis, limited to three, could not perform."
         },
         {
           "name": "The Armor of Zandikar",
-          "text": "Attunement carries the fortress’s authority. Its six regenerating blade golems and forge remain part of a holding, not six companions who travelled beside him."
+          "text": "Attunement grants command of the fortress under its forge’s conditions. The six regenerating blade golems guard Zandikar; they did not travel as his companions."
         },
         {
           "name": "Hammer, holy blade and healing",
@@ -911,14 +911,14 @@
           "kind": "Hidden history",
           "title": "The forge was a doorway",
           "paragraphs": [
-            "Zandikar’s furnace was a portal to the Elemental Plane of Fire. Its heat powered more than craft: the fortress’s active systems and much of the armor’s command over its guardians depended on the forge. Ownership gave Terry a far-reaching responsibility with conditions, not an unconditional army."
+            "Zandikar’s furnace opened onto the Elemental Plane of Fire. Its heat powered the fortress’s systems, and the armor’s command of the golem guardians depended on the forge burning."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "Faith could not grant every release",
           "paragraphs": [
-            "Pelor’s permission opened a way into Desayeus’s prison without authorizing the prisoner’s freedom. Eco died, the fragment was obtained, and Findula withdrew from the company. Terry’s arc can be read against that distinction between divine access and moral certainty. The chronicle does not invent his private judgment of what happened there."
+            "Pelor authorised passage into Desayeus’s prison while forbidding his release. Eco died, the company obtained the fragment and Findula withdrew. The difference between that permission and what followed invites a retrospective reading of Terry’s faith; his private judgment is unrecorded."
           ]
         }
       ],
@@ -930,7 +930,7 @@
         {
           "src": "media/portraits/terry-early.png",
           "alt": "Terry’s earlier campaign portrait.",
-          "caption": "The dwarf on the earlier road: before Zandikar, the northern mysteries and the burden of the Blessed Company."
+          "caption": "An earlier portrait of Terry, before Zandikar and Icewind Dale."
         }
       ],
       "battleRecord": {
@@ -1147,7 +1147,7 @@
         },
         {
           "name": "Hammer of Thunderbolts and Holy Avenger Longsword",
-          "text": "Two signature weapons on the sheet of a healer who has never mistaken mercy for an obligation to be unarmed."
+          "text": "Both weapons are listed in the war priest’s arsenal."
         },
         {
           "name": "Ironcore",
@@ -1155,7 +1155,7 @@
         },
         {
           "name": "Armor of Zandikar",
-          "text": "A holding of his story: attunement grants authority over the planar fortress, subject to its forge and guardian conditions."
+          "text": "Attunement grants authority over Zandikar, subject to the forge and guardian conditions."
         },
         {
           "name": "Smith’s tools and bagpipes",
@@ -1163,11 +1163,11 @@
         },
         {
           "name": "Set of Secret Scribe Candles",
-          "text": "A distinctive writing aid among the more imposing magical equipment."
+          "text": "Magical candles for writing, listed among his belongings."
         },
         {
           "name": "Eye patch with a mock eye set in blue sapphire and moonstone",
-          "text": "A very particular piece of jewelry, listed alongside a Doodle Ring and other small eccentricities."
+          "text": "Listed with a Doodle Ring among his jewelry and keepsakes."
         },
         {
           "name": "Cape of the Mountebank and Helm of Teleportation",
@@ -1208,7 +1208,7 @@
           "text": "Common, Draconic, Dwarvish and Goblin; the sheet records Undercommon at 60%, preserving an unfinished course of learning."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
+      "inventoryNote": "Xanthar’s portal left Team Biscuit naked and separated from its equipment. Ernie later recovered most belongings; Wave, Whelm and Frostrazor were still missing. Hindsight: Xanthar returned those three to White Plume Mountain, where he now rules as the self-proclaimed Keraptis. They remain safely stored there and will never forgive the Brotherhood for sacrificing their sibling, Blackrazor."
     },
     {
       "slug": "thunder",
@@ -1250,13 +1250,13 @@
       "backstory": [
         "Thunder’s mother was an elven musician travelling with a troupe; his human father owned a theater in Brindinford. They met during the annual festival, and Thunder was born after the performers had left town. He grew up among acrobatics, sleight of hand and drums, learning how to catch an audience before he learned how to escape one.",
         "Curiosity eventually brought him to Brindinford to find his father. Human years had moved faster than he expected. He arrived during the old man’s final days and heard a deathbed confession: his father had been cursed as a wererat and feared passing it to his son. Thunder would not return to his mother until he could lift the inheritance. Performing sometimes gave way to burglary; a failed attempt sent him into service with the Stolen Sons, where he joined Terry and Shrop.",
-        "Brindinford gave him more than his father’s last confession. Thunder paid dues to its thieves’ guild and gained access to the black markets beneath the town’s ordinary trade. He became part of a guild takeover. The people behind those doors would meet a darker fate when their road reached Rigus.",
+        "Thunder paid dues to Brindinford’s thieves’ guild, accessed its black markets and joined a guild takeover. Its surviving members later met him in Rigus, where their meeting ended in slaughter.",
         "The wish to be famous sat beside the fear of going home. He collected rumors wherever he went and could smooth a room’s temper with charm, but his own family still waited without understanding his absence. The later discovery of Dydd’s blood gave his inheritance a second, much older meaning."
       ],
       "progression": [
         {
           "title": "Doors, traps and a difficult confession",
-          "text": "In the Citadel he disarmed traps, opened locks, helped free Erky, and began coming to terms with his lycanthropy before the company. The inheritance that had kept him from home was becoming something his companions could finally understand.",
+          "text": "Thunder disarmed traps, opened locks and helped free Erky Timbers in the Citadel. He told his companions about the lycanthropy that kept him from returning to his mother.",
           "chapter": "sunless-citadel"
         },
         {
@@ -1266,7 +1266,7 @@
         },
         {
           "title": "The hand that stopped a friend",
-          "text": "Around Ossington he found routes, investigated the tarn, discovered the abandoned Pelorian shrine and restrained Shrop’s cursed rampage. His usefulness was never confined to what he could steal.",
+          "text": "Near Ossington, he investigated the tarn, found the abandoned Pelorian shrine and restrained Shrop during his cursed rampage.",
           "chapter": "standing-stone"
         },
         {
@@ -1277,13 +1277,13 @@
         },
         {
           "title": "Underworld rumours in Rigus",
-          "text": "Other guild rumours brought Thunder news of a healthy-looking child born lifeless, depleted Mercykiller ranks and a missing fifth founder of Rigus’s ruling Brotherhood. The exchange does not identify which guild supplied this intelligence, but his contacts continued to open doors into the city’s deeper mysteries.",
+          "text": "Guild rumours told Thunder of a healthy-looking child born lifeless, depleted Mercykiller ranks and a missing fifth founder of Rigus’s ruling Brotherhood. The source guild is unidentified.",
           "chapter": "iron-fortress",
           "scene": 5
         },
         {
           "title": "The captaincy with a price",
-          "text": "The Pendant of the Ethereal Anchor opened the way to the Deliverance and tied his soul to its fate. Pepper warned him what death while wearing it would mean. The northern vision showed the ship searching for him; reassurance was not release from the bargain.",
+          "text": "The Ethereal Anchor opened passage to the Deliverance and bound Thunder’s soul to it. Pepper warned that dying while wearing the pendant would make him the ship’s captive captain. The northern vision showed the ship searching for him; the condition still held.",
           "chapter": "frostmaiden"
         },
         {
@@ -1305,7 +1305,7 @@
         },
         {
           "name": "The Ethereal Anchor",
-          "text": "A portal key, a bond to the Deliverance, and the focus of his swiftest-bladework boon. Its bright possibilities carry a very dark condition."
+          "text": "The pendant opens portals, binds him to the Deliverance and focuses his Swiftest Bladework boon. Dying while wearing it would make him replace Pepper as captive captain."
         },
         {
           "name": "Planar Rapier and Pale Piercer",
@@ -1317,28 +1317,28 @@
           "kind": "Hindsight",
           "title": "The rumour about a child with no soul",
           "paragraphs": [
-            "The guild rumour about Cierith Bloodwyn’s firstborn sounded like a private tragedy in Rigus. Later revelations gave it a larger horror: Ashardalon was consuming souls before they could enter the world. Thunder’s source could report the stillbirth; the exchange does not show that he knew its cause then. The missing fifth member of the Brotherhood remained a separate, unresolved secret."
+            "The guild reported Cierith Bloodwyn’s firstborn as healthy-looking but lifeless. Later revelations connect the soul famine to Ashardalon’s feeding. Thunder heard the rumour before its cause was established; the missing fifth founder remains a separate mystery."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The hunted blood was a weapon in someone else’s plan",
           "paragraphs": [
-            "Dydd had mortally wounded Ashardalon’s original heart. Thunder’s descent made that old injury relevant again, drawing the Cathezar’s pursuit. Behind it, Aameul sought Ammet—the demon now serving as the dragon’s heart—to gain an advantage over Hethradiah. Being useful against the dragon did not make every interested power an ally."
+            "Dydd’s blood made Thunder useful against the dragon whose original heart she wounded. Aameul sent the Cathezar after him to help obtain Ammet, the demon serving as Ashardalon’s heart, for his own struggle against Hethradiah."
           ]
         },
         {
           "kind": "Hidden consequence",
           "title": "Pepper’s freedom could become Thunder’s prison",
           "paragraphs": [
-            "If Thunder died wearing the pendant, its condition would pull his soul aboard the Deliverance, bind him there, and release Pepper to the afterlife. He had received a warning; this retrospective does not pretend it was wholly unknown to him. What remains unfulfilled is the consequence, not the existence of the bargain."
+            "Thunder was warned that death while wearing the pendant would bind his soul aboard the Deliverance and release Pepper to the afterlife. That consequence remains unfulfilled."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "Two inheritances, neither chosen",
           "paragraphs": [
-            "The wererat curse kept him from his mother; Dydd’s blood drew him towards the dragon. Read together, they make the performer’s desire to choose his own story especially sharp. That connection is an interpretation of his arc, not a new claim about the origin of either bloodline."
+            "The wererat curse kept Thunder from his mother; his descent from Dydd drew him towards Ashardalon. Their effect on his wish to choose his own future is a retrospective interpretation, with no new claim about either bloodline’s origin."
           ]
         }
       ],
@@ -1350,7 +1350,7 @@
         {
           "src": "media/portraits/thunder-early.png",
           "alt": "Thunder’s earlier campaign portrait.",
-          "caption": "An earlier image of the performer and scout, whose road home became a passage between worlds."
+          "caption": "An earlier portrait of Thunder, performer and scout."
         }
       ],
       "battleRecord": {
@@ -1571,15 +1571,15 @@
         },
         {
           "name": "Cloak of Arachnida and Ring of Invisibility",
-          "text": "Tools suited to a scout whose preferred route seldom needs to be the most obvious one."
+          "text": "Magic for climbing and concealment, among his scouting equipment."
         },
         {
           "name": "Amulet of Proof against Detection and Location",
-          "text": "A guarded place in the inventory of a man pursued for more than one inheritance."
+          "text": "A protective amulet carried during the pursuit of Dydd’s descendant."
         },
         {
           "name": "Portable Hole",
-          "text": "Room for a travelling life that eventually included far more than a bow, drum and lockpick."
+          "text": "Magical storage alongside his bow, drum and lockpicks."
         },
         {
           "name": "Clockwork Faefly and Clockwork Inkbeetle",
@@ -1587,7 +1587,7 @@
         },
         {
           "name": "Dragon, Unicorn and Owlbear Snugglebeasts",
-          "text": "Three exact named keepsakes on the sheet. Even the company’s elusive thief travelled with a softer menagerie."
+          "text": "Three soft keepsakes listed on his sheet."
         },
         {
           "name": "Drum and Disguise Kit",
@@ -1620,7 +1620,7 @@
           "text": "Common, Draconic, Elvish, Orc and Undercommon, plus the coded speech and signs of Thieves’ Cant."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
+      "inventoryNote": "Xanthar’s portal left Team Biscuit naked and separated from its equipment. Ernie later recovered most belongings; Wave, Whelm and Frostrazor were still missing. Hindsight: Xanthar returned those three to White Plume Mountain, where he now rules as the self-proclaimed Keraptis. They remain safely stored there and will never forgive the Brotherhood for sacrificing their sibling, Blackrazor."
     },
     {
       "slug": "brunn",
@@ -1656,25 +1656,25 @@
         ]
       ],
       "backstory": [
-        "Brunn had been drinking in the Blasingdale tavern since morning, trading stories for ale and ignoring the flinches his laughter caused. His coin was gone, his armor smelled of smoke, and his axe had been repaired often enough to know an anvil intimately. The old soldier’s spark had survived all three indignities.",
-        "He had come south after rumors of a fortress buried beneath Brindinford. It might contain dwarven steel, or the ghosts of those who forged it. When the other wanderers began speaking of fungus and fortune, he slammed down his mug. If it paid, he was in. The Berserker’s place in Team Gravy began with that thoroughly practical appetite."
+        "Brunn had been drinking in the Blasingdale tavern since morning, trading stories for ale and ignoring the flinches his laughter caused. His coin was gone, his armor smelled of smoke and his axe was well acquainted with an anvil.",
+        "He had come south following rumours of dwarven steel and its makers’ ghosts in a fortress buried beneath Brindinford. When the other wanderers spoke of fungus and fortune, he slammed down his mug. If it paid, he was in."
       ],
       "progression": [
         {
           "title": "A different company took the boat",
-          "text": "Brunn joined Rook, Nox and Elira aboard the expedition carried by the Deliverance. Xanthar’s mapping task and the return deadline turned a tavern prospect into an underground commitment.",
+          "text": "Brunn joined Rook, Nox and Elira aboard the Deliverance. Xanthar sent them to map the underground stronghold and return within his deadline.",
           "chapter": "fungal-bloom",
           "scene": 1
         },
         {
           "title": "Steel met the living ruin",
-          "text": "The stronghold offered more than old weapons: spores, restless bodies, surviving traps and a gate feeding the corruption. His search for buried craft became part of a fight over what could be allowed to keep growing.",
+          "text": "His hunt for buried weapons led into spores, animated bodies and old traps. A planar gate was feeding the stronghold’s corruption.",
           "chapter": "fungal-bloom",
           "scene": 5
         },
         {
           "title": "Eight companions against the colony",
-          "text": "After the falling boat and the Deliverance’s intervention, the road reached sunken Brindinford. Brunn and Team Gravy stood with Shrop, Grim, Terry and Thunder against the giant ants. The expedition had become a shared fight for survival.",
+          "text": "After the falling boat and the Deliverance’s rescue, Brunn reached sunken Brindinford. Team Gravy joined Shrop, Grim, Terry and Thunder against the giant ants.",
           "chapter": "fungal-bloom",
           "scene": 8
         },
@@ -1688,11 +1688,11 @@
       "gifts": [
         {
           "name": "The repaired axe",
-          "text": "A battered weapon and smoke-scented armor speak of a soldier with more campaigns behind him than coin in his purse."
+          "text": "His battered axe had been repaired repeatedly, and his armor smelled of smoke."
         },
         {
           "name": "The Berserker’s calling",
-          "text": "The Berserker’s path suits the dwarf whose laughter can unsettle a tavern. Beneath the battered equipment, the old spark still burns."
+          "text": "He follows the Path of the Berserker, still willing to fight despite his empty purse."
         }
       ],
       "revisionist": [
@@ -1700,21 +1700,21 @@
           "kind": "Hidden history",
           "title": "The old ruin had a celestial deadline",
           "paragraphs": [
-            "The hobgoblin shapes concealed devas trying to stop a planar infestation. The ward kept them from the gate, while Hayyel’s fallback was to destroy the complex. The mortals exploring its corridors occupied an opening the celestials could not use. The fortress Brunn hoped might yield steel was already the site of a much larger emergency."
+            "Devas in hobgoblin shapes were trying to stop the planar infestation. A ward barred them from the gate; Hayyel had prepared to destroy the complex if the gate remained open. Mortal explorers could enter where the celestials could not."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "Fortune became company",
           "paragraphs": [
-            "The dwarf who joined for payment ended up beside seven other adventurers in a city held by ants. His introduction can be read against that widening circle of dependence. It is an interpretation, not a newly invented oath or a claim that the mercenary appetite vanished."
+            "Brunn joined for payment and ended up fighting beside seven other adventurers in the ant-held city. Reading that as a growing attachment to the company is interpretive. No new oath or change in his mercenary motives is established."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The trap was meant for the other company",
           "paragraphs": [
-            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+            "The Wrinkle’s portal trap was set for Team Biscuit. It caught Team Gravy instead and sent all four to Hell, where they remain. No escape or homecoming has been recorded."
           ]
         }
       ],
@@ -1726,7 +1726,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
+        "intro": "Their biographies and expedition accounts record the journey. Complete character sheets and numbered level histories are unavailable.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -1740,7 +1740,7 @@
         },
         {
           "name": "Smoke-scented armor",
-          "text": "Battered equipment from a soldier whose purse was empty but whose spirit was not."
+          "text": "Battered armor from his years of soldiering."
         },
         {
           "name": "The tavern mug",
@@ -1754,11 +1754,11 @@
         },
         {
           "name": "Practical appetite",
-          "text": "He seeks payment, buried dwarven steel and the makers’ ghosts; these motives are personal, not a promise that the ruin yielded a particular relic."
+          "text": "He seeks payment, buried dwarven steel and the makers’ ghosts. Whether the ruin yielded a particular relic remains unknown."
         },
         {
           "name": "An unspent spark",
-          "text": "The biography makes him broke and weathered, not defeated."
+          "text": "Broke and weathered, he still joins the expedition with enthusiasm."
         }
       ]
     },
@@ -1802,7 +1802,7 @@
       "progression": [
         {
           "title": "Following the sickness into stone",
-          "text": "The river expedition gave his hunt a destination: a stronghold whose growth and water could both carry danger. The Hunter’s trail had narrowed into a place made to deny easy movement.",
+          "text": "Rook followed the blight into a stronghold where fungus and water carried sickness. The river hunt continued through narrow underground passages.",
           "chapter": "fungal-bloom",
           "scene": 2
         },
@@ -1814,7 +1814,7 @@
         },
         {
           "title": "The hunt became a street war",
-          "text": "Beneath Brindinford, Team Gravy and Team Biscuit faced an organized colony through ruined streets and tunnels. The hunter who had followed one blight now fought for a path through another kind of living occupation.",
+          "text": "In sunken Brindinford, Rook fought with both companies against an organised ant colony holding the ruined streets and tunnels.",
           "chapter": "fungal-bloom",
           "scene": 9
         },
@@ -1832,7 +1832,7 @@
         },
         {
           "name": "Wings in a confined world",
-          "text": "His aarakocra heritage matters vividly in the falling-boat account, while the grotto and buried city place that freedom under pressure."
+          "text": "The goblins clung to his wings when the boat fell above Brindinford Falls. The tunnels and buried streets offered much less room for flight."
         }
       ],
       "revisionist": [
@@ -1840,21 +1840,21 @@
           "kind": "Hidden history",
           "title": "The ants were being directed",
           "paragraphs": [
-            "A neogi master and a queen lay behind the colony’s unnatural discipline. Filaments, devices and the bell-tower apparatus threaded control through the ruins. Rook’s opponents were more than large animals behaving unusually well; another will shaped the hunt. The note does not claim the two companies reached or destroyed that apparatus."
+            "A neogi master, a queen and the bell-tower apparatus directed the colony through filaments and foreign devices. Whether the companies reached or destroyed that system remains unrecorded."
           ]
         },
         {
           "kind": "Retrospective reading",
           "title": "The trail kept taking away the horizon",
           "paragraphs": [
-            "The high-peak tracker’s story moves through a tavern window, underground passages and a brief, disastrous opening into the air. Read in hindsight, his wings make the pressure of the buried journey especially clear. No private fear of confinement is invented for him."
+            "Rook’s path from the high peaks runs through a tavern window, tunnels and a brief fall into open air. His wings sharpen that contrast in a retrospective reading; no private fear of confinement is established."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The trap was meant for the other company",
           "paragraphs": [
-            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+            "The Wrinkle’s portal trap was set for Team Biscuit. It caught Team Gravy instead and sent all four to Hell, where they remain. No escape or homecoming has been recorded."
           ]
         }
       ],
@@ -1866,7 +1866,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
+        "intro": "Their biographies and expedition accounts record the journey. Complete character sheets and numbered level histories are unavailable.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -1880,7 +1880,7 @@
         },
         {
           "name": "Wings held close",
-          "text": "The wings are part of the ranger himself, not an item. They become central when the goblins cling to him above the falls."
+          "text": "The goblins clung to his wings above the falls. His aarakocra wings are part of his body."
         }
       ],
       "traits": [
@@ -1936,25 +1936,25 @@
         ]
       ],
       "backstory": [
-        "Nox arrived with the last caravan before the passes froze. Her purse was light, her patience thinner, and her preferred description—scholar of sigils—left out the more combustible implications of the flames at her fingertips. Horns, brimstone and a troublesome smile kept villagers at a comfortable distance. She was listening for old magic, not shopping for friendship.",
-        "The grotto turned her own pact against her expectations. She should have had a fiendish familiar at her side, but the corruption tore extraplanar companions apart before they could manifest. What she called an insult was also a practical loss of eyes and ears. It sharpened her determination to reach the magic deeper in the ruin before anyone else claimed it."
+        "Nox arrived with the last caravan before the passes froze, her purse light and patience thinner. She called herself a scholar of sigils, while flames curled at her fingertips. Horns, brimstone and her smile kept villagers at a distance as she listened for rumours of old magic.",
+        "The grotto’s corruption tore her fiendish familiar apart before it could manifest. She called it an insult. Without its extra eyes and ears, she pressed on towards the old magic deeper in the ruin."
       ],
       "progression": [
         {
           "title": "A scholar joined the expedition",
-          "text": "Brunn, Rook and Elira became the company around her as the Deliverance carried them towards the river cut. Her search for dangerous lore had acquired allies, a map-making task and a deadline.",
+          "text": "The Deliverance carried Nox, Brunn, Rook and Elira towards the river cut. Her search for lore continued under Xanthar’s mapping task and return deadline.",
           "chapter": "fungal-bloom",
           "scene": 1
         },
         {
           "title": "The familiar could not follow",
-          "text": "The fungal realm denied her expected infernal companion. The gate at the stronghold’s heart made clear why a corridor-by-corridor clearing could not be the whole answer: the corruption still had a source.",
+          "text": "Her familiar could not manifest in the fungal realm. The planar gate continued feeding the corruption even where corridors could be cleared.",
           "chapter": "fungal-bloom",
           "scene": 5
         },
         {
           "title": "The company grew in the dark",
-          "text": "The escape led to the streets of sunken Brindinford and a shared fight with Team Biscuit. The tiefling who had arrived seeking neither friends nor permission now depended on a much larger band to keep the colony from closing the road.",
+          "text": "The escape led to sunken Brindinford. Nox fought alongside Team Biscuit and her own company to keep the ants from closing their route.",
           "chapter": "fungal-bloom",
           "scene": 8
         },
@@ -1968,7 +1968,7 @@
       "gifts": [
         {
           "name": "Pact and fire",
-          "text": "The flames at her fingertips and the familiar promised by her pact carry an infernal inheritance. The power has a place in her story; the patron behind it remains unnamed."
+          "text": "Her pact grants fire and a fiendish familiar. Its patron remains unnamed."
         },
         {
           "name": "The scholar of sigils",
@@ -1978,23 +1978,23 @@
       "revisionist": [
         {
           "kind": "Hidden history",
-          "title": "The refusal was not personal",
+          "title": "The boundary rejected other spirits too",
           "paragraphs": [
-            "The fungal corruption rejected extraplanar spirits across the boundary: fiends, fey and familiars. Nox experienced it as a theft from her pact, but Elira’s loss belonged to the same larger disturbance. The two women’s apparently different magic had met one wound in the world."
+            "The corruption rejected extraplanar spirits, including fiends, fey and familiars. Both Nox’s fiendish companion and Elira’s fey spirit failed at that boundary."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The apparent hobgoblins had their own constraints",
           "paragraphs": [
-            "The disguised devas were trying to stop the gate, yet its forbiddance barred their entry. Mortal explorers could act where those celestials could not. Their presence does not establish a bargain with Nox’s patron or a secret alliance between fiend and angel; neither is invented here."
+            "The disguised devas were trying to stop the gate, but its forbiddance barred them. Mortal explorers could enter. Their presence establishes no bargain with Nox’s patron or alliance between fiend and angel."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The trap was meant for the other company",
           "paragraphs": [
-            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+            "The Wrinkle’s portal trap was set for Team Biscuit. It caught Team Gravy instead and sent all four to Hell, where they remain. No escape or homecoming has been recorded."
           ]
         }
       ],
@@ -2006,7 +2006,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
+        "intro": "Their biographies and expedition accounts record the journey. Complete character sheets and numbered level histories are unavailable.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -2020,7 +2020,7 @@
         },
         {
           "name": "The absent familiar",
-          "text": "A pact companion rather than an object: its failure to manifest deprives her of the extra eyes and ears she expects."
+          "text": "Her pact companion could not manifest in the grotto. Without it, she lost the extra eyes and ears she expected."
         }
       ],
       "traits": [
@@ -2044,7 +2044,7 @@
       "shortName": "Elira",
       "company": "Team Gravy",
       "title": "Following the wound",
-      "summary": "Dreams brought the moss witch to the river; the grotto’s refusal of living companionship made the search painfully solitary.",
+      "summary": "The moss witch followed dreams of a black river into the grotto, where its corruption prevented her fey companion from forming.",
       "portrait": "media/portraits/team-gravy-elira.png",
       "portraitAlt": "Elira’s original circular token: a wood elf druid in green with a wooden staff.",
       "token": "media/portraits/team-gravy-elira.png",
@@ -2078,19 +2078,19 @@
       "progression": [
         {
           "title": "Dreams found their river",
-          "text": "The Deliverance expedition carried Elira’s private warning into a shared task. With Brunn, Rook and Nox, she approached the underground stronghold and the growth already claiming its rooms.",
+          "text": "Elira followed her dream’s warning aboard the Deliverance. Brunn, Rook and Nox accompanied her towards the growth covering the underground stronghold.",
           "chapter": "fungal-bloom",
           "scene": 1
         },
         {
           "title": "The sickness had a doorway",
-          "text": "The gate revealed a source beyond the ordinary growth of a cavern. Necromantic spores and bodies put back to work made the infestation an assault upon life and death, not simply an unfamiliar ecosystem.",
+          "text": "A planar gate fed the grotto’s growth. Necromantic spores animated bodies within it.",
           "chapter": "fungal-bloom",
           "scene": 5
         },
         {
           "title": "No longer walking alone",
-          "text": "The escape brought Team Gravy into sunken Brindinford, where Team Biscuit joined the fight against the ants. The druid’s search for the land’s wound had reached a ruined town full of other people’s memories and a company large enough to share its dangers.",
+          "text": "Team Gravy escaped to sunken Brindinford and joined Team Biscuit against the ants. Elira’s hunt for the source of the sickness continued through the ruined town.",
           "chapter": "fungal-bloom",
           "scene": 10
         },
@@ -2104,11 +2104,11 @@
       "gifts": [
         {
           "name": "The worn field journal",
-          "text": "The worn pages hold the work of a quiet observer: strange fungi, patiently sketched while others speak. The land’s smallest signs deserve her attention."
+          "text": "She sketches unfamiliar fungi in its worn pages while listening from the edges of rooms."
         },
         {
           "name": "Underdark and fey magic",
-          "text": "Her circle belongs to the land beneath the surface, yet even her familiar could not endure this corruption. Familiar terrain did not make the wound harmless."
+          "text": "Her Circle of the Land follows the Underdark. The grotto’s corruption still prevented her fey companion from forming."
         }
       ],
       "revisionist": [
@@ -2116,21 +2116,21 @@
           "kind": "Hidden history",
           "title": "Cleansing could have meant annihilation",
           "paragraphs": [
-            "Hayyel’s alternative to stopping the planar gate was the destruction of the whole complex using its flammable stockpile. The celestial mission therefore carried a remedy as violent as its purpose was protective. Elira’s wish to heal the land stood in a place where others had prepared to burn the wound away."
+            "Hayyel planned to destroy the complex with its flammable stockpile if the planar gate could not be stopped. That alternative would burn the place Elira hoped to heal."
           ]
         },
         {
           "kind": "Retrospective reading",
-          "title": "The dreams named the wound, not their sender",
+          "title": "Who sent the dreams?",
           "paragraphs": [
-            "The black river and broken stone lead neatly into the grotto’s reality, but that correspondence does not identify a deity, patron or other intelligence behind her dreams. Reading them as a summons is possible; naming who summoned her would go beyond the tale."
+            "Elira’s dreams of black water and broken stone led towards the grotto. They may be read as a summons, but the sender is unidentified: no deity, patron or other intelligence has been established."
           ]
         },
         {
           "kind": "Hidden history",
           "title": "The trap was meant for the other company",
           "paragraphs": [
-            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+            "The Wrinkle’s portal trap was set for Team Biscuit. It caught Team Gravy instead and sent all four to Hell, where they remain. No escape or homecoming has been recorded."
           ]
         }
       ],
@@ -2142,7 +2142,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
+        "intro": "Their biographies and expedition accounts record the journey. Complete character sheets and numbered level histories are unavailable.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -2152,7 +2152,7 @@
       "inventory": [
         {
           "name": "The worn fungus journal",
-          "text": "Her own biography places strange fungal sketches in its pages. It is a field journal, not an identified magical artifact."
+          "text": "Her biography records sketches of unfamiliar fungi in this field journal. No magical properties are identified."
         },
         {
           "name": "Wooden staff",
