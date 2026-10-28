@@ -4,8 +4,8 @@ const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
 
 const paragraphs = values => (values ?? []).map(value => `<p>${escape(value)}</p>`).join('');
 
-const hindsight = notes => (notes ?? []).map(note => `<aside class="story-hindsight" aria-label="Hindsight">
-  <p class="hindsight-label">Hindsight</p><h4>${escape(note.title)}</h4>${paragraphs(note.paragraphs)}
+const hindsight = notes => (notes ?? []).map(note => `<aside class="story-hindsight" aria-label="${escape(note.label ?? 'Hindsight')}">
+  <p class="hindsight-label">${escape(note.label ?? 'Hindsight')}</p><h4>${escape(note.title)}</h4>${paragraphs(note.paragraphs)}
 </aside>`).join('');
 
 const companionSlugs = {'Shrop Shireslasher':'shrop','Grimbledee Brightburrow':'grim','Terry Stronginthearm':'terry','Thunderdrum Stringcutter':'thunder','Brunn Ironbelly':'brunn','Rook Kestrel':'rook','Nox Veyra':'nox','Elira Moss-Weaver':'elira'};

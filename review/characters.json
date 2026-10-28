@@ -384,7 +384,7 @@
           "text": "He values the freedom to choose his own battles, yet carries an unreasoning hatred of enemies and a harsh judgment of poverty born from his own childhood."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
     },
     {
       "slug": "grim",
@@ -488,6 +488,14 @@
           "title": "A scholar’s most dangerous question",
           "paragraphs": [
             "The scholar who valued an ancient answer above a civilization eventually stood before Desayeus, with a fragment needed to reach the Bastion and another person’s life bound into the route. Eco’s death and Findula’s farewell leave the appetite for knowledge beside its human cost. This is a retrospective reading of those events, not an invented confession or assignment of the killing blow."
+          ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The book that became Brother Xanthar",
+          "paragraphs": [
+            "While Grim was dealing with the aboleth across the company’s adventures, his book on making flesh golems became a lost possession and then a forgotten one. Xanthar used it to manufacture the body in which he appeared as Brother Xanthar. The scholar’s missing volume had given that old intelligence a new way to walk among the Brotherhood.",
+            "The body became part of a further transformation. A K-vial infected Xanthar with the conviction that he was the one true Keraptis. His power and flesh-golem form kept him from becoming a zombie; he defeated the current K-clone prime and took White Plume Mountain. The later equipment theft returned Wave, Whelm and Frostrazor there. Grim’s uncertainty at Ernie’s reunion did not reveal how far the consequences of his missing book had travelled."
           ]
         }
       ],
@@ -741,6 +749,10 @@
         {
           "name": "Walrus recipes, blubber and tusks",
           "text": "The recipe for Ice Seal Stew, giant-walrus materials and other northern provisions share space with the rarer arcane equipment."
+        },
+        {
+          "name": "Lost book on making flesh golems — former possession",
+          "text": "A volume Grim lost and eventually forgot amid the aboleth thread. Revisionist: Xanthar used it to make his Brother Xanthar body. It is a former possession, not part of Grim’s current equipment."
         }
       ],
       "traits": [
@@ -769,7 +781,7 @@
           "text": "Common, Draconic, Dwarvish, Gnomish, Undercommon, and reading and writing in Grugach."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
     },
     {
       "slug": "terry",
@@ -875,7 +887,8 @@
           "kind": "Hidden history",
           "title": "Keraptis needed the bearer",
           "paragraphs": [
-            "The candle’s hidden requirement was attunement to all four weapons of power. Keraptis could manage three; Terry’s boon allowed four. That made the dwarf a potential target for abduction, and ultimately made him the bearer who could complete the northern working. Blackrazor was sacrificed during that rite. Its absence from the later stolen equipment records came from that earlier sacrifice."
+            "The candle’s hidden requirement was attunement to all four weapons of power. Keraptis could manage three; Terry’s boon allowed four. That made the dwarf a potential target for abduction, and ultimately made him the bearer who could complete the northern working. Blackrazor was sacrificed during that rite. Its absence from the later stolen equipment records came from that earlier sacrifice.",
+            "Wave, Whelm and Frostrazor survived the working. Their later return to White Plume through Xanthar concealed another consequence of the victory: the three regarded Blackrazor as their sibling, and would never forgive the Brotherhood for giving it up."
           ]
         },
         {
@@ -1179,7 +1192,7 @@
           "text": "Common, Draconic, Dwarvish and Goblin; the sheet records Undercommon at 60%, preserving an unfinished course of learning."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
     },
     {
       "slug": "thunder",
@@ -1571,7 +1584,7 @@
           "text": "Common, Draconic, Elvish, Orc and Undercommon, plus the coded speech and signs of Thieves’ Cant."
         }
       ],
-      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion. Hindsight: those three weapons are now safely stored back in White Plume Mountain through Xanthar, its new ruler and self-proclaimed Keraptis. They regard Blackrazor as their sibling and will never forgive the Brotherhood for sacrificing it."
     },
     {
       "slug": "brunn",

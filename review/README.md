@@ -40,7 +40,9 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 35 such notes.
+recorded actions. The twelve narrated chapters contain 39 Hindsight notes and one explicitly labelled
+Revisionist viewpoint from the surviving epic weapons. Optional `label` text
+changes the visible and accessible label; existing notes default to Hindsight.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return twenty years beyond its original time, as confirmed by Boss. The final
@@ -193,3 +195,15 @@ Two scenes inserted before the former Pengu scene shift old Icewind scenes 8–1
 to 10–15. All affected gallery links were remapped by meaning; Terry’s new
 milestone points to ritual scene 9. Adventure navigation remains at the end.
 Character numerical fields and all battle/death ledger data are preserved.
+
+
+The Xanthar revelations connect Grim’s missing flesh-golem book, Brother Xanthar’s
+manufactured body, his K-vial infection and claim to Keraptis’s name, his defeat of
+the incumbent K-clone prime, and his rule of White Plume Mountain. The portal theft
+returned Wave, Whelm and Frostrazor there; Blackrazor remains sacrificed. Hindsight
+notes preserve what the party actually knew at the time. The weapons’ collective
+Revisionist viewpoint gives their permanent sibling grievance its own voice. Grim’s
+profile includes the lost book as a former possession and a new Revisionist note;
+all four Biscuit equipment accounts and five related gallery contexts agree. The
+book’s exact handout title remains unasserted. No scene numbers, gallery assignments,
+statistics, battle/death records or adventure navigation changed.
