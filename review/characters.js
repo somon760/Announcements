@@ -10,12 +10,12 @@ function statistics(person) {
   if (!stats) return '';
   return `<section id="character-statistics" tabindex="-1" class="character-section">
     <p class="eyebrow">The character at the table</p><h2>In numbers.</h2><p class="character-stat-note">${escape(stats.intro)}</p>
+    ${stats.advancement?.length ? `<dl class="character-stat-grid character-advancement" aria-label="Recorded epic advancement">${stats.advancement.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl><h3 class="sheet-snapshot-heading">Preserved sheet statistics</h3><p class="character-stat-note">The level and experience in this snapshot belong with the combat figures below.</p>` : ''}
     ${stats.metrics.length ? `<dl class="character-stat-grid">${stats.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl>` : ''}
     ${stats.abilities.length ? `<dl class="ability-scores" aria-label="Ability scores">${stats.abilities.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${Number(value)}</dd></div>`).join('')}</dl>` : ''}
     ${stats.skills.length ? `<div class="signature-skills"><h3>Signature skills</h3><dl>${stats.skills.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
     <div class="leveling-record"><h3>Levels &amp; earned experience</h3><p>${escape(stats.leveling)}</p>
       ${stats.awards.length ? `<table class="character-record-table"><caption>Recorded personal adventure awards</caption><thead><tr><th scope="col">Adventure</th><th scope="col">Bonus XP</th></tr></thead><tbody>${stats.awards.map(([name,value]) => `<tr><th scope="row">${escape(name)}</th><td>${numbered(value)}</td></tr>`).join('')}</tbody></table><p class="character-stat-note">${escape(stats.awardsNote)}</p>` : ''}
-      ${stats.alternate ? `<details class="alternate-incarnation"><summary>Another recorded incarnation</summary><p>${escape(stats.alternate)}</p></details>` : ''}
     </div>
   </section>`;
 }

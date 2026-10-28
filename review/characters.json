@@ -22,8 +22,8 @@
           "Champion Fighter"
         ],
         [
-          "Character sheet",
-          "Level 21"
+          "Recorded level",
+          "Level 22"
         ],
         [
           "Background",
@@ -181,14 +181,14 @@
         ]
       },
       "statistics": {
-        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
         "metrics": [
           [
-            "Level",
+            "Sheet level",
             "Champion Fighter 21"
           ],
           [
-            "Experience",
+            "Sheet experience",
             "510,261 XP"
           ],
           [
@@ -256,7 +256,7 @@
             "+7"
           ]
         ],
-        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "leveling": "The epic record lists Champion Fighter 22 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -272,7 +272,16 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "alternate": "A separate epic record carries Champion Fighter 22 and 623,440 XP. Its figures belong to that incarnation and are kept separate from the character-sheet snapshot above."
+        "advancement": [
+          [
+            "Recorded level",
+            "Champion Fighter 22"
+          ],
+          [
+            "Recorded experience",
+            "623,440 XP"
+          ]
+        ]
       },
       "inventory": [
         {
@@ -357,7 +366,7 @@
           "School of Enchantment Wizard"
         ],
         [
-          "Character sheet",
+          "Recorded level",
           "Level 22"
         ],
         [
@@ -522,14 +531,14 @@
         ]
       },
       "statistics": {
-        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
         "metrics": [
           [
-            "Level",
+            "Sheet level",
             "Enchantment Wizard 22"
           ],
           [
-            "Experience",
+            "Sheet experience",
             "614,445 XP"
           ],
           [
@@ -601,7 +610,7 @@
             "+13"
           ]
         ],
-        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "leveling": "The epic record lists Enchantment Wizard 22 and 614,445 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -617,7 +626,16 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "alternate": null
+        "advancement": [
+          [
+            "Recorded level",
+            "Enchantment Wizard 22"
+          ],
+          [
+            "Recorded experience",
+            "614,445 XP"
+          ]
+        ]
       },
       "inventory": [
         {
@@ -700,6 +718,10 @@
         [
           "Calling",
           "War Domain Cleric 21 · Paladin 1"
+        ],
+        [
+          "Recorded level",
+          "Level 22 total · Cleric 21 / Paladin 1"
         ],
         [
           "Background",
@@ -874,14 +896,14 @@
         ]
       },
       "statistics": {
-        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
         "metrics": [
           [
-            "Level",
+            "Sheet level",
             "War Cleric 21 · Paladin 1"
           ],
           [
-            "Experience",
+            "Sheet experience",
             "510,261 XP"
           ],
           [
@@ -953,7 +975,7 @@
             "+11"
           ]
         ],
-        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "leveling": "The epic record lists War Cleric 21 · Paladin 1 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -969,7 +991,16 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "alternate": "The overlapping epic export also names War Cleric 21 / Paladin 1, with 623,440 XP. Its equipment and several derived figures differ, so it is not blended into the sheet snapshot above."
+        "advancement": [
+          [
+            "Recorded level",
+            "War Cleric 21 · Paladin 1"
+          ],
+          [
+            "Recorded experience",
+            "623,440 XP"
+          ]
+        ]
       },
       "inventory": [
         {
@@ -1062,8 +1093,8 @@
           "Thief Rogue"
         ],
         [
-          "Character sheet",
-          "Level 21"
+          "Recorded level",
+          "Level 23"
         ],
         [
           "Background",
@@ -1234,14 +1265,14 @@
         ]
       },
       "statistics": {
-        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "intro": "The epic record lists the advancement below. The preserved character sheet follows separately, with the equipment and blessings that shaped its battle statistics.",
         "metrics": [
           [
-            "Level",
+            "Sheet level",
             "Thief Rogue 21"
           ],
           [
-            "Experience",
+            "Sheet experience",
             "510,261 XP"
           ],
           [
@@ -1313,7 +1344,7 @@
             "+15"
           ]
         ],
-        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "leveling": "The epic record lists Thief Rogue 23 and 623,440 XP. Individual level-up dates are not recorded. The Sleeper episode returned the company to its own eighth-level selves: a flashback, not lost advancement.",
         "awards": [
           [
             "Sunless Citadel & beginnings",
@@ -1329,7 +1360,16 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "alternate": "A separate epic record carries Thief Rogue 23 and 623,440 XP. It remains a different recorded incarnation, not two level gains assigned to an undocumented session."
+        "advancement": [
+          [
+            "Recorded level",
+            "Thief Rogue 23"
+          ],
+          [
+            "Recorded experience",
+            "623,440 XP"
+          ]
+        ]
       },
       "inventory": [
         {

@@ -83,9 +83,12 @@ The adventure order and 320-item gallery remain independent and unchanged.
 
 Profiles now also carry optional `statistics`, `battleRecord`, `inventory` and
 `traits` fields. Section links are `/statistics`, `/battles`, `/inventory` and
-`/traits`. Canonical-sheet metrics and six ability scores stay together; personal
-adventure bonus awards are separate from cumulative XP. Conflicting epic exports
-appear as separate recorded incarnations, never as inferred level-up dates.
+`/traits`. The epic export supplies the prominent recorded levels and XP: Shrop 22, Grim 22,
+Terry Cleric 21 / Paladin 1 (22 total), and Thunder 23. `statistics.advancement`
+renders those figures before the separately labelled preserved sheet statistics.
+PDF combat metrics and six ability scores stay with their own sheet level and XP;
+no combat values are recalculated. Personal adventure bonus awards remain separate
+from cumulative XP. Individual level-up dates are not inferred.
 
 Battle tallies use a selected single log snapshot per scope. The identified-ant
 subset has 23 foes/swarm units shared by both companies; the corroborated Bastion
