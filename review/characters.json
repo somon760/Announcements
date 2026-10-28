@@ -116,7 +116,7 @@
           "title": "What escaped when the candle went out",
           "paragraphs": [
             "The spirit Shrop released by extinguishing the candle was Pengu. Its freedom brought the loss of magic that followed the company into Icewind Dale, weakening Grim’s spells and Terry’s divine aid. The consequences reached beyond the north: Rigus’s magical wards failed, leaving the city open to the demon army.",
-            "Shrop’s part in the release belongs beside the company’s later struggle to stop Pengu. Frostblight fell and magic began a gradual recovery, while Pengu remained within the pulsing obsidian egg. The candle links his earlier act to that northern reckoning."
+            "Shrop’s part in the release belongs beside the company’s later struggle to stop Pengu. Terry’s fourfold attunement and the sacrifice of Blackrazor completed the northern rite; Frostblight fell and magic began a gradual recovery. Pengu’s living obsidian egg remained beyond that victory. The candle links Shrop’s earlier act to the company’s answer."
           ]
         }
       ],
@@ -457,7 +457,7 @@
         },
         {
           "title": "Knowledge before a fallen god",
-          "text": "The northern candle-work placed him among rare ingredients and three prepared attempts; it does not supply a completed final working. Later, Grim approached Desayeus with peaceful intent and questions about the Soul Totem. At level 22 he commands Spell Mastery, Signature Spells and an enormous repertoire: the little dragon scholar had become an archmage.",
+          "text": "Grim’s northern candle-work gathered the ingredients and prepared three sets of wax and wick. Terry’s fourfold attunement and Blackrazor’s sacrifice then brought the ritual against Pengu to completion. Later, Grim approached Desayeus with peaceful intent and questions about the Soul Totem. At level 22 he commands Spell Mastery, Signature Spells and an enormous repertoire: the little dragon scholar had become an archmage.",
           "chapter": "bastion"
         }
       ],
@@ -736,7 +736,7 @@
         },
         {
           "name": "Candle of the Dark One",
-          "text": "Named in his inventory and central to the northern ingredient hunt. Its presence on the sheet does not establish that the final lighting succeeded."
+          "text": "The northern working drew upon Grim’s ingredient hunt and prepared wax and wicks. Its completion depended on Terry’s four-item attunement and the sacrifice of Blackrazor during the Pengu finale."
         },
         {
           "name": "Walrus recipes, blubber and tusks",
@@ -839,6 +839,12 @@
           "chapter": "frostmaiden"
         },
         {
+          "title": "The bearer the ritual needed",
+          "text": "At the climax of the Pengu ordeal, Pelor’s Boon of Attunement let Terry bind himself to Wave, Whelm, Frostrazor and Blackrazor at once. The completed working of the Candle of the Dark One took Blackrazor as its sacrifice. His rare capacity became the hinge of a victory that broke Frostblight and allowed the world’s magic to begin recovering.",
+          "chapter": "frostmaiden",
+          "scene": 9
+        },
+        {
           "title": "A portal took the equipment",
           "text": "Xanthar persuaded Terry and Team Biscuit to take the portal to the grotto. They arrived naked, separated from their equipment, before joining Team Gravy’s fight through the ants. The Wrinkle then trapped Gravy in Hell; Biscuit continued to Windglum. Brother Ernie recovered most of the missing gear later in the Bastion adventure.",
           "chapter": "fungal-bloom",
@@ -869,7 +875,7 @@
           "kind": "Hidden history",
           "title": "Keraptis needed the bearer",
           "paragraphs": [
-            "The candle’s hidden requirement was attunement to all four weapons of power. Keraptis could manage three; Terry’s boon allowed four. The dwarf was therefore a potential target for abduction, not merely a rival treasure hunter. This explains the enemy’s need without pretending the company ever possessed Blackrazor: it was not among their stolen weapons."
+            "The candle’s hidden requirement was attunement to all four weapons of power. Keraptis could manage three; Terry’s boon allowed four. That made the dwarf a potential target for abduction, and ultimately made him the bearer who could complete the northern working. Blackrazor was sacrificed during that rite. Its absence from the later stolen equipment records came from that earlier sacrifice."
           ]
         },
         {
@@ -888,7 +894,7 @@
         }
       ],
       "unfinished": [
-        "The cause and final resolution of Terry’s altered behavior remain open. The candle’s final completion, the four-weapon working and any eventual cure are not assumed from the plan.",
+        "The cause and final resolution of Terry’s altered behavior remain open. The completed Pengu ritual does not by itself establish a cure for that separate affliction.",
         "Zandikar and the Red Keep remain distinct places. His future as priest, smith, fortress-holder or surviving companion awaits the company’s last reckoning."
       ],
       "memories": [
@@ -1162,7 +1168,7 @@
         },
         {
           "name": "Four attunements",
-          "text": "Pelor’s Boon of Attunement permits four attuned magic items, the unusual capacity that made him important to the candle scheme."
+          "text": "Pelor’s Boon of Attunement permits four attuned magic items. Terry used that capacity to bind Wave, Whelm, Frostrazor and Blackrazor for the completed Pengu ritual, in which Blackrazor was sacrificed."
         },
         {
           "name": "Dwarven memory and wandering skills",

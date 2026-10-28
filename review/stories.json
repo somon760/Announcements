@@ -1166,7 +1166,7 @@
           {
             "title": "A fourth name in the scheme",
             "paragraphs": [
-              "Keraptis’s later scheme would bind the names Wave, Whelm, and Blackrazor to a fourth weapon, Frostrazor, and to the Candle of the Dark One. Bringing all four together required an attunement Keraptis could not achieve himself. The weapons’ place in that design extended beyond the riches promised by his challenge; the company’s own road would leave Blackrazor beyond its grasp."
+              "The names Wave, Whelm and Blackrazor would be joined by a fourth weapon, Frostrazor, in the northern working of the Candle of the Dark One. Bringing all four together required an attunement Keraptis could not achieve himself. Terry’s boon supplied that missing capacity. At the culmination of the Pengu ordeal, Blackrazor—the soul-eating blade—was sacrificed in the ritual."
             ]
           }
         ]
@@ -1318,11 +1318,39 @@
         ]
       },
       {
+        "title": "Gnometti’s kitchen in the ice",
+        "paragraphs": [
+          "Frostblight had a host as well as a tyrant. Gnometti, its little gnome chef, wore an immaculate uniform in a kitchen where the cold had settled into the cook himself. A bluish pallor lay beneath his skin, frost gathered at his cuffs, and his cheerful manner had the polish of a welcome repeated for far too many winters.",
+          "His business was food, recipes and the troublesome appetites of the creatures outside. Ice Seal Meals could pacify the territorial seals guarding the caves; preserved fish, saltwater and dried seaweed were the practical ingredients behind that small advantage. Among monstrous rulers and failing spells, the gnome offered the thoroughly domestic possibility that a dangerous passage might be negotiated with supper.",
+          "The warmth belonged to his hospitality rather than his hands. Gnometti’s brittle, frost-preserved appearance made his little kitchen another unsettling part of Pengu’s realm: something familiar continuing far beyond the life it ought to have had. Beyond the recipes and the cooking pot waited the power that had made this place a prison."
+        ],
+        "image": {
+          "src": "media/story/frostmaiden/gnometti.png",
+          "alt": "Gnometti, the white-bearded ice gnome chef, in his original Roll20 portrait token",
+          "caption": "Gnometti: chef, keeper of recipes, and a remarkably cheerful presence in Frostblight’s frozen dark.",
+          "width": 256,
+          "height": 256
+        }
+      },
+      {
+        "title": "Terry, four weapons, and Blackrazor’s sacrifice",
+        "paragraphs": [
+          "The northern quest had gathered its answer one piece at a time. Moonlit Sorrow Vine, Ethereal Whispers Blossom, Melancholic Moonstone, Shadowkissed Silk, Whispering Willow Wood and Mourning Mist Essence had become the materials for the Wax and Wick of the Dark One. Grim had prepared three portions of wax and three wicks. The search through the Dale now reached the working those preparations had been meant to make possible.",
+          "The four epic weapons were brought together: Wave, Whelm, Frostrazor and Blackrazor. Their trail had begun beneath White Plume Mountain and continued through Keraptis’s schemes into the frozen north. Treasure that had once promised power to its bearers had become part of an answer to Pengu.",
+          "Terry supplied what Keraptis could not. Pelor’s Boon of Attunement allowed him to bind himself to all four weapons at once, beyond the three the wizard could manage. The boon became the key to the candle working. The company’s hope rested upon the dwarf whose faith had endured the very loss of magic they had come to end.",
+          "The ritual demanded a sacrifice. Blackrazor, the blade that fed upon souls, was given up. Its hunger had made it a terrible prize; now the company surrendered it as the cost of the rite. Wave, Whelm and Frostrazor remained to continue along their road. Blackrazor did not.",
+          "The working was completed. The ingredients, the hunt for the weapons and Terry’s extraordinary attunement had reached their purpose. A candle snuffed in the Nightmare Grotto had released Pengu; the company had now answered that catastrophe with a ritual of its own, and with a sacrifice it could not simply put back in a scabbard."
+        ]
+      },
+      {
         "title": "Pengu’s last shape",
         "paragraphs": [
-          "In the northern stronghold, the company fought through corrupted emperors, Panguini, Dreamkeepers, and other creatures of the ice. Mad Kaelith fell during that struggle. At its heart waited Pengu, whose presence had reached across the Dale through corrupted creatures and failing magic. The spirit released from the grotto’s candle was now the enemy before them; the struggle against failing magic had reached its source.",
-          "When the final blow landed, Pengu folded inward. Her immense body condensed into a black egg ten feet tall, its surface gleaming like obsidian. A slow pulse beat within it, drawing heat from the air. The enemy’s fighting form had fallen, but what remained was still alive with dreadful possibility.",
-          "Then Frostblight broke apart. The great penguin statue shattered, the ice shelf fractured, and the company’s escape carried them into the arctic sea. They were left stranded on an isolated iceberg, with sheer ice above the water and no land in sight."
+          "Frostblight’s final struggle brought the company against the creatures Pengu had remade. Corrupted emperors, Panguini and Dreamkeepers stood along the way. Mad Kaelith fell during the fighting. At the heart of the stronghold waited Pengu, bound upon a throne of jagged ice, black runed chains stretching from her body into the frozen walls.",
+          "The spirit Shrop had released from the grotto’s candle was now before them. Its influence had weakened the world’s magic, twisted the northern creatures and turned Auril’s power against the land. Terry’s fourfold attunement and the sacrifice of Blackrazor belonged to the company’s answer; the battle brought that long pursuit to its final, immediate danger.",
+          "When the final blow landed, Pengu’s great form convulsed and folded inward. Her body compressed until the enormous presence upon the battlefield had become a black egg ten feet tall, gleaming like liquid obsidian. The chamber fell silent around a slow, deliberate heartbeat.",
+          "Each pulse drew warmth from the air. Frost crept across the floor, and the egg’s reflective surface returned distorted glimpses of the companions. Pengu’s fighting form had fallen. What remained was a vessel still alive with the power that had filled the stronghold.",
+          "Then Frostblight came apart. The monumental penguin statue cracked and shattered; stone and ice fell through the ruin of the frozen citadel. The company’s victory became an escape as the ice shelf broke beneath the way out. They plunged into the arctic sea and survived upon an isolated iceberg, with sheer ice above the water and no land in sight.",
+          "The northern ordeal had reached its reckoning: the ritual completed, Blackrazor sacrificed, Pengu defeated and Frostblight broken. The company had survived the end of the enemy’s frozen dominion. Around its little refuge lay the sea; beyond it waited the first promise that the world’s magic could begin to heal."
         ],
         "image": {
           "src": "media/images/frostmaiden/8840d1592c665ab405bde5c9.png",
@@ -1333,9 +1361,15 @@
         },
         "hindsight": [
           {
-            "title": "The egg was a survival, not an ending",
+            "title": "Mad Kaelith had once been a queen",
             "paragraphs": [
-              "Pengu’s collapse left a living, pulsing vessel of power. The cold and heartbeat of the obsidian egg made the warning plain: the fallen form had changed state. The defeat and Frostblight’s destruction were real victories. Within the egg, something still waited, drawing warmth from the world around it."
+              "Kaelith had once been Aeloria Frostsong, the compassionate queen who led the Panguini against Pengu. The invasion broke her resistance and her mind, turning her into the enforcer of the power she had tried to stop. The enemy the company faced carried the ruined history of an earlier defender of this realm."
+            ]
+          },
+          {
+            "title": "What the egg still held",
+            "paragraphs": [
+              "The obsidian egg retained a heartbeat and an unnatural hunger for warmth. Pengu’s defeat and the destruction of Frostblight ended this northern reign, but the surviving vessel carried a possibility beyond that victory. Within it, something still waited. Its later fate was another thread left beyond the company’s escape."
             ]
           }
         ]
@@ -1398,7 +1432,7 @@
     "closing": {
       "title": "Home, beneath the streets",
       "paragraphs": [
-        "The northern expedition had begun with hungry towns, haunted waters, and a winter that would not end. Beneath those troubles ran a thread from Shrop’s candle in the Nightmare Grotto: Pengu’s release, the loss of magic, and the struggle to break its hold. Frostrazor’s recovery, the fall of Frostblight and the first gradual healing of magic brought that struggle to a turning point. Pengu’s pulsing egg remained, and the people of the Red Keep still faced the demon army that had followed Rigus’s fall.",
+        "The northern expedition had begun with hungry towns, haunted waters and a winter that would not end. Beneath those troubles ran the consequence of Shrop’s candle in the Nightmare Grotto. The answer demanded rare ingredients, four epic weapons, Terry’s boon and the sacrifice of Blackrazor. Pengu’s defeat and the breaking of Frostblight brought that struggle to its climax; the gods’ vision promised magic’s gradual return. The pulsing egg remained beyond the victory, and the Red Keep’s survivors still faced the demon army that had followed Rigus’s fall.",
         "At the end of the Icewind Dale journey, the way home led into Fungus Grotto and sunken Brindinford. There, Shrop, Grim, Terry, and Thunder would fight alongside Team Gravy—Brunn, Rook, Nox, and Elira—against giant ants among the buried remnants of a city they knew. The next passage belongs to both companies."
       ]
     }
@@ -1490,7 +1524,7 @@
           "Another familiar face met them with a very different welcome. Brother Ernie had been lost amid the dangerous business of the irionite bomb. The company had believed the explosion had taken him. Now he was here, weathered and battered, surrounded by boxes, trunks, bottles, books, clothing, and much of their recovered property.",
           "These were the possessions Xanthar’s deception had cost them. He had persuaded Team Biscuit to use the portal to the grotto, where they arrived naked and without their equipment. Ernie’s return finally joined that humiliating loss to its unlikely recovery, though it offered no rescue for the friends still lost in Hell.",
           "There were questions about Rigus, Father Cuthbert, the Brotherhood, and the Church of Terry. Grim wanted to know how Ernie had survived and how he had crossed the planes. Ernie greeted them with his old broad smile and applied himself to the explanation with gestures and an interpretive dance of magnificent commitment and uncertain informational value.",
-          "Most of the stolen belongings had come back. Three great weapons had not: Whelm, Wave, and Frostrazor. Ernie’s apologetic chalk drawing showed a short thief carrying them away. Grim suspected a connection to his relative, but suspicion could not put the weapons back into their hands."
+          "Most of the stolen belongings had come back. Three great weapons had not: Whelm, Wave and Frostrazor. Blackrazor had already been sacrificed in the ritual against Pengu; it was no longer a possession for Ernie to recover. Ernie’s apologetic chalk drawing showed a short thief carrying the remaining three away. Grim suspected a connection to his relative, but suspicion could not put the weapons back into their hands."
         ],
         "image": {
           "src": "media/story/bastion/ernies-return.webp",

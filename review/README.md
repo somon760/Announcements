@@ -29,7 +29,7 @@ The selected collection currently contains 320 items. Preserve the curated chapt
 Use `npm run dev` for local static-site preview. `npm run build` validates and
 copies the whole site to dist. GitHub Pages publishes the main branch root.
 
-All twelve adventures/interludes now have narrated treatments in `stories.json`: 88
+All twelve adventures/interludes now have narrated treatments in `stories.json`: 90
 scenes through the return to Bastion and its later recorded fighting. The northern
 account includes Frostblight, the Red Keep/Reclamation, and the demon army. Bastion
 adds Windglum, Eco and Desayeus, Findula’s farewell, Ernie’s return and protective
@@ -40,7 +40,7 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 34 such notes.
+recorded actions. The twelve narrated chapters contain 35 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return twenty years beyond its original time, as confirmed by Boss. The final
@@ -167,7 +167,7 @@ recovery. The Rigus aftermath connects ward failure to the same crisis. Shrop’
 profile includes a milestone and a labelled Revisionist consequence. The original
 grotto candle and the later Candle of the Dark One are distinct; Ashardalon’s
 soul predation remains a separate, continuing danger. Pengu’s egg’s later fate
-and the final candle working are not invented.
+is not invented; Boss subsequently confirmed the completed candle working and Blackrazor’s sacrifice.
 
 
 Boss corrected the time jump to twenty years on 2026-10-28. The former fifty-year
@@ -179,3 +179,17 @@ exact total duration of Ashardalon’s residence is inferred. The current game�
 posted 1 Hammer 1407 conflicts with earlier calendar output reaching 26 Eleasis
 1407; that correction remains with the GM. Player prose keeps relative chronology
 and narration rather than exposing the private date audit.
+
+
+Boss confirmed the Pengu finale’s completed ritual: Terry used his four-item
+attunement boon with Wave, Whelm, Frostrazor and Blackrazor; the soul-eating
+Blackrazor was sacrificed. This supersedes earlier wording that the ritual’s
+completion was unknown or that Blackrazor never belonged to the company.
+Gnometti’s kitchen and original portrait, the ritual, Pengu’s egg, Frostblight’s
+collapse and magic’s gradual recovery now form the expanded climax. Kaelith’s
+Aeloria history is Hindsight. The later fate of the egg remains open.
+
+Two scenes inserted before the former Pengu scene shift old Icewind scenes 8–13
+to 10–15. All affected gallery links were remapped by meaning; Terry’s new
+milestone points to ritual scene 9. Adventure navigation remains at the end.
+Character numerical fields and all battle/death ledger data are preserved.
