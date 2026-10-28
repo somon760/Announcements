@@ -1,4 +1,4 @@
-import { renderCompanyHonours } from './battles.js?v=battle-chronicle-1';
+import { renderCompanyHonours } from './battles.js?v=battle-chronicle-2';
 const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
 }[character]));

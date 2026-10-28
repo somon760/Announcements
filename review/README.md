@@ -143,3 +143,8 @@ inferred. Named targets may repeat without establishing separate lifetimes.
 Missing XP stays null; zero XP remains a known value. Two explicitly nonlethal
 Blade Golem records remain outside kill totals. Unplaced chapter/company entries
 remain visible rather than being assigned by campaign number or backup date.
+
+Ledger layout: fixed desktop column widths and expandable story contexts keep
+rows compact. At 700px and below, each record becomes a labelled card with its
+kill and XP figures together, preserving table semantics and avoiding horizontal
+scrolling. Filter controls use the same height across browsers.

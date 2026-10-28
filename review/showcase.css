@@ -148,7 +148,7 @@
 .party-names a:hover img{transform:translateY(-3px)}
 @media(max-width:700px){.party-names{grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:24px 20px}.party-names img{width:80px;height:80px}.party-strip .eyebrow{margin-bottom:24px}}
 /* A player-facing chronicle, backed by one reconciled party ledger. */
-.chronicle-intro{max-width:1200px;padding-bottom:45px}
+.chronicle-intro{max-width:none;padding-bottom:45px}
 .chronicle-intro h1{font-size:clamp(54px,7vw,98px);line-height:1.02}
 .chronicle-intro>p:not(.eyebrow){max-width:760px;line-height:1.9;margin-top:24px}
 .chronicle-overview{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px;margin:40px 0 10px;padding-top:28px;border-top:1px solid var(--line)}
@@ -177,3 +177,46 @@
 .chronicle-callout{display:flex;justify-content:space-between;align-items:center;gap:50px;background:#e1e5d9;border-top:1px solid var(--line)}.chronicle-callout>div:first-child{max-width:660px}.chronicle-callout h2{font-size:clamp(38px,5vw,62px);margin-top:15px}.chronicle-callout p:not(.eyebrow){line-height:1.9;margin-top:22px}.chronicle-callout .solid-link{margin-top:25px}.chronicle-callout-total{font-family:var(--serif);font-size:clamp(70px,10vw,135px);line-height:1}.chronicle-callout-total small{display:block;font-family:var(--sans);font-size:11px;line-height:1.8;max-width:180px;margin-top:15px}
 @media(max-width:1000px){.battle-observations{gap:25px}.battle-chart-grid{gap:30px}.battle-filters{grid-template-columns:repeat(2,minmax(0,1fr))}.battle-named-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.battle-observations h2{font-size:28px}.site-header nav{flex-wrap:wrap;gap:10px 18px}}
 @media(max-width:700px){.chronicle-overview{gap:15px}.chronicle-overview strong{font-size:38px}.chronicle-overview span{font-size:10px}.battle-observations,.battle-chart-grid{grid-template-columns:1fr}.battle-observations{gap:35px}.battle-filters{grid-template-columns:1fr}.battle-filter-actions button{width:100%}.battle-view-totals{flex-direction:column;gap:7px}.battle-ledger-table{font-size:12px}.battle-ledger-table th,.battle-ledger-table td{padding:14px 8px}.battle-table-wrap{border:1px solid var(--line)}.battle-ledger-table caption{padding:14px}.battle-named-grid{grid-template-columns:1fr}.chronicle-callout{flex-direction:column;align-items:flex-start;gap:30px}.chronicle-callout-total{font-size:85px}.profile-battle-overview{grid-template-columns:1fr 1fr}.battle-method-section summary{font-size:25px}}
+
+/* Keep ledger records readable across browser and viewport sizes. */
+.battle-explorer .section-intro{align-items:flex-start}
+.battle-filters input,.battle-filters select{height:52px;min-height:52px;line-height:1.4;font-family:var(--sans)}
+.battle-filter-actions button{min-height:44px;line-height:1.4}
+.battle-chart-grid{align-items:start}
+.battle-chart-grid>section{min-width:0;padding:24px;border:1px solid var(--line);background:#f4f2ea}
+.battle-ledger-table{table-layout:fixed}
+.battle-col-foe{width:30%}.battle-col-count{width:14%}.battle-col-xp{width:20%}.battle-col-story{width:36%}
+.battle-ledger-table th,.battle-ledger-table td{overflow-wrap:anywhere}
+.battle-ledger-table tbody th,.battle-ledger-table td:last-child{min-width:0;max-width:none}
+.battle-ledger-table thead th:nth-child(2),.battle-ledger-table thead th:nth-child(3),.battle-ledger-table td:nth-child(2),.battle-ledger-table td:nth-child(3){text-align:right;font-variant-numeric:tabular-nums}
+.battle-ledger-table td:nth-child(2){font-size:24px;line-height:1.3}
+.battle-ledger-table summary{line-height:1.6}
+.battle-row-context summary{font-size:12px;color:var(--forest);font-weight:500}
+.battle-context-links{display:grid;gap:10px;margin-top:14px}
+.battle-context-links a{display:block}
+.chronicle-overview>div{min-width:0}
+@media(max-width:700px){
+ .battle-chart-grid>section{padding:20px}
+ .battle-table-wrap{overflow:visible;border:0}
+ .battle-ledger-table,.battle-ledger-table caption,.battle-ledger-table tbody{display:block;width:100%}
+ .battle-ledger-table caption{padding:0;margin-bottom:22px;font-size:24px}
+ .battle-ledger-table colgroup{display:none}
+ .battle-ledger-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ .battle-ledger-table tbody{display:grid;gap:16px}
+ .battle-ledger-table tbody tr{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px 16px;padding:20px;border:1px solid var(--line);background:#f6f4ed}
+ .battle-ledger-table tbody th,.battle-ledger-table td{display:block;min-width:0;padding:0;border:0}
+ .battle-ledger-table tbody th{grid-column:1/-1;font-size:23px}
+ .battle-ledger-table td:nth-child(2),.battle-ledger-table td:nth-child(3){text-align:left;font-size:22px;font-family:var(--serif);line-height:1.4}
+ .battle-ledger-table td::before{content:attr(data-label);display:block;margin-bottom:8px;font:500 9px/1.5 var(--sans);text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+ .battle-ledger-table td:last-child{grid-column:1/-1;font-size:12px}
+ .battle-ledger-table details p,.battle-ledger-table details ul{font-size:12px}
+ .battle-ledger-table .battle-row-context summary{font-size:12px}
+ .battle-table-wrap .battle-ledger-table details ul{padding-left:18px}
+}
+@media(max-width:480px){
+ .chronicle-intro .chronicle-overview{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+ .chronicle-intro .chronicle-overview>div:first-child{grid-column:1/-1}
+ .chronicle-intro .chronicle-overview>div:first-child strong{font-size:52px}
+ .chronicle-intro .chronicle-overview strong{font-size:38px}
+ .chronicle-intro .chronicle-overview span{font-size:11px}
+}
