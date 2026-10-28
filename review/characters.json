@@ -129,7 +129,7 @@
         "ledgerCompany": "biscuit"
       },
       "statistics": {
-        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [
           [
             "Recorded level",
@@ -280,82 +280,6 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "previousSnapshot": {
-          "metrics": [
-            [
-              "Sheet level",
-              "Champion Fighter 21"
-            ],
-            [
-              "Sheet experience",
-              "510,261 XP"
-            ],
-            [
-              "Maximum HP",
-              "267"
-            ],
-            [
-              "Armor class",
-              "30"
-            ],
-            [
-              "Initiative",
-              "+8"
-            ],
-            [
-              "Speed",
-              "30 ft"
-            ],
-            [
-              "Proficiency",
-              "+6"
-            ],
-            [
-              "Passive Perception",
-              "17"
-            ]
-          ],
-          "abilities": [
-            [
-              "STR",
-              29
-            ],
-            [
-              "DEX",
-              16
-            ],
-            [
-              "CON",
-              20
-            ],
-            [
-              "INT",
-              10
-            ],
-            [
-              "WIS",
-              12
-            ],
-            [
-              "CHA",
-              12
-            ]
-          ],
-          "skills": [
-            [
-              "Athletics",
-              "+17"
-            ],
-            [
-              "Intimidation",
-              "+7"
-            ],
-            [
-              "Perception",
-              "+7"
-            ]
-          ]
-        },
         "journalSnapshot": {
           "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
           "metrics": [
@@ -582,7 +506,7 @@
         "ledgerCompany": "biscuit"
       },
       "statistics": {
-        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [
           [
             "Recorded level",
@@ -741,86 +665,6 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "previousSnapshot": {
-          "metrics": [
-            [
-              "Sheet level",
-              "Enchantment Wizard 22"
-            ],
-            [
-              "Sheet experience",
-              "614,445 XP"
-            ],
-            [
-              "Maximum HP",
-              "128"
-            ],
-            [
-              "Armor class",
-              "21"
-            ],
-            [
-              "Initiative",
-              "+3"
-            ],
-            [
-              "Speed",
-              "30 ft"
-            ],
-            [
-              "Proficiency",
-              "+7"
-            ],
-            [
-              "Passive Perception",
-              "18"
-            ],
-            [
-              "Spell save DC",
-              "21"
-            ]
-          ],
-          "abilities": [
-            [
-              "STR",
-              10
-            ],
-            [
-              "DEX",
-              16
-            ],
-            [
-              "CON",
-              14
-            ],
-            [
-              "INT",
-              22
-            ],
-            [
-              "WIS",
-              13
-            ],
-            [
-              "CHA",
-              10
-            ]
-          ],
-          "skills": [
-            [
-              "Arcana",
-              "+20"
-            ],
-            [
-              "History",
-              "+13"
-            ],
-            [
-              "Investigation",
-              "+13"
-            ]
-          ]
-        },
         "journalSnapshot": {
           "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
           "metrics": [
@@ -1058,7 +902,7 @@
         "ledgerCompany": "biscuit"
       },
       "statistics": {
-        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [
           [
             "Recorded level",
@@ -1217,86 +1061,6 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "previousSnapshot": {
-          "metrics": [
-            [
-              "Sheet level",
-              "War Cleric 21 · Paladin 1"
-            ],
-            [
-              "Sheet experience",
-              "510,261 XP"
-            ],
-            [
-              "Maximum HP",
-              "235"
-            ],
-            [
-              "Armor class",
-              "30"
-            ],
-            [
-              "Initiative",
-              "+1"
-            ],
-            [
-              "Speed",
-              "25 ft"
-            ],
-            [
-              "Proficiency",
-              "+6"
-            ],
-            [
-              "Passive Perception",
-              "15"
-            ],
-            [
-              "Spell save DC",
-              "19"
-            ]
-          ],
-          "abilities": [
-            [
-              "STR",
-              27
-            ],
-            [
-              "DEX",
-              13
-            ],
-            [
-              "CON",
-              20
-            ],
-            [
-              "INT",
-              6
-            ],
-            [
-              "WIS",
-              20
-            ],
-            [
-              "CHA",
-              10
-            ]
-          ],
-          "skills": [
-            [
-              "Athletics",
-              "+14"
-            ],
-            [
-              "Insight",
-              "+11"
-            ],
-            [
-              "Survival",
-              "+11"
-            ]
-          ]
-        },
         "journalSnapshot": {
           "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions. Terry’s battle maximum differs from the character record below; the surviving figures do not explain the change.",
           "metrics": [
@@ -1538,7 +1302,7 @@
         "ledgerCompany": "biscuit"
       },
       "statistics": {
-        "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [
           [
             "Recorded level",
@@ -1689,86 +1453,6 @@
           ]
         ],
         "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
-        "previousSnapshot": {
-          "metrics": [
-            [
-              "Sheet level",
-              "Thief Rogue 21"
-            ],
-            [
-              "Sheet experience",
-              "510,261 XP"
-            ],
-            [
-              "Maximum HP",
-              "170"
-            ],
-            [
-              "Armor class",
-              "22"
-            ],
-            [
-              "Initiative",
-              "+8"
-            ],
-            [
-              "Speed",
-              "30 ft"
-            ],
-            [
-              "Proficiency",
-              "+6"
-            ],
-            [
-              "Passive Perception",
-              "25"
-            ]
-          ],
-          "abilities": [
-            [
-              "STR",
-              14
-            ],
-            [
-              "DEX",
-              27
-            ],
-            [
-              "CON",
-              12
-            ],
-            [
-              "INT",
-              16
-            ],
-            [
-              "WIS",
-              16
-            ],
-            [
-              "CHA",
-              14
-            ]
-          ],
-          "skills": [
-            [
-              "Acrobatics",
-              "+20"
-            ],
-            [
-              "Stealth",
-              "+19"
-            ],
-            [
-              "Sleight of Hand",
-              "+19"
-            ],
-            [
-              "Investigation",
-              "+15"
-            ]
-          ]
-        },
         "journalSnapshot": {
           "intro": "The recorded Bastion battle, with its equipment, blessings and battle conditions.",
           "metrics": [
@@ -1987,7 +1671,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -2127,7 +1811,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -2267,7 +1951,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [],
         "abilities": [],
         "skills": [],
@@ -2403,7 +2087,7 @@
         "ledgerCompany": "gravy"
       },
       "statistics": {
-        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "intro": "The latest available full character record is dated 1 September 2026. The Bastion battle figures below record conditions during that encounter.",
         "metrics": [],
         "abilities": [],
         "skills": [],

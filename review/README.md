@@ -90,9 +90,10 @@ export fields. `statistics.journalSnapshot` shows the current journal's recorded
 Bastion battle defenses separately; those dashboards do not expose full sheets or
 level fields. Terry's battle maximum (222) differs from the export (235), and
 Grim's battle AC (21) differs from the export (18); neither is silently merged.
-`statistics.previousSnapshot` retains canonical PDF figures in a collapsed panel.
-No combat values or level-up dates are calculated. Personal adventure bonus awards
-remain separate from cumulative XP.
+The latest available full sheet appears first, followed by the Bastion dashboard
+as a separate battle snapshot. Earlier PDF sheets do not appear on the website.
+No combat values or level-up dates are calculated.
+Personal adventure bonus awards remain separate from cumulative XP.
 
 The Battle Chronicle at `#/battle-chronicle` supplies every profile's Company
 honours from the same `battles.json` ledger. `battleRecord.ledgerCompany` replaces

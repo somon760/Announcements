@@ -5,21 +5,21 @@ const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
 const prose = values => values.map(value => `<p>${escape(value)}</p>`).join('');
 const profileUrl = person => `#/companions/${person.slug}`;
 const numbered = value => new Intl.NumberFormat('en').format(value);
+const statBlock = (sheet, label) => `${sheet.metrics.length ? `<dl class="character-stat-grid" aria-label="${escape(label)} statistics">${sheet.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl>` : ''}
+  ${sheet.abilities.length ? `<dl class="ability-scores" aria-label="${escape(label)} ability scores">${sheet.abilities.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${Number(value)}</dd></div>`).join('')}</dl>` : ''}
+  ${sheet.saves?.length ? `<div class="signature-skills"><h4>Saving throws</h4><dl>${sheet.saves.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
+  ${sheet.skills.length ? `<div class="signature-skills"><h4>Skills</h4><dl>${sheet.skills.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}`;
 
 function statistics(person) {
   const stats = person.statistics;
   if (!stats) return '';
   return `<section id="character-statistics" tabindex="-1" class="character-section">
     <p class="eyebrow">The character at the table</p><h2>In numbers.</h2><p class="character-stat-note">${escape(stats.intro)}</p>
-    ${stats.journalSnapshot ? `<h3 class="sheet-snapshot-heading">At the Bastion</h3><p class="character-stat-note">${escape(stats.journalSnapshot.intro)}</p><dl class="character-stat-grid" aria-label="Bastion battle snapshot">${stats.journalSnapshot.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl><h3 class="sheet-snapshot-heading">Epic character record · 1 September 2026</h3>` : ''}
-    ${stats.metrics.length ? `<dl class="character-stat-grid">${stats.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl>` : ''}
-    ${stats.abilities.length ? `<dl class="ability-scores" aria-label="Ability scores">${stats.abilities.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${Number(value)}</dd></div>`).join('')}</dl>` : ''}
-    ${stats.saves?.length ? `<div class="signature-skills"><h3>Saving throws</h3><dl>${stats.saves.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
-    ${stats.skills.length ? `<div class="signature-skills"><h3>Skills</h3><dl>${stats.skills.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
+    ${stats.metrics.length ? `<h3 class="sheet-snapshot-heading">Latest available sheet · 1 September 2026</h3>${statBlock(stats, 'Latest sheet')}` : ''}
+    ${stats.journalSnapshot ? `<div class="battle-snapshot"><h3 class="sheet-snapshot-heading">At the Bastion</h3><p class="character-stat-note">${escape(stats.journalSnapshot.intro)}</p><dl class="character-stat-grid" aria-label="Bastion battle snapshot">${stats.journalSnapshot.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
     <div class="leveling-record"><h3>Levels &amp; earned experience</h3><p>${escape(stats.leveling)}</p>
       ${stats.awards.length ? `<table class="character-record-table"><caption>Recorded personal adventure awards</caption><thead><tr><th scope="col">Adventure</th><th scope="col">Bonus XP</th></tr></thead><tbody>${stats.awards.map(([name,value]) => `<tr><th scope="row">${escape(name)}</th><td>${numbered(value)}</td></tr>`).join('')}</tbody></table><p class="character-stat-note">${escape(stats.awardsNote)}</p>` : ''}
     </div>
-    ${stats.previousSnapshot ? `<details class="previous-sheet"><summary>Earlier character-sheet snapshot</summary><p class="character-stat-note">The preserved PDF sheet keeps its own level, experience and equipped figures. These values are a separate snapshot of the character.</p><dl class="character-stat-grid">${stats.previousSnapshot.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl><dl class="ability-scores" aria-label="Earlier sheet ability scores">${stats.previousSnapshot.abilities.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${Number(value)}</dd></div>`).join('')}</dl><div class="signature-skills"><h3>Earlier signature skills</h3><dl>${stats.previousSnapshot.skills.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div></details>` : ''}
   </section>`;
 }
 

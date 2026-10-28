@@ -110,7 +110,7 @@
 .ability-scores>div:last-child{border:0}
 .ability-scores dd{font-family:var(--serif);font-size:34px;margin:7px 0 0;line-height:1}
 .signature-skills{margin-top:28px}
-.signature-skills h3{font-size:25px}
+.signature-skills h3,.signature-skills h4{font-size:25px}
 .signature-skills dl{display:flex;flex-wrap:wrap;gap:12px 22px;margin:17px 0 0}
 .signature-skills dl>div{display:flex;gap:12px;font-size:13px;border-bottom:1px solid var(--line);padding-bottom:5px}
 .signature-skills dd{margin:0;font-weight:700}
@@ -122,9 +122,6 @@
 .character-record-table thead th{font-size:9px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);border-top:1px solid var(--line)}
 .character-record-table tbody th{font-weight:400;overflow-wrap:anywhere}
 .character-record-table td:last-child,.character-record-table thead th:last-child{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
-.previous-sheet{margin-top:30px;padding:18px 20px;border:1px solid var(--line)}
-.previous-sheet summary{cursor:pointer;font-size:14px;font-weight:500}
-.previous-sheet>p{margin-top:16px}
 .sheet-snapshot-heading{margin-top:32px;font-size:25px}
 .battle-tallies{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:35px;margin-top:30px}
 .battle-tally{border-top:1px solid var(--line);padding-top:23px;min-width:0}
