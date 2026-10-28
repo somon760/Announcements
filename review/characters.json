@@ -1216,7 +1216,7 @@
       "shortName": "Thunder",
       "company": "Team Biscuit",
       "title": "The way home, and the blood that barred it",
-      "summary": "A performer turned thief, an inherited curse, a spectral ship’s bargain, and a bloodline feared by an ancient dragon.",
+      "summary": "A performer turned thief, Brindinford guild insider, heir to a curse, and descendant of the dragon’s ancient enemy.",
       "portrait": "media/portraits/thunder-portrait.png",
       "portraitAlt": "Thunder’s journal portrait, a long-haired figure leaning forward with an intent expression.",
       "token": "media/portraits/thunder-token.png",
@@ -1250,6 +1250,7 @@
       "backstory": [
         "Thunder’s mother was an elven musician travelling with a troupe; his human father owned a theater in Brindinford. They met during the annual festival, and Thunder was born after the performers had left town. He grew up among acrobatics, sleight of hand and drums, learning how to catch an audience before he learned how to escape one.",
         "Curiosity eventually brought him to Brindinford to find his father. Human years had moved faster than he expected. He arrived during the old man’s final days and heard a deathbed confession: his father had been cursed as a wererat and feared passing it to his son. Thunder would not return to his mother until he could lift the inheritance. Performing sometimes gave way to burglary; a failed attempt sent him into service with the Stolen Sons, where he joined Terry and Shrop.",
+        "Brindinford gave him more than his father’s last confession. Thunder paid dues to its thieves’ guild and gained access to the black markets beneath the town’s ordinary trade. He became part of a guild takeover. The people behind those doors would meet a darker fate when their road reached Rigus.",
         "The wish to be famous sat beside the fear of going home. He collected rumors wherever he went and could smooth a room’s temper with charm, but his own family still waited without understanding his absence. The later discovery of Dydd’s blood gave his inheritance a second, much older meaning."
       ],
       "progression": [
@@ -1260,13 +1261,25 @@
         },
         {
           "title": "An entertainer became the scout",
-          "text": "Khundrukar brought traps, drumming, backstabs and an approach to Nightscale. Brindinford then gave him rumors, temple infiltration and a narrow survival behind the Wrinkle. Saithnar’s glasses helped him read the margins of dragon lore for Grim and Terry.",
+          "text": "Khundrukar brought traps, drumming, backstabs and an approach to Nightscale. In Brindinford he gathered contacts, paid his guild dues and entered its black markets. He took part in a guild takeover, scouted Pelor’s temple, survived the Wrinkle and used Saithnar’s glasses to read dragon lore for Grim and Terry.",
           "chapter": "speaker-in-dreams"
         },
         {
           "title": "The hand that stopped a friend",
           "text": "Around Ossington he found routes, investigated the tarn, discovered the abandoned Pelorian shrine and restrained Shrop’s cursed rampage. His usefulness was never confined to what he could steal.",
           "chapter": "standing-stone"
+        },
+        {
+          "title": "The last guild meeting",
+          "text": "Thunder arranged a meeting in Rigus with the last members of the Brindinford thieves’ guild. They were slaughtered there. He obtained blood-spattered notes telling of the guild’s earlier losses, the Baron’s secret fight over adamantum, the drow and Varachus’s Acheron obligation. The killers at the meeting are not named in the recovered account.",
+          "chapter": "iron-fortress",
+          "scene": 1
+        },
+        {
+          "title": "Underworld rumours in Rigus",
+          "text": "Other guild rumours brought Thunder news of a healthy-looking child born lifeless, depleted Mercykiller ranks and a missing fifth founder of Rigus’s ruling Brotherhood. The exchange does not identify which guild supplied this intelligence, but his contacts continued to open doors into the city’s deeper mysteries.",
+          "chapter": "iron-fortress",
+          "scene": 5
         },
         {
           "title": "The captaincy with a price",
@@ -1300,6 +1313,13 @@
         }
       ],
       "revisionist": [
+        {
+          "kind": "Hindsight",
+          "title": "The rumour about a child with no soul",
+          "paragraphs": [
+            "The guild rumour about Cierith Bloodwyn’s firstborn sounded like a private tragedy in Rigus. Later revelations gave it a larger horror: Ashardalon was consuming souls before they could enter the world. Thunder’s source could report the stillbirth; the exchange does not show that he knew its cause then. The missing fifth member of the Brotherhood remained a separate, unresolved secret."
+          ]
+        },
         {
           "kind": "Hidden history",
           "title": "The hunted blood was a weapon in someone else’s plan",

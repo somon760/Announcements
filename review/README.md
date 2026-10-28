@@ -82,6 +82,12 @@ Main navigation, the home callout and named chapter rosters link into this area.
 Profiles link back to existing chapters/scenes and to neighboring companions.
 The adventure order and 320-item gallery remain independent and unchanged.
 
+Thunder’s Brindinford guild arc now connects his paid dues and black-market
+access to the guild takeover, then to the last members’ fatal Rigus meeting and
+the bloodstained notebook he recovered. The notebook gallery caption links to
+the Rigus scene and identifies the Brindinford thieves’ guild rather than the
+separate Guild of Sleep. No numbered time interval is assigned to this arc.
+
 
 Profiles now also carry optional `statistics`, `battleRecord`, `inventory` and
 `traits` fields. Section links are `/statistics`, `/battles`, `/inventory` and
