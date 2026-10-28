@@ -104,7 +104,230 @@
         "Caroleena’s fate and the circumstances of Shrop’s conscription remain unanswered. The beginning of his blindness is not established here, and the fifty-year displacement must not be mistaken for fifty years of personal ageing.",
         "The Bastion leaves room for the soldier’s final choice. No victory, death, cure or homecoming is written for him in advance."
       ],
-      "memories": []
+      "memories": [],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          },
+          {
+            "title": "Inside the Bastion · Team Biscuit",
+            "total": 10,
+            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
+            "rows": [
+              [
+                "Advanced Retriever",
+                1
+              ],
+              [
+                "Po",
+                1
+              ],
+              [
+                "Grisly",
+                1
+              ],
+              [
+                "Krushar",
+                1
+              ],
+              [
+                "Thalidorus",
+                1
+              ],
+              [
+                "Soulsipper",
+                4
+              ],
+              [
+                "Vrock",
+                1
+              ]
+            ],
+            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "metrics": [
+          [
+            "Level",
+            "Champion Fighter 21"
+          ],
+          [
+            "Experience",
+            "510,261 XP"
+          ],
+          [
+            "Maximum HP",
+            "267"
+          ],
+          [
+            "Armor class",
+            "30"
+          ],
+          [
+            "Initiative",
+            "+8"
+          ],
+          [
+            "Speed",
+            "30 ft"
+          ],
+          [
+            "Proficiency",
+            "+6"
+          ],
+          [
+            "Passive Perception",
+            "17"
+          ]
+        ],
+        "abilities": [
+          [
+            "STR",
+            29
+          ],
+          [
+            "DEX",
+            16
+          ],
+          [
+            "CON",
+            20
+          ],
+          [
+            "INT",
+            10
+          ],
+          [
+            "WIS",
+            12
+          ],
+          [
+            "CHA",
+            12
+          ]
+        ],
+        "skills": [
+          [
+            "Athletics",
+            "+17"
+          ],
+          [
+            "Intimidation",
+            "+7"
+          ],
+          [
+            "Perception",
+            "+7"
+          ]
+        ],
+        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "awards": [
+          [
+            "Sunless Citadel & beginnings",
+            2025
+          ],
+          [
+            "Forge of Fury",
+            3110
+          ],
+          [
+            "Brindinford, Ossington & Nightfang deeds",
+            9450
+          ]
+        ],
+        "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
+        "alternate": "A separate epic record carries Champion Fighter 22 and 623,440 XP. Its figures belong to that incarnation and are kept separate from the character-sheet snapshot above."
+      },
+      "inventory": [
+        {
+          "name": "Special Mithril - Plate Armor +3, Shield +3 and Ring of Protection +3",
+          "text": "The protective ensemble listed on his sheet. The armor-class figure above belongs to that equipped snapshot."
+        },
+        {
+          "name": "Belt of Storm Giant Strength",
+          "text": "A signature source of the immense strength behind his doors, leaps and weapon work."
+        },
+        {
+          "name": "Frostmore and Foe Slasher",
+          "text": "Named fighting weapons. The attack list gives Frostmore +16 to hit and Foe Slasher +17; the full magical damage is longer than the printed summary."
+        },
+        {
+          "name": "Gold signet ring bearing the town seal of Ossington",
+          "text": "A small, specific connection to the town whose mysteries pulled the company towards Dydd’s older history."
+        },
+        {
+          "name": "Shrops Signature Grippy Fishing Rod",
+          "text": "Listed with a Topwater Popper, Minnow Bait and Silver Spinners. Even an epic fighter keeps equipment for quieter contests."
+        },
+        {
+          "name": "Bands of the Found and Lost",
+          "text": "A distinctive named possession on his sheet; its name is preserved without assigning it an unrecorded rescue or power."
+        },
+        {
+          "name": "Socks of the Well-Rested and Brooch of Many Sizes",
+          "text": "Two of the less martial comforts and conveniences travelling with the formidable armor."
+        },
+        {
+          "name": "Pattern for Doom of Pengu",
+          "text": "A northern keepsake among the cold-weather clothing, remorhaz materials and strange ingredients left by the Dale."
+        }
+      ],
+      "traits": [
+        {
+          "name": "Blind, alert and direct",
+          "text": "He meets trouble head-on, enjoys strength and breaking things, and prefers a simple solution. The blindness remains part of his character; foresight is not a written cure."
+        },
+        {
+          "name": "Champion’s critical edge",
+          "text": "His sheet gives Superior Critical on 18–20, four attacks with the Attack action, and two uses of Action Surge between rests."
+        },
+        {
+          "name": "Survivor and Relentless Endurance",
+          "text": "The Champion’s recovery and his half-orc endurance both reinforce his place at the front of the company."
+        },
+        {
+          "name": "Military Rank and Master Jumper",
+          "text": "The soldier’s past leaves both authority among soldiers and a taste for spectacular changes of elevation."
+        },
+        {
+          "name": "Languages and tools",
+          "text": "Common, Orc, written Draconic and spoken Undercommon; a dice set, land vehicles and sailor training."
+        },
+        {
+          "name": "A difficult contradiction",
+          "text": "He values the freedom to choose his own battles, yet carries an unreasoning hatred of enemies and a harsh judgment of poverty born from his own childhood."
+        }
+      ]
     },
     {
       "slug": "grim",
@@ -214,6 +437,233 @@
           "src": "media/portraits/grim-early.png",
           "alt": "Grim’s earlier campaign portrait.",
           "caption": "An earlier face from the road, before the spellbook and the dragon mystery had grown so large."
+        }
+      ],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          },
+          {
+            "title": "Inside the Bastion · Team Biscuit",
+            "total": 10,
+            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
+            "rows": [
+              [
+                "Advanced Retriever",
+                1
+              ],
+              [
+                "Po",
+                1
+              ],
+              [
+                "Grisly",
+                1
+              ],
+              [
+                "Krushar",
+                1
+              ],
+              [
+                "Thalidorus",
+                1
+              ],
+              [
+                "Soulsipper",
+                4
+              ],
+              [
+                "Vrock",
+                1
+              ]
+            ],
+            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "metrics": [
+          [
+            "Level",
+            "Enchantment Wizard 22"
+          ],
+          [
+            "Experience",
+            "614,445 XP"
+          ],
+          [
+            "Maximum HP",
+            "128"
+          ],
+          [
+            "Armor class",
+            "21"
+          ],
+          [
+            "Initiative",
+            "+3"
+          ],
+          [
+            "Speed",
+            "30 ft"
+          ],
+          [
+            "Proficiency",
+            "+7"
+          ],
+          [
+            "Passive Perception",
+            "18"
+          ],
+          [
+            "Spell save DC",
+            "21"
+          ]
+        ],
+        "abilities": [
+          [
+            "STR",
+            10
+          ],
+          [
+            "DEX",
+            16
+          ],
+          [
+            "CON",
+            14
+          ],
+          [
+            "INT",
+            22
+          ],
+          [
+            "WIS",
+            13
+          ],
+          [
+            "CHA",
+            10
+          ]
+        ],
+        "skills": [
+          [
+            "Arcana",
+            "+20"
+          ],
+          [
+            "History",
+            "+13"
+          ],
+          [
+            "Investigation",
+            "+13"
+          ]
+        ],
+        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "awards": [
+          [
+            "Sunless Citadel & beginnings",
+            2150
+          ],
+          [
+            "Forge of Fury",
+            3160
+          ],
+          [
+            "Brindinford, Ossington & Nightfang deeds",
+            10700
+          ]
+        ],
+        "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
+        "alternate": null
+      },
+      "inventory": [
+        {
+          "name": "Archmagi Spellweaver Attire",
+          "text": "His distinctive arcane clothing, accompanied by Ring of Protection +3, Ring of Wizardry II and Rubyheart Ring."
+        },
+        {
+          "name": "Irionite Pendant",
+          "text": "A named magical possession on the sheet, carried beside the more familiar component pouch and protective trinkets."
+        },
+        {
+          "name": "Alchemist’s Supplies and Tinker’s Tools",
+          "text": "Practical extensions of the sage’s curiosity, with a herbalism kit and cook’s utensils in the same travelling collection."
+        },
+        {
+          "name": "Wand of Magic Missiles",
+          "text": "A dependable instrument in an arsenal that eventually reached ninth-circle spells."
+        },
+        {
+          "name": "Bag of Holding and Bag of Tricks",
+          "text": "Storage for an acquisitive scholar, and a reminder that the next useful creature need not come from a conventional doorway."
+        },
+        {
+          "name": "Lantern of Revealing",
+          "text": "A fitting companion to the investigator who dislikes leaving a mystery unseen."
+        },
+        {
+          "name": "Candle of the Dark One",
+          "text": "Named in his inventory and central to the northern ingredient hunt. Its presence on the sheet does not establish that the final lighting succeeded."
+        },
+        {
+          "name": "Walrus recipes, blubber and tusks",
+          "text": "The recipe for Ice Seal Stew, giant-walrus materials and other northern provisions share space with the rarer arcane equipment."
+        }
+      ],
+      "traits": [
+        {
+          "name": "A mystery before almost anything",
+          "text": "He enjoys an unresolved question, listens to opposing arguments, and sees knowledge as the path to power and improvement."
+        },
+        {
+          "name": "Master of enchantment",
+          "text": "Hypnotic Gaze, Instinctive Charm, Split Enchantment and Alter Memories are all part of his recorded craft."
+        },
+        {
+          "name": "Spell Mastery",
+          "text": "Shield and Misty Step are his named mastery choices; Counterspell and Tongues are his named Signature Spells."
+        },
+        {
+          "name": "Three familiars",
+          "text": "The Boon of the Improved Familiar allows up to three active familiars at once. It extends a habit of scouting that was already important in the Citadel."
+        },
+        {
+          "name": "Gnomish craft and scholarship",
+          "text": "Gnome Cunning, Artificer’s Lore, Tinker and Researcher sit beside the great spellbook ambition."
+        },
+        {
+          "name": "Languages",
+          "text": "Common, Draconic, Dwarvish, Gnomish, Undercommon, and reading and writing in Grugach."
         }
       ]
     },
@@ -333,6 +783,241 @@
           "alt": "Terry’s earlier campaign portrait.",
           "caption": "The dwarf on the earlier road: before Zandikar, the northern mysteries and the burden of the Blessed Company."
         }
+      ],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          },
+          {
+            "title": "Inside the Bastion · Team Biscuit",
+            "total": 10,
+            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
+            "rows": [
+              [
+                "Advanced Retriever",
+                1
+              ],
+              [
+                "Po",
+                1
+              ],
+              [
+                "Grisly",
+                1
+              ],
+              [
+                "Krushar",
+                1
+              ],
+              [
+                "Thalidorus",
+                1
+              ],
+              [
+                "Soulsipper",
+                4
+              ],
+              [
+                "Vrock",
+                1
+              ]
+            ],
+            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "metrics": [
+          [
+            "Level",
+            "War Cleric 21 · Paladin 1"
+          ],
+          [
+            "Experience",
+            "510,261 XP"
+          ],
+          [
+            "Maximum HP",
+            "235"
+          ],
+          [
+            "Armor class",
+            "30"
+          ],
+          [
+            "Initiative",
+            "+1"
+          ],
+          [
+            "Speed",
+            "25 ft"
+          ],
+          [
+            "Proficiency",
+            "+6"
+          ],
+          [
+            "Passive Perception",
+            "15"
+          ],
+          [
+            "Spell save DC",
+            "19"
+          ]
+        ],
+        "abilities": [
+          [
+            "STR",
+            27
+          ],
+          [
+            "DEX",
+            13
+          ],
+          [
+            "CON",
+            20
+          ],
+          [
+            "INT",
+            6
+          ],
+          [
+            "WIS",
+            20
+          ],
+          [
+            "CHA",
+            10
+          ]
+        ],
+        "skills": [
+          [
+            "Athletics",
+            "+14"
+          ],
+          [
+            "Insight",
+            "+11"
+          ],
+          [
+            "Survival",
+            "+11"
+          ]
+        ],
+        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "awards": [
+          [
+            "Sunless Citadel & beginnings",
+            2225
+          ],
+          [
+            "Forge of Fury",
+            3350
+          ],
+          [
+            "Brindinford, Ossington & Nightfang deeds",
+            9560
+          ]
+        ],
+        "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
+        "alternate": "The overlapping epic export also names War Cleric 21 / Paladin 1, with 623,440 XP. Its equipment and several derived figures differ, so it is not blended into the sheet snapshot above."
+      },
+      "inventory": [
+        {
+          "name": "Golden Pelor Holy Symbol",
+          "text": "The personal emblem of the faith he chose in Brindinford and carried into the soul crisis."
+        },
+        {
+          "name": "Hammer of Thunderbolts and Holy Avenger Longsword",
+          "text": "Two signature weapons on the sheet of a healer who has never mistaken mercy for an obligation to be unarmed."
+        },
+        {
+          "name": "Ironcore",
+          "text": "A named possession with a printed 2d12 healing entry; the object belongs to the early dwarven trail as well as the later arsenal."
+        },
+        {
+          "name": "Armor of Zandikar",
+          "text": "A holding of his story: attunement grants authority over the planar fortress, subject to its forge and guardian conditions."
+        },
+        {
+          "name": "Smith’s tools and bagpipes",
+          "text": "The priest’s practical and musical tools. In the early caverns, his chalk arrows also became a party habit."
+        },
+        {
+          "name": "Set of Secret Scribe Candles",
+          "text": "A distinctive writing aid among the more imposing magical equipment."
+        },
+        {
+          "name": "Eye patch with a mock eye set in blue sapphire and moonstone",
+          "text": "A very particular piece of jewelry, listed alongside a Doodle Ring and other small eccentricities."
+        },
+        {
+          "name": "Cape of the Mountebank and Helm of Teleportation",
+          "text": "Travel magic among the belongings of a dwarf whose responsibilities eventually stretched across planes."
+        },
+        {
+          "name": "Belt of Cloud Giant Strength",
+          "text": "Listed with his Hammer of Thunderbolts and the other giant-strength equipment; the ability scores above preserve the sheet’s equipped values."
+        },
+        {
+          "name": "Coffee, tea and sugarbombs",
+          "text": "Cups of tea, mugs of coffee, an Everlasting Sugarbomb and other provisions survive in the inventory beside diamonds and holy weapons."
+        }
+      ],
+      "traits": [
+        {
+          "name": "A tribe-shaped loyalty",
+          "text": "He watches over friends like newborn pups and believes each person owes happiness to the whole tribe. His bond includes the duty to provide children to sustain it."
+        },
+        {
+          "name": "War Priest and War Caster",
+          "text": "His battlefield faith includes guided strikes, blessing another warrior’s blow, Divine Strike and the discipline to keep casting under pressure."
+        },
+        {
+          "name": "Divine Intervention and Avatar of Battle",
+          "text": "His epic clerical gifts sit beside Turn Undead, healing, and the beginnings of paladin smiting."
+        },
+        {
+          "name": "Four attunements",
+          "text": "Pelor’s Boon of Attunement permits four attuned magic items, the unusual capacity that made him important to the candle scheme."
+        },
+        {
+          "name": "Dwarven memory and wandering skills",
+          "text": "Stonecunning, Dwarven Resilience and Wanderer belong to the smith and outlander beneath the armor."
+        },
+        {
+          "name": "Languages",
+          "text": "Common, Draconic, Dwarvish and Goblin; the sheet records Undercommon at 60%, preserving an unfinished course of learning."
+        }
       ]
     },
     {
@@ -451,6 +1136,241 @@
           "alt": "Thunder’s earlier campaign portrait.",
           "caption": "An earlier image of the performer and scout, whose road home became a passage between worlds."
         }
+      ],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          },
+          {
+            "title": "Inside the Bastion · Team Biscuit",
+            "total": 10,
+            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
+            "rows": [
+              [
+                "Advanced Retriever",
+                1
+              ],
+              [
+                "Po",
+                1
+              ],
+              [
+                "Grisly",
+                1
+              ],
+              [
+                "Krushar",
+                1
+              ],
+              [
+                "Thalidorus",
+                1
+              ],
+              [
+                "Soulsipper",
+                4
+              ],
+              [
+                "Vrock",
+                1
+              ]
+            ],
+            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The preserved character-sheet figures, including the equipment and blessings recorded with that incarnation.",
+        "metrics": [
+          [
+            "Level",
+            "Thief Rogue 21"
+          ],
+          [
+            "Experience",
+            "510,261 XP"
+          ],
+          [
+            "Maximum HP",
+            "170"
+          ],
+          [
+            "Armor class",
+            "22"
+          ],
+          [
+            "Initiative",
+            "+8"
+          ],
+          [
+            "Speed",
+            "30 ft"
+          ],
+          [
+            "Proficiency",
+            "+6"
+          ],
+          [
+            "Passive Perception",
+            "25"
+          ]
+        ],
+        "abilities": [
+          [
+            "STR",
+            14
+          ],
+          [
+            "DEX",
+            27
+          ],
+          [
+            "CON",
+            12
+          ],
+          [
+            "INT",
+            16
+          ],
+          [
+            "WIS",
+            16
+          ],
+          [
+            "CHA",
+            14
+          ]
+        ],
+        "skills": [
+          [
+            "Acrobatics",
+            "+20"
+          ],
+          [
+            "Stealth",
+            "+19"
+          ],
+          [
+            "Sleight of Hand",
+            "+19"
+          ],
+          [
+            "Investigation",
+            "+15"
+          ]
+        ],
+        "leveling": "The Sleeper episode returned the company to its own eighth-level selves. That was a flashback, not lost advancement. The epic calling above belongs to the preserved character sheet.",
+        "awards": [
+          [
+            "Sunless Citadel & beginnings",
+            1725
+          ],
+          [
+            "Forge of Fury",
+            3150
+          ],
+          [
+            "Brindinford, Ossington & Nightfang deeds",
+            9650
+          ]
+        ],
+        "awardsNote": "Personal adventure awards, not cumulative character XP. The last entry combines the Brindinford and Ossington completion awards with the recorded early Nightfang deeds; these awards are not added again to the XP total above.",
+        "alternate": "A separate epic record carries Thief Rogue 23 and 623,440 XP. It remains a different recorded incarnation, not two level gains assigned to an undocumented session."
+      },
+      "inventory": [
+        {
+          "name": "Gloves of Dexterous Thievery and Locksmith’s Bane",
+          "text": "Distinctive tools of the trade beside his ordinary thieves’ tools and disguise kit."
+        },
+        {
+          "name": "Pendant of the Ethereal Anchor",
+          "text": "The key to the Deliverance, the focus of his swiftest-bladework boon, and the bearer of Pepper’s very particular warning."
+        },
+        {
+          "name": "Planar Rapier, Pale Piercer and MoonTouched Dagger",
+          "text": "Named blades in the same collection as a Shortbow +3 and an unusually varied supply of magical arrows."
+        },
+        {
+          "name": "Shirt of the Fire Snake",
+          "text": "The personal clothing project already appears among his Citadel-era achievements. The later sheet still carries the shirt."
+        },
+        {
+          "name": "Cloak of Arachnida and Ring of Invisibility",
+          "text": "Tools suited to a scout whose preferred route seldom needs to be the most obvious one."
+        },
+        {
+          "name": "Amulet of Proof against Detection and Location",
+          "text": "A guarded place in the inventory of a man pursued for more than one inheritance."
+        },
+        {
+          "name": "Portable Hole",
+          "text": "Room for a travelling life that eventually included far more than a bow, drum and lockpick."
+        },
+        {
+          "name": "Clockwork Faefly and Clockwork Inkbeetle",
+          "text": "Small crafted curios sharing his pack with a Monocle of Clarity and Wand of Secrets."
+        },
+        {
+          "name": "Dragon, Unicorn and Owlbear Snugglebeasts",
+          "text": "Three exact named keepsakes on the sheet. Even the company’s elusive thief travelled with a softer menagerie."
+        },
+        {
+          "name": "Drum and Disguise Kit",
+          "text": "The performer’s tools remain part of the rogue, beside the acrobatics and sleight of hand learned with his mother’s troupe."
+        }
+      ],
+      "traits": [
+        {
+          "name": "A performer’s way with people",
+          "text": "He defuses tension, gathers rumors and spreads gossip. Creativity guides him; fame remains a personal ambition."
+        },
+        {
+          "name": "The inherited rat",
+          "text": "Keen Hearing and Smell, Natural Armor and Controlled Lycanthropy belong to his recorded inheritance. The transformation carries a warning against remaining in animal forms too long."
+        },
+        {
+          "name": "The master thief’s precision",
+          "text": "The sheet records 10d6 Sneak Attack, Reliable Talent, Fast Hands and Use Magic Device."
+        },
+        {
+          "name": "Survival by inches",
+          "text": "Uncanny Dodge, Evasion, Elusive, Defensive Duelist and Stroke of Luck describe a very different defense from Shrop’s armor."
+        },
+        {
+          "name": "Swiftest Bladework",
+          "text": "His boon is tied to wearing the Ethereal Anchor. The sheet’s Dexterity 27 belongs to a gifted and equipped incarnation, not an unmodified starting score."
+        },
+        {
+          "name": "Languages and signs",
+          "text": "Common, Draconic, Elvish, Orc and Undercommon, plus the coded speech and signs of Thieves’ Cant."
+        }
       ]
     },
     {
@@ -535,7 +1455,76 @@
       "unfinished": [
         "The tale does not settle what dwarven relics Brunn ultimately kept, what he made of the ruin’s makers, or where he went after the shared struggle. His personal ending remains his to supply."
       ],
-      "memories": []
+      "memories": [],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "metrics": [],
+        "abilities": [],
+        "skills": [],
+        "awards": [],
+        "leveling": "The recorded progression is the journey itself: Blasingdale, the fungal stronghold, and the joined-company fight in sunken Brindinford."
+      },
+      "inventory": [
+        {
+          "name": "The much-repaired axe",
+          "text": "His biography’s weapon has seen more repair work than most anvils. No enchantment or attack bonus is recorded for it."
+        },
+        {
+          "name": "Smoke-scented armor",
+          "text": "Battered equipment from a soldier whose purse was empty but whose spirit was not."
+        },
+        {
+          "name": "The tavern mug",
+          "text": "The mug slammed down in Blasingdale belongs to his introduction: stories for ale, and a willingness to join if the venture paid."
+        }
+      ],
+      "traits": [
+        {
+          "name": "Berserker and old soldier",
+          "text": "A Mountain Dwarf following the Path of the Berserker, with a laugh that makes the tavern flinch."
+        },
+        {
+          "name": "Practical appetite",
+          "text": "He seeks payment, buried dwarven steel and the makers’ ghosts; these motives are personal, not a promise that the ruin yielded a particular relic."
+        },
+        {
+          "name": "An unspent spark",
+          "text": "The biography makes him broke and weathered, not defeated."
+        }
+      ]
     },
     {
       "slug": "rook",
@@ -619,7 +1608,72 @@
       "unfinished": [
         "The fate of his hunt beyond the buried city, his return to the peaks, and the colony’s final destruction are not supplied by the surviving account. His later ranks and achievements remain open."
       ],
-      "memories": []
+      "memories": [],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "metrics": [],
+        "abilities": [],
+        "skills": [],
+        "awards": [],
+        "leveling": "The recorded progression is the journey itself: Blasingdale, the fungal stronghold, and the joined-company fight in sunken Brindinford."
+      },
+      "inventory": [
+        {
+          "name": "Bow and dwindling arrows",
+          "text": "His original token shows the archer; his biography says the arrows and coin were running low."
+        },
+        {
+          "name": "Wings held close",
+          "text": "The wings are part of the ranger himself, not an item. They become central when the goblins cling to him above the falls."
+        }
+      ],
+      "traits": [
+        {
+          "name": "Hunter on the blight’s trail",
+          "text": "An Aarakocra Ranger of the Hunter path, following the sickness downriver from the high peaks."
+        },
+        {
+          "name": "A watchful eye",
+          "text": "He scans the tavern for someone who can hold a weapon or pay for one, even after local curiosity about him has faded."
+        },
+        {
+          "name": "Small frictions in the company",
+          "text": "Brunn’s loud laugh ruffles his feathers; Nox’s returning smile makes him look away. Both details belong to his own introduction."
+        }
+      ]
     },
     {
       "slug": "nox",
@@ -707,7 +1761,72 @@
       "unfinished": [
         "Her patron’s identity, the restoration of her familiar, and any lasting claim upon the grotto’s magic remain unanswered. An ending for her pact or her ambitions awaits her own account."
       ],
-      "memories": []
+      "memories": [],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "metrics": [],
+        "abilities": [],
+        "skills": [],
+        "awards": [],
+        "leveling": "The recorded progression is the journey itself: Blasingdale, the fungal stronghold, and the joined-company fight in sunken Brindinford."
+      },
+      "inventory": [
+        {
+          "name": "Dangerous sigils",
+          "text": "Her chosen field of study and the lure that drew her towards the strange river. No named grimoire is supplied by the biography."
+        },
+        {
+          "name": "The absent familiar",
+          "text": "A pact companion rather than an object: its failure to manifest deprives her of the extra eyes and ears she expects."
+        }
+      ],
+      "traits": [
+        {
+          "name": "The Fiend and the Chain",
+          "text": "Boss’s roster names the Fiend patron path; her own biography calls her a chain-warlock. The specific patron remains unnamed."
+        },
+        {
+          "name": "Fire at the fingertips",
+          "text": "Small curls of flame betray the more combustible side of the scholar of sigils."
+        },
+        {
+          "name": "Pride under pressure",
+          "text": "She treats the grotto’s rejection of her familiar as an insult and a challenge, sharpening her desire to claim its old magic."
+        }
+      ]
     },
     {
       "slug": "elira",
@@ -791,7 +1910,76 @@
       "unfinished": [
         "The source of her dreams, the fate of her fey companion, and the land’s final recovery remain open. The story does not claim the gate was destroyed merely because a way to destroy it existed."
       ],
-      "memories": []
+      "memories": [],
+      "battleRecord": {
+        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
+        "tallies": [
+          {
+            "title": "Sunken Brindinford · both companies",
+            "total": 23,
+            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
+            "rows": [
+              [
+                "Giant Ant Behemoth",
+                8
+              ],
+              [
+                "Spitter",
+                7
+              ],
+              [
+                "Brood Medic Swarm",
+                2
+              ],
+              [
+                "Burrower Ambush Swarm",
+                2
+              ],
+              [
+                "Devouring Ant Swarm",
+                4
+              ]
+            ],
+            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
+          }
+        ]
+      },
+      "statistics": {
+        "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
+        "metrics": [],
+        "abilities": [],
+        "skills": [],
+        "awards": [],
+        "leveling": "The recorded progression is the journey itself: Blasingdale, the fungal stronghold, and the joined-company fight in sunken Brindinford."
+      },
+      "inventory": [
+        {
+          "name": "The worn fungus journal",
+          "text": "Her own biography places strange fungal sketches in its pages. It is a field journal, not an identified magical artifact."
+        },
+        {
+          "name": "Wooden staff",
+          "text": "Visible in her original portrait token, carried by the green-clad druid."
+        },
+        {
+          "name": "The missing fey companion",
+          "text": "A little spirit of leaves and roots should have walked beside her; the corruption breaks its manifestation before it can form."
+        }
+      ],
+      "traits": [
+        {
+          "name": "A druid of the Underdark",
+          "text": "A Wood Elf of the Circle of the Land (Underdark), drawn to a wound beneath the surface."
+        },
+        {
+          "name": "Quiet attention",
+          "text": "She stays at the edges of rooms, listens, and records the small signs others dismiss."
+        },
+        {
+          "name": "Dreams and determination",
+          "text": "Black water and broken stone lead her towards Blasingdale. She continues even without the companionship her magic should provide."
+        }
+      ]
     }
   ]
 }

@@ -99,3 +99,43 @@
 .story-companion h4 a:hover{text-decoration:underline;text-underline-offset:4px}
 @media(max-width:1000px){.companion-card{grid-template-columns:110px minmax(0,1fr);gap:18px}.companion-card>img{width:110px;height:150px}.companion-card h3{font-size:29px}.character-hero{gap:35px;grid-template-columns:220px minmax(0,1fr)}.character-portrait>img{height:300px}.character-gifts{grid-template-columns:1fr 1fr}.character-art{grid-template-columns:1fr 1fr}.companions-callout{gap:35px}}
 @media(max-width:700px){.companion-cards{grid-template-columns:1fr;gap:0}.companion-card{grid-template-columns:100px minmax(0,1fr);padding:25px 0;gap:20px}.companion-card>img{width:100px;height:150px}.companion-card h3{font-size:30px}.companions-intro h1{font-size:54px}.companions-intro>p:not(.eyebrow){font-size:15px}.companions-callout{grid-template-columns:1fr;gap:30px}.companions-callout-tokens{gap:18px}.character-hero{grid-template-columns:1fr;padding:35px 6%;gap:30px}.character-portrait>img{height:230px}.character-portrait figcaption{font-size:10px}.character-hero h1{font-size:46px}.character-title{font-size:27px}.character-facts{gap:16px}.character-reading{padding:0 6% 45px}.character-section{margin-top:45px}.character-section>h2{font-size:36px}.character-gifts,.character-art{grid-template-columns:1fr;gap:25px}.character-gifts section{max-width:440px}.character-revisionist{padding:22px 20px}.character-revisionist p:not(.eyebrow){font-size:14px}.character-art{justify-items:center}.character-art img{height:230px}.character-milestones li{padding-left:29px}.profile-jump{gap:14px 20px;font-size:11px}.site-header nav{flex-wrap:wrap;justify-content:flex-start;gap:10px 20px}}
+/* Character statistics keep a single recorded incarnation together. */
+.character-stat-note{font-size:13px;color:var(--muted);line-height:1.9;max-width:780px}
+.character-stat-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:26px 0 0}
+.character-stat-grid>div{padding:20px;background:#e4e7dc;min-width:0}
+.character-stat-grid dt,.ability-scores dt{font-size:9px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.character-stat-grid dd{margin:8px 0 0;font-family:var(--serif);font-size:27px;line-height:1.2;overflow-wrap:anywhere}
+.ability-scores{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));margin:22px 0 0;border:1px solid var(--line)}
+.ability-scores>div{text-align:center;padding:18px 8px;border-right:1px solid var(--line)}
+.ability-scores>div:last-child{border:0}
+.ability-scores dd{font-family:var(--serif);font-size:34px;margin:7px 0 0;line-height:1}
+.signature-skills{margin-top:28px}
+.signature-skills h3{font-size:25px}
+.signature-skills dl{display:flex;flex-wrap:wrap;gap:12px 22px;margin:17px 0 0}
+.signature-skills dl>div{display:flex;gap:12px;font-size:13px;border-bottom:1px solid var(--line);padding-bottom:5px}
+.signature-skills dd{margin:0;font-weight:700}
+.leveling-record{margin-top:35px}
+.leveling-record>p{font-size:14px;line-height:1.9;margin-top:16px}
+.character-record-table{width:100%;border-collapse:collapse;margin:22px 0;font-size:13px;line-height:1.7}
+.character-record-table caption{text-align:left;font-family:var(--serif);font-size:24px;margin-bottom:16px;color:var(--ink)}
+.character-record-table th,.character-record-table td{padding:12px 9px;border-bottom:1px solid var(--line);text-align:left}
+.character-record-table thead th{font-size:9px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);border-top:1px solid var(--line)}
+.character-record-table tbody th{font-weight:400;overflow-wrap:anywhere}
+.character-record-table td:last-child,.character-record-table thead th:last-child{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.alternate-incarnation{margin-top:22px;padding:17px 20px;border:1px solid var(--line);font-size:13px}
+.alternate-incarnation summary{cursor:pointer;font-weight:500}
+.alternate-incarnation p{margin-top:15px;line-height:1.9}
+.battle-tallies{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:35px;margin-top:30px}
+.battle-tally{border-top:1px solid var(--line);padding-top:23px;min-width:0}
+.battle-tally h3{font-size:27px}
+.battle-tally>p{font-size:13px;line-height:1.9;margin-top:17px}
+.battle-total{display:flex;align-items:center;gap:16px}
+.battle-total strong{font-family:var(--serif);font-weight:400;font-size:60px;line-height:1}
+.battle-total span{font-size:11px;color:var(--muted);max-width:110px;line-height:1.7}
+.battle-tally .character-record-table{font-size:12px}
+.battle-tally .character-stat-note{font-size:11px}
+.character-possession-list,.character-trait-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:25px 35px;margin:28px 0 0}
+.character-possession-list>div,.character-trait-list>div{border-top:1px solid var(--line);padding-top:19px;min-width:0}
+.character-possession-list dt,.character-trait-list dt{font-family:var(--serif);font-size:26px;line-height:1.25;overflow-wrap:anywhere}
+.character-possession-list dd,.character-trait-list dd{font-size:13px;line-height:1.9;color:#525e50;margin:12px 0 0}
+@media(max-width:700px){.character-stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.character-stat-grid>div{padding:16px}.character-stat-grid dd{font-size:25px}.ability-scores{grid-template-columns:repeat(3,minmax(0,1fr))}.ability-scores>div{border-bottom:1px solid var(--line)}.ability-scores>div:nth-child(3n){border-right:0}.ability-scores>div:nth-child(n+4){border-bottom:0}.battle-tallies,.character-possession-list,.character-trait-list{grid-template-columns:1fr;gap:25px}.battle-tally .character-stat-note{font-size:12px}.character-record-table{font-size:12px}.character-record-table th,.character-record-table td{padding:11px 6px}.character-stat-note{font-size:12px}.leveling-record>p{font-size:13px}}

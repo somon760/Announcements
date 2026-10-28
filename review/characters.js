@@ -3,6 +3,36 @@ const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
 }[character]));
 const prose = values => values.map(value => `<p>${escape(value)}</p>`).join('');
 const profileUrl = person => `#/companions/${person.slug}`;
+const numbered = value => new Intl.NumberFormat('en').format(value);
+
+function statistics(person) {
+  const stats = person.statistics;
+  if (!stats) return '';
+  return `<section id="character-statistics" tabindex="-1" class="character-section">
+    <p class="eyebrow">The character at the table</p><h2>In numbers.</h2><p class="character-stat-note">${escape(stats.intro)}</p>
+    ${stats.metrics.length ? `<dl class="character-stat-grid">${stats.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl>` : ''}
+    ${stats.abilities.length ? `<dl class="ability-scores" aria-label="Ability scores">${stats.abilities.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${Number(value)}</dd></div>`).join('')}</dl>` : ''}
+    ${stats.skills.length ? `<div class="signature-skills"><h3>Signature skills</h3><dl>${stats.skills.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
+    <div class="leveling-record"><h3>Levels &amp; earned experience</h3><p>${escape(stats.leveling)}</p>
+      ${stats.awards.length ? `<table class="character-record-table"><caption>Recorded personal adventure awards</caption><thead><tr><th scope="col">Adventure</th><th scope="col">Bonus XP</th></tr></thead><tbody>${stats.awards.map(([name,value]) => `<tr><th scope="row">${escape(name)}</th><td>${numbered(value)}</td></tr>`).join('')}</tbody></table><p class="character-stat-note">${escape(stats.awardsNote)}</p>` : ''}
+      ${stats.alternate ? `<details class="alternate-incarnation"><summary>Another recorded incarnation</summary><p>${escape(stats.alternate)}</p></details>` : ''}
+    </div>
+  </section>`;
+}
+
+function battleRecord(person) {
+  if (!person.battleRecord) return '';
+  return `<section id="character-battles" tabindex="-1" class="character-section"><p class="eyebrow">Company honours</p><h2>The shared battle record.</h2><p class="character-stat-note">${escape(person.battleRecord.intro)}</p>
+    <div class="battle-tallies">${person.battleRecord.tallies.map(tally => `<section class="battle-tally"><h3>${escape(tally.title)}</h3><p class="battle-total"><strong>${numbered(tally.total)}</strong><span>logged foes / swarm units</span></p><p>${escape(tally.scope)}</p>
+      <table class="character-record-table"><caption class="sr-only">${escape(tally.title)}: shared defeats by foe</caption><thead><tr><th scope="col">Foe</th><th scope="col">Count</th></tr></thead><tbody>${tally.rows.map(([name,value]) => `<tr><th scope="row">${escape(name)}</th><td>${numbered(value)}</td></tr>`).join('')}</tbody></table><p class="character-stat-note">${escape(tally.note)}</p>
+    </section>`).join('')}</div>
+  </section>`;
+}
+
+function possessions(person) {
+  return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">Distinctive belongings from the character’s sheets, biography and adventures. A remembered possession is not a guarantee that it was carried or attuned at every point in the journey.</p><dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
+    ${person.traits ? `<section id="character-traits" tabindex="-1" class="character-section"><p class="eyebrow">Habits, talents &amp; contradictions</p><h2>Distinctly ${escape(person.shortName)}.</h2><dl class="character-trait-list">${person.traits.map(trait => `<div><dt>${escape(trait.name)}</dt><dd>${escape(trait.text)}</dd></div>`).join('')}</dl></section>` : ''}`;
+}
 
 export function renderCompanions(people) {
   return `<article class="companions-index">
@@ -36,13 +66,16 @@ export function renderCharacter(person, people, chapters) {
       <figure class="character-portrait"><img src="${escape(person.portrait)}" alt="${escape(person.portraitAlt)}" width="420" height="420" fetchpriority="high"><figcaption>${sameArtwork ? 'The original campaign portrait token' : 'The campaign journal portrait'}</figcaption></figure>
       <div><p class="eyebrow">${escape(person.company)} · A life in the company</p><h1>${escape(person.name)}</h1><p class="character-title">${escape(person.title)}</p><p class="character-deck">${escape(person.summary)}</p>
         <dl class="character-facts">${person.facts.map(([label, value]) => `<div><dt>${escape(label)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl>
-        <nav class="profile-jump" aria-label="Within this character’s story"><a href="#/companions/${person.slug}/beginnings">Beginnings</a><a href="#/companions/${person.slug}/progression">The road</a><a href="#/companions/${person.slug}/revisionist">Revisionist</a><a href="#/companions/${person.slug}/portraits">Portraits &amp; tokens</a></nav>
+        <nav class="profile-jump" aria-label="Within this character’s story"><a href="#/companions/${person.slug}/beginnings">Beginnings</a><a href="#/companions/${person.slug}/statistics">In numbers</a><a href="#/companions/${person.slug}/progression">The road</a><a href="#/companions/${person.slug}/battles">Battle record</a><a href="#/companions/${person.slug}/inventory">Inventory</a><a href="#/companions/${person.slug}/traits">Traits</a><a href="#/companions/${person.slug}/revisionist">Revisionist</a><a href="#/companions/${person.slug}/portraits">Portraits &amp; tokens</a></nav>
       </div>
     </header>
     <div class="character-reading">
       <section id="character-beginnings" tabindex="-1" class="character-section story-prose"><p class="eyebrow">Before the company</p><h2>Where the road began.</h2>${prose(person.backstory)}</section>
+      ${statistics(person)}
       <section id="character-progression" tabindex="-1" class="character-section"><p class="eyebrow">A life in motion</p><h2>What the journey made.</h2><ol class="character-milestones">${person.progression.map(step => `<li><h3>${escape(step.title)}</h3><p>${escape(step.text)}</p>${chapterLink(step)}</li>`).join('')}</ol></section>
+      ${battleRecord(person)}
       <section class="character-section"><p class="eyebrow">Gifts, keepsakes &amp; burdens</p><h2>What they carried.</h2><div class="character-gifts">${person.gifts.map(gift => `<section><h3>${escape(gift.name)}</h3><p>${escape(gift.text)}</p></section>`).join('')}</div></section>
+      ${possessions(person)}
       <section id="character-revisionist" tabindex="-1" class="character-section"><p class="eyebrow">Behind the tale</p><h2>What the road concealed.</h2><p class="revisionist-explainer">These notes speak from beyond the character’s viewpoint. Hidden history reveals a cause or design; a retrospective reading offers an interpretation. Unfinished endings still have room to be written.</p>${person.revisionist.map(note => `<aside class="character-revisionist" aria-label="Revisionist: ${escape(note.kind)}"><p class="eyebrow">Revisionist · ${escape(note.kind)}</p><h3>${escape(note.title)}</h3>${prose(note.paragraphs)}</aside>`).join('')}</section>
       <section class="character-section story-prose"><p class="eyebrow">Threads still loose</p><h2>The unwritten pages.</h2>${prose(person.unfinished)}</section>
       <section id="character-portraits" tabindex="-1" class="character-section"><p class="eyebrow">Faces from the table</p><h2>Portraits &amp; tokens.</h2><div class="character-art">

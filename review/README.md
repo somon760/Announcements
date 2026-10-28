@@ -79,3 +79,18 @@ remain, alongside original exported map tokens and later journal artwork.
 Main navigation, the home callout and named chapter rosters link into this area.
 Profiles link back to existing chapters/scenes and to neighboring companions.
 The adventure order and 320-item gallery remain independent and unchanged.
+
+
+Profiles now also carry optional `statistics`, `battleRecord`, `inventory` and
+`traits` fields. Section links are `/statistics`, `/battles`, `/inventory` and
+`/traits`. Canonical-sheet metrics and six ability scores stay together; personal
+adventure bonus awards are separate from cumulative XP. Conflicting epic exports
+appear as separate recorded incarnations, never as inferred level-up dates.
+
+Battle tallies use a selected single log snapshot per scope. The identified-ant
+subset has 23 foes/swarm units shared by both companies; the corroborated Bastion
+subset has 10 foes for Team Biscuit. Neither is a lifetime tally or personal kill
+count. Swarms count as one log unit. Do not sum backups, multiply these shared
+figures by companions, count corrected kills, or promote automated PC death
+messages into permanent-death statistics. Team Gravy's numeric sheets are not
+established by the captured biographies; missing figures remain omitted.
