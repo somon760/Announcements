@@ -323,6 +323,22 @@
         ]
       },
       {
+        "title": "Xanthar’s portal, and nothing on the other side",
+        "paragraphs": [
+          "Team Biscuit reached the grotto’s story by a different route. Xanthar persuaded Shrop, Grim, Terry and Thunder to use a portal to the grotto. They passed through. Their equipment did not. The company arrived naked, without the clothes, armor, weapons and travelling possessions upon which so much of its hard-won readiness depended.",
+          "The passage had delivered the adventurers while separating them from their belongings. After all the cold, the demons and the roads between worlds, Team Biscuit had been brought to its next danger with almost nothing of its familiar kit. This was the company’s arrival in the grotto affair: not another properly equipped expedition, but the consequence of trusting Xanthar’s route.",
+          "Team Gravy had its river voyage, the stronghold and the falling boat behind it. Team Biscuit had a portal crossing and an enormous absence to account for. Their paths joined in the buried remains of Brindinford, where the ants gave neither company the luxury of settling every other problem first."
+        ],
+        "hindsight": [
+          {
+            "title": "The loss was Xanthar’s trick",
+            "paragraphs": [
+              "Xanthar’s persuasion was the trick that separated Team Biscuit from its belongings. The company took the portal to the grotto and arrived naked, with its clothes and equipment gone. Brother Ernie’s later recovery of most of that property completed a thread of deception and loss that began with this crossing."
+            ]
+          }
+        ]
+      },
+      {
         "title": "Beyond the grotto: two companies in the dark",
         "paragraphs": [
           "Escaping the Fungal Grotto brought the adventurers beneath Faerûn and into the long-lost ruins of Brindinford. Team Biscuit and Team Gravy now shared the fight for a way through. Shrop, Grim, Terry, and Thunder stood alongside Brunn, Rook, Nox, and Elira in the buried remains of a town that had once welcomed music and crowds.",
@@ -360,14 +376,38 @@
           "width": 2060,
           "height": 1604
         }
+      },
+      {
+        "title": "The Wrinkle caught the wrong company",
+        "paragraphs": [
+          "After the struggle with the ants, the two companies reached the Reality Wrinkle. The old shop had belonged to Those Who Hear, whose gibbering-mouther horrors had troubled Brindinford during Team Biscuit’s first visit. Now its survival among the ruined streets offered the hope of a way onward. It also concealed a trap.",
+          "The portal trap was meant for Team Biscuit. It caught Team Gravy instead. Brunn Ironbelly, Rook Kestrel, Nox Veyra and Elira Moss-Weaver were sent to Hell, and the road the companies had shared broke apart.",
+          "There was no recorded homecoming to soften that separation. Team Gravy are still lost in Hell to this day. The ants had been a battle both companies could face together; what happened in the Wrinkle left four companions beyond the reach of the journey that followed."
+        ],
+        "hindsight": [
+          {
+            "title": "A fate prepared for Team Biscuit",
+            "paragraphs": [
+              "The portal trap had been laid for Team Biscuit. Brunn, Rook, Nox and Elira bore the fate prepared for Shrop, Grim, Terry and Thunder. The companies had shared the fight against the ants, but the hidden purpose of this doorway sent one group to Hell while the other continued towards Windglum."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Windglum, and the brother who brought the gear back",
+        "paragraphs": [
+          "Team Biscuit carried on to Windglum in Pandemonium. Its passage through the Wrinkle led back into the unfinished Bastion adventure: Findula, the search for a way to Desayeus, the Soul Totem fragment, and the road towards Ashardalon. Team Gravy did not accompany it on that passage. The other four remained lost in Hell.",
+          "The equipment Xanthar’s trick had cost Team Biscuit returned later in that continuing adventure, through an old friend the company had thought lost. Brother Ernie had disappeared amid the irionite-bomb explosion; his return brought a roomful of recovered clothing, books, tools, trunks and other belongings. The adventurers who had arrived naked finally met the long-lost brother who had brought much of their travelling life back to them.",
+          "Ernie recovered most of the stolen gear, not every prize. Whelm, Wave and Frostrazor were still missing. He also gave each companion a Ring of Positive Energy Protection before his silent farewell. The full account belongs to the return to Bastion, where that improbable reunion prepared Team Biscuit to continue towards the dragon."
+        ]
       }
     ],
     "closing": {
-      "title": "The silence at the Reality Wrinkle",
+      "title": "Two companies, two unfinished roads",
       "paragraphs": [
-        "The old shop had belonged to Those Who Hear, the cult tied to the gibbering-mouther horrors of Team Biscuit’s earlier visit. Around it, the Magical District had fallen apart. No lights burned there, and the scouts saw no movement. Its survival left the company with a destination and another uneasy question.",
-        "Team Biscuit and Team Gravy pushed towards the Wrinkle in search of answers, supplies, forgotten magic, or a way onward through the Sunken City. Behind them lay the grotto and the streets they had fought to cross. Ahead stood a familiar doorway in an unfamiliar darkness, with the colony still pressing through the ruins.",
-        "Beyond the Wrinkle lay the older reckoning. The Cathezar’s pursuit, Thunder’s connection to Dydd, the secrets of Rigus, and the children born without souls had survived every detour. Ashardalon’s name had followed Team Biscuit since the Citadel. The shop’s passage would carry the company to Windglum in Pandemonium, returning its road to that unfinished struggle in Bastion of Broken Souls."
+        "The grotto and the ant-held streets had brought eight adventurers together. The Reality Wrinkle separated them. Brunn, Rook, Nox and Elira remain lost in Hell, caught by a portal trap intended for Team Biscuit.",
+        "Shrop, Grim, Terry and Thunder went on to Windglum and the further trials of Bastion of Broken Souls. Brother Ernie’s later return restored most of the belongings lost through Xanthar’s deception. It did not bring Team Gravy home.",
+        "One company’s story continued towards Ashardalon. The other company’s next page is still waiting somewhere in Hell."
       ]
     },
     "eyebrow": "The tale of Team Biscuit and Team Gravy",
@@ -1319,7 +1359,7 @@
       {
         "title": "An old shop, a new world",
         "paragraphs": [
-          "The Reality Wrinkle had survived where much of Brindinford had fallen. Team Biscuit and Team Gravy had fought their way through the giant ants of the Sunken City to reach the old Magical District. Beyond the familiar shop lay a passage out of the drowned and buried ruin.",
+          "The Reality Wrinkle had survived where much of Brindinford had fallen. Team Biscuit and Team Gravy had fought through the giant ants of the Sunken City to reach the old Magical District. There, a portal trap intended for Team Biscuit caught Brunn, Rook, Nox and Elira instead. Team Gravy were sent to Hell and remain lost there; Team Biscuit’s onward road led to Windglum.",
           "The crossing delivered Team Biscuit into a cramped storeroom. Brindinford crates, ash-marked trunks, cracked scroll tubes, and old papers crowded the shelves. Much of what the Wrinkle’s mages had once brought here was gone. Outside, the wind screamed through Pandemonium.",
           "The party had reached Windglum. Its next shelter was the room beyond the great mirror at the back of the Wrinkle, a hidden corner in a city far from the world it remembered. The ants and the ruined streets were behind them; the road to the Bastion had opened again."
         ]
@@ -1391,6 +1431,7 @@
         "title": "The man who had survived the explosion",
         "paragraphs": [
           "Another familiar face met them with a very different welcome. Brother Ernie had been lost amid the dangerous business of the irionite bomb. The company had believed the explosion had taken him. Now he was here, weathered and battered, surrounded by boxes, trunks, bottles, books, clothing, and much of their recovered property.",
+          "These were the possessions Xanthar’s deception had cost them. He had persuaded Team Biscuit to use the portal to the grotto, where they arrived naked and without their equipment. Ernie’s return finally joined that humiliating loss to its unlikely recovery, though it offered no rescue for the friends still lost in Hell.",
           "There were questions about Rigus, Father Cuthbert, the Brotherhood, and the Church of Terry. Grim wanted to know how Ernie had survived and how he had crossed the planes. Ernie greeted them with his old broad smile and applied himself to the explanation with gestures and an interpretive dance of magnificent commitment and uncertain informational value.",
           "Most of the stolen belongings had come back. Three great weapons had not: Whelm, Wave, and Frostrazor. Ernie’s apologetic chalk drawing showed a short thief carrying them away. Grim suspected a connection to his relative, but suspicion could not put the weapons back into their hands."
         ],

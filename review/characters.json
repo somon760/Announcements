@@ -65,6 +65,12 @@
           "chapter": "frostmaiden"
         },
         {
+          "title": "A portal took the equipment",
+          "text": "Xanthar persuaded Shrop and Team Biscuit to take the portal to the grotto. They arrived naked, separated from their equipment, before joining Team Gravy’s fight through the ants. The Wrinkle then trapped Gravy in Hell; Biscuit continued to Windglum. Brother Ernie recovered most of the missing gear later in the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 7
+        },
+        {
           "title": "The front of the company",
           "text": "Sunken Brindinford joined his company to Team Gravy. The return to the Bastion then carried the old habit—go first, endure, make room for the others—towards the dragon whose name had followed them since the Citadel.",
           "chapter": "bastion"
@@ -327,7 +333,8 @@
           "name": "A difficult contradiction",
           "text": "He values the freedom to choose his own battles, yet carries an unreasoning hatred of enemies and a harsh judgment of poverty born from his own childhood."
         }
-      ]
+      ],
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
     },
     {
       "slug": "grim",
@@ -391,6 +398,12 @@
           "title": "The past was not finished",
           "text": "The Sleeper episode drew Eudostis, the Time Stone and Crimson Crazuk into one account. The company returned to its own eighth-level lives before eventually reaching a time fifty years beyond its original present. Even a scholar of history could find himself misplaced inside it.",
           "chapter": "white-plume"
+        },
+        {
+          "title": "A portal took the equipment",
+          "text": "Xanthar persuaded Grim and Team Biscuit to take the portal to the grotto. They arrived naked, separated from their equipment, before joining Team Gravy’s fight through the ants. The Wrinkle then trapped Gravy in Hell; Biscuit continued to Windglum. Brother Ernie recovered most of the missing gear later in the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 7
         },
         {
           "title": "Knowledge before a fallen god",
@@ -665,7 +678,8 @@
           "name": "Languages",
           "text": "Common, Draconic, Dwarvish, Gnomish, Undercommon, and reading and writing in Grugach."
         }
-      ]
+      ],
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
     },
     {
       "slug": "terry",
@@ -729,6 +743,12 @@
           "title": "The north tested his independence",
           "text": "Thunder saw Terry’s judgment and initiative fade into unnatural obedience, accompanied by a repeated numerical riddle. The change threatened the independence his friends knew; the riddle offered no easy answer. Elsewhere, the candle scheme made his unusual capacity for attunement dangerously valuable.",
           "chapter": "frostmaiden"
+        },
+        {
+          "title": "A portal took the equipment",
+          "text": "Xanthar persuaded Terry and Team Biscuit to take the portal to the grotto. They arrived naked, separated from their equipment, before joining Team Gravy’s fight through the ants. The Wrinkle then trapped Gravy in Hell; Biscuit continued to Windglum. Brother Ernie recovered most of the missing gear later in the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 7
         },
         {
           "title": "The weight of a living saint",
@@ -1018,7 +1038,8 @@
           "name": "Languages",
           "text": "Common, Draconic, Dwarvish and Goblin; the sheet records Undercommon at 60%, preserving an unfinished course of learning."
         }
-      ]
+      ],
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
     },
     {
       "slug": "thunder",
@@ -1082,6 +1103,12 @@
           "title": "The captaincy with a price",
           "text": "The Pendant of the Ethereal Anchor opened the way to the Deliverance and tied his soul to its fate. Pepper warned him what death while wearing it would mean. The northern vision showed the ship searching for him; reassurance was not release from the bargain.",
           "chapter": "frostmaiden"
+        },
+        {
+          "title": "A portal took the equipment",
+          "text": "Xanthar persuaded Thunder and Team Biscuit to take the portal to the grotto. They arrived naked, separated from their equipment, before joining Team Gravy’s fight through the ants. The Wrinkle then trapped Gravy in Hell; Biscuit continued to Windglum. Brother Ernie recovered most of the missing gear later in the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 7
         },
         {
           "title": "Dydd’s words in his own voice",
@@ -1371,7 +1398,8 @@
           "name": "Languages and signs",
           "text": "Common, Draconic, Elvish, Orc and Undercommon, plus the coded speech and signs of Thieves’ Cant."
         }
-      ]
+      ],
+      "inventoryNote": "Xanthar’s portal trick separated Team Biscuit from its equipment and left the company arriving naked in the grotto affair. Brother Ernie recovered most of the missing belongings later in the Bastion adventure; Whelm, Wave and Frostrazor were still missing at that reunion."
     },
     {
       "slug": "brunn",
@@ -1400,6 +1428,10 @@
         [
           "First trail",
           "Blasingdale to the buried stronghold"
+        ],
+        [
+          "Current fate",
+          "Still lost in Hell"
         ]
       ],
       "backstory": [
@@ -1423,7 +1455,13 @@
           "title": "Eight companions against the colony",
           "text": "After the falling boat and the Deliverance’s intervention, the road reached sunken Brindinford. Brunn and Team Gravy stood with Shrop, Grim, Terry and Thunder against the giant ants. The expedition had become a shared fight for survival.",
           "chapter": "fungal-bloom",
-          "scene": 7
+          "scene": 8
+        },
+        {
+          "title": "The trap beyond the ants",
+          "text": "The Wrinkle’s portal trap caught Brunn and the other three members of Team Gravy. It had been set for Team Biscuit. They remain lost in Hell to this day, while Team Biscuit continued to Windglum and the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 11
         }
       ],
       "gifts": [
@@ -1450,10 +1488,17 @@
           "paragraphs": [
             "The dwarf who joined for payment ended up beside seven other adventurers in a city held by ants. His introduction can be read against that widening circle of dependence. It is an interpretation, not a newly invented oath or a claim that the mercenary appetite vanished."
           ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The trap was meant for the other company",
+          "paragraphs": [
+            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+          ]
         }
       ],
       "unfinished": [
-        "The tale does not settle what dwarven relics Brunn ultimately kept, what he made of the ruin’s makers, or where he went after the shared struggle. His personal ending remains his to supply."
+        "Brunn remains lost in Hell with Rook, Nox and Elira, caught in the Wrinkle’s portal trap after the ant battles. What dwarven relics he kept and what became of his search remain unanswered; his return has not been told."
       ],
       "memories": [],
       "battleRecord": {
@@ -1553,6 +1598,10 @@
         [
           "First trail",
           "The blight, downriver from the high peaks"
+        ],
+        [
+          "Current fate",
+          "Still lost in Hell"
         ]
       ],
       "backstory": [
@@ -1576,7 +1625,13 @@
           "title": "The hunt became a street war",
           "text": "Beneath Brindinford, Team Gravy and Team Biscuit faced an organized colony through ruined streets and tunnels. The hunter who had followed one blight now fought for a path through another kind of living occupation.",
           "chapter": "fungal-bloom",
-          "scene": 8
+          "scene": 9
+        },
+        {
+          "title": "The trap beyond the ants",
+          "text": "The Wrinkle’s portal trap caught Rook and the other three members of Team Gravy. It had been set for Team Biscuit. They remain lost in Hell to this day, while Team Biscuit continued to Windglum and the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 11
         }
       ],
       "gifts": [
@@ -1603,10 +1658,17 @@
           "paragraphs": [
             "The high-peak tracker’s story moves through a tavern window, underground passages and a brief, disastrous opening into the air. Read in hindsight, his wings make the pressure of the buried journey especially clear. No private fear of confinement is invented for him."
           ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The trap was meant for the other company",
+          "paragraphs": [
+            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+          ]
         }
       ],
       "unfinished": [
-        "The fate of his hunt beyond the buried city, his return to the peaks, and the colony’s final destruction are not supplied by the surviving account. His later ranks and achievements remain open."
+        "Rook is still lost in Hell with the other three members of Team Gravy. His return to the peaks, the fate of the blight he hunted, and any later ranks or achievements remain unwritten."
       ],
       "memories": [],
       "battleRecord": {
@@ -1706,6 +1768,10 @@
         [
           "First trail",
           "Old magic beneath the strange river"
+        ],
+        [
+          "Current fate",
+          "Still lost in Hell"
         ]
       ],
       "backstory": [
@@ -1729,7 +1795,13 @@
           "title": "The company grew in the dark",
           "text": "The escape led to the streets of sunken Brindinford and a shared fight with Team Biscuit. The tiefling who had arrived seeking neither friends nor permission now depended on a much larger band to keep the colony from closing the road.",
           "chapter": "fungal-bloom",
-          "scene": 7
+          "scene": 8
+        },
+        {
+          "title": "The trap beyond the ants",
+          "text": "The Wrinkle’s portal trap caught Nox and the other three members of Team Gravy. It had been set for Team Biscuit. They remain lost in Hell to this day, while Team Biscuit continued to Windglum and the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 11
         }
       ],
       "gifts": [
@@ -1756,10 +1828,17 @@
           "paragraphs": [
             "The disguised devas were trying to stop the gate, yet its forbiddance barred their entry. Mortal explorers could act where those celestials could not. Their presence does not establish a bargain with Nox’s patron or a secret alliance between fiend and angel; neither is invented here."
           ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The trap was meant for the other company",
+          "paragraphs": [
+            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+          ]
         }
       ],
       "unfinished": [
-        "Her patron’s identity, the restoration of her familiar, and any lasting claim upon the grotto’s magic remain unanswered. An ending for her pact or her ambitions awaits her own account."
+        "Nox remains lost in Hell with Brunn, Rook and Elira. Her patron’s identity, the restoration of her familiar, and any lasting claim upon the grotto’s magic remain unanswered; no escape from the trap has been recorded."
       ],
       "memories": [],
       "battleRecord": {
@@ -1855,6 +1934,10 @@
         [
           "First trail",
           "Dreams of black water and broken stone"
+        ],
+        [
+          "Current fate",
+          "Still lost in Hell"
         ]
       ],
       "backstory": [
@@ -1878,7 +1961,13 @@
           "title": "No longer walking alone",
           "text": "The escape brought Team Gravy into sunken Brindinford, where Team Biscuit joined the fight against the ants. The druid’s search for the land’s wound had reached a ruined town full of other people’s memories and a company large enough to share its dangers.",
           "chapter": "fungal-bloom",
-          "scene": 9
+          "scene": 10
+        },
+        {
+          "title": "The trap beyond the ants",
+          "text": "The Wrinkle’s portal trap caught Elira and the other three members of Team Gravy. It had been set for Team Biscuit. They remain lost in Hell to this day, while Team Biscuit continued to Windglum and the Bastion adventure.",
+          "chapter": "fungal-bloom",
+          "scene": 11
         }
       ],
       "gifts": [
@@ -1905,10 +1994,17 @@
           "paragraphs": [
             "The black river and broken stone lead neatly into the grotto’s reality, but that correspondence does not identify a deity, patron or other intelligence behind her dreams. Reading them as a summons is possible; naming who summoned her would go beyond the tale."
           ]
+        },
+        {
+          "kind": "Hidden history",
+          "title": "The trap was meant for the other company",
+          "paragraphs": [
+            "The portal trap in the Reality Wrinkle was set for Team Biscuit. Team Gravy were caught instead and sent to Hell. Their continuing absence belongs to that mistaken capture, not an unexplained departure after the ant battles. No escape or homecoming has followed."
+          ]
         }
       ],
       "unfinished": [
-        "The source of her dreams, the fate of her fey companion, and the land’s final recovery remain open. The story does not claim the gate was destroyed merely because a way to destroy it existed."
+        "Elira remains lost in Hell with Team Gravy. The source of her dreams, the fate of her fey companion, and the land’s final recovery remain open; neither her return nor the destruction of the grotto’s gate is supplied by the tale."
       ],
       "memories": [],
       "battleRecord": {

@@ -29,7 +29,7 @@ The selected collection currently contains 320 items. Preserve the curated chapt
 Use `npm run dev` for local static-site preview. `npm run build` validates and
 copies the whole site to dist. GitHub Pages publishes the main branch root.
 
-All twelve adventures/interludes now have narrated treatments in `stories.json`: 85
+All twelve adventures/interludes now have narrated treatments in `stories.json`: 88
 scenes through the return to Bastion and its later recorded fighting. The northern
 account includes Frostblight, the Red Keep/Reclamation, and the demon army. Bastion
 adds Windglum, Eco and Desayeus, Findula’s farewell, Ernie’s return and protective
@@ -40,7 +40,7 @@ ordered bottom navigation are preserved.
 Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
 as visible, labelled retrospective asides within the story, using the same palette.
 They reveal hidden motives and later connections without changing the party’s
-recorded actions. The twelve narrated chapters contain 26 such notes.
+recorded actions. The twelve narrated chapters contain 28 such notes.
 
 The Sleeper detour includes the party’s eighth-level Brindinford flashback and
 return fifty years beyond its original time, as confirmed by Boss. The final
@@ -94,3 +94,16 @@ count. Swarms count as one log unit. Do not sum backups, multiply these shared
 figures by companions, count corrected kills, or promote automated PC death
 messages into permanent-death statistics. Team Gravy's numeric sheets are not
 established by the captured biographies; missing figures remain omitted.
+
+
+Boss’s confirmed Wrinkle split is narrated in Fungus Grotto: Xanthar tricked
+Biscuit into the grotto portal and they arrived naked without gear; after the
+ant battles, the hell trap intended for Biscuit caught Gravy instead. Gravy remain
+lost in Hell. Biscuit continued to Windglum and the Bastion adventures; Ernie
+later recovered most gear, with Whelm, Wave and Frostrazor still missing. The
+trap-maker, specific Hell destination and exact mechanisms are not invented.
+The character profiles and Bastion handoff preserve that distinction.
+
+Fungal scenes 7–9 shifted to 8–10 when the new portal scene was inserted. Update
+scene targets by meaning, not by an old number. The Wrinkle split is scene 11 and
+the Windglum/Ernie bridge is scene 12. Journey order and bottom navigation remain.

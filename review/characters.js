@@ -30,7 +30,7 @@ function battleRecord(person) {
 }
 
 function possessions(person) {
-  return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">Distinctive belongings from the character’s sheets, biography and adventures. A remembered possession is not a guarantee that it was carried or attuned at every point in the journey.</p><dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
+  return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">Distinctive belongings from the character’s sheets, biography and adventures. A remembered possession is not a guarantee that it was carried or attuned at every point in the journey.</p>${person.inventoryNote ? `<p class="character-stat-note">${escape(person.inventoryNote)}</p>` : ''}<dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
     ${person.traits ? `<section id="character-traits" tabindex="-1" class="character-section"><p class="eyebrow">Habits, talents &amp; contradictions</p><h2>Distinctly ${escape(person.shortName)}.</h2><dl class="character-trait-list">${person.traits.map(trait => `<div><dt>${escape(trait.name)}</dt><dd>${escape(trait.text)}</dd></div>`).join('')}</dl></section>` : ''}`;
 }
 
@@ -43,7 +43,7 @@ export function renderCompanions(people) {
       <nav class="company-jump" aria-label="Choose a company"><a href="#/companions/team-biscuit">Team Biscuit ↓</a><a href="#/companions/team-gravy">Team Gravy ↓</a></nav>
     </header>
     ${['Team Biscuit', 'Team Gravy'].map((company, index) => `<section id="${index ? 'team-gravy' : 'team-biscuit'}" tabindex="-1" class="section company-section">
-      <div class="section-intro"><div><p class="eyebrow">${index ? 'The other company' : 'The familiar four'}</p><h2>${company}</h2></div><p>${index ? 'An expedition through the fungal dark, a falling boat, and a fight alongside Team Biscuit in sunken Brindinford.' : 'From the Citadel to the Bastion: a soldier, a scholar, a priest and a performer, carrying more history than they first understood.'}</p></div>
+      <div class="section-intro"><div><p class="eyebrow">${index ? 'The other company' : 'The familiar four'}</p><h2>${company}</h2></div><p>${index ? 'An expedition through the fungal dark, a falling boat, and a fight alongside Team Biscuit in sunken Brindinford—before the Wrinkle’s trap left all four lost in Hell.' : 'From the Citadel to the Bastion: a soldier, a scholar, a priest and a performer, carrying more history than they first understood.'}</p></div>
       <div class="companion-cards">${people.filter(person => person.company === company).map(person => `<a class="companion-card" href="${profileUrl(person)}">
         <img src="${escape(person.portrait)}" alt="${escape(person.portraitAlt)}" loading="lazy" width="300" height="300">
         <div><p class="eyebrow">${escape(person.facts[0][1])} · ${escape(person.facts[1][1])}</p><h3>${escape(person.name)}</h3><p>${escape(person.summary)}</p><span class="explore">Read ${escape(person.shortName)}’s story ↗</span></div>
