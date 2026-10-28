@@ -6320,9 +6320,9 @@
     },
     {
       "id": "2cc3c3e5879f333a0d5169bb",
-      "name": "Fungal2.png",
+      "name": "The fungal dark — Fungus Grotto.png",
       "kind": "image",
-      "chapter": "between-adventures",
+      "chapter": "fungal-bloom",
       "source": "Roll20 image",
       "dates": {
         "uploaded": "2025-12-23"
@@ -6331,10 +6331,10 @@
       "dimensions": "1024×296",
       "duration": "",
       "dateChecks": {
-        "Team Gravy / Fungal Bloom": "unresolved window"
+        "Fungus Grotto": "campaign association confirmed; upload date is not a session date"
       },
-      "dateReason": "Team Gravy / Fungal Bloom: unresolved window",
-      "dateStatus": "unresolved window",
+      "dateReason": "Boss confirmed Fungus Grotto as the alter-ego party adventure on 2026-10-27. Original source date retained.",
+      "dateStatus": "campaign association confirmed",
       "thumbnail": "media/thumbs/2cc3c3e5879f333a0d5169bb.jpg",
       "originalUrl": "https://files.d20.io/images/468787886/9bTchAEdGA4g89VijJEz_g/max.png?1766470908",
       "url": "media/images/between-adventures/2cc3c3e5879f333a0d5169bb.png"
@@ -6787,6 +6787,20 @@
       "url": "media/images/forge-of-fury/original-art-black-dragon.jpg",
       "originalUrl": "https://gamenightblog.com/forge-fury-campaign-resources/",
       "credit": "Dennis Cramer — interior illustration from the original module, ©2000 Wizards of the Coast; hosted by Game Night Blog."
+    },
+    {
+      "id": "989e61047322f4997a0932bf",
+      "name": "Brother Xanthar.png",
+      "kind": "image",
+      "chapter": "writhe-below",
+      "source": "Roll20 campaign portrait",
+      "dates": {},
+      "date": "",
+      "dimensions": "512×512",
+      "duration": "",
+      "thumbnail": "media/portraits/brother-xanthar.png",
+      "url": "media/portraits/brother-xanthar.png",
+      "originalUrl": "https://files.d20.io/images/397596156/fb5EGdJB69KY-Nnz6jPdbw/med.png?1718776668"
     }
   ]
 }

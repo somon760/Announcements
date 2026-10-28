@@ -2,13 +2,13 @@
 
 Public, static retrospective at `/review/`. `index.html`, `showcase.css`, and
 `showcase.js` render the timeline and hash-routed chapter galleries.
-`chapters.json` contains chronology notes and cover credits; `media.json` contains
-only the 312 selected memories, with original source dates and public media URLs.
+`stories.json` supplies the illustrated narration through `story.js`; optional companion portraits allow named rosters without invented artwork. `chapters.json` supplies the ordered journey and cover credits; main chapters and interludes share that order for both timeline cards and bottom navigation. The original main chapter numbers remain stable; interludes use I and II. `media.json` contains
+only the 320 selected memories and references, with original source dates and public media URLs.
 
-- 253 images, 59 films. Previously excluded assets remain excluded.
-- 198 local images and 20 local/Desktop films are hosted as web copies here.
-- Dropbox's 37 published films remain in Dropbox; only their posters are hosted.
-- Roll20 images have cached copies; its two selected video URLs remain remote.
+- 269 images, 51 films. Previously excluded assets remain excluded.
+- Selected local images and local/Desktop films are hosted as web copies here.
+- Published Dropbox films remain in Dropbox; only their posters are hosted.
+- Roll20 images have cached copies; selected Roll20 video URLs remain remote.
 - Images are stored in `media/images/<chapter>/`; thumbnails are stored separately.
 - The date check and an image filing report explain provisional, old-source, and unresolved assignments.
 - No local paths, file pickers, decision controls, or private catalog imports.
@@ -24,7 +24,21 @@ python scripts/build_showcase.py --inventory /path/to/Team-Biscuit-Reel-Inventor
 The builder reads only the current selected CSV/catalog and honors the permanent
 exclusion list. Desktop sources are copied into the inventory's showcase-staging
 folder first if OS permissions prevent direct reads. Source originals stay intact.
-The report in staging must show 312 items and zero errors before publishing.
+The selected collection currently contains 320 items. Preserve the curated chapter assignments, added module references, and portraits when rebuilding; the older inventory alone does not include these editorial additions.
 
 Use `npm run dev` for local static-site preview. `npm run build` validates and
 copies the whole site to dist. GitHub Pages publishes the main branch root.
+
+Eleven adventures/interludes now have narrated treatments in `stories.json`, through
+Icewind Dale and the homeward Fungus Grotto crossover. The northern account includes
+Frostblight, the Red Keep/Reclamation, and the demon army. Bastion remains the next
+chapter to enhance. Galleries and the ordered bottom navigation are preserved.
+
+Scenes may include a `hindsight` array of `{title, paragraphs}` notes. These render
+as visible, labelled retrospective asides within the story, using the same palette.
+They reveal hidden motives and later connections without changing the party’s
+recorded actions. The current eleven narrated chapters contain 22 such notes.
+
+The Sleeper detour includes the party’s eighth-level Brindinford flashback and
+return fifty years beyond its original time, as confirmed by Boss. The final
+Bastion destination is labelled as a return to an already-started mystery.
