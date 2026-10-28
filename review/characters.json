@@ -112,73 +112,7 @@
       ],
       "memories": [],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          },
-          {
-            "title": "Inside the Bastion · Team Biscuit",
-            "total": 10,
-            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
-            "rows": [
-              [
-                "Advanced Retriever",
-                1
-              ],
-              [
-                "Po",
-                1
-              ],
-              [
-                "Grisly",
-                1
-              ],
-              [
-                "Krushar",
-                1
-              ],
-              [
-                "Thalidorus",
-                1
-              ],
-              [
-                "Soulsipper",
-                4
-              ],
-              [
-                "Vrock",
-                1
-              ]
-            ],
-            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
-          }
-        ]
+        "ledgerCompany": "biscuit"
       },
       "statistics": {
         "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
@@ -631,73 +565,7 @@
         }
       ],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          },
-          {
-            "title": "Inside the Bastion · Team Biscuit",
-            "total": 10,
-            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
-            "rows": [
-              [
-                "Advanced Retriever",
-                1
-              ],
-              [
-                "Po",
-                1
-              ],
-              [
-                "Grisly",
-                1
-              ],
-              [
-                "Krushar",
-                1
-              ],
-              [
-                "Thalidorus",
-                1
-              ],
-              [
-                "Soulsipper",
-                4
-              ],
-              [
-                "Vrock",
-                1
-              ]
-            ],
-            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
-          }
-        ]
+        "ledgerCompany": "biscuit"
       },
       "statistics": {
         "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
@@ -1173,73 +1041,7 @@
         }
       ],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          },
-          {
-            "title": "Inside the Bastion · Team Biscuit",
-            "total": 10,
-            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
-            "rows": [
-              [
-                "Advanced Retriever",
-                1
-              ],
-              [
-                "Po",
-                1
-              ],
-              [
-                "Grisly",
-                1
-              ],
-              [
-                "Krushar",
-                1
-              ],
-              [
-                "Thalidorus",
-                1
-              ],
-              [
-                "Soulsipper",
-                4
-              ],
-              [
-                "Vrock",
-                1
-              ]
-            ],
-            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
-          }
-        ]
+        "ledgerCompany": "biscuit"
       },
       "statistics": {
         "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
@@ -1719,73 +1521,7 @@
         }
       ],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          },
-          {
-            "title": "Inside the Bastion · Team Biscuit",
-            "total": 10,
-            "scope": "Selected victories corroborated by the Bastion log and played accounts.",
-            "rows": [
-              [
-                "Advanced Retriever",
-                1
-              ],
-              [
-                "Po",
-                1
-              ],
-              [
-                "Grisly",
-                1
-              ],
-              [
-                "Krushar",
-                1
-              ],
-              [
-                "Thalidorus",
-                1
-              ],
-              [
-                "Soulsipper",
-                4
-              ],
-              [
-                "Vrock",
-                1
-              ]
-            ],
-            "note": "Company victories, not personal finishing blows. The glabrezu correction and the log’s unrelated or uncertain entries are not included. Ashardalon and Ammet are not counted."
-          }
-        ]
+        "ledgerCompany": "biscuit"
       },
       "statistics": {
         "intro": "The company at epic strength: the Bastion battle snapshot first, followed by the detailed character record preserved on 1 September 2026. Equipment and blessings can change defenses and other figures.",
@@ -2234,37 +1970,7 @@
       ],
       "memories": [],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          }
-        ]
+        "ledgerCompany": "gravy"
       },
       "statistics": {
         "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
@@ -2404,37 +2110,7 @@
       ],
       "memories": [],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          }
-        ]
+        "ledgerCompany": "gravy"
       },
       "statistics": {
         "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
@@ -2574,37 +2250,7 @@
       ],
       "memories": [],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          }
-        ]
+        "ledgerCompany": "gravy"
       },
       "statistics": {
         "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",
@@ -2740,37 +2386,7 @@
       ],
       "memories": [],
       "battleRecord": {
-        "intro": "The surviving kill cards credit the company. Personal finishing-blow totals are not recorded; the shared tallies below belong to the whole party, not once to each companion.",
-        "tallies": [
-          {
-            "title": "Sunken Brindinford · both companies",
-            "total": 23,
-            "scope": "Selected, identified ant foes and swarm units in the shared city battle log.",
-            "rows": [
-              [
-                "Giant Ant Behemoth",
-                8
-              ],
-              [
-                "Spitter",
-                7
-              ],
-              [
-                "Brood Medic Swarm",
-                2
-              ],
-              [
-                "Burrower Ambush Swarm",
-                2
-              ],
-              [
-                "Devouring Ant Swarm",
-                4
-              ]
-            ],
-            "note": "Shared credit with Team Biscuit and Team Gravy. Each swarm is one logged unit. Generic soldiers and ambiguous entries are outside this selected tally; this is not a count of every ant or an individual kill total."
-          }
-        ]
+        "ledgerCompany": "gravy"
       },
       "statistics": {
         "intro": "The expedition preserves a calling and a path, but no numbered level, XP total or complete combat sheet for this companion. Their shared battle record and distinctive belongings follow below.",

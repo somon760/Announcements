@@ -94,13 +94,13 @@ Grim's battle AC (21) differs from the export (18); neither is silently merged.
 No combat values or level-up dates are calculated. Personal adventure bonus awards
 remain separate from cumulative XP.
 
-Battle tallies use a selected single log snapshot per scope. The identified-ant
-subset has 23 foes/swarm units shared by both companies; the corroborated Bastion
-subset has 10 foes for Team Biscuit. Neither is a lifetime tally or personal kill
-count. Swarms count as one log unit. Do not sum backups, multiply these shared
-figures by companions, count corrected kills, or promote automated PC death
-messages into permanent-death statistics. Team Gravy's numeric sheets are not
-established by the captured biographies; missing figures remain omitted.
+The Battle Chronicle at `#/battle-chronicle` supplies every profile's Company
+honours from the same `battles.json` ledger. `battleRecord.ledgerCompany` replaces
+the former duplicated small tally objects. Counts are logged party kills/units,
+never personal finishing blows. Shared entries appear once in all-company totals.
+The complete shared Brindinford passage includes 23 identified ant units, 10
+Soldier entries and 2 Shadowfang entries. Gravy's other fungal entries remain
+company-unassigned until supported; no numbered PC stats are invented.
 
 
 Boss’s confirmed Wrinkle split is narrated in Fungus Grotto: Xanthar tricked
@@ -114,3 +114,32 @@ The character profiles and Bastion handoff preserve that distinction.
 Fungal scenes 7–9 shifted to 8–10 when the new portal scene was inserted. Update
 scene targets by meaning, not by an old number. The Wrinkle split is scene 11 and
 the Windglum/Ernie bridge is scene 12. Journey order and bottom navigation remain.
+
+
+## Battle Chronicle
+
+`battles.js` renders the dedicated chronicle and the profile honours. Navigation
+and a home-page callout link into it. Company links use
+`#/battle-chronicle/company/biscuit` or `/gravy`. The explorer supports original
+names or species/foe groups, company, chapter, family, name search, count/XP/name
+sorting, progressive rows, variant expansion, and CSV export. Charts and counters
+follow the filters. Raw GM material and private record paths are not shipped.
+
+Build the data from the private captured records:
+
+```sh
+python3 scripts/build_battle_chronicle.py --knowledge-base /absolute/path/to/team-biscuit-knowledgebase
+python3 scripts/test_battle_chronicle.py
+node scripts/test_battle_chronicle.mjs
+```
+
+The builder writes a private SQLite event/observation ledger and review record
+inside that knowledge base. Public `review/battles.json` contains only selected
+counted events, nonlethal entries, source links, grouping and counting notes. It
+verifies ordered whole-log/prefix overlaps, preserves within-log repeated foes,
+applies corrections to preceding matching awards, and audits every kill marker.
+No date timeline, personal kills, complete campaign census, or finale outcome is
+inferred. Named targets may repeat without establishing separate lifetimes.
+Missing XP stays null; zero XP remains a known value. Two explicitly nonlethal
+Blade Golem records remain outside kill totals. Unplaced chapter/company entries
+remain visible rather than being assigned by campaign number or backup date.

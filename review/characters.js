@@ -1,3 +1,4 @@
+import { renderCompanyHonours } from './battles.js?v=battle-chronicle-1';
 const escape = value => String(value ?? '').replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
 }[character]));
@@ -22,14 +23,6 @@ function statistics(person) {
   </section>`;
 }
 
-function battleRecord(person) {
-  if (!person.battleRecord) return '';
-  return `<section id="character-battles" tabindex="-1" class="character-section"><p class="eyebrow">Company honours</p><h2>The shared battle record.</h2><p class="character-stat-note">${escape(person.battleRecord.intro)}</p>
-    <div class="battle-tallies">${person.battleRecord.tallies.map(tally => `<section class="battle-tally"><h3>${escape(tally.title)}</h3><p class="battle-total"><strong>${numbered(tally.total)}</strong><span>logged foes / swarm units</span></p><p>${escape(tally.scope)}</p>
-      <table class="character-record-table"><caption class="sr-only">${escape(tally.title)}: shared defeats by foe</caption><thead><tr><th scope="col">Foe</th><th scope="col">Count</th></tr></thead><tbody>${tally.rows.map(([name,value]) => `<tr><th scope="row">${escape(name)}</th><td>${numbered(value)}</td></tr>`).join('')}</tbody></table><p class="character-stat-note">${escape(tally.note)}</p>
-    </section>`).join('')}</div>
-  </section>`;
-}
 
 function possessions(person) {
   return `${person.inventory ? `<section id="character-inventory" tabindex="-1" class="character-section"><p class="eyebrow">Steel, keepsakes &amp; small eccentricities</p><h2>Inside the pack.</h2><p class="character-stat-note">Distinctive belongings from the character’s sheets, biography and adventures. A remembered possession is not a guarantee that it was carried or attuned at every point in the journey.</p>${person.inventoryNote ? `<p class="character-stat-note">${escape(person.inventoryNote)}</p>` : ''}<dl class="character-possession-list">${person.inventory.map(item => `<div><dt>${escape(item.name)}</dt><dd>${escape(item.text)}</dd></div>`).join('')}</dl></section>` : ''}
@@ -55,7 +48,7 @@ export function renderCompanions(people) {
   </article>`;
 }
 
-export function renderCharacter(person, people, chapters) {
+export function renderCharacter(person, people, chapters, battles) {
   const index = people.indexOf(person);
   const sameArtwork = person.portrait === person.token;
   const chapterLink = step => {
@@ -75,7 +68,7 @@ export function renderCharacter(person, people, chapters) {
       <section id="character-beginnings" tabindex="-1" class="character-section story-prose"><p class="eyebrow">Before the company</p><h2>Where the road began.</h2>${prose(person.backstory)}</section>
       ${statistics(person)}
       <section id="character-progression" tabindex="-1" class="character-section"><p class="eyebrow">A life in motion</p><h2>What the journey made.</h2><ol class="character-milestones">${person.progression.map(step => `<li><h3>${escape(step.title)}</h3><p>${escape(step.text)}</p>${chapterLink(step)}</li>`).join('')}</ol></section>
-      ${battleRecord(person)}
+      ${renderCompanyHonours(person,battles,chapters)}
       <section class="character-section"><p class="eyebrow">Gifts, keepsakes &amp; burdens</p><h2>What they carried.</h2><div class="character-gifts">${person.gifts.map(gift => `<section><h3>${escape(gift.name)}</h3><p>${escape(gift.text)}</p></section>`).join('')}</div></section>
       ${possessions(person)}
       <section id="character-revisionist" tabindex="-1" class="character-section"><p class="eyebrow">Behind the tale</p><h2>What the road concealed.</h2><p class="revisionist-explainer">These notes speak from beyond the character’s viewpoint. Hidden history reveals a cause or design; a retrospective reading offers an interpretation. Unfinished endings still have room to be written.</p>${person.revisionist.map(note => `<aside class="character-revisionist" aria-label="Revisionist: ${escape(note.kind)}"><p class="eyebrow">Revisionist · ${escape(note.kind)}</p><h3>${escape(note.title)}</h3>${prose(note.paragraphs)}</aside>`).join('')}</section>
