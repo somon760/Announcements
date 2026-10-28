@@ -1940,18 +1940,18 @@
         ],
         "hindsight": [
           {
-            "label": "Revisionist · The wider reveal",
-            "title": "Two kinds of entry into Grim’s world",
+            "label": "Revisionist · Xanthar’s deception",
+            "title": "The brother Xanthar wanted Grim to remember",
             "paragraphs": [
-              "Boss has confirmed the lost-book body and Xanthar’s later scheme. The solo reveals a parallel intention: to make a place inside Grim’s remembered family. A manufactured body and a manufactured bond belong to the same web of manipulation, but the confirmed body does not prove the memory-replacement branch succeeded.",
-              "The fabricated Rigus rampage is a separate lie. Brother Ernie’s later recovery of the other equipment is a separate event. Neither makes Ernie Xanthar, proves Ernie’s complicity, or identifies who built the Hell trap that caught Team Gravy."
+              "Xanthar used Grim’s missing flesh-golem book to build the body he wore as Brother Xanthar. He also planned to alter Grim’s memories so the gnome would believe they had grown up together, with Xanthar as his trusted older brother.",
+              "The nightmare’s family scenes and invented shared adventures were meant to make that lie feel familiar. Whether Grim awoke believing it remains unknown."
             ]
           }
         ],
         "image": {
           "src": "media/portraits/brother-xanthar.png",
           "alt": "Brother Xanthar’s campaign portrait.",
-          "caption": "Brother Xanthar’s later campaign portrait: a body made possible by Grim’s missing book. It does not establish which ending Grim chose.",
+          "caption": "Brother Xanthar, in the body he made using Grim’s missing book.",
           "width": 512,
           "height": 512
         }
