@@ -6801,6 +6801,24 @@
       "thumbnail": "media/portraits/brother-xanthar.png",
       "url": "media/portraits/brother-xanthar.png",
       "originalUrl": "https://files.d20.io/images/397596156/fb5EGdJB69KY-Nnz6jPdbw/med.png?1718776668"
+    },
+    {
+      "id": "e75936ecc3044ec2e4573113",
+      "name": "Waterfall crossing — Fungal Grotto.jpeg",
+      "kind": "image",
+      "chapter": "fungal-bloom",
+      "source": "Local image",
+      "dates": {
+        "modified": "2026-01-26T23:28:55"
+      },
+      "date": "2026-01-26T23:28:55",
+      "dimensions": "1024×1536",
+      "duration": "",
+      "dateChecks": {},
+      "dateReason": "Original file modification timestamp; not a session date.",
+      "dateStatus": "file timestamp",
+      "thumbnail": "media/thumbs/e75936ecc3044ec2e4573113.jpg",
+      "url": "media/images/fungal-bloom/e75936ecc3044ec2e4573113.jpeg"
     }
   ]
 }
