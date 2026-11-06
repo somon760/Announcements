@@ -1,0 +1,996 @@
+{
+  "sections": [
+    {
+      "slug": "threads-of-fate",
+      "title": "Threads of Fate",
+      "eyebrow": "Choices and their consequences",
+      "description": "Follow the missing book, the sacrificed blade and the decisions that reached beyond a single adventure.",
+      "image": {
+        "media": "989e61047322f4997a0932bf"
+      }
+    },
+    {
+      "slug": "twenty-years",
+      "title": "The Twenty Years We Lost",
+      "eyebrow": "The world beyond the dream",
+      "description": "The company found its way back to a present that had carried on without it.",
+      "image": {
+        "media": "7908baaf4c6e2cf4ba9f99ff"
+      }
+    },
+    {
+      "slug": "treasury",
+      "title": "The Treasury",
+      "eyebrow": "Possessions with a history",
+      "description": "Weapons, books, rings and keepsakes: who carried them, what they cost and where their stories pause.",
+      "image": {
+        "media": "4312af925c6cec0142cde947"
+      }
+    },
+    {
+      "slug": "those-left-behind",
+      "title": "Those We Left Behind",
+      "eyebrow": "Friends, strangers and unfinished farewells",
+      "description": "The companions in Hell, the friend who vanished and the people whose homes the company tried to save.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      }
+    },
+    {
+      "slug": "voices",
+      "title": "Voices from the Table",
+      "eyebrow": "Their own words",
+      "description": "Typed questions, shopping enthusiasm and campaign films from the road to the Bastion.",
+      "image": {
+        "media": "828542a64ccfdbefbe44299c"
+      }
+    },
+    {
+      "slug": "epilogues",
+      "title": "The Unwritten Epilogues",
+      "eyebrow": "Beyond the Bastion",
+      "description": "The company has reached Ashardalon. The final reckoning and the lives beyond it await their telling.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "xanthar",
+      "title": "The book that became a brother",
+      "image": {
+        "media": "989e61047322f4997a0932bf"
+      },
+      "intro": "A forgotten possession gave the aboleth a body. His familiar face concealed ambitions that led back to White Plume Mountain.",
+      "nodes": [
+        {
+          "title": "A book goes missing",
+          "text": "Grim lost and forgot a book on making flesh golems amid his dealings with the aboleth. Xanthar used its knowledge to construct the body of Brother Xanthar.",
+          "link": {
+            "chapter": "writhe-below",
+            "scene": 2,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        },
+        {
+          "title": "A place in Grim’s memories",
+          "text": "Xanthar also intended to become the trusted older brother Grim remembered from childhood. The solo exposes that design; whether Grim accepted the false memories remains unknown.",
+          "link": {
+            "chapter": "grim-memory",
+            "scene": 4,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        },
+        {
+          "title": "The mountain changes hands",
+          "text": "A K-vial left Xanthar convinced he was the true Keraptis. His power and constructed body spared him the zombie fate; he defeated the reigning K-clone prime and took White Plume Mountain.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        },
+        {
+          "title": "The portal takes their belongings",
+          "text": "Team Biscuit stepped through Xanthar’s portal and arrived naked. His equipment scheme returned Wave, Whelm and Frostrazor to the mountain; Ernie later recovered most of the other possessions.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        }
+      ]
+    },
+    {
+      "id": "weapons",
+      "title": "Four weapons, one sacrifice",
+      "image": {
+        "media": "4312af925c6cec0142cde947"
+      },
+      "intro": "The rite that broke Pengu’s hold also ended the company’s fellowship with the surviving weapons.",
+      "nodes": [
+        {
+          "title": "The mountain’s challenge",
+          "text": "Wave, Whelm and Blackrazor entered the company’s story through White Plume Mountain. Frostrazor later joined the northern hunt for the weapons.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 4,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Terry bears all four",
+          "text": "Pelor’s boon let Terry attune to Wave, Whelm, Frostrazor and Blackrazor together. Grim’s ingredients and candle preparations brought the working to its final stage.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Blackrazor is sacrificed",
+          "text": "The company sacrificed Blackrazor and completed the rite. Pengu’s fighting form fell, leaving a pulsing obsidian egg as Frostblight broke apart.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 10,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Three voices remember",
+          "text": "Wave, Whelm and Frostrazor are safely held under Xanthar’s rule in White Plume Mountain. They regard Blackrazor as their sibling, hate the Brotherhood for the sacrifice and will never forgive it.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        }
+      ]
+    },
+    {
+      "id": "lava",
+      "title": "The village they saved",
+      "image": {
+        "media": "0220b6c580d84d6d2e23517e"
+      },
+      "intro": "The rescue in Deep Horizon had consequences the Brotherhood would return too late to witness.",
+      "nodes": [
+        {
+          "title": "The enclave under assault",
+          "text": "The company reached the desmodu amid attacks, captivity and conflict in the depths. These were people with homes and records, fighting to keep them.",
+          "link": {
+            "chapter": "deep-horizon",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "The lava is diverted",
+          "text": "The Brotherhood rerouted the lava to save the desmodu village. The immediate rescue set a slower catastrophe in motion.",
+          "link": {
+            "chapter": "deep-horizon",
+            "scene": 5,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        },
+        {
+          "title": "Twenty years pass without them",
+          "text": "The return from the Sleeper’s detour carried the company twenty years beyond its original present. In those missing years the diversion led to Brindinford’s volcanic destruction and the extinction of the desmodu.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        },
+        {
+          "title": "Ants in the old streets",
+          "text": "Team Biscuit returned to sunken Brindinford and fought beside Team Gravy among its ruins. The old city was now an approach to the Reality Wrinkle.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        }
+      ]
+    },
+    {
+      "id": "magic",
+      "title": "The candle and the empty cradles",
+      "image": {
+        "media": "11148c07fa6aaf5db6a638ed"
+      },
+      "intro": "Pengu’s attack on magic and Ashardalon’s consumption of souls overlapped. Ending one left the other to face.",
+      "nodes": [
+        {
+          "title": "Shrop snuffs a candle",
+          "text": "In the Nightmare Grotto, Shrop extinguished the candle that released Pengu’s spirit. The ensuing loss of magic followed the company into Icewind Dale.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 1,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Prayers begin to fail",
+          "text": "The northern struggle exposed Pengu’s draining of magic. The company gathered the candle ingredients and four epic weapons for the ritual.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Magic begins to recover",
+          "text": "After the completed rite and Pengu’s defeat, Eldath told the company that magic was beginning to heal. Pengu’s surviving egg still left a question behind.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "The soul famine continues",
+          "text": "The same vision named twenty years without new souls. Ashardalon was feeding upon the unborn in the Bastion; the northern victory had not ended his hunger.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 14,
+            "label": "Read the scene"
+          },
+          "revisionist": true
+        }
+      ]
+    },
+    {
+      "id": "two-companies",
+      "title": "Where the two roads parted",
+      "image": {
+        "person": "nox"
+      },
+      "intro": "The companies met in the ruins of one city. Only Team Biscuit reached Windglum.",
+      "nodes": [
+        {
+          "title": "Gravy comes downriver",
+          "text": "Brunn, Rook, Nox and Elira survived the grotto, a falling boat and the Deliverance’s sudden rescue. The river carried them towards buried Brindinford.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 6,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Eight against the ants",
+          "text": "Team Biscuit arrived stripped of its possessions. The two companies fought the giant ants together in the Sunken City.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 8,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "The Wrinkle catches Gravy",
+          "text": "A portal trap intended for Biscuit caught Gravy instead. Brunn, Rook, Nox and Elira were sent to Hell and remain lost there.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        },
+        {
+          "title": "Biscuit returns to Bastion",
+          "text": "The surviving route took Team Biscuit to Windglum, Findula and the search for Desayeus’s fragment. Xanthar’s equipment theft and the Wrinkle’s Hell trap remain separate events.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 1,
+            "label": "Read the scene"
+          },
+          "revisionist": false
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "id": "remembered",
+      "title": "The Brindinford they remembered",
+      "image": {
+        "media": "7908baaf4c6e2cf4ba9f99ff"
+      },
+      "paragraphs": [
+        "Their first Brindinford was a city of streets, river traffic, a fair and a conspiracy concealed behind its Baron. They had helped free it before later adventures took them across the planes."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 1,
+          "label": "Return to the fair"
+        }
+      ]
+    },
+    {
+      "id": "earlier-selves",
+      "title": "Home in their eighth-level lives",
+      "paragraphs": [
+        "The Sleeper’s dream sent the company back into its own earlier selves. Familiar streets belonged to an earlier Brindinford, and the adventurers played once more at eighth level.",
+        "They invested with Shoomma’s smithy and the Bank of Frobozz. The return on those investments has yet to enter this account."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "The earlier Brindinford"
+        }
+      ]
+    },
+    {
+      "id": "return",
+      "title": "Their own present lay twenty years behind them",
+      "paragraphs": [
+        "Finding the way out of the flashback did not restore the moment they had left. They arrived twenty years beyond their original present. Those were years the world had lived without them; the journey does not mean the companions themselves aged by twenty years."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "label": "The return"
+        }
+      ]
+    },
+    {
+      "id": "ruin",
+      "title": "The rescue that became a catastrophe",
+      "revisionist": true,
+      "image": {
+        "media": "0220b6c580d84d6d2e23517e"
+      },
+      "paragraphs": [
+        "The lava diversion in Deep Horizon saved a desmodu village. During the company’s absence its consequences caused the volcanic cataclysm that destroyed Brindinford and wiped out the desmodu race.",
+        "Biscuit returned after the destruction. The later battle against the ants took place in the sunken remains of the city it remembered."
+      ],
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 5,
+          "label": "The road out of Deep Horizon"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 10,
+          "label": "The town they remembered"
+        }
+      ]
+    },
+    {
+      "id": "souls",
+      "title": "The lives that never reached birth",
+      "revisionist": true,
+      "paragraphs": [
+        "After Frostblight, the gods’ vision named twenty years without new souls being born. Ashardalon’s feeding in the Bastion was starving the world of its unborn lives.",
+        "The volcanic destruction followed the lava diversion. The soul famine followed the dragon’s hunger. Pengu’s draining of magic was another calamity, and magic could begin to recover while Ashardalon still fed."
+      ],
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "The vision on the ice"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "The heart within the dragon"
+        }
+      ]
+    }
+  ],
+  "treasury": [
+    {
+      "id": "shatterspike",
+      "title": "Shatterspike",
+      "group": "weapons",
+      "status": "Sacrificed to cleanse Pelor’s temple",
+      "paragraphs": [
+        "Shrop recovered Shatterspike beneath the Sunless Citadel. In Brindinford, the blade became the holy relic needed to cleanse Pelor’s occupied temple.",
+        "He sacrificed it during the company’s struggle to free the city. This earlier offering belongs to Shrop’s story; Blackrazor’s later sacrifice completed the Pengu ritual."
+      ],
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 4,
+          "label": "What the darkness left them"
+        },
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 5,
+          "label": "The temple’s cleansing"
+        }
+      ],
+      "image": {
+        "media": "5d0bbe4f94b29c353f94486f"
+      },
+      "revisionist": false
+    },
+    {
+      "id": "wave",
+      "title": "Wave",
+      "group": "weapons",
+      "status": "Held in White Plume Mountain",
+      "paragraphs": [
+        "The trident named in Keraptis’s challenge became one of Terry’s four attuned weapons in the Pengu ritual. It survived the rite.",
+        "Revisionist: Xanthar’s scheme returned Wave to White Plume with Whelm and Frostrazor. It shares their permanent hatred of the Brotherhood for sacrificing Blackrazor."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 4,
+          "label": "The challenge"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "The fourfold rite"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "The weapons’ viewpoint"
+        }
+      ],
+      "image": {
+        "media": "4312af925c6cec0142cde947"
+      },
+      "revisionist": false
+    },
+    {
+      "id": "whelm",
+      "title": "Whelm",
+      "group": "weapons",
+      "status": "Held in White Plume Mountain",
+      "paragraphs": [
+        "Whelm was gathered with the other epic weapons for Terry’s fourfold attunement. It survived the sacrifice that completed the ritual.",
+        "Revisionist: it now rests under Xanthar’s rule with Wave and Frostrazor. It remembers Blackrazor as a sibling and will never forgive the hands that offered that sibling to the rite."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 4,
+          "label": "The mountain’s weapons"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Terry’s boon"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "Three surviving voices"
+        }
+      ],
+      "image": null,
+      "revisionist": false
+    },
+    {
+      "id": "frostrazor",
+      "title": "Frostrazor",
+      "group": "weapons",
+      "status": "Held in White Plume Mountain",
+      "paragraphs": [
+        "The northern search brought Frostrazor into the company’s struggle with Pengu and the false Keraptis. It joined Wave, Whelm and Blackrazor in Terry’s completed working.",
+        "Revisionist: Ernie did not return Frostrazor because Xanthar had taken it back to White Plume Mountain with the other survivors. Their anger endures there."
+      ],
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 5,
+          "label": "The northern trail"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "The rite"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "Ernie’s missing three"
+        }
+      ],
+      "image": null,
+      "revisionist": false
+    },
+    {
+      "id": "blackrazor",
+      "title": "Blackrazor",
+      "group": "weapons",
+      "status": "Sacrificed in the Pengu ritual",
+      "paragraphs": [
+        "The evil epic weapon was the one the company sacrificed. Terry had attuned to all four; Blackrazor’s loss completed the rite against Pengu.",
+        "Revisionist: Wave, Whelm and Frostrazor mourn it as their sibling. Blackrazor is absent from the surviving cache beneath White Plume Mountain."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 4,
+          "label": "Blackrazor in the mountain’s challenge"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "The sacrifice"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "The siblings’ account"
+        }
+      ],
+      "image": null,
+      "revisionist": false
+    },
+    {
+      "id": "flesh-book",
+      "title": "Grim’s missing flesh-golem book",
+      "group": "arcana",
+      "status": "Lost from Grim’s keeping",
+      "paragraphs": [
+        "Grim lost and forgot a book on constructing flesh golems amid the aboleth troubles.",
+        "Revisionist: Xanthar used that knowledge to make the body he wore as Brother Xanthar. The book’s exact title and its later whereabouts remain unsettled."
+      ],
+      "links": [
+        {
+          "chapter": "writhe-below",
+          "scene": 2,
+          "label": "The body he made"
+        },
+        {
+          "chapter": "grim-memory",
+          "scene": 10,
+          "label": "The false brother"
+        }
+      ],
+      "image": {
+        "person": "grim"
+      },
+      "revisionist": false
+    },
+    {
+      "id": "candle",
+      "title": "The Candle of the Dark One",
+      "group": "arcana",
+      "status": "Ritual completed",
+      "paragraphs": [
+        "Grim gathered ingredients and prepared three portions of wax and three wicks. The northern working required the four epic weapons, Terry’s boon and Blackrazor’s sacrifice.",
+        "This was the ritual candle used against Pengu. The candle Shrop snuffed in the Nightmare Grotto had released the spirit earlier."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 1,
+          "label": "The earlier candle"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 4,
+          "label": "Wax and wick"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "The completed working"
+        }
+      ],
+      "image": {
+        "person": "terry"
+      },
+      "revisionist": false
+    },
+    {
+      "id": "pendant",
+      "title": "Pendant of the Ethereal Anchor",
+      "group": "keepsakes",
+      "status": "Thunder’s bond to the Deliverance",
+      "paragraphs": [
+        "The pendant binds Thunder’s soul to Captain Timothy Pepper’s ghostly ship. In the northern vision, the Deliverance endured and searched for him.",
+        "Pepper warned that dying while wearing it would make Thunder the ship’s captive captain in his place. Neither that death nor a transfer of captaincy has been established."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 1,
+          "label": "The Deliverance"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "Pepper’s warning"
+        }
+      ],
+      "image": {
+        "media": "92db6b1630e54173df2f1e5a"
+      },
+      "revisionist": false
+    },
+    {
+      "id": "rings",
+      "title": "Ernie’s four protective rings",
+      "group": "arcana",
+      "status": "Given to Team Biscuit for the crossing",
+      "paragraphs": [
+        "Ernie gave each companion a Ring of Positive Energy Protection. They were meant to keep the plane’s overwhelming life from killing its visitors.",
+        "The rings and recovered possessions stayed with the company after he faded through the office door. His destination remained unknown."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "Four rings and a farewell"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 9,
+          "label": "Into too much life"
+        }
+      ],
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      },
+      "revisionist": false
+    },
+    {
+      "id": "totem",
+      "title": "Desayeus’s Soul Totem fragment",
+      "group": "arcana",
+      "status": "Carried out by Thunder",
+      "paragraphs": [
+        "Ashardalon had entered the Bastion through another fragment of the broken Totem. The company sought the piece Desayeus still wore.",
+        "Desayeus yielded it; Thunder carried it from the prison. Eco was dead by the departure, and Findula’s farewell followed the company’s return. Desayeus remained bound."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 4,
+          "label": "The broken Totem"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "The fragment’s price"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "Findula’s farewell"
+        }
+      ],
+      "image": null,
+      "revisionist": false
+    },
+    {
+      "id": "small-things",
+      "title": "The things they packed beside the weapons",
+      "group": "keepsakes",
+      "status": "Listed among personal belongings",
+      "paragraphs": [
+        "Thunder’s dragon, unicorn and owlbear Snugglebeasts share his inventory with lockpicks and blades. Terry kept coffee, tea, sugarbombs, smith’s tools and bagpipes beside his holy weapons.",
+        "Grim’s tools, cook’s utensils and walrus recipes suggest a traveller who expected problems beyond spellcasting. The profiles keep these possessions beside the grander prizes."
+      ],
+      "links": [],
+      "image": {
+        "person": "thunder"
+      },
+      "revisionist": false
+    }
+  ],
+  "leftBehind": [
+    {
+      "id": "gravy",
+      "title": "Team Gravy",
+      "status": "Still lost in Hell",
+      "people": [
+        "nox",
+        "brunn",
+        "rook",
+        "elira"
+      ],
+      "paragraphs": [
+        "Brunn, Rook, Nox and Elira fought beside Team Biscuit against the ants in sunken Brindinford. The trap in the Reality Wrinkle had been set for Biscuit; Gravy went through it instead.",
+        "Their last established destination is Hell. No rescue, death or return has been written for them."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Where the companies parted"
+        }
+      ]
+    },
+    {
+      "id": "findula",
+      "title": "Findula",
+      "status": "The alliance ended",
+      "image": {
+        "chapter": "bastion",
+        "scene": 6
+      },
+      "paragraphs": [
+        "The company helped free the lillend, and she repaid it by finding Eco and the route to Desayeus. Eco was her sister.",
+        "After Eco’s death, Findula left her note, accepted her part in the cost and declared the debt settled. She neither expected nor wished to speak with the company again."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 2,
+          "label": "Findula finds the way"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "The farewell she left"
+        }
+      ]
+    },
+    {
+      "id": "eco",
+      "title": "Eco",
+      "status": "Died before the company left the prison",
+      "image": {
+        "media": "49d391265bfec0f5b163b749"
+      },
+      "paragraphs": [
+        "The solar guarded Desayeus with Bramam. Her body was the doorway the company needed.",
+        "By the time Thunder carried out the fragment, Eco was dead. Findula’s letter placed that loss beside the company’s need to stop Ashardalon."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 3,
+          "label": "The guardian who was the door"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "Leaving with the fragment"
+        }
+      ]
+    },
+    {
+      "id": "ernie",
+      "title": "Brother Ernie",
+      "status": "Departed; destination unknown",
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      },
+      "paragraphs": [
+        "Believed lost in the irionite-bomb explosion, Ernie returned with most of the company’s belongings. His smile, gestures and devoted interpretive dance did the work of an explanation.",
+        "He gave four protective rings, embraced the companions and faded into warm motes beyond the door. His departure does not establish his death."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "The reunion"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "The silent farewell"
+        }
+      ]
+    },
+    {
+      "id": "desmodu",
+      "title": "The desmodu",
+      "status": "A people lost during the missing twenty years",
+      "revisionist": true,
+      "image": {
+        "media": "0220b6c580d84d6d2e23517e"
+      },
+      "paragraphs": [
+        "In Deep Horizon the company met defenders, captives and keepers of records. The Brotherhood’s lava diversion saved their village.",
+        "The delayed consequences of that diversion brought Brindinford’s volcanic destruction and the extinction of the desmodu during the company’s absence. No later homecoming to the enclave awaited them."
+      ],
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 1,
+          "label": "The people of the depths"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "label": "What happened while they were gone"
+        }
+      ]
+    },
+    {
+      "id": "pepper",
+      "title": "Captain Timothy Pepper",
+      "status": "Captaincy and bargain unresolved",
+      "image": {
+        "media": "92db6b1630e54173df2f1e5a"
+      },
+      "paragraphs": [
+        "Pepper’s Deliverance caught the falling boat above Brindinford Falls and carried Thunder’s soul-bond through the company’s later dream.",
+        "His warning remains: if Thunder dies wearing the pendant, Thunder takes the captive captain’s place. Pepper’s freedom has not been established."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 6,
+          "label": "The ship beside the falling boat"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "The bargain beneath the vision"
+        }
+      ]
+    },
+    {
+      "id": "eudostis",
+      "title": "Eudostis",
+      "status": "Homecoming unrecorded",
+      "paragraphs": [
+        "He stole the Time Stone hoping to free the Sleeper and inadvertently opened the lock upon Crimson Crazuk. Lydzin later wished him into a parrot, and captivity damaged his mind.",
+        "The Sleeper partially repaired him and recommended sending him home. His safe arrival remains a thread Grim can still ask about."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 2,
+          "label": "The Sleeper and the Time Stone"
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "grim",
+      "title": "The three Ernie could not bring back",
+      "quote": "Brother Ernie, if I understand you correctly, my relative had possession of the three special weapons and you were not able to get them away from him?",
+      "context": "At the reunion, Grim questioned Ernie about the missing weapons. His question preserves the company’s suspicion at that moment. Revisionist: their destination was White Plume Mountain under Xanthar’s rule.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 7,
+        "label": "The reunion"
+      },
+      "film": "828542a64ccfdbefbe44299c"
+    },
+    {
+      "speaker": "shrop",
+      "title": "Asking leave to enter",
+      "quote": "We are with Eco. She said if you command her, she will obey. Does Eco have your leave to open the way to Desayus?",
+      "context": "Shrop’s typed appeal sought Pelor’s permission to pass Eco and speak with the prisoner. The original spelling is retained.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 3,
+        "label": "Before Eco’s doorway"
+      },
+      "film": "49d391265bfec0f5b163b749"
+    },
+    {
+      "speaker": "thunder",
+      "title": "The blood he carried",
+      "quote": "in the name of Dydd, whose blood is my blood, who slew your heart feel again the pain of your heart's demise",
+      "context": "Thunder typed the invocation in Desayeus’s prison. It records his claim to Dydd’s bloodline; the final confrontation with Ashardalon still awaits its account.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Dydd’s descendant"
+      }
+    },
+    {
+      "speaker": "grim",
+      "title": "A brief statement of financial intent",
+      "quote": "I am here to spend all my money on frivolities!",
+      "context": "Grim’s contribution to the shopping chat needs little explanation. No expenditure total is implied.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 2,
+        "label": "A pause in Windglum"
+      }
+    }
+  ],
+  "films": [
+    "828542a64ccfdbefbe44299c",
+    "49d391265bfec0f5b163b749",
+    "ef7b08301b1d7a766c75c9b2"
+  ],
+  "epilogues": {
+    "intro": [
+      "The account reaches the company inside the Bastion, with Ashardalon and Ammet still ahead. The GM’s account of the final confrontation will fill these pages. No victory, death, restored soul cycle or homecoming is assumed."
+    ],
+    "company": [
+      {
+        "title": "Ashardalon and Ammet",
+        "text": "The dragon survives through the demon within his ruined heart. What becomes of each must be told separately."
+      },
+      {
+        "title": "The unborn souls",
+        "text": "Stopping the dragon’s feeding and establishing the fate of the souls are questions the final account must answer."
+      },
+      {
+        "title": "The road home",
+        "text": "Who leaves the Bastion, where they go and what they return to remain open."
+      }
+    ],
+    "characters": [
+      {
+        "person": "shrop",
+        "text": "Shrop has reached the Bastion fighting without sight. Caroleena’s fate, his conscription and the soldier’s final choice still leave room for his own ending."
+      },
+      {
+        "person": "grim",
+        "text": "Ashardalon awaits the scholar who studied him. The surrendered memories, the family diamond, his great spellbook and Eudostis’s homecoming remain threads beyond the dragon."
+      },
+      {
+        "person": "terry",
+        "text": "The priest completed the Pengu rite. His altered behaviour remains a separate question, as do his future with Pelor, Zandikar and the companions."
+      },
+      {
+        "person": "thunder",
+        "text": "Dydd’s descendant has spoken the invocation. His curse, his mother’s reunion and the Deliverance’s captaincy await answers beyond the recorded journey."
+      },
+      {
+        "person": "nox",
+        "text": "The Wrinkle sent Nox to Hell with the other three. Her next bargain, rescue or return has not been established."
+      },
+      {
+        "person": "brunn",
+        "text": "Brunn’s road ends here beside his companions in Hell. His survival beyond that last known destination remains unwritten."
+      },
+      {
+        "person": "rook",
+        "text": "Rook survived the falling boat and fought in the buried city before the Hell trap caught Gravy. No flight home has yet been recorded."
+      },
+      {
+        "person": "elira",
+        "text": "Elira went through the trap with Team Gravy. Her fate and any return from Hell remain open."
+      }
+    ],
+    "looseEnds": [
+      {
+        "title": "The mountain still holds three weapons",
+        "text": "Wave, Whelm and Frostrazor remain with Xanthar and will never forgive the Brotherhood. A victory at the Bastion would not by itself settle that grievance.",
+        "href": "#/further-tales/threads-of-fate/weapons"
+      },
+      {
+        "title": "The egg after Frostblight",
+        "text": "Pengu’s fighting form fell, but the obsidian egg still pulsed and drew warmth. Its later fate has not been established.",
+        "href": "#/frostmaiden/scene/10"
+      },
+      {
+        "title": "The investments left in an earlier Brindinford",
+        "text": "The smithy and Bank of Frobozz held investments. No balance, payout or recovery has been established after the return.",
+        "href": "#/white-plume/scene/6"
+      },
+      {
+        "title": "Friends beyond the last door",
+        "text": "Findula ended the alliance, Ernie departed and Team Gravy remained in Hell. Each has a different last known ending.",
+        "href": "#/further-tales/those-left-behind"
+      }
+    ]
+  }
+}

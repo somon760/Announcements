@@ -213,3 +213,22 @@ profile includes the lost book as a former possession and a new Revisionist note
 all four Biscuit equipment accounts and five related gallery contexts agree. The
 book’s exact handout title remains unasserted. No scene numbers, gallery assignments,
 statistics, battle/death records or adventure navigation changed.
+
+## Further Tales
+
+`#/further-tales` adds six cross-campaign reading areas: `threads-of-fate`,
+`twenty-years`, `treasury`, `those-left-behind`, `voices`, and `epilogues`.
+Content lives in `further-tales.json`, rendered by `further-tales.js` and styled
+independently in `further-tales.css`. Home and header navigation link to the hub;
+six relevant adventure pages link to the corresponding trails before the gallery.
+Adjacent-adventure navigation remains last. Fate trails and other entries support
+a final path segment for direct entry links. Grim’s solo now accepts scene links.
+
+Five trails connect twenty chapter scenes. Eleven treasury histories have category
+filters; seven farewell entries distinguish deaths, departures and unresolved
+fates. Four quotations preserve exact typed chat wording; their private source
+IDs remain in the knowledge base. Accompanying films open the existing media
+viewer and are explicitly separate from the typed quotations. No audio transcript
+is claimed. Eight character epilogues and the final confrontation remain open;
+edit the epilogue content when the GM supplies the actual outcome. These pages
+do not change character statistics, kill counts, chronology or gallery selection.
