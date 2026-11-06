@@ -8,7 +8,8 @@ const personLink = person => `<a href="#/companions/${escape(person.slug)}">${es
 function illustration(reference, context, className='') {
   if (!reference) return '';
   let image;
-  if (reference.media) {
+  if (reference.src) image=reference;
+  else if (reference.media) {
     const item=context.items.find(item=>item.id===reference.media);
     if(item) image={src:item.kind==='image'?item.url:item.thumbnail,alt:`${item.kind==='video'?'Campaign film still: ':''}${context.assetStories[item.id]?.title??item.name}`};
   } else if (reference.person) {

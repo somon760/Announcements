@@ -43,7 +43,7 @@
       "eyebrow": "Their own words",
       "description": "Typed questions, shopping enthusiasm and campaign films from the road to the Bastion.",
       "image": {
-        "media": "828542a64ccfdbefbe44299c"
+        "person": "grim"
       }
     },
     {
@@ -52,8 +52,8 @@
       "eyebrow": "Beyond the Bastion",
       "description": "The company has reached Ashardalon. The final reckoning and the lives beyond it await their telling.",
       "image": {
-        "chapter": "bastion",
-        "scene": 8
+        "src": "art/team-biscuit.jpg",
+        "alt": "The four companions in the campaign’s farewell film"
       }
     }
   ],
