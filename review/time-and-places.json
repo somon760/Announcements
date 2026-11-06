@@ -466,6 +466,25 @@
       ]
     },
     {
+      "id": "hell",
+      "title": "The trap takes Gravy",
+      "lane": "gravy",
+      "row": 16,
+      "summary": "Still lost in Hell.",
+      "paragraphs": [
+        "The portal trap in the Wrinkle was intended for Biscuit and caught Gravy instead. Brunn, Rook, Nox and Elira remain lost in Hell. The builder of this separate trap is not identified by Xanthar’s equipment theft."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Read the scene"
+        }
+      ],
+      "portrait": "nox",
+      "open": true
+    },
+    {
       "id": "windglum",
       "title": "Biscuit reaches Windglum",
       "lane": "biscuit",
@@ -486,25 +505,6 @@
           "label": "Findula’s route"
         }
       ]
-    },
-    {
-      "id": "hell",
-      "title": "The trap takes Gravy",
-      "lane": "gravy",
-      "row": 16,
-      "summary": "Still lost in Hell.",
-      "paragraphs": [
-        "The portal trap in the Wrinkle was intended for Biscuit and caught Gravy instead. Brunn, Rook, Nox and Elira remain lost in Hell. The builder of this separate trap is not identified by Xanthar’s equipment theft."
-      ],
-      "links": [
-        {
-          "chapter": "fungal-bloom",
-          "scene": 11,
-          "label": "Read the scene"
-        }
-      ],
-      "portrait": "nox",
-      "open": true
     },
     {
       "id": "fragment",

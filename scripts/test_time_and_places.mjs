@@ -23,6 +23,7 @@ for(const edge of data.edges){
 assert(data.events.find(e=>e.id==='bastion-begins').row<data.events.find(e=>e.id==='writhe').row);
 assert(data.events.find(e=>e.id==='flashback').row<data.events.find(e=>e.id==='return').row);
 assert.equal(data.events.filter(e=>e.lane==='shared').length,1);
+assert(data.events.findIndex(e=>e.id==='hell')<data.events.findIndex(e=>e.id==='windglum'),'Phone order must show the trap before Biscuit reaches Windglum');
 assert.deepEqual(data.edges.find(e=>e.lane==='gravy').nodes,['gravy-grotto','ants','hell']);
 for(const place of data.places){
   assert(['surface','north','beyond'].includes(place.region));
