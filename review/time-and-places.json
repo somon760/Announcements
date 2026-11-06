@@ -1,0 +1,1187 @@
+{
+  "events": [
+    {
+      "id": "citadel",
+      "title": "The Sunless Citadel",
+      "lane": "biscuit",
+      "row": 0,
+      "summary": "A missing party, a prisoner freed and the Hucrele rings.",
+      "paragraphs": [
+        "The road began in Oakhurst and descended beneath the ravine. Erky was freed, Grim joined the company and the search reached Belak’s tree. The rings and news returned to the family waiting above."
+      ],
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "sunless-citadel",
+          "scene": 5,
+          "label": "The rings came home"
+        }
+      ],
+      "portrait": "shrop"
+    },
+    {
+      "id": "forge",
+      "title": "The Forge of Fury",
+      "lane": "biscuit",
+      "row": 1,
+      "summary": "The twins, the dwarf-halls and their first dragon.",
+      "paragraphs": [
+        "The company freed the twins and arranged their passage out of Khundrukar before descending again. Nightscale waited at the Black Lake. The young black dragon fell."
+      ],
+      "links": [
+        {
+          "chapter": "forge-of-fury",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "forge-of-fury",
+          "scene": 6,
+          "label": "Nightscale"
+        }
+      ],
+      "portrait": "terry"
+    },
+    {
+      "id": "first-city",
+      "title": "Brindinford at the fair",
+      "lane": "biscuit",
+      "row": 2,
+      "summary": "The Speaker in Dreams and the city’s liberation.",
+      "paragraphs": [
+        "The market attack drew the party into the occupation of Brindinford. Shatterspike was sacrificed to cleanse Pelor’s temple, and the company freed Baron Euphemes from Ghaerleth Axom."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 6,
+          "label": "The Baron freed"
+        }
+      ]
+    },
+    {
+      "id": "stones",
+      "title": "The Standing Stone",
+      "lane": "biscuit",
+      "row": 3,
+      "summary": "A food caravan, Saithnar and the Horseman’s testimony.",
+      "paragraphs": [
+        "They brought food to Ossington, questioned the dead and recovered Dyson’s research. The tower burned, Dyson escaped and the village turned against the company. The missing heart led onwards to Nightfang."
+      ],
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 4,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "standing-stone",
+          "scene": 7,
+          "label": "The older history"
+        }
+      ]
+    },
+    {
+      "id": "nightfang",
+      "title": "Heart of Nightfang Spire",
+      "lane": "biscuit",
+      "row": 4,
+      "summary": "Gulthias, the severed heart and Grim’s family likeness.",
+      "paragraphs": [
+        "Grim recognised a familiar gnome on a sarcophagus. The company fought through the undead cult and defeated Gulthias, fulfilling Grim’s promise to the elemental. Ashardalon remained alive beyond the fate of his original heart."
+      ],
+      "links": [
+        {
+          "chapter": "nightfang-spire",
+          "scene": 4,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "nightfang-spire",
+          "scene": 5,
+          "label": "Gulthias and the heart"
+        }
+      ],
+      "portrait": "grim"
+    },
+    {
+      "id": "depths",
+      "title": "Deep Horizon",
+      "lane": "biscuit",
+      "row": 5,
+      "summary": "Captives, the desmodu enclave and a lava diversion.",
+      "paragraphs": [
+        "Helkitrin’s records connected the depths to people taken from familiar towns. The Brotherhood diverted lava to save the desmodu village during the assault."
+      ],
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "deep-horizon",
+          "scene": 3,
+          "label": "The village saved"
+        }
+      ]
+    },
+    {
+      "id": "lava",
+      "title": "The village survives",
+      "lane": "world",
+      "row": 5,
+      "summary": "The lava is diverted. Its delayed consequences lie ahead.",
+      "paragraphs": [
+        "The rescue spared the village during the immediate assault. Revisionist: the altered lava flow would later bring catastrophe to Brindinford and the extinction of the desmodu during the company’s missing years."
+      ],
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 3,
+          "label": "Read the scene"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "iron",
+      "title": "Lord of the Iron Fortress",
+      "lane": "biscuit",
+      "row": 6,
+      "summary": "Rigus, Acheron, Imperagon and Zandikar.",
+      "paragraphs": [
+        "The company crossed from Rigus to Acheron, defeated Imperagon and broke his hold upon the forge. Terry gained Zandikar and its guardians."
+      ],
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "iron-fortress",
+          "scene": 4,
+          "label": "Terry’s stronghold"
+        }
+      ]
+    },
+    {
+      "id": "bastion-begins",
+      "title": "Bastion’s investigation begins",
+      "lane": "biscuit",
+      "row": 7,
+      "summary": "The Cathezar, Dydd’s bloodline, the First Tree and Rigus.",
+      "paragraphs": [
+        "Bastion’s mystery was already under way before the later detours. The pursuit of Thunder, the soul crisis and the Guild of Sleep belonged to this earlier investigation. The final Bastion chapter is a return to unfinished business."
+      ],
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ],
+      "portrait": "thunder"
+    },
+    {
+      "id": "writhe",
+      "title": "Those Who Writhe Below",
+      "lane": "biscuit",
+      "row": 8,
+      "summary": "The aboleth whose influence would return as Brother Xanthar.",
+      "paragraphs": [
+        "The aboleth thread reached into Grim’s memories. Revisionist: Xanthar used Grim’s lost flesh-golem book to manufacture his humanoid body; the private nightmare also exposed his plan for a false older brother."
+      ],
+      "links": [
+        {
+          "chapter": "writhe-below",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "grim-memory",
+          "scene": 4,
+          "label": "The false family"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "flashback",
+      "title": "Their eighth-level selves",
+      "lane": "biscuit",
+      "row": 9,
+      "summary": "The Sleeper’s detour carries them into their earlier lives.",
+      "paragraphs": [
+        "The Nightmare Grotto, Crimson Crazuk and the stolen Time Stone led into the Sleeper’s dream. The party played again as its own eighth-level selves in an earlier Brindinford."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 2,
+          "label": "The Sleeper and the Time Stone"
+        }
+      ],
+      "fold": true
+    },
+    {
+      "id": "pengu-release",
+      "title": "Pengu escapes the candle",
+      "lane": "world",
+      "row": 9,
+      "summary": "Shrop snuffs the Nightmare Grotto candle · Revisionist.",
+      "paragraphs": [
+        "The spirit Shrop released was Pengu. Its escape caused the loss of magic the company later faced in Icewind Dale. The northern Candle of the Dark One was a later working against that spirit."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 3,
+          "label": "When the prayers grew faint"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "mountain",
+      "title": "White Plume Mountain",
+      "lane": "biscuit",
+      "row": 10,
+      "summary": "Keraptis’s challenge and the sentient weapons.",
+      "paragraphs": [
+        "The company followed the mountain’s challenge during the time-displaced detour. In the earlier Brindinford it also invested with Shoomma’s smithy and the Bank of Frobozz."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 4,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "Earlier Brindinford"
+        }
+      ]
+    },
+    {
+      "id": "return",
+      "title": "Twenty years beyond home",
+      "lane": "biscuit",
+      "row": 11,
+      "summary": "They escape the past and overshoot their original present.",
+      "paragraphs": [
+        "The return landed twenty years beyond the time the party had originally left. The world had lived those years without them; the companions had not simply aged through twenty years of ordinary travel."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "label": "Read the scene"
+        }
+      ],
+      "fold": true
+    },
+    {
+      "id": "cataclysm",
+      "title": "Brindinford falls; the desmodu are lost",
+      "lane": "world",
+      "row": 11,
+      "summary": "During the missing twenty years · Revisionist.",
+      "paragraphs": [
+        "The lava diversion’s delayed consequences caused the volcanic catastrophe that destroyed Brindinford. The same chain of consequences wiped out the desmodu race during the years the company missed."
+      ],
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "label": "Read the scene"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "north",
+      "title": "Icewind Dale and Pengu",
+      "lane": "biscuit",
+      "row": 12,
+      "summary": "Terry’s fourfold attunement and Blackrazor’s sacrifice.",
+      "paragraphs": [
+        "Shrop’s snuffing of a Nightmare Grotto candle had released Pengu and caused the loss of magic. Grim prepared the northern working. Terry attuned to all four epic weapons, Blackrazor was sacrificed and the ritual was completed. Pengu’s fighting form fell, leaving the pulsing obsidian egg."
+      ],
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 10,
+          "label": "Pengu’s last shape"
+        }
+      ],
+      "portrait": "terry"
+    },
+    {
+      "id": "vision",
+      "title": "Magic heals; the soul famine continues",
+      "lane": "world",
+      "row": 12,
+      "summary": "The gods’ vision names twenty years without new souls.",
+      "paragraphs": [
+        "Eldath said magic was beginning to recover after Pengu’s defeat. The gods also warned of twenty years without new souls being born: Ashardalon was still consuming unborn lives in the Bastion. The loss of magic and the soul famine had different causes."
+      ],
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Ashardalon’s heart"
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "title": "The Maw, the Red Keep and the demon army",
+      "lane": "biscuit",
+      "row": 13,
+      "summary": "The road home crosses the planes and the war around Rigus.",
+      "paragraphs": [
+        "Angajuk’s passage led through the Astral Sea towards Acheron. The company encountered the Red Keep, the Reclamation and the demon army. The Red Keep remains distinct from Terry’s Zandikar."
+      ],
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 12,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 14,
+          "label": "The Red Keep"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 15,
+          "label": "The demon army"
+        }
+      ]
+    },
+    {
+      "id": "gravy-grotto",
+      "title": "Gravy’s road through the grotto",
+      "lane": "gravy",
+      "row": 13,
+      "summary": "A separate expedition · its early steps have no fixed shared date.",
+      "paragraphs": [
+        "Brunn, Rook, Nox and Elira travelled through the fungal stronghold. A falling boat, goblins clinging to Rook and the Deliverance’s rescue carried their road towards buried Brindinford."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 6,
+          "label": "The falling boat"
+        }
+      ],
+      "portrait": "rook"
+    },
+    {
+      "id": "stripped",
+      "title": "Xanthar’s portal",
+      "lane": "biscuit",
+      "row": 14,
+      "summary": "Team Biscuit arrives without clothes or equipment.",
+      "paragraphs": [
+        "Xanthar persuaded the four companions to use his route to the grotto. They arrived naked. Revisionist: the equipment scheme returned the surviving epic weapons to White Plume Mountain under his rule."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 7,
+          "label": "Read the scene"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "ants",
+      "title": "Biscuit and Gravy together",
+      "lane": "shared",
+      "row": 15,
+      "summary": "The two companies fight giant ants in sunken Brindinford.",
+      "paragraphs": [
+        "The roads joined in the ruined city. Shrop, Grim, Terry and Thunder fought beside Brunn, Rook, Nox and Elira against the coordinated ants. They reached the old barracks and pushed towards the Reality Wrinkle."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 8,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 9,
+          "label": "The ant-held streets"
+        }
+      ],
+      "portraits": [
+        "shrop",
+        "grim",
+        "terry",
+        "thunder",
+        "nox",
+        "brunn",
+        "rook",
+        "elira"
+      ]
+    },
+    {
+      "id": "windglum",
+      "title": "Biscuit reaches Windglum",
+      "lane": "biscuit",
+      "row": 16,
+      "summary": "The Wrinkle leads onward into Pandemonium.",
+      "paragraphs": [
+        "After the companies parted, Biscuit reached the Wrinkle’s storeroom in Windglum. Findula found a route to Eco and Desayeus."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 2,
+          "label": "Findula’s route"
+        }
+      ]
+    },
+    {
+      "id": "hell",
+      "title": "The trap takes Gravy",
+      "lane": "gravy",
+      "row": 16,
+      "summary": "Still lost in Hell.",
+      "paragraphs": [
+        "The portal trap in the Wrinkle was intended for Biscuit and caught Gravy instead. Brunn, Rook, Nox and Elira remain lost in Hell. The builder of this separate trap is not identified by Xanthar’s equipment theft."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Read the scene"
+        }
+      ],
+      "portrait": "nox",
+      "open": true
+    },
+    {
+      "id": "fragment",
+      "title": "Desayeus and the farewells",
+      "lane": "biscuit",
+      "row": 17,
+      "summary": "The Soul Totem fragment, Findula’s letter and Ernie’s rings.",
+      "paragraphs": [
+        "Thunder carried Desayeus’s fragment from the prison. Eco was dead and Findula ended the alliance. Ernie returned most of the equipment, gave four protective rings and departed. The company returned to Windglum before the crossing towards the Bastion."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "Findula’s farewell"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "Ernie’s rings"
+        }
+      ]
+    },
+    {
+      "id": "bastion-return",
+      "title": "The return to Bastion",
+      "lane": "biscuit",
+      "row": 18,
+      "summary": "Into the Positive Energy Plane and Ashardalon’s refuge.",
+      "paragraphs": [
+        "Protected by Ernie’s rings, the company fought through the Bastion’s defenders and brought Dydd’s descendant towards the dragon. This continues the investigation begun before the dream and northern detours."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 9,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 13,
+          "label": "Dydd’s descendant"
+        }
+      ],
+      "portrait": "thunder"
+    },
+    {
+      "id": "souls",
+      "title": "The unborn souls",
+      "lane": "world",
+      "row": 18,
+      "summary": "Ashardalon still feeds as the company approaches.",
+      "paragraphs": [
+        "Pengu’s defeat had allowed magic to recover. The dragon’s feeding still sustained the failing demon Ammet within his heart. The fate of the souls must be established by the final account."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ],
+      "revisionist": true,
+      "open": true
+    },
+    {
+      "id": "unwritten",
+      "title": "The final reckoning",
+      "lane": "biscuit",
+      "row": 19,
+      "summary": "The outcome awaits the GM’s account.",
+      "paragraphs": [
+        "The company has reached the dragon. What becomes of Ashardalon, Ammet, the unborn souls and the companions awaits the GM’s final account."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ],
+      "open": true
+    }
+  ],
+  "edges": [
+    {
+      "lane": "biscuit",
+      "nodes": [
+        "citadel",
+        "forge",
+        "first-city",
+        "stones",
+        "nightfang",
+        "depths",
+        "iron",
+        "bastion-begins",
+        "writhe",
+        "flashback",
+        "mountain",
+        "return",
+        "north",
+        "war",
+        "stripped",
+        "ants",
+        "windglum",
+        "fragment",
+        "bastion-return",
+        "unwritten"
+      ]
+    },
+    {
+      "lane": "gravy",
+      "nodes": [
+        "gravy-grotto",
+        "ants",
+        "hell"
+      ]
+    },
+    {
+      "lane": "world",
+      "nodes": [
+        "lava",
+        "pengu-release",
+        "cataclysm",
+        "vision",
+        "souls"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "oakhurst",
+      "title": "Oakhurst",
+      "region": "surface",
+      "realm": "Material Plane",
+      "text": "The Hucreles waited here for the rings and news from the buried fortress. The early road map shows the town and its route towards the ravine.",
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "deeca74dee22cf2e62e16f47",
+      "illustration": null,
+      "pin": [
+        70,
+        28
+      ]
+    },
+    {
+      "id": "sunless",
+      "title": "The Sunless Citadel",
+      "region": "surface",
+      "realm": "Below the Ashen Plain",
+      "text": "The company descended beneath the ravine to prisoners, factional bargains and Belak’s Gulthias Tree.",
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "sunless-citadel",
+          "scene": 4,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "cc3739e9f1b35b2aa47a1058",
+      "illustration": null,
+      "pin": [
+        38,
+        85
+      ]
+    },
+    {
+      "id": "khundrukar",
+      "title": "Khundrukar",
+      "region": "surface",
+      "realm": "The Stone Tooth",
+      "text": "Durgeddin’s ruined stronghold held the rescued twins, the Glitterhame, contested forges and Nightscale’s Black Lake.",
+      "links": [
+        {
+          "chapter": "forge-of-fury",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "forge-of-fury",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "8677666c925f5971613b1d14",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "brindinford",
+      "title": "Brindinford",
+      "region": "surface",
+      "realm": "The city before and after the missing years",
+      "text": "The party freed the first city, revisited an earlier Brindinford and later returned to its sunken ruins. Its old landmarks connect three different parts of the story.",
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 10,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "93f689726e512db35fe7dd6a",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "ossington",
+      "title": "Ossington",
+      "region": "surface",
+      "realm": "The double circle of stones",
+      "text": "Food and seed brought the party here. Dyson’s explanations, Saithnar’s lore and the Horseman’s testimony led to a village battle and recovered transformation research.",
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "standing-stone",
+          "scene": 7,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "e6040aa15774f15d17704419",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "nightfang",
+      "title": "Nightfang Spire",
+      "region": "surface",
+      "realm": "Gulthias’s undead stronghold",
+      "text": "The spire held the cult, the severed heart and the likeness Grim recognised in the Hall of Tombs. The maps show the tower; its final heart chamber lies within the core.",
+      "links": [
+        {
+          "chapter": "nightfang-spire",
+          "scene": 4,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "nightfang-spire",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "3f31a3634842eb857ea3c944",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "desmodu",
+      "title": "The desmodu realm",
+      "region": "surface",
+      "realm": "The depths of Deep Horizon",
+      "text": "The enclave faced assault while captives passed through the underground trade. The lava diversion saved its people then; its later consequences belong to the missing twenty years.",
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "deep-horizon",
+          "scene": 3,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "e8a0ac87a79eb115fc844be2",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "white-plume",
+      "title": "White Plume Mountain",
+      "region": "surface",
+      "realm": "Keraptis’s challenge",
+      "text": "The time-displaced detour led to sentient weapons and an escape from the mountain. Revisionist: Xanthar now rules there and holds Wave, Whelm and Frostrazor.",
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 3,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 4,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": {
+        "src": "art/white_plume_mountain.jpg",
+        "alt": "White Plume Mountain adventure cover",
+        "caption": "Adventure cover reference, not a regional map."
+      },
+      "pin": null
+    },
+    {
+      "id": "grotto",
+      "title": "Fungus Grotto",
+      "region": "surface",
+      "realm": "The fungal stronghold and underground river",
+      "text": "Gravy’s expedition passed through the fungal dark and a falling-boat escape before reaching the city where the two companies would meet.",
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "2cc3c3e5879f333a0d5169bb",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "easthaven",
+      "title": "Easthaven",
+      "region": "north",
+      "realm": "Icewind Dale",
+      "text": "Food, warmth, ghosts and a blizzard raid brought immediate work before the company reached the northern ritual’s end.",
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": {
+        "chapter": "frostmaiden",
+        "scene": 2
+      },
+      "pin": null
+    },
+    {
+      "id": "frostblight",
+      "title": "Frostblight",
+      "region": "north",
+      "realm": "Pengu’s frozen stronghold",
+      "text": "Gnometti’s kitchen, Terry’s fourfold attunement and the completed ritual led to Pengu’s egg and the collapse of the ice citadel.",
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 8,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 10,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "8840d1592c665ab405bde5c9",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "rigus",
+      "title": "Rigus",
+      "region": "beyond",
+      "realm": "Gate-town at the edge of Acheron",
+      "text": "The first planar road, the Guild of Sleep, Thunder’s lost guildmates and the later war all crossed Rigus. Its earlier military order and later devastation belong to different visits.",
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "iron-fortress",
+          "scene": 5,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 13,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "ae99cb0884cc9d9fa247ce5a",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "zandikar",
+      "title": "Zandikar",
+      "region": "beyond",
+      "realm": "Acheron",
+      "text": "After Imperagon’s fall, Terry gained the stronghold, its forge and six blade golems. Zandikar is distinct from the Red Keep of the Reclamation.",
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 4,
+          "label": "Read the scene"
+        }
+      ],
+      "media": "90851340bc5a28b136577ccd",
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "red-keep",
+      "title": "The Red Keep",
+      "region": "beyond",
+      "realm": "Acheron · the Reclamation",
+      "text": "Cuthbert’s account led here to the Cold Forge, refugees and Formacid allies. It is a separate stronghold from Terry’s Zandikar.",
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 12,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "frostmaiden",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "windglum",
+      "title": "Windglum",
+      "region": "beyond",
+      "realm": "Pandemonium",
+      "text": "The Wrinkle’s mirror led to shelter here. Findula traced Eco; the company returned from Desayeus’s prison before making the onward journey.",
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 2,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": {
+        "chapter": "bastion",
+        "scene": 7
+      },
+      "pin": null
+    },
+    {
+      "id": "desayeus",
+      "title": "Desayeus’s prison",
+      "region": "beyond",
+      "realm": "Beyond Eco’s living doorway",
+      "text": "Eco’s body was the gateway. Desayeus yielded his Totem fragment, Thunder carried it out and the god remained bound.",
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 3,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": null,
+      "pin": null
+    },
+    {
+      "id": "bastion",
+      "title": "The Bastion of Unborn Souls",
+      "region": "beyond",
+      "realm": "Positive Energy Plane",
+      "text": "An excess of life made Ernie’s rings essential. The crystal refuge held Ashardalon and the unborn souls upon which he fed.",
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 9,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": {
+        "chapter": "bastion",
+        "scene": 9
+      },
+      "pin": null
+    },
+    {
+      "id": "hell",
+      "title": "Gravy’s last known destination",
+      "region": "beyond",
+      "realm": "Hell · exact destination uncharted",
+      "text": "The Wrinkle’s trap caught Gravy instead of Biscuit. Brunn, Rook, Nox and Elira remain lost in Hell; no particular layer or route home is supplied.",
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Read the scene"
+        }
+      ],
+      "media": null,
+      "illustration": {
+        "src": "media/portraits/team-gravy-nox.png",
+        "alt": "Nox Veyra’s original campaign token",
+        "caption": "Nox, one of the four companions caught by the trap."
+      },
+      "pin": null
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "market",
+      "title": "Chatterstreet and the fair",
+      "pin": [
+        60,
+        67
+      ],
+      "then": "The market attack interrupted the fair. After the Baron’s liberation, food, wine, music and dancing returned to the streets.",
+      "now": "The later account follows two companies through sunken streets occupied by giant ants. It does not describe a restored fair or a surviving market community.",
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 1,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 9,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "temple",
+      "title": "The Temple of Pelor",
+      "pin": [
+        67,
+        42
+      ],
+      "then": "The occupied temple became a battlefield. Shrop’s sacrifice of Shatterspike supplied the holy relic for its cleansing, and Terry committed himself to Pelor.",
+      "now": "The city had collapsed by the company’s return. The surviving account does not establish the temple’s individual condition or the later fate of its priests.",
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 4,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "smithy",
+      "title": "Shoomma’s smithy",
+      "pin": [
+        62,
+        72
+      ],
+      "then": "The smithy sheltered the company during Brindinford’s crisis. In the earlier lives of the Sleeper detour, the party left investments with Shoomma and the Bank of Frobozz.",
+      "now": "The twenty-year overshoot carried the party beyond the city’s volcanic destruction. The smithy’s survival and any bank or smithy payout remain unrecorded.",
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 2,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "barracks",
+      "title": "The barracks",
+      "pin": [
+        44,
+        45
+      ],
+      "then": "The old street plan places the barracks beside the routes between West Hill and Silver Hill, within the town the company helped free.",
+      "now": "During the ant battles the joined companies reached the old barracks. Familiars scouted towards the ruined Magical District and the still-standing Reality Wrinkle.",
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 9,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 10,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "wrinkle",
+      "title": "The Reality Wrinkle",
+      "pin": [
+        43,
+        55
+      ],
+      "then": "Those Who Hear and the shop’s extradimensional horrors were part of Brindinford’s first conspiracy. Thunder survived being swallowed during that investigation.",
+      "now": "The shop survived among the ruins. Its trap sent Gravy to Hell; Biscuit’s route led to Windglum. Xanthar’s earlier equipment deception is a separate event.",
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 3,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 1,
+          "label": "Read the scene"
+        }
+      ]
+    }
+  ],
+  "cityMap": "93f689726e512db35fe7dd6a",
+  "roadMap": "48e9b1d14c75b001dcd5da84",
+  "fold": {
+    "earlier": "Their eighth-level selves in Brindinford",
+    "present": "The Bastion-era present they left",
+    "returned": "Twenty years beyond their original present"
+  }
+}

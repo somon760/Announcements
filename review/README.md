@@ -239,3 +239,29 @@ farewells. Seven adventure jump links supplement the existing direct entry
 links. `farewellEras` supplies the order/headings and each farewell’s `era`
 selects its group. The list distinguishes actual rescue/death/departure from
 unrecorded later fates. No generic module outcome is promoted to played history.
+
+## Time & Places
+
+`#/time-and-places/timeline`, `/brindinford` and `/atlas` add a branching
+timeline, five paired landmark accounts and an eighteen-place atlas.
+`time-and-places.json` supplies content and references; `time-and-places.js`
+renders the views and binds their controls. SVG paths follow actual card
+positions and redraw on resize; phone layouts use a vertical reading trail.
+The timeline contains twenty-seven milestones, with Biscuit, Gravy, shared
+and world-event lanes, plus an explicit eighth-level flashback/twenty-year
+return diagram. Dates stay relative; the earlier Bastion investigation and
+later return are distinct. Milestone dialogs link to scenes and support
+deep links as the final route segment. Trail focus dims other lanes without
+removing their context. Unfinished outcomes remain open.
+
+The Brindinford view uses the actual old city map in both panels and labels
+the later panel as an earlier plan guiding the later account. It invents no
+survey of the ruins or building survival. Landmark buttons and pins select
+the paired text. The atlas uses existing art/maps, region filters, an
+accessible phone location picker, original media viewer, and a labelled
+route chart for the last crossings. Only Oakhurst/Citadel receive positions
+on the early road map, where they are actually drawn. No global coordinates,
+new planar placement or distance scale is inferred. Zandikar and the Red Keep
+remain separate; Hell is uncharted beyond Gravy’s confirmed destination.
+Header/home and chapter-top atlas links provide discovery. Original chapter
+reading order, content/statistics/gallery datasets and end navigation remain.
