@@ -31,7 +31,7 @@
       "slug": "those-left-behind",
       "title": "Those We Left Behind",
       "eyebrow": "Friends, strangers and unfinished farewells",
-      "description": "The companions in Hell, the friend who vanished and the people whose homes the company tried to save.",
+      "description": "From the family waiting in Oakhurst to the companions lost in Hell: people the company rescued, trusted, mourned and lost from sight.",
       "image": {
         "chapter": "bastion",
         "scene": 8
@@ -704,98 +704,320 @@
   ],
   "leftBehind": [
     {
-      "id": "gravy",
-      "title": "Team Gravy",
-      "status": "Still lost in Hell",
-      "people": [
-        "nox",
-        "brunn",
-        "rook",
-        "elira"
-      ],
+      "id": "hucreles",
+      "title": "Kerowyn Hucrele and the family waiting in Oakhurst",
+      "era": "sunless",
+      "status": "The rings and news returned to Oakhurst",
       "paragraphs": [
-        "Brunn, Rook, Nox and Elira fought beside Team Biscuit against the ants in sunken Brindinford. The trap in the Reality Wrinkle had been set for Biscuit; Gravy went through it instead.",
-        "Their last established destination is Hell. No rescue, death or return has been written for them."
+        "The Hucreles were among the first people to give the expedition a purpose. Shrop and Terry helped broker the bargain with the family, whose missing children had gone beneath the Sunless Citadel.",
+        "The company returned the Hucrele rings and news of the missing adventurers. Shrop urged his companions to attend the funeral. The first journey ended with a family receiving what the dungeon had left to return."
       ],
       "links": [
         {
-          "chapter": "fungal-bloom",
-          "scene": 11,
-          "label": "Where the companies parted"
-        }
-      ]
-    },
-    {
-      "id": "findula",
-      "title": "Findula",
-      "status": "The alliance ended",
-      "image": {
-        "chapter": "bastion",
-        "scene": 6
-      },
-      "paragraphs": [
-        "The company helped free the lillend, and she repaid it by finding Eco and the route to Desayeus. Eco was her sister.",
-        "After Eco’s death, Findula left her note, accepted her part in the cost and declared the debt settled. She neither expected nor wished to speak with the company again."
-      ],
-      "links": [
-        {
-          "chapter": "bastion",
-          "scene": 2,
-          "label": "Findula finds the way"
-        },
-        {
-          "chapter": "bastion",
-          "scene": 6,
-          "label": "The farewell she left"
-        }
-      ]
-    },
-    {
-      "id": "eco",
-      "title": "Eco",
-      "status": "Died before the company left the prison",
-      "image": {
-        "media": "49d391265bfec0f5b163b749"
-      },
-      "paragraphs": [
-        "The solar guarded Desayeus with Bramam. Her body was the doorway the company needed.",
-        "By the time Thunder carried out the fragment, Eco was dead. Findula’s letter placed that loss beside the company’s need to stop Ashardalon."
-      ],
-      "links": [
-        {
-          "chapter": "bastion",
-          "scene": 3,
-          "label": "The guardian who was the door"
-        },
-        {
-          "chapter": "bastion",
+          "chapter": "sunless-citadel",
           "scene": 5,
-          "label": "Leaving with the fragment"
+          "label": "The rings came home"
         }
       ]
     },
     {
-      "id": "ernie",
-      "title": "Brother Ernie",
-      "status": "Departed; destination unknown",
-      "image": {
-        "chapter": "bastion",
-        "scene": 8
-      },
+      "id": "erky",
+      "title": "Erky Timbers",
+      "era": "sunless",
+      "status": "Freed from captivity in the Citadel",
       "paragraphs": [
-        "Believed lost in the irionite-bomb explosion, Ernie returned with most of the company’s belongings. His smile, gestures and devoted interpretive dance did the work of an explanation.",
-        "He gave four protective rings, embraced the companions and faded into warm motes beyond the door. His departure does not establish his death."
+        "Before the company had faced a dragon or crossed a plane, it opened a way out for Erky Timbers. The early deeds remember his release alongside Caltrop Hall, the goblin truce and the discovery of Grim.",
+        "That release is where Erky’s part in the surviving account pauses. No later journey beside the Brotherhood, death or homecoming has been established for him."
       ],
       "links": [
         {
-          "chapter": "bastion",
-          "scene": 7,
-          "label": "The reunion"
+          "chapter": "sunless-citadel",
+          "scene": 2,
+          "label": "Steel, chalk and a little diplomacy"
+        }
+      ]
+    },
+    {
+      "id": "tree-bound",
+      "title": "Sharwyn Hucrele and Sir Braford",
+      "era": "sunless",
+      "status": "Subdued beneath the Citadel",
+      "paragraphs": [
+        "The missing adventurers the company confronted were already caught in Belak’s work. Grim urged that they be subdued; Shrop and Thunder helped restrain them.",
+        "Revisionist: Sharwyn and Sir Braford had been absorbed and remade as thralls of the Gulthias Tree. The later return of the rings does not supply a separate cure or final fate for each of them."
+      ],
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 3,
+          "label": "Grim urges restraint"
         },
         {
-          "chapter": "bastion",
-          "scene": 8,
-          "label": "The silent farewell"
+          "chapter": "sunless-citadel",
+          "scene": 4,
+          "label": "The tree and the stolen will"
+        }
+      ],
+      "revisionist": true
+    },
+    {
+      "id": "twins",
+      "title": "The twins taken into Khundrukar",
+      "era": "forge",
+      "status": "Rescued; escorted to the cart",
+      "paragraphs": [
+        "The twins were prisoners of the orcs when the company found them. Freeing them meant arranging a journey out of the mountain as well as opening their cell.",
+        "Terry and Thunder escorted them to the cart while Shrop and Grim remained behind. The wagon was to return in three days. Their safe passage towards Blasingdell mattered enough to divide the party before it went deeper."
+      ],
+      "links": [
+        {
+          "chapter": "forge-of-fury",
+          "scene": 2,
+          "label": "Two lives worth turning back for"
+        }
+      ],
+      "image": {
+        "media": "d8d95dc4ad1ef311654eb699"
+      }
+    },
+    {
+      "id": "arundil",
+      "title": "Arundil, and the home he could not save",
+      "era": "forge",
+      "status": "The dead defender of Khundrukar",
+      "paragraphs": [
+        "A ghost took an interest in Thunder in the dwarf-halls. Animated armour, a smothering rug and a kitchen table also attacked the company in the ruins of Durgeddin’s stronghold.",
+        "Revisionist: Arundil had escaped the orc assault and returned to find his people slaughtered. In grief he animated warriors and household objects to defend the fallen home. The fiend he summoned killed him. His defences survived to meet later intruders; no final rest for his spirit is recorded here."
+      ],
+      "links": [
+        {
+          "chapter": "forge-of-fury",
+          "scene": 5,
+          "label": "The dead, the disguised and the furniture"
+        }
+      ],
+      "image": {
+        "media": "6e2b3c90f6129d43ffa4a579"
+      },
+      "revisionist": true
+    },
+    {
+      "id": "aldrich",
+      "title": "Captain Aldrich",
+      "era": "brindinford",
+      "status": "The guard captain during the occupation",
+      "paragraphs": [
+        "When the company returned to the smithy, Aldrich was waiting with town guards. Turvin’s account had confirmed its suspicions about the wererats and identified Squim’s part in the pack.",
+        "Shrop befriended the guard, and Grim counselled its captain while the investigation spread across Brindinford. Aldrich belongs to the city they helped free; his later fate after their twenty-year absence has not been established."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 2,
+          "label": "Trouble in Chatterstreet"
+        }
+      ],
+      "image": {
+        "media": "7183e17c55cf616e95660c82"
+      }
+    },
+    {
+      "id": "pelor-priests",
+      "title": "Brindinford’s priests of Pelor",
+      "era": "brindinford",
+      "status": "The threatened priesthood of the first city",
+      "paragraphs": [
+        "Brother Calbert and High Priest Forgrim are among the faces preserved from Brindinford’s priesthood. The Baron’s decrees outlawed the priests, and the temple beneath the golden dome became a battlefield.",
+        "The company fought the infernal occupation and cleansed the temple with Shatterspike as its holy relic. Terry committed himself to Pelor during these adventures. The priests’ individual lives after the company left remain outside the account."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 4,
+          "label": "The temple under occupation"
+        },
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 5,
+          "label": "The cleansing"
+        }
+      ],
+      "image": {
+        "media": "664dd6d9fd537757e4a21ebd"
+      }
+    },
+    {
+      "id": "euphemes",
+      "title": "Baron Euphemes",
+      "era": "brindinford",
+      "status": "Freed from Ghaerleth Axom’s control",
+      "paragraphs": [
+        "The ruler behind Brindinford’s decrees was himself a captive. In the manor, the company reached the mind flayer Ghaerleth Axom, whose control had made the Baron part of the town’s occupation.",
+        "Terry’s Daylight helped save Euphemes, and the mind flayer fell. The Baron lifted martial law; the fair resumed with food, wine and dancing. His freedom belongs to that earlier victory, before the ruined city the company would one day return to."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 6,
+          "label": "The will behind the Baron"
+        }
+      ],
+      "image": {
+        "media": "e0c0c0a962f81e98ce2107c1"
+      }
+    },
+    {
+      "id": "shoomma",
+      "title": "Shoomma, Horken and the smithy",
+      "era": "brindinford",
+      "status": "Investments left in an earlier Brindinford",
+      "paragraphs": [
+        "The smithy was a place to rest during the city’s first crisis. In the Sleeper’s detour the company returned to an earlier Brindinford and entrusted investments to Shoomma’s smithy, associated with Horken, as well as the Bank of Frobozz.",
+        "They left money and equipment in a city whose future they had already lived through once. Their eventual return overshot their own present by twenty years. The smithy’s later fate, the people’s survival and any repayment remain untold."
+      ],
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 2,
+          "label": "A refuge during the investigation"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "The investments in earlier days"
+        }
+      ]
+    },
+    {
+      "id": "saithnar",
+      "title": "Saithnar",
+      "era": "ossington",
+      "status": "Last met in the Great Barrows",
+      "paragraphs": [
+        "Dyson’s warnings did not stop the company from speaking with the ancient warlord. Grim offered gems in respect, and Thunder alone managed to strike Saithnar when he challenged them.",
+        "Saithnar gave them a map and told them of Dydd, Ashardalon and Gulthias Sengir. His spectacles helped Thunder translate the dragon-lore margins for Grim and Terry. The company travelled on towards Nightfang with knowledge gained from a dead man it had chosen to hear."
+      ],
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 2,
+          "label": "A warlord worth speaking to"
+        }
+      ],
+      "image": {
+        "media": "8af34633f00118f80995d1bd"
+      }
+    },
+    {
+      "id": "horseman",
+      "title": "Pelor’s headless Horseman",
+      "era": "ossington",
+      "status": "The paladin at Red Horse Hill",
+      "paragraphs": [
+        "The company cleaned his abandoned shrine, refilled its basins and questioned the dead paladin. His account named Dyson as his killer and described his own work as containing the villagers and protecting the elves.",
+        "Terry’s communion strengthened his commitment to Pelor. The Horseman’s armour and shield were later returned to the temple in Brindinford. He was a different figure from Saithnar, with a different duty; the return of his equipment does not establish that his vigil ended."
+      ],
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 4,
+          "label": "The Horseman’s answers"
+        },
+        {
+          "chapter": "standing-stone",
+          "scene": 7,
+          "label": "What the company reported"
+        }
+      ],
+      "image": {
+        "media": "60bbe3ca7f1d5d2746e98dbc"
+      }
+    },
+    {
+      "id": "ossington-villagers",
+      "title": "The people inside Ossington’s stones",
+      "era": "ossington",
+      "status": "The village turned on its would-be rescuers",
+      "paragraphs": [
+        "Team Biscuit arrived with carts of food and seed for hungry Ossington. The village later attacked the company, and Tully fell in the fighting.",
+        "Revisionist: Dyson’s recovered note identified Tully as his cat familiar, transformed into a convincing human. That discovery exposed one false identity among the supposed retired adventurers. It does not make every villager the same experiment, or turn the ending into a successful rescue of the whole village."
+      ],
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 1,
+          "label": "The welcome"
+        },
+        {
+          "chapter": "standing-stone",
+          "scene": 6,
+          "label": "The village turns"
+        }
+      ],
+      "image": {
+        "media": "9c130bff463d247dff018cb3"
+      },
+      "revisionist": true
+    },
+    {
+      "id": "missing-druid-son",
+      "title": "The druids’ missing son",
+      "era": "ossington",
+      "status": "Found dead in the Grugach settlement",
+      "paragraphs": [
+        "In the Grugach settlement the company found the missing druid’s son dead. Thunder’s work with a locked door helped establish the fate the party had been sent to discover.",
+        "They carried the report back to Brindinford and secured the Druids of Dydd’s help for Ossington’s land and food supply. The return brought news to those waiting for him, rather than the missing man himself."
+      ],
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 7,
+          "label": "The discovery and the older history"
+        }
+      ]
+    },
+    {
+      "id": "eudostis",
+      "title": "Eudostis",
+      "status": "Homecoming unrecorded",
+      "paragraphs": [
+        "Before the company learned of the Time Stone, Grim recognised a familiar gnome’s likeness on a sarcophagus in Nightfang’s Hall of Tombs. He later identified Eudostis Braidedbeard as his great-grandfather; the carved honour concealed a relative still living under another shape.",
+        "He stole the Time Stone hoping to free the Sleeper and inadvertently opened the lock upon Crimson Crazuk. Lydzin later wished him into a parrot, and captivity damaged his mind.",
+        "The Sleeper partially repaired him and recommended sending him home. His safe arrival remains a thread Grim can still ask about."
+      ],
+      "links": [
+        {
+          "chapter": "nightfang-spire",
+          "scene": 4,
+          "label": "The likeness in the Hall of Tombs"
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 2,
+          "label": "The Sleeper and the Time Stone"
+        }
+      ],
+      "era": "nightfang"
+    },
+    {
+      "id": "deep-captives",
+      "title": "The captives beneath the surface",
+      "era": "deep-horizon",
+      "status": "Their individual homecomings remain unrecorded",
+      "paragraphs": [
+        "Helkitrin’s account overturned an explanation the company had accepted: people believed burned with Blasingdell had instead been taken below by the Stolen Sons. Other captives came from Ossington, the wild elves, Hunters Ports and Brindinford.",
+        "His records traced the exchange of slaves for refined metal and the prisoners’ passage towards beholders at an old drow temple. The company exposed that route. The surviving account does not name every captive or establish who eventually reached home."
+      ],
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 2,
+          "label": "Helkitrin’s account"
+        },
+        {
+          "chapter": "deep-horizon",
+          "scene": 5,
+          "label": "The familiar towns on the same route"
         }
       ]
     },
@@ -822,7 +1044,125 @@
           "scene": 7,
           "label": "What happened while they were gone"
         }
+      ],
+      "era": "deep-horizon"
+    },
+    {
+      "id": "thunders-guild",
+      "title": "Thunder’s Brindinford guildmates",
+      "era": "later-roads",
+      "status": "The Rigus meeting ended in slaughter",
+      "paragraphs": [
+        "Thunder arranged to meet the last surviving members of his Brindinford guild in Rigus. The meeting became a slaughter, and he emerged with blood-spattered notes.",
+        "Those pages described earlier losses to Rigus’s local guild, members forced into mercenary bands and a Guildmaster in hiding. The road had taken the guild far from Brindinford. The recovered account does not name the meeting’s attackers or establish the Guildmaster’s eventual fate."
+      ],
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 1,
+          "label": "The meeting and the bloodied notes"
+        }
       ]
+    },
+    {
+      "id": "gravy",
+      "title": "Team Gravy",
+      "status": "Still lost in Hell",
+      "people": [
+        "nox",
+        "brunn",
+        "rook",
+        "elira"
+      ],
+      "paragraphs": [
+        "Brunn, Rook, Nox and Elira fought beside Team Biscuit against the ants in sunken Brindinford. The trap in the Reality Wrinkle had been set for Biscuit; Gravy went through it instead.",
+        "Their last established destination is Hell. No rescue, death or return has been written for them."
+      ],
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "label": "Where the companies parted"
+        }
+      ],
+      "era": "later-roads"
+    },
+    {
+      "id": "findula",
+      "title": "Findula",
+      "status": "The alliance ended",
+      "image": {
+        "chapter": "bastion",
+        "scene": 6
+      },
+      "paragraphs": [
+        "The company helped free the lillend, and she repaid it by finding Eco and the route to Desayeus. Eco was her sister.",
+        "After Eco’s death, Findula left her note, accepted her part in the cost and declared the debt settled. She neither expected nor wished to speak with the company again."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 2,
+          "label": "Findula finds the way"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "The farewell she left"
+        }
+      ],
+      "era": "later-roads"
+    },
+    {
+      "id": "eco",
+      "title": "Eco",
+      "status": "Died before the company left the prison",
+      "image": {
+        "media": "49d391265bfec0f5b163b749"
+      },
+      "paragraphs": [
+        "The solar guarded Desayeus with Bramam. Her body was the doorway the company needed.",
+        "By the time Thunder carried out the fragment, Eco was dead. Findula’s letter placed that loss beside the company’s need to stop Ashardalon."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 3,
+          "label": "The guardian who was the door"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "Leaving with the fragment"
+        }
+      ],
+      "era": "later-roads"
+    },
+    {
+      "id": "ernie",
+      "title": "Brother Ernie",
+      "status": "Departed; destination unknown",
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      },
+      "paragraphs": [
+        "Believed lost in the irionite-bomb explosion, Ernie returned with most of the company’s belongings. His smile, gestures and devoted interpretive dance did the work of an explanation.",
+        "He gave four protective rings, embraced the companions and faded into warm motes beyond the door. His departure does not establish his death."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "The reunion"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "The silent farewell"
+        }
+      ],
+      "era": "later-roads"
     },
     {
       "id": "pepper",
@@ -846,23 +1186,8 @@
           "scene": 11,
           "label": "The bargain beneath the vision"
         }
-      ]
-    },
-    {
-      "id": "eudostis",
-      "title": "Eudostis",
-      "status": "Homecoming unrecorded",
-      "paragraphs": [
-        "He stole the Time Stone hoping to free the Sleeper and inadvertently opened the lock upon Crimson Crazuk. Lydzin later wished him into a parrot, and captivity damaged his mind.",
-        "The Sleeper partially repaired him and recommended sending him home. His safe arrival remains a thread Grim can still ask about."
       ],
-      "links": [
-        {
-          "chapter": "white-plume",
-          "scene": 2,
-          "label": "The Sleeper and the Time Stone"
-        }
-      ]
+      "era": "later-roads"
     }
   ],
   "quotes": [
@@ -992,5 +1317,42 @@
         "href": "#/further-tales/those-left-behind"
       }
     ]
-  }
+  },
+  "farewellEras": [
+    {
+      "id": "sunless",
+      "title": "Oakhurst and the Sunless Citadel",
+      "intro": "A bargain with a waiting family, a prisoner freed and adventurers found beneath the roots."
+    },
+    {
+      "id": "forge",
+      "title": "Blasingdell and the Forge of Fury",
+      "intro": "The living needed a way out of Khundrukar. The dead had left their defences running."
+    },
+    {
+      "id": "brindinford",
+      "title": "The first Brindinford",
+      "intro": "The city had guards, priests, a smithy and people who could celebrate when the fighting ended."
+    },
+    {
+      "id": "ossington",
+      "title": "Ossington and the standing stones",
+      "intro": "The company brought food to the village and left with a very different account of its protectors."
+    },
+    {
+      "id": "nightfang",
+      "title": "A family face at Nightfang Spire",
+      "intro": "Grim found his ancestor’s likeness among the honoured dead. The story behind it was still moving."
+    },
+    {
+      "id": "deep-horizon",
+      "title": "The people beneath the surface",
+      "intro": "Missing townsfolk had been taken into the slave trade. The desmodu faced an assault upon their home."
+    },
+    {
+      "id": "later-roads",
+      "title": "Rigus and the later roads",
+      "intro": "Guildmates, shipmates and companions crossed the planar roads. Some parted by choice; others were taken."
+    }
+  ]
 }

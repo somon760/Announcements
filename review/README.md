@@ -225,10 +225,17 @@ Adjacent-adventure navigation remains last. Fate trails and other entries suppor
 a final path segment for direct entry links. Grim’s solo now accepts scene links.
 
 Five trails connect twenty chapter scenes. Eleven treasury histories have category
-filters; seven farewell entries distinguish deaths, departures and unresolved
+filters; twenty-two farewell entries, grouped by seven stretches of the journey, distinguish deaths, departures and unresolved
 fates. Four quotations preserve exact typed chat wording; their private source
 IDs remain in the knowledge base. Accompanying films open the existing media
 viewer and are explicitly separate from the typed quotations. No audio transcript
 is claimed. Eight character epilogues and the final confrontation remain open;
 edit the epilogue content when the GM supplies the actual outcome. These pages
 do not change character statistics, kill counts, chronology or gallery selection.
+
+The expanded Those We Left Behind begins in Oakhurst and follows early rescues,
+Brindinford, Ossington, Nightfang and Deep Horizon before the later planar
+farewells. Seven adventure jump links supplement the existing direct entry
+links. `farewellEras` supplies the order/headings and each farewell’s `era`
+selects its group. The list distinguishes actual rescue/death/departure from
+unrecorded later fates. No generic module outcome is promoted to played history.

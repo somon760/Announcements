@@ -12,6 +12,16 @@ assert.equal(pages.size,6);
 assert.equal(data.threads.length,5);
 assert.equal(data.quotes.length,4);
 assert.equal(data.epilogues.characters.length,8);
+const eraIds=new Set(data.farewellEras.map(era=>era.id));
+assert.equal(eraIds.size,data.farewellEras.length,'Adventure groups must have unique IDs');
+const farewellIds=new Set(data.leftBehind.map(entry=>entry.id));
+assert.equal(farewellIds.size,data.leftBehind.length,'Farewell entries must have unique IDs');
+const farewellHTML=renderFurtherTales(data,'those-left-behind',context);
+for(const entry of data.leftBehind) {
+  assert(eraIds.has(entry.era),`Unassigned farewell: ${entry.id}`);
+  assert.equal(farewellHTML.split(`id="tale-${entry.id}"`).length-1,1,`Farewell must render once: ${entry.id}`);
+}
+
 
 function checkReferences(value) {
   if(!value||typeof value!=='object') return;
