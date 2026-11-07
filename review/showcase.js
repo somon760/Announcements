@@ -32,16 +32,20 @@ function closeViewer(){dialog.close()}
 dialog.addEventListener('close',()=>{document.querySelector('#viewer-media').replaceChildren();lastFocus?.focus()});document.querySelector('#close-viewer').addEventListener('click',closeViewer);dialog.addEventListener('click',e=>{if(e.target===dialog)closeViewer()});document.querySelector('#previous-memory').addEventListener('click',()=>openViewer(viewIndex-1));document.querySelector('#next-memory').addEventListener('click',()=>openViewer(viewIndex+1));dialog.addEventListener('keydown',e=>{if(e.target.tagName==='VIDEO')return;if(e.key==='ArrowLeft'&&viewIndex>0){e.preventDefault();openViewer(viewIndex-1)}if(e.key==='ArrowRight'&&viewIndex<shown().length-1){e.preventDefault();openViewer(viewIndex+1)}});
 function about(){document.title='About Team Biscuit';main.innerHTML=`<article class="section about"><p class="eyebrow">A campaign remembered</p><h1>The campaign<br>archive.</h1><p>Team Biscuit’s story runs from the Sunless Citadel to the Bastion of Broken Souls. Shrop, Grim, Terry, and Thunder made every adventure their own.</p><p>Explore the chapters in order, revisit the films and images, and follow the interwoven adventures of Team Biscuit, Team Gravy, and Brother Xanthar.</p><section id="about-the-gm" tabindex="-1" aria-labelledby="about-gm-heading">
   <h2 id="about-gm-heading">About the GM</h2>
-  <p>Sal Omon is the GM of Team Biscuit on Roll20. His campaign brought Team Gravy and the Brotherhood together for a fight against giant ants beneath sunken Brindinford.</p>
-  <p>Sal joined Roll20 in 2018. His public profile lists 20 games as GM and more than 8,600 hours played.</p>
-  <h3>Roll20 milestones</h3>
+  <p>Sal Omon is the GM of Team Biscuit on Roll20. The campaign’s recorded run spans roughly six and a half years, from the Sunless Citadel in spring 2020 to the Bastion sessions in autumn 2026.</p>
+  <h3>Team Biscuit’s adventures</h3>
   <ul>
-    <li><strong>Running games.</strong> Ran a first game, reached five games as GM, and kept a game going for more than six months.</li>
-    <li><strong>Time at the table.</strong> Earned badges at 10, 50, 100, 250 and 1,000 hours of play, plus streaks of three and ten consecutive days.</li>
-    <li><strong>Dice rolled.</strong> Passed 100, 1,000, 5,000 and 10,000 rolls.</li>
-    <li><strong>Players met.</strong> Played with 5, 10, 25, 50 and 100 different people.</li>
-    <li><strong>Tools and community.</strong> Completed the tutorial, added a profile picture, bought a Marketplace pack, used a game script, tried the Jumpgate beta, posted in the community forums, filed a bug report, and listed a game in Looking for Group.</li>
-    <li><strong>Roll20Con.</strong> Earned a convention badge every year from 2020 through 2026.</li>
+    ${chapters.filter(chapter => chapter.type === 'main' || chapter.type === 'interlude').map(chapter => `<li><a href="#/${escape(chapter.slug)}">${escape(chapter.title)}</a>${chapter.type === 'interlude' ? ' · Side trek' : ''}</li>`).join('')}
+  </ul>
+  <h3>Roll20 milestones</h3>
+  <p>Sal joined Roll20 in 2018. His public profile lists 20 games as GM and more than 8,600 hours played.</p>
+  <ul>
+    <li><strong>Games run.</strong> Earned the badge for running five games as GM.</li>
+    <li><strong>Time at the table.</strong> Earned the 1,000-hour badge.</li>
+    <li><strong>Play streak.</strong> Played ten days in a row.</li>
+    <li><strong>Dice rolled.</strong> Passed 10,000 rolls.</li>
+    <li><strong>Players met.</strong> Shared a table with 100 different people.</li>
+    <li><strong>Roll20Con.</strong> Earned the 2026 convention badge.</li>
   </ul>
   <p><a href="https://app.roll20.net/users/3107391/sal-o" target="_blank" rel="noopener">Sal O. on Roll20 ↗</a></p>
 </section><h2>Artwork &amp; credits</h2><p>Adventure covers and module illustrations belong to their artists and publishers, including Wizards of the Coast and TSR. Source links and credits accompany the artwork.</p><ul>${chapters.filter(c=>c.artSource).map(c=>`<li><a href="${c.artSource}" target="_blank" rel="noopener">${escape(c.title)}</a> — ${escape(c.artCredit)}</li>`).join('')}</ul><p>This is an unofficial campaign retrospective. The home-page image is a still from the selected party farewell film.</p><p><a href="#/timeline">Return to the journey →</a></p></article>`}
