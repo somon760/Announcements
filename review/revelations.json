@@ -678,6 +678,17 @@
       ]
     },
     {
+      "id": "meepo-po",
+      "name": "Meepo, later Po",
+      "role": "Keeper of Calcryx · Defender of the Bastion",
+      "text": "The keeper from the Sunless Citadel learned that Ashardalon was his father. He fought beside him in the assault on the Bastion and guarded its crystal halls.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 11
+      },
+      "href": "#/revelations/meepo-po"
+    },
+    {
       "id": "ammet",
       "name": "Ammet",
       "role": "Eater of Souls",
@@ -1242,6 +1253,19 @@
         "label": "Read the scene"
       },
       "revisionist": false
+    },
+    {
+      "a": "ashardalon",
+      "b": "meepo-po",
+      "kind": "family",
+      "title": "Ashardalon’s son",
+      "text": "Meepo had already taken the name Po when he learned who his father was. He found Ashardalon and joined his assault on the Bastion of Broken Souls.",
+      "revisionist": true,
+      "link": {
+        "chapter": "bastion",
+        "scene": 11,
+        "label": "Read the encounter with Po"
+      }
     }
   ],
   "remembrance": [

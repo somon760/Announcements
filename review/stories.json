@@ -34,6 +34,12 @@
               "Belak’s fruit was a means of colonisation. He ordered the goblins to scatter its seeds aboveground; their decision to sell the apples still served his purpose. Each planted seed could become a twig blight. The apparent blessing offered to Oakhurst carried the next infestation inside it."
             ]
           }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/meepo-po",
+            "label": "Revisionist · What became of Meepo?"
+          }
         ]
       },
       {
@@ -1680,7 +1686,22 @@
           "caption": "Po, one of the defenders within the Bastion.",
           "width": 1254,
           "height": 1254
-        }
+        },
+        "hindsight": [
+          {
+            "label": "Revisionist · Hindsight",
+            "title": "The dragon’s son",
+            "paragraphs": [
+              "Po was Meepo, the kobold who had kept Calcryx’s cage in the Sunless Citadel. He learned that Ashardalon was his father, joined him in taking the Bastion and stayed to guard the way to the dragon."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/meepo-po",
+            "label": "Read Meepo’s road to the Bastion"
+          }
+        ]
       },
       {
         "title": "Predators in the birthplace of souls",
@@ -1963,5 +1984,87 @@
         "Xanthar’s design is known. Grim’s final answer remains missing, along with the original recordings and the record of any memories surrendered. His player or the GM may yet restore those details."
       ]
     }
+  },
+  "meepo-po": {
+    "title": "The Keeper of the Door",
+    "eyebrow": "Revisionist · Off-screen backstory",
+    "opening": [
+      "Team Biscuit knew Meepo as the kobold who kept Calcryx’s cage in the Sunless Citadel. Years later, a dragonspawn named Po stood in their way inside the Bastion. Here is the life he lived between those two doors."
+    ],
+    "scenes": [
+      {
+        "title": "The key to Calcryx’s cage",
+        "paragraphs": [
+          "When Meepo left the Citadel, he took the key to Calcryx’s cage. He had spent so long keeping it quiet on his belt that he could run down a flight of steps without making it ring. His mother, Sarka, had taught him that trick. She had also left him a little copper plate with a dragon’s claw scratched into it. While he was growing up he had used it to scrape wax from the cage hinges.",
+          "A peddler at the ravine recognised the claw. She offered him a winter cloak for the plate, then a mule. Meepo took neither. The peddler finally told him where she had seen the mark before. An old woman at the Cinder Ford stamped it on the underside of her ferryman’s weights."
+        ],
+        "image": {
+          "src": "media/images/between-adventures/9032b1bf7f56735f3e185656.png",
+          "alt": "Roll20 portrait of Meepo, the kobold keeper of Calcryx",
+          "caption": "Meepo in the Sunless Citadel.",
+          "width": 196,
+          "height": 196
+        },
+        "links": [
+          {
+            "href": "#/sunless-citadel/scene/2",
+            "label": "Return to the Sunless Citadel"
+          }
+        ]
+      },
+      {
+        "title": "The name on the rope",
+        "paragraphs": [
+          "Meepo earned passage to the ford by taking night watch for a salt caravan. On the third night someone led its mules away with a stolen bell. He found the animals unharnessed at the mouth of a chalk mine and followed the bell underground. The thieves had left a boy tied to a ladder over a flooded shaft. Meepo cut him free and stayed waist-deep in the water, holding the ladder steady until the boy could climb.",
+          "On the surface the drovers were shouting for the name of whoever was still down there. The boy had heard only the last syllable over the water. ‘Po!’ he yelled. The drovers yelled it back and sent a rope. The boy called him Po all the way to the ford. When the ferryman asked for his name, Meepo found himself giving the short one."
+        ]
+      },
+      {
+        "title": "Sarka’s receipt",
+        "paragraphs": [
+          "The old ferryman remembered Sarka. She had once carried the kobold and her newly hatched son over the ford on a night when the reeds were burning. Sarka had paid for the crossing with a plate just like his. The ferryman put the two pieces together. They had been cut from one strip of copper, and the hammered letters on the reverse made a single line. ‘Sarka, keep our son below the stone. A.’",
+          "‘He could have sent you silver,’ the ferryman said. ‘He heated that copper with his breath while your mother held it in tongs. I saw it from the boat.’",
+          "The ferryman gave him the name. Po had seen Ashardalon’s name carved in the Citadel and heard it invoked when the kobolds swore an oath. He had never heard anybody say it while scraping fish scales off a knife. He asked the ferryman to tell him about his mother again. They stayed up until the first crossing."
+        ]
+      },
+      {
+        "title": "Three winters under arms",
+        "paragraphs": [
+          "Po carried both halves of the copper into the hills. He lost a pack full of provisions to a barrow that moved after dark and lost a tooth to a smuggler who had paid him to keep watch on the wrong door. At a burned shrine, he followed three days of dragon tracks to a set of wooden feet hanging in a charcoal burner’s shed. He stayed to help the charcoal burner bury the last fellow who had followed them.",
+          "In the winter he joined the watch at a bridge called Nine Nails. The other guards taught him to fight close to a wall, where taller opponents had less room for a swing. When raiders lit the bridge timbers, Po took a hooked spear and held the far steps while the ferries went out. By morning his shield hand had blistered through the glove. The next spring the smith made him a shield he could buckle onto his forearm without using his fingers.",
+          "By his third winter, red scales had grown through the scars on his shoulders. After a watchman found him coughing sparks into a water barrel, he began practising on wet gravel beyond the bridge. The first time he managed to light a wick from six paces, he sat beside the little flame until it burned itself out."
+        ]
+      },
+      {
+        "title": "What Ashardalon remembered",
+        "paragraphs": [
+          "An iron courier finally brought word of Ashardalon. Po had caught it trying to drag itself up a scree slope with one wing. He hauled it into a lime kiln and worked the grit out of its joints with Calcryx’s key. When it could fly again, he followed it through a crack in the kiln wall that opened onto a stair under a red sky.",
+          "At the bottom, Po set both pieces of copper on a flat stone in front of the dragon. Ashardalon read the inscription and asked if Sarka had ever told him how it ended. She had held the tongs so tight that one jaw snapped off and lodged in the rock. ‘She made me wait while she dug it out,’ he said. The ferryman had told Po that part too.",
+          "Ashardalon touched his muzzle to the scar on Po’s shoulder. ‘My son.’ Po had prepared a speech for that moment. All he could think to ask was whether Ashardalon had ever come back to look for them. ‘Once,’ said the dragon. ‘The ferry was gone.’",
+          "When Ashardalon shifted, Po heard a second breath somewhere deep in his father’s chest. Ashardalon told him how he meant to keep that heart beating. There was a fortress where new souls came into being. He would take it and feed there. Po asked what became of the children. Ashardalon let the question hang until Po understood the answer. Then he asked his son to come with him."
+        ]
+      },
+      {
+        "title": "The first watch in the Bastion",
+        "paragraphs": [
+          "Po could have gone back through the kiln. He had a bunk at Nine Nails and a place at the watch table. He had even left a good pair of boots there to be resoled. When Ashardalon’s company set out for the Bastion of Broken Souls, Po marched beside his father with the bridge shield on his arm.",
+          "In the assault, Ashardalon’s followers rushed the inner passage. Po stayed at a fork where the crystal branches grew low enough to catch a spear. He worked the point free, drew the fighters through one at a time and held the passage behind them. When the fighting moved deeper into the fortress, he kept his post. When Ashardalon called back from the inner halls, Po drove his spear butt into a seam in the floor and answered that he would keep the passage.",
+          "He wrapped the two pieces of copper in cloth and tied them alongside the cage key, so none of them would ring against his armour. Years later, when he heard armed strangers coming through the crystal grove, he stepped out where they could see him. He called his challenge loud enough for his father to hear."
+        ],
+        "image": {
+          "src": "media/images/bastion/56c1be328128c97083ac9ff6.webp",
+          "alt": "Roll20 portrait of Po in armour as a dragonspawn defender",
+          "caption": "Po at the Bastion of Broken Souls.",
+          "width": 1254,
+          "height": 1254
+        },
+        "links": [
+          {
+            "href": "#/bastion/scene/11",
+            "label": "Continue with Team Biscuit’s encounter with Po"
+          }
+        ]
+      }
+    ]
   }
 }
