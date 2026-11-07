@@ -19,7 +19,13 @@
           "caption": "The way into the Sunless Citadel.",
           "width": 1120,
           "height": 700
-        }
+        },
+        "links": [
+          {
+            "href": "#/revelations/stolen-sons",
+            "label": "The Stolen Sons before Oakhurst"
+          }
+        ]
       },
       {
         "title": "Steel, chalk, and a little diplomacy",
@@ -575,7 +581,13 @@
           "caption": "The Halfling Faire: music, trade, and plenty of company to get lost among.",
           "width": 1642,
           "height": 1044
-        }
+        },
+        "links": [
+          {
+            "href": "#/revelations/stolen-sons",
+            "label": "Who were the Stolen Sons?"
+          }
+        ]
       },
       {
         "title": "Trouble in Chatterstreet",
@@ -642,6 +654,12 @@
             "paragraphs": [
               "A burned letter reveals that Ghaerleth Axom intended to seize Brindinford and report its capture to the Cathezar. He also wrote of Cassiopeia’s betrayal and a machine that had opened planar routes. The Cathezar was involved long before her own attacks brought her face to face with the company."
             ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/stolen-sons",
+            "label": "The Stolen Sons’ history"
           }
         ]
       }
@@ -983,6 +1001,12 @@
             "paragraphs": [
               "The beholders had drawn Helkitrin into betraying his arrangement with the desmodus and taking their envoy as slaves. Their gifts of little figurines appealed to his private obsession, while he paid bribes to discourage scrutiny from his own leaders. The trade was sustained by vanity, profit, and carefully managed ignorance as well as force."
             ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/stolen-sons",
+            "label": "Follow the Stolen Sons from Brindinford to Deep Horizon"
           }
         ]
       },
@@ -2080,6 +2104,88 @@
           {
             "href": "#/bastion/scene/11",
             "label": "Continue with Team Biscuit’s encounter with Po"
+          }
+        ]
+      }
+    ]
+  },
+  "stolen-sons": {
+    "title": "The banner and the bargain",
+    "eyebrow": "Faction history",
+    "opening": [
+      "Before they were Team Biscuit, Shrop, Terry and Thunder already knew the Stolen Sons. In Brindinford the mercenaries put their name on a fairground poster. Beneath the surface, that same name turned up in the records of a trade in captives."
+    ],
+    "scenes": [
+      {
+        "title": "Before the company had a name",
+        "paragraphs": [
+          "Shrop entered the Stolen Sons at twelve. His own account leaves open whether he was taken, sold or conscripted. He remembered his mother’s name, Caroleena. Who took him from her, and what happened to her afterward, remain open questions.",
+          "Thunder was caught burgling a house and sent to work for the Sons. He met Terry and Shrop through them. By the time the three took the road to Oakhurst, the Sons were already part of the history they shared. Shrop was still looking for answers when the company reached Khundrukar."
+        ],
+        "image": {
+          "src": "media/images/speaker-in-dreams/ebce53de9a481357f6762460.gif",
+          "still": "media/thumbs/ebce53de9a481357f6762460.jpg",
+          "alt": "The Stolen Sons’ white flag, marked with a black sunburst and three rows of chain links",
+          "caption": "The Stolen Sons’ waving flag from the campaign archive.",
+          "width": 500,
+          "height": 400
+        },
+        "links": [
+          {
+            "href": "#/companions/shrop/beginnings",
+            "label": "Shrop’s early years"
+          },
+          {
+            "href": "#/companions/thunder/beginnings",
+            "label": "Thunder’s early years"
+          },
+          {
+            "href": "#/sunless-citadel",
+            "label": "The road to Oakhurst"
+          }
+        ]
+      },
+      {
+        "title": "A fairground poster and a claim to the city",
+        "paragraphs": [
+          "The Bear Pit poster advertised a match at Sons Arena on the fifth of Kythorn. Tickets were on sale, and the Stolen Sons had printed their name at the bottom as sponsor.",
+          "Later, with Brindinford under martial law, the party fought its way into the Baron’s manor. Akrew claimed the orders were signed and the city belonged to the Stolen Sons. Team Biscuit fought Akrew and the mercenaries, then freed Baron Euphemes from the mind flayer controlling him."
+        ],
+        "image": {
+          "src": "media/images/between-adventures/595287b844ea1764d8b93027.png",
+          "alt": "The Bear Pit poster advertising a match at Sons Arena, sponsored by the Stolen Sons",
+          "caption": "The Bear Pit advertised at the Brindinford fair.",
+          "width": 1244,
+          "height": 1606
+        },
+        "links": [
+          {
+            "href": "#/speaker-in-dreams/scene/1",
+            "label": "The Brindinford fair"
+          },
+          {
+            "href": "#/speaker-in-dreams/scene/6",
+            "label": "The fight at the Baron’s manor"
+          }
+        ]
+      },
+      {
+        "title": "What Helkitrin’s records showed",
+        "paragraphs": [
+          "In Deep Horizon, Helkitrin offered up his records while pleading for his life. Nuno of the Stolen Sons had made a year-long deal with the salamanders. At a smugglers’ cove, captives changed hands for refined precious metals. The salamanders passed those captives on to beholders at an old drow temple.",
+          "The records helped the company confirm that some people thought to have died in the burning of Blasingdell had been taken below by the Sons. Captives from Ossington, the wild elves, Hunters Ports and Brindinford had also passed through the trade. The name Shrop had been following since Khundrukar now had a route, a buyer and people the company could trace to the Underdark."
+        ],
+        "image": {
+          "src": "media/images/deep-horizon/87b1e71336f3a50ff4d23e86.png",
+          "alt": "Campaign portrait of Helkitrin, a spear-bearing salamander",
+          "caption": "Helkitrin named Nuno and described the exchange.",
+          "width": 515,
+          "height": 1000
+        },
+        "links": [
+          {
+            "href": "#/deep-horizon/scene/2",
+            "label": "Helkitrin’s interrogation"
           }
         ]
       }

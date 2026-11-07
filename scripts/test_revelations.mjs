@@ -34,6 +34,11 @@ assert(poPage.includes('#/sunless-citadel/scene/2')&&poPage.includes('#/bastion/
 assert(searchRecords(index,'Sarka receipt').some(r=>r.href===poPath+'/3'));
 assert(data.relationships.some(edge=>edge.a==='ashardalon'&&edge.b==='meepo-po'&&edge.kind==='family'));
 for(const [chapter,scene] of [['sunless-citadel',2],['bastion',11]])assert(context.stories[chapter].scenes[scene-1].links.some(link=>link.href===poPath));
+const sonsPath='#/revelations/stolen-sons';
+const sonsPage=renderRevelations(data,'stolen-sons',context);
+assert(sonsPage.includes('ebce53de9a481357f6762460.gif')&&sonsPage.includes('prefers-reduced-motion: reduce'));
+assert(searchRecords(index,'Nuno').some(r=>r.href===sonsPath+'/3'));
+assert(renderRevelationsCallout().includes(sonsPath)&&renderRevelationsCallout().includes(poPath));
 assert.equal(searchRecords(index,'').length,0);
 assert(searchRecords(index,'Pengu','memories').every(r=>r.category==='memories'));
 assert(searchRecords(index,'Shrop Pengu').every(r=>r.normalised.includes('shrop')&&r.normalised.includes('pengu')));

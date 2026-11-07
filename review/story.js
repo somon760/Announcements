@@ -12,11 +12,17 @@ const relatedLinks = links => (links ?? []).length ? `<nav class="story-related-
 
 const companionSlugs = {'Shrop Shireslasher':'shrop','Grimbledee Brightburrow':'grim','Terry Stronginthearm':'terry','Thunderdrum Stringcutter':'thunder','Brunn Ironbelly':'brunn','Rook Kestrel':'rook','Nox Veyra':'nox','Elira Moss-Weaver':'elira'};
 
+function illustration(image) {
+  if (!image) return '';
+  const img = `<img src="${escape(image.src)}" alt="${escape(image.alt)}"${image.width && image.height ? ` width="${Number(image.width)}" height="${Number(image.height)}"` : ''} loading="lazy">`;
+  return `<figure class="story-illustration">${image.still ? `<picture><source media="(prefers-reduced-motion: reduce)" srcset="${escape(image.still)}">${img}</picture>` : img}<figcaption>${escape(image.caption)}</figcaption></figure>`;
+}
+
 export function renderStory(story) {
   if (!story) return '';
   const scenes = (story.scenes ?? []).map((scene,index) => `<section id="story-scene-${index+1}" tabindex="-1" class="story-scene${scene.image ? ' story-scene-illustrated' : ''}">
     <div class="story-prose"><h3>${escape(scene.title)}</h3>${paragraphs(scene.paragraphs)}${hindsight(scene.hindsight)}${relatedLinks(scene.links)}</div>
-    ${scene.image ? `<figure class="story-illustration"><img src="${escape(scene.image.src)}" alt="${escape(scene.image.alt)}"${scene.image.width&&scene.image.height?` width="${Number(scene.image.width)}" height="${Number(scene.image.height)}"`:""} loading="lazy"><figcaption>${escape(scene.image.caption)}</figcaption></figure>` : ''}
+    ${illustration(scene.image)}
   </section>`).join('');
   const companions = story.companions ? `<section class="story-companions" aria-label="The companions">
     <h3>${escape(story.companions.title)}</h3><div class="story-companion-grid">${story.companions.people.map(person => `<article class="story-companion">
