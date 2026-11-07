@@ -278,3 +278,8 @@ Search indexes the existing public chapters, companions, possessions, gallery ca
 Original story/profile/statistics/battle/gallery/Further Tales datasets and the end-adventure pagination are preserved. `revelations.json` and `map-wall.json` contain the new curated data; their renderers are separate modules. Private game inventories, source captures, excluded overlays and collection gaps are kept out of the repository.
 
 Validation: `node scripts/test_revelations.mjs`, `node scripts/test_map_wall.mjs`, `node scripts/test_time_and_places.mjs`, `node scripts/test_further_tales.mjs`, JavaScript syntax checks and `npm run build`.
+
+
+## The Room We Never Entered
+
+`#/revelations/nightfang-room` adds a Nightfang account to Behind the tale and links from the Nightfang chapter before its gallery. The native expandable reveal identifies the chest as empty, as confirmed by the GM. The original numbered Level 1 plan, actual Roll20 map captures and a labelled generated reconstruction accompany a paraphrased explanation of Necromantic Seepage. Original third-edition mechanics sit in an optional disclosure. Source and artwork credits are included; no original room text is reproduced verbatim. The section is searchable and ends with links back to Nightfang and onward to Deep Horizon. Existing adventure pagination remains last after the gallery.
