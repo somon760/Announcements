@@ -367,3 +367,12 @@
   .site-header-search,
   .site-menu-toggle { padding-inline: 5px; }
 }
+
+.campaign-music-link{display:block;width:fit-content;margin-top:18px;text-decoration:underline;text-underline-offset:.2em}
+.campaign-songs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px;padding-top:36px}
+.campaign-song{min-width:0;padding:24px;background:#f4f2ea;border:1px solid var(--line)}
+.campaign-song .eyebrow{color:var(--muted);margin-bottom:10px}
+.campaign-song h2{font-size:clamp(29px,3vw,40px);margin-bottom:10px}
+.campaign-song audio{display:block;width:100%;max-width:420px;margin:18px 0}
+.campaign-song a{font-size:14px;text-decoration:underline;text-underline-offset:.2em}
+@media(max-width:700px){.campaign-songs{grid-template-columns:1fr;gap:18px}.campaign-song{padding:18px}}

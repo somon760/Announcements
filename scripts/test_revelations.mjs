@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,existsSync} from 'node:fs';
 import {resolve} from 'node:path';
 import {buildSearchIndex,searchRecords,normalise,revealTruth,renderRevelations,renderRevelationsCallout,sections} from '../review/revelations.js';
+import {campaignSongs,renderCampaignMusic} from '../review/campaign-music.js';
 const root=resolve(import.meta.dirname,'../review'),read=n=>JSON.parse(readFileSync(resolve(root,n),'utf8'));
 const context={people:read('characters.json').people,items:read('media.json').items,stories:read('stories.json'),assetStories:read('asset-stories.json'),chapters:read('chapters.json'),tales:read('further-tales.json'),explorerData:read('time-and-places.json'),mapWallData:read('map-wall.json'),battles:read('battles.json'),revelations:read('revelations.json')};
 const data=context.revelations;
@@ -43,8 +44,15 @@ assert.equal(searchRecords(index,'').length,0);
 assert(searchRecords(index,'Pengu','memories').every(r=>r.category==='memories'));
 assert(searchRecords(index,'Shrop Pengu').every(r=>r.normalised.includes('shrop')&&r.normalised.includes('pengu')));
 assert(searchRecords(index,'Blackrazor').some(r=>r.category==='possessions'));
-for(const record of index){assert(!record.href.includes('undefined'));const [slug,section,entry]=record.href.slice(2).split('/');if(section==='scene')assert(context.stories[slug]?.scenes[Number(entry)-1]);else if(slug==='companions')assert(context.people.some(p=>p.slug===section));else if(slug==='further-tales')assert(context.tales.sections.some(s=>s.slug===section));else if(slug==='revelations')assert(sections.some(([id])=>id===section));else if(slug==='battle-chronicle'){assert(section==='target');assert(context.battles.events.some(e=>e.target===decodeURIComponent(entry)))}else if(slug==='time-and-places')assert(section==='maps'?context.mapWallData.maps.some(p=>p.id===entry):context.explorerData.places.some(p=>p.id===entry));else assert(context.stories[slug]||context.chapters.some(c=>c.slug===slug))}
+for(const record of index){assert(!record.href.includes('undefined'));const [slug,section,entry]=record.href.slice(2).split('/');if(section==='scene')assert(context.stories[slug]?.scenes[Number(entry)-1]);else if(slug==='companions')assert(context.people.some(p=>p.slug===section));else if(slug==='further-tales')assert(context.tales.sections.some(s=>s.slug===section));else if(slug==='revelations')assert(sections.some(([id])=>id===section));else if(slug==='music')assert(campaignSongs.some(song=>song.id===section));else if(slug==='battle-chronicle'){assert(section==='target');assert(context.battles.events.some(e=>e.target===decodeURIComponent(entry)))}else if(slug==='time-and-places')assert(section==='maps'?context.mapWallData.maps.some(p=>p.id===entry):context.explorerData.places.some(p=>p.id===entry));else assert(context.stories[slug]||context.chapters.some(c=>c.slug===slug))}
 let count=0;
 for(const page of [null,...sections.map(([id])=>id)]){const html=renderRevelations(data,page,context);assert(!html.includes('undefined'));assert(!/\bboss\b|fifty.year/i.test(html));assert.equal((html.match(/<h1>/g)??[]).length,1);assert(html.lastIndexOf(page==='nightfang-room'?'Adjacent adventures':'Continue the remembrance')>html.lastIndexOf('</article>'));for(const [,src] of html.matchAll(/<img[^>]+src="([^"]+)"/g)){assert(existsSync(resolve(root,src)),src);count++}}
 assert(renderRevelationsCallout().includes('#/revelations/remembrance'));
+const musicHTML=renderCampaignMusic();
+for(const song of campaignSongs){
+  assert(existsSync(resolve(root,'media/audio',song.id+'.mp3')));
+  assert(musicHTML.includes(`id="song-${song.id}"`));
+  assert(searchRecords(index,song.title,'music').some(record=>record.href==='#/music/'+song.id));
+}
+assert(!musicHTML.includes('Glass Forest'));
 console.log(`Revelations: ${data.reveals.length} reveals, ${data.chains.length} consequence chains, ${data.cast.length} figures, ${data.relationships.length} relationships, ${data.remembrance.length} tour stops; ${index.length} searchable passages and ${count} rendered image references passed.`);
