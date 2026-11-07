@@ -1,7 +1,7 @@
 import { renderGmLibrary, bindGmLibrary, renderPdfReader, bindPdfReader } from './gm-library.js?v=7';
-import {renderUnopenedRoomCallout} from './unopened-room.js?v=nightfang-room-1';
+import {renderUnopenedRoomCallout} from './unopened-room.js?v=nightfang-room-2';
 import { renderMapWall, bindMapWall, mapViewerItems } from './map-wall.js?v=map-wall-1';
-import { renderRevelations, bindRevelations, renderRevelationsCallout, buildSearchIndex } from './revelations.js?v=nightfang-room-1';
+import { renderRevelations, bindRevelations, renderRevelationsCallout, buildSearchIndex } from './revelations.js?v=nightfang-room-2';
 import { renderTimeAndPlaces, bindTimeAndPlaces, renderExplorerCallout, chapterAtlasLink } from './time-and-places.js?v=time-places-6';
 import { renderFurtherTales, bindFurtherTales, renderTalesCallout, renderChapterTales } from './further-tales.js?v=early-farewells-1';
 import { renderBattleChronicle, bindBattleChronicle } from './battles.js?v=battle-chronicle-4';

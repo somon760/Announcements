@@ -1,4 +1,4 @@
-import {unopenedRoom, renderUnopenedRoom, unopenedRoomSearchText} from './unopened-room.js?v=nightfang-room-1';
+import {unopenedRoom, renderUnopenedRoom, unopenedRoomSearchText} from './unopened-room.js?v=nightfang-room-2';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const prose=values=>(values??[]).map(value=>`<p>${esc(value)}</p>`).join('');
 const sceneLink=link=>`<a data-story-link href="#/${esc(link.chapter)}/scene/${Number(link.scene)}">${esc(link.label??'Read the scene')} ↗</a>`;
