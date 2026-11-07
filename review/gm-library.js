@@ -84,7 +84,12 @@ export function renderGmLibrary() {
         <a data-gm-open target="_blank" rel="noopener">Open PDF in a new tab ↗</a>
         <a data-gm-download>Save a copy ↓</a>
       </div>
-      <iframe title="PDF preview"></iframe>
+      <div class="gm-library-reader-controls">
+        <button type="button" data-gm-prev disabled>← Previous page</button>
+        <span data-gm-page role="status"></span>
+        <button type="button" data-gm-next disabled>Next page →</button>
+      </div>
+      <div class="gm-library-reader-page" data-gm-preview></div>
     </dialog>`;
 }
 
@@ -100,13 +105,19 @@ export function bindGmLibrary(main) {
   const importKind = main.querySelector('#gm-import-kind');
   const pickers = [...main.querySelectorAll('[data-gm-pick]')];
   const reader = main.querySelector('.gm-library-reader');
-  const frame = reader.querySelector('iframe');
+  const preview = reader.querySelector('[data-gm-preview]');
+  const pageStatus = reader.querySelector('[data-gm-page]');
+  const previous = reader.querySelector('[data-gm-prev]');
+  const next = reader.querySelector('[data-gm-next]');
   const documents = new Map();
   let db;
   let active = true;
   let busy = false;
   let readerUrl;
   let readerButton;
+  let pdfLoad;
+  let pdfDocument;
+  let pageNumber = 0;
 
   function render() {
     const entries = [...catalog, ...[...documents.values()].filter(entry => !known.has(entry.id))];
@@ -189,10 +200,74 @@ export function bindGmLibrary(main) {
   }
 
   function releaseReader() {
-    frame.removeAttribute('src');
+    if (pdfLoad) pdfLoad.destroy().catch(() => {});
+    pdfLoad = undefined;
+    pdfDocument = undefined;
+    preview.replaceChildren();
     if (readerUrl) URL.revokeObjectURL(readerUrl);
     readerUrl = undefined;
   }
+
+  async function showPage(number) {
+    const document = pdfDocument;
+    previous.disabled = next.disabled = true;
+    pageStatus.textContent = `Loading page ${number}…`;
+    try {
+      const page = await document.getPage(number);
+      if (document !== pdfDocument) return;
+      const base = page.getViewport({ scale: 1 });
+      const viewport = page.getViewport({ scale: Math.min(2, 1600 / base.width, 2300 / base.height) });
+      const canvas = preview.ownerDocument.createElement('canvas');
+      canvas.width = Math.ceil(viewport.width);
+      canvas.height = Math.ceil(viewport.height);
+      canvas.setAttribute('role', 'img');
+      canvas.setAttribute('aria-label', `Page ${number} of the PDF`);
+      await page.render({ canvas, viewport }).promise;
+      if (document !== pdfDocument) return;
+      preview.replaceChildren(canvas);
+      preview.scrollTop = 0;
+      pageNumber = number;
+      pageStatus.textContent = `Page ${number} of ${document.numPages}`;
+    } catch {
+      if (document === pdfDocument) pageStatus.textContent = 'Page unavailable. Open or save the PDF above.';
+    } finally {
+      if (document === pdfDocument) {
+        previous.disabled = pageNumber <= 1;
+        next.disabled = pageNumber >= document.numPages;
+      }
+    }
+  }
+
+  async function loadPdf(record, url) {
+    pageNumber = 1;
+    previous.disabled = next.disabled = true;
+    pageStatus.textContent = 'Opening PDF…';
+    try {
+      const { getDocument, GlobalWorkerOptions } = await import('./vendor/pdfjs-6.5.438/pdf.min.mjs');
+      const data = await record.pdf.arrayBuffer();
+      if (readerUrl !== url) return;
+      const vendorPath = './vendor/pdfjs-6.5.438/';
+      const vendor = new URL(vendorPath, import.meta.url);
+      GlobalWorkerOptions.workerSrc = new URL('pdf.worker.min.mjs', vendor).href;
+      GlobalWorkerOptions.rendererSrc = new URL('pdf.renderer.min.mjs', vendor).href;
+      pdfLoad = getDocument({
+        data,
+        cMapUrl: new URL('cmaps/', vendor).href,
+        iccUrl: new URL('iccs/', vendor).href,
+        standardFontDataUrl: new URL('standard_fonts/', vendor).href,
+        wasmUrl: new URL('wasm/', vendor).href
+      });
+      const document = await pdfLoad.promise;
+      if (readerUrl !== url) return;
+      pdfDocument = document;
+      await showPage(1);
+    } catch {
+      if (readerUrl === url) pageStatus.textContent = 'Preview unavailable. Open or save the PDF above.';
+    }
+  }
+
+  previous.addEventListener('click', () => showPage(pageNumber - 1));
+  next.addEventListener('click', () => showPage(pageNumber + 1));
 
   pickers.forEach(button => button.addEventListener('click', () => {
     (button.dataset.gmPick === 'files' ? files : folder).click();
@@ -214,13 +289,12 @@ export function bindGmLibrary(main) {
       readerButton = button;
       readerUrl = URL.createObjectURL(record.pdf);
       reader.querySelector('#gm-reader-title').textContent = entry.title;
-      frame.title = `PDF preview of ${entry.title}`;
       const download = reader.querySelector('[data-gm-download]');
       download.href = readerUrl;
       download.download = record.filename;
       reader.querySelector('[data-gm-open]').href = readerUrl;
-      frame.src = readerUrl;
       reader.showModal();
+      loadPdf(record, readerUrl);
     } else if (!busy) {
       setBusy(true);
       try {
