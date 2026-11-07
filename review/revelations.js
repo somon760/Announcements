@@ -1,4 +1,4 @@
-import {campaignSongs} from './campaign-music.js?v=1';
+import {campaignSongs} from './campaign-music.js?v=2';
 import {renderStory} from './story.js?v=stolen-sons-1';
 import {unopenedRoom, renderUnopenedRoom, unopenedRoomSearchText} from './unopened-room.js?v=nightfang-room-2';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

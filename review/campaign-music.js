@@ -3,7 +3,14 @@ export const campaignSongs = [
     id: 'hail-the-hero-of-ossington',
     title: 'Hail the Hero of Ossington',
     duration: '2:27',
-    description: 'The Ossington song from the Bastion playlist.',
+    description: 'The folk-metal recording from the Bastion playlist.',
+    related: {href: '#/standing-stone', label: 'The Standing Stone'}
+  },
+  {
+    id: 'the-hero-of-ossington-dark-folk',
+    title: 'The Hero of Ossington (Dark Folk)',
+    duration: '1:44',
+    description: 'A dark-folk telling of the Ossington ballad.',
     related: {href: '#/standing-stone', label: 'The Standing Stone'}
   },
   {
