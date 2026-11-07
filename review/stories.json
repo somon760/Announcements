@@ -2211,11 +2211,11 @@
           "Tava had heard the story often enough to know when he left something out. One evening she asked what he’d done with his hands while he waited to see if the diversion would hold. He told her he’d sat on them to keep them from shaking. She moved her basket off the bench to make room for him. By the time the cook came to put out the lamps, Viday had asked if he could walk her home."
         ],
         "image": {
-          "src": "media/images/deep-horizon/8c9ea1a5204750b06a91c655.jpg",
-          "alt": "Buildings clustered under the stone roof of a cavern",
-          "caption": "An underground settlement from the Deep Horizon campaign archive.",
-          "width": 900,
-          "height": 376
+          "src": "media/images/deep-horizon/viday-portrait.webp",
+          "alt": "A gray-furred desmodu explorer in a green cloak with a copper pin, with warren lamps behind him",
+          "caption": "An imagined portrait of Vijay after the rescue.",
+          "width": 1254,
+          "height": 1254
         },
         "links": [
           {
@@ -2234,7 +2234,7 @@
         "image": {
           "src": "media/portraits/desmodu-peddler.png",
           "alt": "A gray-furred desmodu with large batlike ears in a blue-bordered Roll20 token",
-          "caption": "The campaign’s Desmodu Peddler token, used here to represent Viday.",
+          "caption": "Vijay",
           "width": 256,
           "height": 256
         }
@@ -2260,7 +2260,14 @@
           "‘Tell it how you told her,’ his eldest said, nodding at Tava.",
           "So he told them about sitting on his hands. One of his grandsons slid off the bench and took hold of two of his fingers. ‘You can keep them out now,’ the boy said. Viday put his other hand on the table. Tava laid hers over it.",
           "A distant rumble came up through the stone. Viday felt his grandson’s grip tighten. He drew the boy against him, and a white flash filled the widened doorway."
-        ]
+        ],
+        "image": {
+          "src": "media/images/deep-horizon/viday-family-supper.webp",
+          "alt": "A desmodu family sits around a lamplit table. A grandson holds Vijay’s fingers while Tava rests her hand on his other hand.",
+          "caption": "An imagined scene of three generations at the family table.",
+          "width": 1536,
+          "height": 1024
+        }
       }
     ]
   }
