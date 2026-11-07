@@ -12,6 +12,7 @@
 .gm-library { padding-top: 42px; }
 .gm-library-import {
   display: grid;
+  margin-top: 32px;
   grid-template-columns: 1.4fr 1fr;
   gap: 36px;
   padding: clamp(20px, 3vw, 38px);
@@ -94,7 +95,6 @@
 }
 .gm-library-card-actions { margin-top: auto; padding-top: 18px; font-size: 12px; }
 .gm-library-card-actions a, .gm-library-reader-links a { text-decoration: underline; text-underline-offset: 3px; }
-.gm-library-card-actions > span { color: var(--muted); }
 .gm-library button.gm-library-remove { border-color: var(--line); background: transparent; font-size: 12px; }
 .gm-library-empty { grid-column: 1 / -1; padding: 24px 0; }
 .gm-library-reader {

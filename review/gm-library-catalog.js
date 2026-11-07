@@ -5,7 +5,8 @@ export const catalog = [
     "kind": "sheet",
     "pages": 6,
     "description": "Archived character sheet with abilities, equipment, and features from this export.",
-    "href": "#/companions/shrop"
+    "href": "#/companions/shrop",
+    "pdfPath": "library-pdfs/shrop-character-sheet.pdf"
   },
   {
     "id": "9834bf3c31770db423e9e2484bae1fcb6a74882bb861dec02b5994e53ee2cd86",
@@ -13,7 +14,8 @@ export const catalog = [
     "kind": "sheet",
     "pages": 40,
     "description": "Archived character sheet with equipment, spells, and character notes from this export.",
-    "href": "#/companions/grim"
+    "href": "#/companions/grim",
+    "pdfPath": "library-pdfs/grim-character-sheet.pdf"
   },
   {
     "id": "9ab968b7198d6188896c703a1453db0fbeb6bf300808cd0423efde4af3492557",
@@ -21,7 +23,8 @@ export const catalog = [
     "kind": "sheet",
     "pages": 14,
     "description": "Archived character sheet with class details, equipment, and spells from this export.",
-    "href": "#/companions/terry"
+    "href": "#/companions/terry",
+    "pdfPath": "library-pdfs/terry-character-sheet.pdf"
   },
   {
     "id": "16bede605397e1ebeb1cc3e23c53ef3ca0383af637a9974bacf84629494184c5",
@@ -29,7 +32,8 @@ export const catalog = [
     "kind": "sheet",
     "pages": 8,
     "description": "Archived character sheet with equipment, features, and abilities from this export.",
-    "href": "#/companions/thunder"
+    "href": "#/companions/thunder",
+    "pdfPath": "library-pdfs/thunder-character-sheet.pdf"
   },
   {
     "id": "82da43e6a9a3b357cbe5c7fefff94a2a307ceb5c5fb95d5cc9612cd1cce5a829",
@@ -124,7 +128,8 @@ export const catalog = [
     "kind": "planning",
     "pages": 1,
     "description": "A diagram linking factions, bloodline research, and proposed adventure objectives.",
-    "href": "#/deep-horizon"
+    "href": "#/deep-horizon",
+    "pdfPath": "library-pdfs/the-plot.pdf"
   },
   {
     "id": "2991e10c0a5f579a87ef4dfc913ab2c2794c5b1fc41e3316a89c7df6256b04e6",
@@ -132,7 +137,8 @@ export const catalog = [
     "kind": "planning",
     "pages": 1,
     "description": "A diagram of research threads, factions, and objectives around Deep Horizon.",
-    "href": "#/deep-horizon"
+    "href": "#/deep-horizon",
+    "pdfPath": "library-pdfs/party-notes.pdf"
   },
   {
     "id": "c00780e3b04d93c0b582cd24e8302c65b76b38b92114a8b316b308772e8b0cbd",
@@ -141,7 +147,8 @@ export const catalog = [
     "pages": 1,
     "description": "Incomplete Quick Look export. The diagram marks an unfinished loop.",
     "href": "#/deep-horizon",
-    "badge": "Incomplete preview"
+    "badge": "Incomplete preview",
+    "pdfPath": "library-pdfs/deep-horizon-map-preview.pdf"
   },
   {
     "id": "793eeb1ffc804f12a36995a1132c558e4d8a6c98b393d881fcabc68cc9590304",
@@ -149,7 +156,8 @@ export const catalog = [
     "kind": "planning",
     "pages": 1,
     "description": "A Quick Look export of the town map and its linked locations.",
-    "href": "#/time-and-places/brindinford"
+    "href": "#/time-and-places/brindinford",
+    "pdfPath": "library-pdfs/brindinford-map-preview.pdf"
   },
   {
     "id": "dede4ad48092603b2f2aa9ea6259b316c0f173846208d0c4214d1b60ed0ae337",
@@ -157,7 +165,8 @@ export const catalog = [
     "kind": "planning",
     "pages": 1,
     "description": "Proposed consequences of the blast for Shrop, Terry, Thunder, and Grim.",
-    "href": "#/bastion"
+    "href": "#/bastion",
+    "pdfPath": "library-pdfs/blast-of-pelor.pdf"
   },
   {
     "id": "9b2f41bcb1660763e9140369baff707cd44ab163dd41f80aaf92cc797c872cc8",
@@ -165,7 +174,8 @@ export const catalog = [
     "kind": "planning",
     "pages": 1,
     "description": "A map of objectives and possible detours around the Guild of Sleep, Desayeus, and the Bastion.",
-    "href": "#/bastion"
+    "href": "#/bastion",
+    "pdfPath": "library-pdfs/bastion-goals.pdf"
   },
   {
     "id": "fc01d96ecce8b804f1ad3c42327fe8b89d3370556400991214b1f356e08ca129",
@@ -173,6 +183,7 @@ export const catalog = [
     "kind": "draft",
     "pages": 12,
     "description": "An early retrospective draft covering nine adventures. Its chronology and interpretations need checking against the campaign record.",
-    "href": "#/timeline"
+    "href": "#/timeline",
+    "badge": "Browser import only"
   }
 ];

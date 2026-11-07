@@ -1,4 +1,4 @@
-import { catalog } from './gm-library-catalog.js?v=1';
+import { catalog } from './gm-library-catalog.js?v=2';
 
 const kinds = {
   sheet: 'Character sheets',
@@ -45,14 +45,22 @@ export function renderGmLibrary() {
     <header class="section gm-library-heading">
       <p class="eyebrow">Team Biscuit · Behind the screen</p>
       <h1>GM’s Library</h1>
-      <p>Read the published adventure previews and browse character sheets and working papers from the campaign.</p>
+      <p>Read archived character sheets, campaign diagrams, and publisher previews.</p>
     </header>
     <section class="section gm-library" aria-label="Campaign PDFs">
+      <p class="gm-library-guide">Published references describe the adventures as written. Each preview is an excerpt. Planning diagrams show intentions, and character sheets preserve a snapshot of each export.</p>
+      <div class="gm-library-filters">
+        <div><label for="gm-library-query">Find a document</label><input id="gm-library-query" type="search" placeholder="Try Bastion or Brindinford"></div>
+        <div><label for="gm-library-kind">Category</label><select id="gm-library-kind"><option value="all">All categories</option>${categoryOptions()}</select></div>
+        <label class="gm-library-saved"><input type="checkbox" data-gm-saved> In this browser</label>
+      </div>
+      <p data-gm-count role="status"></p>
+      <div class="gm-library-grid" data-gm-list></div>
       <div class="gm-library-import">
         <div>
-          <h2>Add your PDFs</h2>
+          <h2>Add a private copy</h2>
           <p>Choose individual files or the collection folder. The library recognizes the reviewed PDFs and matches them to their entries, including diagrams with the same filename.</p>
-          <p>Copies are stored in this browser. To read them on another device or after clearing site data, add the originals there.</p>
+          <p>Imported copies stay in this browser. The shared PDFs are ready to read.</p>
         </div>
         <div class="gm-library-import-tools">
           <label for="gm-import-kind">Category for other PDFs</label>
@@ -66,14 +74,6 @@ export function renderGmLibrary() {
           <p data-gm-status role="status" aria-live="polite"></p>
         </div>
       </div>
-      <p class="gm-library-guide">Published references describe the adventures as written. Each preview is an excerpt. Planning diagrams show intentions, and character sheets preserve a snapshot of each export.</p>
-      <div class="gm-library-filters">
-        <div><label for="gm-library-query">Find a document</label><input id="gm-library-query" type="search" placeholder="Try Bastion or Brindinford"></div>
-        <div><label for="gm-library-kind">Category</label><select id="gm-library-kind"><option value="all">All categories</option>${categoryOptions()}</select></div>
-        <label class="gm-library-saved"><input type="checkbox" data-gm-saved> In this browser</label>
-      </div>
-      <p data-gm-count role="status"></p>
-      <div class="gm-library-grid" data-gm-list></div>
     </section>
     <dialog class="gm-library-reader" aria-labelledby="gm-reader-title">
       <div class="gm-library-reader-heading">
@@ -115,6 +115,7 @@ export function bindGmLibrary(main) {
   let busy = false;
   let readerUrl;
   let readerButton;
+  let pdfRequest;
   let pdfLoad;
   let pdfDocument;
   let pageNumber = 0;
@@ -138,10 +139,10 @@ export function bindGmLibrary(main) {
           ${(entry.online ?? []).map(({ label, url }) => `
             <a href="${escape(url)}" target="_blank" rel="noopener">${escape(label)} ↗</a>
           `).join('')}
+          ${entry.pdfPath || documents.has(entry.id) ? `<button type="button" data-gm-read="${entry.id}">Read PDF</button>` : ''}
           ${documents.has(entry.id) ? `
-            <button type="button" data-gm-read="${entry.id}">Read PDF</button>
             <button class="gm-library-remove" type="button" data-gm-remove="${entry.id}" ${busy ? 'disabled' : ''}>Remove local copy</button>
-          ` : entry.online ? '' : '<span>Add a copy to read</span>'}
+          ` : ''}
           ${entry.href ? `<a href="${entry.href}">Related campaign page ↗</a>` : ''}
         </div>
       </article>`).join('') : '<p class="gm-library-empty">No documents match this view.</p>';
@@ -200,11 +201,12 @@ export function bindGmLibrary(main) {
   }
 
   function releaseReader() {
+    pdfRequest = undefined;
     if (pdfLoad) pdfLoad.destroy().catch(() => {});
     pdfLoad = undefined;
     pdfDocument = undefined;
     preview.replaceChildren();
-    if (readerUrl) URL.revokeObjectURL(readerUrl);
+    if (readerUrl?.startsWith('blob:')) URL.revokeObjectURL(readerUrl);
     readerUrl = undefined;
   }
 
@@ -238,31 +240,33 @@ export function bindGmLibrary(main) {
     }
   }
 
-  async function loadPdf(record, url) {
+  async function loadPdf(url, localPdf) {
+    const request = Symbol();
+    pdfRequest = request;
     pageNumber = 1;
     previous.disabled = next.disabled = true;
     pageStatus.textContent = 'Opening PDF…';
     try {
       const { getDocument, GlobalWorkerOptions } = await import('./vendor/pdfjs-6.5.438/pdf.min.mjs');
-      const data = await record.pdf.arrayBuffer();
-      if (readerUrl !== url) return;
+      const source = localPdf ? { data: await localPdf.arrayBuffer() } : { url };
+      if (pdfRequest !== request) return;
       const vendorPath = './vendor/pdfjs-6.5.438/';
       const vendor = new URL(vendorPath, import.meta.url);
       GlobalWorkerOptions.workerSrc = new URL('pdf.worker.min.mjs', vendor).href;
       GlobalWorkerOptions.rendererSrc = new URL('pdf.renderer.min.mjs', vendor).href;
       pdfLoad = getDocument({
-        data,
+        ...source,
         cMapUrl: new URL('cmaps/', vendor).href,
         iccUrl: new URL('iccs/', vendor).href,
         standardFontDataUrl: new URL('standard_fonts/', vendor).href,
         wasmUrl: new URL('wasm/', vendor).href
       });
       const document = await pdfLoad.promise;
-      if (readerUrl !== url) return;
+      if (pdfRequest !== request) return;
       pdfDocument = document;
       await showPage(1);
     } catch {
-      if (readerUrl === url) pageStatus.textContent = 'Preview unavailable. Open or save the PDF above.';
+      if (pdfRequest === request) pageStatus.textContent = 'Preview unavailable. Open or save the PDF above.';
     }
   }
 
@@ -283,19 +287,21 @@ export function bindGmLibrary(main) {
     if (!button) return;
     const id = button.dataset.gmRead ?? button.dataset.gmRemove;
     const record = documents.get(id);
-    if (!record) return;
     const entry = known.get(id) ?? record;
+    if (!entry) return;
     if (button.dataset.gmRead) {
+      const sharedPath = entry.pdfPath;
+      if (!sharedPath && !record) return;
       readerButton = button;
-      readerUrl = URL.createObjectURL(record.pdf);
+      readerUrl = sharedPath ? new URL(sharedPath, document.baseURI).href : URL.createObjectURL(record.pdf);
       reader.querySelector('#gm-reader-title').textContent = entry.title;
       const download = reader.querySelector('[data-gm-download]');
       download.href = readerUrl;
-      download.download = record.filename;
+      download.download = sharedPath ? sharedPath.split('/').at(-1) : record.filename;
       reader.querySelector('[data-gm-open]').href = readerUrl;
       reader.showModal();
-      loadPdf(record, readerUrl);
-    } else if (!busy) {
+      loadPdf(readerUrl, sharedPath ? undefined : record.pdf);
+    } else if (record && !busy) {
       setBusy(true);
       try {
         await useStore(db, 'readwrite', store => store.delete(id));

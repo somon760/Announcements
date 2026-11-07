@@ -1,4 +1,4 @@
-import { renderGmLibrary, bindGmLibrary } from './gm-library.js?v=2';
+import { renderGmLibrary, bindGmLibrary } from './gm-library.js?v=3';
 import {renderUnopenedRoomCallout} from './unopened-room.js?v=nightfang-room-1';
 import { renderMapWall, bindMapWall, mapViewerItems } from './map-wall.js?v=map-wall-1';
 import { renderRevelations, bindRevelations, renderRevelationsCallout, buildSearchIndex } from './revelations.js?v=nightfang-room-1';
