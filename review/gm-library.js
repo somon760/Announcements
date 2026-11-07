@@ -1,4 +1,4 @@
-import { catalog } from './gm-library-catalog.js?v=2';
+import { catalog } from './gm-library-catalog.js?v=3';
 
 const kinds = {
   sheet: 'Character sheets',
@@ -45,10 +45,10 @@ export function renderGmLibrary() {
     <header class="section gm-library-heading">
       <p class="eyebrow">Team Biscuit · Behind the screen</p>
       <h1>GM’s Library</h1>
-      <p>Read archived character sheets, campaign diagrams, and publisher previews.</p>
+      <p>Read archived character sheets, campaign diagrams, and adventure books.</p>
     </header>
     <section class="section gm-library" aria-label="Campaign PDFs">
-      <p class="gm-library-guide">Published references describe the adventures as written. Each preview is an excerpt. Planning diagrams show intentions, and character sheets preserve a snapshot of each export.</p>
+      <p class="gm-library-guide">Published references describe the adventures as written. AnyFlip links open third-party copies, and publisher previews are excerpts. Planning diagrams show intentions, and character sheets preserve a snapshot of each export.</p>
       <div class="gm-library-filters">
         <div><label for="gm-library-query">Find a document</label><input id="gm-library-query" type="search" placeholder="Try Bastion or Brindinford"></div>
         <div><label for="gm-library-kind">Category</label><select id="gm-library-kind"><option value="all">All categories</option>${categoryOptions()}</select></div>

@@ -36,6 +36,58 @@ export const catalog = [
     "pdfPath": "library-pdfs/thunder-character-sheet.pdf"
   },
   {
+    "id": "sunless-citadel",
+    "title": "The Sunless Citadel",
+    "kind": "reference",
+    "description": "Original third edition adventure.",
+    "href": "#/sunless-citadel",
+    "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/skgs/urow"
+      }
+    ]
+  },
+  {
+    "id": "forge-of-fury",
+    "title": "The Forge of Fury",
+    "kind": "reference",
+    "description": "Original third edition adventure.",
+    "href": "#/forge-of-fury",
+    "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/yjmn/basic"
+      }
+    ]
+  },
+  {
+    "id": "speaker-in-dreams",
+    "title": "The Speaker in Dreams",
+    "kind": "reference",
+    "description": "Original third edition adventure set in Brindinford.",
+    "href": "#/speaker-in-dreams",
+    "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/pinf/basic"
+      }
+    ]
+  },
+  {
+    "id": "standing-stone",
+    "title": "The Standing Stone",
+    "kind": "reference",
+    "description": "Original third edition adventure set in Ossington.",
+    "href": "#/standing-stone",
+    "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/zibv/basic"
+      }
+    ]
+  },
+  {
     "id": "82da43e6a9a3b357cbe5c7fefff94a2a307ceb5c5fb95d5cc9612cd1cce5a829",
     "title": "Heart of Nightfang Spire",
     "kind": "reference",
@@ -43,6 +95,10 @@ export const catalog = [
     "description": "Published third edition adventure. Includes the keyed plan used to identify the unopened room.",
     "href": "#/revelations/nightfang-room",
     "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/mlii/basic"
+      },
       {
         "label": "Free publisher preview (6 PDF pages)",
         "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/24984-sample.pdf"
@@ -61,6 +117,10 @@ export const catalog = [
     "description": "Published third edition adventure and maps of the desmodu and the Underdark.",
     "href": "#/deep-horizon",
     "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/kgqq/basic"
+      },
       {
         "label": "Free publisher preview (6 PDF pages)",
         "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/25110-sample.pdf"
@@ -82,6 +142,10 @@ export const catalog = [
       {
         "label": "Read the free web supplement (PDF)",
         "url": "https://www.tsrarchive.com/3e/Ruined_Gatehouse.pdf"
+      },
+      {
+        "label": "Read in Deep Horizon on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/kgqq/basic"
       }
     ]
   },
@@ -94,12 +158,46 @@ export const catalog = [
     "href": "#/iron-fortress",
     "online": [
       {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/fvtj/basic"
+      },
+      {
         "label": "Free publisher preview (6 PDF pages)",
         "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/28472-sample.pdf"
       },
       {
         "label": "Full edition (purchase)",
         "url": "https://www.drivethrurpg.com/en/product/28472/lord-of-the-iron-fortress-3e"
+      }
+    ]
+  },
+  {
+    "id": "white-plume",
+    "title": "White Plume Mountain",
+    "kind": "reference",
+    "description": "The original AD&D module and its fifth edition adaptation.",
+    "href": "#/white-plume",
+    "online": [
+      {
+        "label": "Read original AD&D module on AnyFlip (third-party)",
+        "url": "https://anyflip.com/cmjgl/qhrj/basic"
+      },
+      {
+        "label": "Fifth edition adaptation (D&D Beyond)",
+        "url": "https://www.dndbeyond.com/sources/dnd/tftyp"
+      }
+    ]
+  },
+  {
+    "id": "frostmaiden",
+    "title": "Icewind Dale: Rime of the Frostmaiden",
+    "kind": "reference",
+    "description": "Published fifth edition adventure.",
+    "href": "#/frostmaiden",
+    "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/cmjgl/yirg/basic"
       }
     ]
   },
@@ -112,6 +210,10 @@ export const catalog = [
     "href": "#/bastion",
     "badge": "Duplicate in source collection",
     "online": [
+      {
+        "label": "Read on AnyFlip (third-party)",
+        "url": "https://anyflip.com/myubd/puar/basic/"
+      },
       {
         "label": "Free publisher preview (6 PDF pages)",
         "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/28449-sample.pdf"
