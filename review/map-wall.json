@@ -1,0 +1,1918 @@
+{
+  "maps": [
+    {
+      "id": "a88998139fd818cc86fa12c9",
+      "media": "a88998139fd818cc86fa12c9",
+      "title": "Below the fortress, the roots",
+      "group": "sunless-citadel",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The lower caverns led towards Belak and the Gulthias Tree, where the mystery of the strange apples took root. What looked like a local harvest carried a danger that could spread far beyond Oakhurst."
+      ],
+      "story": {
+        "chapter": "sunless-citadel",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/a88998139fd818cc86fa12c9.jpg",
+      "url": "media/images/sunless-citadel/sunless-citadel-grove-level-map.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        682,
+        900
+      ]
+    },
+    {
+      "id": "deeca74dee22cf2e62e16f47",
+      "media": "deeca74dee22cf2e62e16f47",
+      "title": "Oakhurst, where people waited",
+      "group": "sunless-citadel",
+      "kind": "town",
+      "paragraphs": [
+        "Oakhurst awaited news of the missing Hucreles. The company returned from the Citadel with their rings and a warning about twig blights."
+      ],
+      "story": {
+        "chapter": "sunless-citadel",
+        "scene": 5
+      },
+      "thumbnail": "media/thumbs/deeca74dee22cf2e62e16f47.jpg",
+      "url": "media/images/between-adventures/deeca74dee22cf2e62e16f47.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        497,
+        720
+      ]
+    },
+    {
+      "id": "cc3739e9f1b35b2aa47a1058",
+      "media": "cc3739e9f1b35b2aa47a1058",
+      "title": "The fortress beneath Oakhurst",
+      "group": "sunless-citadel",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The company descended through these passages while searching for the missing Hucreles. Below Oakhurst, it first encountered the history of Ashardalon."
+      ],
+      "story": {
+        "chapter": "sunless-citadel",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/cc3739e9f1b35b2aa47a1058.jpg",
+      "url": "media/images/sunless-citadel/sunless-citadel-fortress-level-map.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        434,
+        900
+      ]
+    },
+    {
+      "id": "5897a1365e376e6427121ebd",
+      "media": "5897a1365e376e6427121ebd",
+      "title": "A fortress imagined in stone",
+      "group": "forge-of-fury",
+      "kind": "reference",
+      "paragraphs": [
+        "The illustration depicts a dwarven fortress in stone. It accompanies the search for Durgeddin’s legacy in the fallen hold of Khundrukar."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/5897a1365e376e6427121ebd.jpg",
+      "url": "media/images/speaker-in-dreams/5897a1365e376e6427121ebd.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        479
+      ]
+    },
+    {
+      "id": "3c44da05b81a4e8df69eaf40",
+      "media": "3c44da05b81a4e8df69eaf40",
+      "title": "A mark upon the Stone Tooth",
+      "group": "forge-of-fury",
+      "kind": "region",
+      "paragraphs": [
+        "The marked mountain map pointed towards Khundrukar. Orc defences and Durgeddin’s lost works lay beneath the Stone Tooth."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/3c44da05b81a4e8df69eaf40.jpg",
+      "url": "media/images/speaker-in-dreams/3c44da05b81a4e8df69eaf40.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        553,
+        720
+      ]
+    },
+    {
+      "id": "game-91d9c670196554d178",
+      "title": "Khundrukar · The Black Lake",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Nightscale waited in the water at the bottom of the company’s descent. The young black dragon fell here, ending the deepest threat of the Forge of Fury journey."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 6
+      },
+      "thumbnail": "media/maps/game-91d9c670196554d178-thumb.webp",
+      "url": "media/maps/game-91d9c670196554d178.webp",
+      "originalUrl": "https://files.d20.io/marketplace/248209/gIGG5vFGurQdsIQPU4ZAhw/original.jpg?1488053851&149030060655",
+      "dimensions": [
+        6000,
+        2230
+      ],
+      "originalDimensions": [
+        10000,
+        3717
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        260
+      ]
+    },
+    {
+      "id": "game-7652f57bce20d3af0d",
+      "title": "Khundrukar · The Foundry",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Other smiths worked among the remnants of Durgeddin’s halls. The company’s descent through Khundrukar passed these contested forges before the Black Lake."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 4
+      },
+      "thumbnail": "media/maps/game-7652f57bce20d3af0d-thumb.webp",
+      "url": "media/maps/game-7652f57bce20d3af0d.webp",
+      "originalUrl": "https://files.d20.io/images/61597766/Wf1nnwrO-6TqICldexdlfA/original.jpg?153563995155",
+      "dimensions": [
+        5320,
+        3010
+      ],
+      "originalDimensions": [
+        5320,
+        3010
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        396
+      ]
+    },
+    {
+      "id": "game-ae4a19c992d3b7578b",
+      "title": "Khundrukar · The Glitterhame, full plan",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The Glitterhame opened beneath the upper halls in caverns of water, fungus and scattered light. The company continued through this deeper country on the way to Nightscale’s lake."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 3
+      },
+      "thumbnail": "media/maps/game-ae4a19c992d3b7578b-thumb.webp",
+      "url": "media/maps/game-ae4a19c992d3b7578b.webp",
+      "originalUrl": "https://files.d20.io/marketplace/247559/RUpUuQzMIpxJZ9ojw7zI5A/original.jpg?1488050995&149030027555",
+      "dimensions": [
+        6000,
+        5432
+      ],
+      "originalDimensions": [
+        10000,
+        9054
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        634
+      ]
+    },
+    {
+      "id": "game-e76a4c90e14491e065",
+      "title": "Khundrukar · The Mountain Door",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The Mountain Door guarded the way into Durgeddin’s ruined stronghold. Beyond it lay the passages where the company found the twins and arranged their escape."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 2
+      },
+      "thumbnail": "media/maps/game-e76a4c90e14491e065-thumb.webp",
+      "url": "media/maps/game-e76a4c90e14491e065.webp",
+      "originalUrl": "https://files.d20.io/marketplace/247146/AH9_kAxy27lZYGD0T-kW1w/original.jpg?1488029365&149030010455",
+      "dimensions": [
+        6000,
+        2707
+      ],
+      "originalDimensions": [
+        10000,
+        4512
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        316
+      ]
+    },
+    {
+      "id": "game-b0d685ba7eec83fe56",
+      "title": "Khundrukar · The Sinkhole",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The Sinkhole belongs to the deeper routes beneath Khundrukar. Its plan connects the upper dungeon’s descent with the lower reaches of the Forge of Fury."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 3
+      },
+      "thumbnail": "media/maps/game-b0d685ba7eec83fe56-thumb.webp",
+      "url": "media/maps/game-b0d685ba7eec83fe56.webp",
+      "originalUrl": "https://files.d20.io/marketplace/248237/o1qiUcjxXLBZJc53JYXLPA/original.jpg?1488051822&149030063055",
+      "dimensions": [
+        6000,
+        2900
+      ],
+      "originalDimensions": [
+        9000,
+        4350
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        338
+      ]
+    },
+    {
+      "id": "6a8c45944b91655aa95351b2",
+      "media": "6a8c45944b91655aa95351b2",
+      "title": "Khundrukar, spread before them",
+      "group": "forge-of-fury",
+      "kind": "region",
+      "paragraphs": [
+        "This plan connects the hold’s approaches, forge and waters below. The company descended through them to Nightscale’s lair."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/6a8c45944b91655aa95351b2.jpg",
+      "url": "media/images/speaker-in-dreams/6a8c45944b91655aa95351b2.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        556
+      ]
+    },
+    {
+      "id": "8677666c925f5971613b1d14",
+      "media": "8677666c925f5971613b1d14",
+      "title": "The Glitterhame",
+      "group": "forge-of-fury",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Water and fungi filled the Glitterhame beneath Khundrukar. The company crossed its caverns on the way towards the lower halls and Black Lake."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/8677666c925f5971613b1d14.jpg",
+      "url": "media/images/forge-of-fury/forge-of-fury-glitterhame-map.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        900,
+        824
+      ]
+    },
+    {
+      "id": "3fcb2c0a3cad25fb60b56635",
+      "media": "3fcb2c0a3cad25fb60b56635",
+      "title": "The Stone Tooth",
+      "group": "forge-of-fury",
+      "kind": "region",
+      "paragraphs": [
+        "The map recovered from the Citadel led towards Durgeddin's lost stronghold beneath this landmark. Reaching the mountain meant exchanging Oakhurst's buried ruin for the orc-held approaches to Khundrukar."
+      ],
+      "story": {
+        "chapter": "forge-of-fury",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/3fcb2c0a3cad25fb60b56635.jpg",
+      "url": "media/images/forge-of-fury/forge-of-fury-stone-tooth-map.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        686,
+        900
+      ]
+    },
+    {
+      "id": "9a67a0902eacb392555b03e8",
+      "media": "9a67a0902eacb392555b03e8",
+      "title": "Above the streets, the bell tower",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The bell tower overlooked Brindinford’s streets. It survived as a landmark even after the town below was ruined."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/9a67a0902eacb392555b03e8.jpg",
+      "url": "media/images/speaker-in-dreams/9a67a0902eacb392555b03e8.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        656,
+        720
+      ]
+    },
+    {
+      "id": "93f689726e512db35fe7dd6a",
+      "media": "93f689726e512db35fe7dd6a",
+      "title": "Brindinford before its fall",
+      "group": "speaker-in-dreams",
+      "kind": "town",
+      "paragraphs": [
+        "The manor, temple and bell tower appear among Brindinford’s streets. The company would recognise those landmarks in the later sunken ruins."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/93f689726e512db35fe7dd6a.jpg",
+      "url": "media/images/speaker-in-dreams/93f689726e512db35fe7dd6a.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        561
+      ]
+    },
+    {
+      "id": "game-6708daeac07213f2dc",
+      "title": "Brindinford · unmarked town plan",
+      "group": "speaker-in-dreams",
+      "kind": "town",
+      "paragraphs": [
+        "The first Brindinford adventure ended with the Baron freed and the city celebrating. This unmarked plan preserves that city’s streets, before the later volcanic collapse."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 6
+      },
+      "thumbnail": "media/maps/game-6708daeac07213f2dc-thumb.webp",
+      "url": "media/maps/game-6708daeac07213f2dc.webp",
+      "originalUrl": "https://files.d20.io/images/146102102/nrVgvWyYv9Dn23S8RynOeg/original.jpg?159313127255",
+      "dimensions": [
+        914,
+        718
+      ],
+      "originalDimensions": [
+        914,
+        718
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        550
+      ]
+    },
+    {
+      "id": "7908baaf4c6e2cf4ba9f99ff",
+      "media": "7908baaf4c6e2cf4ba9f99ff",
+      "title": "Brindinford's docks",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Brindinford’s docks joined the early river routes. Those approaches later led towards ruins, the Deliverance and the passage beneath the earth."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/7908baaf4c6e2cf4ba9f99ff.jpg",
+      "url": "media/images/between-adventures/7908baaf4c6e2cf4ba9f99ff.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "id": "b61e5b18cbd9e163d00e3d02",
+      "media": "b61e5b18cbd9e163d00e3d02",
+      "title": "Pelor's temple in plan",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "These chambers formed Pelor’s temple, whose priests the conspiracy outlawed. The company fought to cleanse it and restore the sanctuary."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/b61e5b18cbd9e163d00e3d02.jpg",
+      "url": "media/images/speaker-in-dreams/b61e5b18cbd9e163d00e3d02.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        709,
+        720
+      ]
+    },
+    {
+      "id": "2b54238995719e78071af082",
+      "media": "2b54238995719e78071af082",
+      "title": "Pelor's temple, room by room",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Pelor’s temple is shown room by room. The company fought to restore this sanctuary for the priests and refugees of Brindinford."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/2b54238995719e78071af082.jpg",
+      "url": "media/images/between-adventures/2b54238995719e78071af082.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        405,
+        720
+      ]
+    },
+    {
+      "id": "e0c0c0a962f81e98ce2107c1",
+      "media": "e0c0c0a962f81e98ce2107c1",
+      "title": "The manor on Silver Hill",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The manor housed the Baron whose authority had been turned against Brindinford. The company fought its way inside to reach the mind flayer controlling him."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 6
+      },
+      "thumbnail": "media/thumbs/e0c0c0a962f81e98ce2107c1.jpg",
+      "url": "media/images/speaker-in-dreams/e0c0c0a962f81e98ce2107c1.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        686,
+        720
+      ]
+    },
+    {
+      "id": "48e9b1d14c75b001dcd5da84",
+      "media": "48e9b1d14c75b001dcd5da84",
+      "title": "The road between towns",
+      "group": "speaker-in-dreams",
+      "kind": "region",
+      "paragraphs": [
+        "The road from the early dungeons led to Brindinford. Its fair, temple and manor would become familiar stops in the company’s travels."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/48e9b1d14c75b001dcd5da84.jpg",
+      "url": "media/images/speaker-in-dreams/48e9b1d14c75b001dcd5da84.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        492,
+        720
+      ]
+    },
+    {
+      "id": "f03c7b0ea064c1f34e0f642b",
+      "media": "f03c7b0ea064c1f34e0f642b",
+      "title": "Under the town's streets",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Sewer bends run below the town’s streets. The company investigated concealed routes beneath Brindinford’s fair and public proclamations."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/f03c7b0ea064c1f34e0f642b.jpg",
+      "url": "media/images/between-adventures/f03c7b0ea064c1f34e0f642b.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "d4f5b5770141eef1dab49f9b",
+      "media": "d4f5b5770141eef1dab49f9b",
+      "title": "Ways through the market",
+      "group": "speaker-in-dreams",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Brindinford's alleys could carry a crowd, a rumour, or an attacker out of sight. The fair made the town lively, while its narrow passages helped conceal the forces trying to seize it."
+      ],
+      "story": {
+        "chapter": "speaker-in-dreams",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/d4f5b5770141eef1dab49f9b.jpg",
+      "url": "media/images/speaker-in-dreams/d4f5b5770141eef1dab49f9b.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        498,
+        720
+      ]
+    },
+    {
+      "id": "60bbe3ca7f1d5d2746e98dbc",
+      "media": "60bbe3ca7f1d5d2746e98dbc",
+      "title": "Beneath Red Horse Hill",
+      "group": "standing-stone",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The chambers descend below Red Horse Hill. The tarn and its broken crystal connected Ossington’s troubles with Ashardalon’s missing heart."
+      ],
+      "story": {
+        "chapter": "standing-stone",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/60bbe3ca7f1d5d2746e98dbc.jpg",
+      "url": "media/images/standing-stone/60bbe3ca7f1d5d2746e98dbc.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        706
+      ]
+    },
+    {
+      "id": "e6040aa15774f15d17704419",
+      "media": "e6040aa15774f15d17704419",
+      "title": "Ossington within the stones",
+      "group": "standing-stone",
+      "kind": "town",
+      "paragraphs": [
+        "Houses and fields stood inside Ossington’s double circle of stones. The company arrived with provisions and found Dyson’s experiments behind the village’s welcome."
+      ],
+      "story": {
+        "chapter": "standing-stone",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/e6040aa15774f15d17704419.jpg",
+      "url": "media/images/standing-stone/e6040aa15774f15d17704419.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "8e1d56a81bcb147f018fa4d4",
+      "media": "8e1d56a81bcb147f018fa4d4",
+      "title": "The Silence Keepers' stones",
+      "group": "standing-stone",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The circle marks the ancient Silence Keepers’ site. Ossington’s stones preserved duties and magic from before Dyson’s experiments."
+      ],
+      "story": {
+        "chapter": "standing-stone",
+        "scene": 7
+      },
+      "thumbnail": "media/thumbs/8e1d56a81bcb147f018fa4d4.jpg",
+      "url": "media/images/standing-stone/8e1d56a81bcb147f018fa4d4.jpeg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "2acc421133e950930af6c5af",
+      "media": "2acc421133e950930af6c5af",
+      "title": "The island in the tarn",
+      "group": "standing-stone",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The island and crossing sit within the tarn. Nearby, the company sought answers from the Horseman about Dyson and the villagers."
+      ],
+      "story": {
+        "chapter": "standing-stone",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/2acc421133e950930af6c5af.jpg",
+      "url": "media/images/standing-stone/2acc421133e950930af6c5af.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "204116b0c05cac1cab27fa90",
+      "media": "204116b0c05cac1cab27fa90",
+      "title": "A closer plan of the first level",
+      "group": "nightfang-spire",
+      "kind": "reference",
+      "paragraphs": [
+        "Numbered rooms fill the lower-tower plan. Grim’s search for secret ways and his fall into a pit trap took place among such passages."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/204116b0c05cac1cab27fa90.jpg",
+      "url": "media/images/nightfang-spire/204116b0c05cac1cab27fa90.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        658
+      ]
+    },
+    {
+      "id": "203f2c6cac13bbea6ebe071f",
+      "media": "203f2c6cac13bbea6ebe071f",
+      "title": "Another ring of chambers",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Curved walls repeat around another floor of Nightfang. Behind its doors waited further creatures serving Gulthias."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/203f2c6cac13bbea6ebe071f.jpg",
+      "url": "media/images/nightfang-spire/203f2c6cac13bbea6ebe071f.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "8d84cada7d620030acb7fce2",
+      "media": "8d84cada7d620030acb7fce2",
+      "title": "Below the tower's crown",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The upper chambers stood within Ashardalon’s former temple. Gulthias preserved its undead cult alongside his own power."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 5
+      },
+      "thumbnail": "media/thumbs/8d84cada7d620030acb7fce2.jpg",
+      "url": "media/images/nightfang-spire/8d84cada7d620030acb7fce2.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "f6e8bd9fd6ed2a319ac30675",
+      "media": "f6e8bd9fd6ed2a319ac30675",
+      "title": "Nightfang, level by level",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The plan continues through Nightfang’s guarded rooms. Grim found secret doors there and survived a pit trap with a prepared spell."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/f6e8bd9fd6ed2a319ac30675.jpg",
+      "url": "media/images/nightfang-spire/f6e8bd9fd6ed2a319ac30675.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "ee820553d705eb42eb7c63c0",
+      "media": "ee820553d705eb42eb7c63c0",
+      "title": "The heat inside the tower",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Fire and enclosed chambers formed part of Nightfang’s defences. The cult’s old rooms were being used to support Gulthias’s return."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/ee820553d705eb42eb7c63c0.jpg",
+      "url": "media/images/nightfang-spire/ee820553d705eb42eb7c63c0.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "a2da8036651b2296481da3b5",
+      "media": "a2da8036651b2296481da3b5",
+      "title": "The room of Stitches",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Tables, tools and scattered contents fill Stitches’s chamber. The room illustrates the flesh-working horrors within Gulthias’s domain."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 5
+      },
+      "thumbnail": "media/thumbs/a2da8036651b2296481da3b5.jpg",
+      "url": "media/images/nightfang-spire/a2da8036651b2296481da3b5.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        509
+      ]
+    },
+    {
+      "id": "6301ab2a9274149dea0d5169",
+      "media": "6301ab2a9274149dea0d5169",
+      "title": "The tower's first floor",
+      "group": "nightfang-spire",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The first-floor plan shows Nightfang’s interior chambers. Traps, undead and hidden doors guarded the routes onward."
+      ],
+      "story": {
+        "chapter": "nightfang-spire",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/6301ab2a9274149dea0d5169.jpg",
+      "url": "media/images/nightfang-spire/6301ab2a9274149dea0d5169.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "5fc05cf4807cb7b9162f187c",
+      "media": "5fc05cf4807cb7b9162f187c",
+      "title": "A fortress below the surface",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Guarded passages connect the chambers of this underground stronghold. The plan accompanies the war between the peoples of Deep Horizon."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/5fc05cf4807cb7b9162f187c.jpg",
+      "url": "media/images/deep-horizon/5fc05cf4807cb7b9162f187c.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "51b3bc1686996ae4a0e1e18f",
+      "media": "51b3bc1686996ae4a0e1e18f",
+      "title": "An underground village",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Homes cluster among the underground growth. They show the settlements threatened by the war in Deep Horizon."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/51b3bc1686996ae4a0e1e18f.jpg",
+      "url": "media/images/deep-horizon/51b3bc1686996ae4a0e1e18f.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "a65886559ca6bb0475cdb657",
+      "media": "a65886559ca6bb0475cdb657",
+      "title": "Below the salamander citadel",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The salamanders’ lower passages extend around the molten ground. They continued the defences beneath the upper citadel."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/a65886559ca6bb0475cdb657.jpg",
+      "url": "media/images/deep-horizon/a65886559ca6bb0475cdb657.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        352
+      ]
+    },
+    {
+      "id": "2ded77a5be2354b19bb575ab",
+      "media": "2ded77a5be2354b19bb575ab",
+      "title": "Fire under Vesperian's shrine",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Magma lay below Vesperian’s shrine. In Deep Horizon, the company had to cross and eventually divert the fire beneath the settlements."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/2ded77a5be2354b19bb575ab.jpg",
+      "url": "media/images/deep-horizon/2ded77a5be2354b19bb575ab.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        647
+      ]
+    },
+    {
+      "id": "ef58d8ad7a9cc62e11634415",
+      "media": "ef58d8ad7a9cc62e11634415",
+      "title": "Paths through a green cavern",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Pools and branching paths fill the green cavern. Settlements lay along such routes through the inhabited depths of Deep Horizon."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/ef58d8ad7a9cc62e11634415.jpg",
+      "url": "media/images/between-adventures/ef58d8ad7a9cc62e11634415.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "journal-367",
+      "title": "The Underdark connections",
+      "group": "deep-horizon",
+      "kind": "reference",
+      "paragraphs": [
+        "The Underdark papers preserved a diagram of linked places and figures. Read it beside Helkitrin’s account of the mines, the captives and the forces threatening the desmodu."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 2
+      },
+      "thumbnail": "media/maps/journal-367-thumb.webp",
+      "url": "media/maps/journal-367.webp",
+      "originalUrl": "https://files.d20.io/images/208727449/6kJ-Sda0drizZCgPu-I91Q/original.png?1615920997",
+      "dimensions": [
+        3852,
+        2584
+      ],
+      "originalDimensions": [
+        3852,
+        2584
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        470
+      ]
+    },
+    {
+      "id": "41e053f0f6b0f4711c02bd26",
+      "media": "41e053f0f6b0f4711c02bd26",
+      "title": "The salamanders' upper stronghold",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Lava lights the salamanders’ upper citadel. Its defended chambers supported their assault on the desmodu enclave."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/41e053f0f6b0f4711c02bd26.jpg",
+      "url": "media/images/deep-horizon/41e053f0f6b0f4711c02bd26.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        659
+      ]
+    },
+    {
+      "id": "faee4a83293e6912840d45ff",
+      "media": "faee4a83293e6912840d45ff",
+      "title": "The shrine above the magma",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Vesperian’s shrine stood within the desmodu realm. Its chambers place the company’s discoveries within the enclave’s religious and civic life."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/faee4a83293e6912840d45ff.jpg",
+      "url": "media/images/deep-horizon/faee4a83293e6912840d45ff.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        677
+      ]
+    },
+    {
+      "id": "8b45e5cf13ee30b79d1c709f",
+      "media": "8b45e5cf13ee30b79d1c709f",
+      "title": "The temple dungeon",
+      "group": "deep-horizon",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The temple’s chambers lie in darkness beneath the earth. The company’s pursuit of Dyson and his companions continued into the underground expedition."
+      ],
+      "story": {
+        "chapter": "deep-horizon",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/8b45e5cf13ee30b79d1c709f.jpg",
+      "url": "media/images/deep-horizon/8b45e5cf13ee30b79d1c709f.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        374,
+        338
+      ]
+    },
+    {
+      "id": "ae9a7036d4f5fd6716b1b9da",
+      "media": "ae9a7036d4f5fd6716b1b9da",
+      "title": "Across the cube's faces",
+      "group": "iron-fortress",
+      "kind": "reference",
+      "paragraphs": [
+        "The map spreads out Kolyoral’s faces. Its cube-shaped terrain surrounded the company’s approach to the Iron Fortress."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/ae9a7036d4f5fd6716b1b9da.jpg",
+      "url": "media/images/iron-fortress/ae9a7036d4f5fd6716b1b9da.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        498
+      ]
+    },
+    {
+      "id": "aa690e839fed796445368b23",
+      "media": "aa690e839fed796445368b23",
+      "title": "Brindinford on another map",
+      "group": "iron-fortress",
+      "kind": "town",
+      "paragraphs": [
+        "Brindinford appears on a map within the fortress chapter. Other maps placed hostile forces near the town while Team Biscuit crossed the planes."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 6
+      },
+      "thumbnail": "media/thumbs/aa690e839fed796445368b23.jpg",
+      "url": "media/images/iron-fortress/aa690e839fed796445368b23.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        502
+      ]
+    },
+    {
+      "id": "journal-434",
+      "title": "Kolyoral, unfolded",
+      "group": "iron-fortress",
+      "kind": "reference",
+      "paragraphs": [
+        "The cube’s faces were mapped before the company entered the Iron Fortress. This unfolded reference belongs beside the other plans of Kolyoral."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/maps/journal-434-thumb.webp",
+      "url": "media/maps/journal-434.webp",
+      "originalUrl": "https://files.d20.io/images/249048392/BkUJuo4E-7O4-iwCI1AHBw/original.png?1633558867",
+      "dimensions": [
+        1963,
+        1600
+      ],
+      "originalDimensions": [
+        1963,
+        1600
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        571
+      ]
+    },
+    {
+      "id": "ae99cb0884cc9d9fa247ce5a",
+      "media": "ae99cb0884cc9d9fa247ce5a",
+      "title": "Rigus at the edge of Acheron",
+      "group": "iron-fortress",
+      "kind": "town",
+      "paragraphs": [
+        "Rigus opened the way into Acheron. After its fall, refugees fled to the Red Keep and fought to hold it."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/ae99cb0884cc9d9fa247ce5a.jpg",
+      "url": "media/images/iron-fortress/ae99cb0884cc9d9fa247ce5a.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        608
+      ]
+    },
+    {
+      "id": "journal-1136",
+      "title": "Routes through Acheron",
+      "group": "iron-fortress",
+      "kind": "reference",
+      "paragraphs": [
+        "Maps from the company’s Acheron road were linked into this route diagram. The lines connect the individual plans and crossings."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/maps/journal-1136-thumb.webp",
+      "url": "media/maps/journal-1136.webp",
+      "originalUrl": "https://files.d20.io/images/439137111/0uS6-xzPgQHsLqNmnCUkJA/original.png?1746077765",
+      "dimensions": [
+        2544,
+        1658
+      ],
+      "originalDimensions": [
+        2544,
+        1658
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        456
+      ]
+    },
+    {
+      "id": "95bc65c351ca848dd6460954",
+      "media": "95bc65c351ca848dd6460954",
+      "title": "The Outlands and the gates beyond",
+      "group": "iron-fortress",
+      "kind": "region",
+      "paragraphs": [
+        "The ring of gate-towns places Rigus on the Outlands map. Its gate opened into Acheron."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/95bc65c351ca848dd6460954.jpg",
+      "url": "media/images/between-adventures/95bc65c351ca848dd6460954.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        542
+      ]
+    },
+    {
+      "id": "8cf1d2aa5498f8d6b29c6ac7",
+      "media": "8cf1d2aa5498f8d6b29c6ac7",
+      "title": "The battle for Brindinford",
+      "group": "iron-fortress",
+      "kind": "town",
+      "paragraphs": [
+        "The marked map places forces around Brindinford. Hostile armies threatened the town while the company travelled across the planes."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 6
+      },
+      "thumbnail": "media/thumbs/8cf1d2aa5498f8d6b29c6ac7.jpg",
+      "url": "media/images/between-adventures/8cf1d2aa5498f8d6b29c6ac7.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        566
+      ]
+    },
+    {
+      "id": "0ecc7d41f22e476bed29abe1",
+      "media": "0ecc7d41f22e476bed29abe1",
+      "title": "The next enclosure",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Further walls and gates divide the approach. The company crossed defended ground on its way to the imprisoned smiths."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/0ecc7d41f22e476bed29abe1.jpg",
+      "url": "media/images/iron-fortress/0ecc7d41f22e476bed29abe1.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "9056c44dab81cc8dd7436e69",
+      "media": "9056c44dab81cc8dd7436e69",
+      "title": "The passage grows darker",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Broken stone narrows the approach to the defended ruin. The image accompanies the passages the company crossed on its fortress expedition."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/9056c44dab81cc8dd7436e69.jpg",
+      "url": "media/images/bastion/9056c44dab81cc8dd7436e69.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "journal-403",
+      "title": "The wheel of the planes",
+      "group": "iron-fortress",
+      "kind": "reference",
+      "paragraphs": [
+        "A mysterious planar diagram lay among the campaign’s maps and papers. It offers a reference for the planar roads that opened around the company’s journey through Rigus."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/maps/journal-403-thumb.webp",
+      "url": "media/maps/journal-403.webp",
+      "originalUrl": "https://files.d20.io/images/232860318/6WqDSruIPM-syow2BpBCxQ/original.png?1625704168",
+      "dimensions": [
+        700,
+        708
+      ],
+      "originalDimensions": [
+        700,
+        708
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        692,
+        700
+      ]
+    },
+    {
+      "id": "39ea71705249947c3c8572e5",
+      "media": "39ea71705249947c3c8572e5",
+      "title": "Walls on the road to a greater fortress",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Walls enclose the defended courtyard. The illustration accompanies the company’s route from Rigus towards Imperagon’s fortress."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "thumbnail": "media/thumbs/39ea71705249947c3c8572e5.jpg",
+      "url": "media/images/iron-fortress/39ea71705249947c3c8572e5.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "22590c51b64df2962bb2855f",
+      "media": "22590c51b64df2962bb2855f",
+      "title": "Within the stone defences",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Routes and rooms run within the stone defences. They illustrate the strongholds encountered on the planar expedition towards Imperagon."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 3
+      },
+      "thumbnail": "media/thumbs/22590c51b64df2962bb2855f.jpg",
+      "url": "media/images/iron-fortress/22590c51b64df2962bb2855f.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "90851340bc5a28b136577ccd",
+      "media": "90851340bc5a28b136577ccd",
+      "title": "Zandikar, ground level",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Zandikar became Terry’s stronghold after Imperagon fell. The Armor of Zandikar tied its gates and golem guardians to the planar forge."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/90851340bc5a28b136577ccd.jpg",
+      "url": "media/images/iron-fortress/90851340bc5a28b136577ccd.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        630,
+        720
+      ]
+    },
+    {
+      "id": "384ad499b9ac76d82ab29487",
+      "media": "384ad499b9ac76d82ab29487",
+      "title": "Zandikar, upper level",
+      "group": "iron-fortress",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The upper plan extends through Zandikar’s rooms. Terry gained these chambers with the fortress after defeating its former master."
+      ],
+      "story": {
+        "chapter": "iron-fortress",
+        "scene": 4
+      },
+      "thumbnail": "media/thumbs/384ad499b9ac76d82ab29487.jpg",
+      "url": "media/images/iron-fortress/384ad499b9ac76d82ab29487.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        660,
+        720
+      ]
+    },
+    {
+      "id": "94f36f9823d642c7161cbab2",
+      "media": "94f36f9823d642c7161cbab2",
+      "title": "Baldur's Gate on the wider map",
+      "group": "white-plume",
+      "kind": "town",
+      "paragraphs": [
+        "Baldur’s Gate appears on the coast map. The Sleeper investigation ranged across familiar places while displacing the company in time."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/94f36f9823d642c7161cbab2.jpg",
+      "url": "media/images/bastion/94f36f9823d642c7161cbab2.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        478
+      ]
+    },
+    {
+      "id": "debdf292dda3fcdae533ec09",
+      "media": "debdf292dda3fcdae533ec09",
+      "title": "Beneath the Guild of Sleep",
+      "group": "white-plume",
+      "kind": "dungeon",
+      "paragraphs": [
+        "These chambers lay below the Guild of Sleep. The investigation led from them towards the Sleeper, the Time Stone and the company’s own past."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 2
+      },
+      "thumbnail": "media/thumbs/debdf292dda3fcdae533ec09.jpg",
+      "url": "media/images/bastion/debdf292dda3fcdae533ec09.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        593,
+        720
+      ]
+    },
+    {
+      "id": "07b6c5e3c9ceef1c330daf91",
+      "media": "07b6c5e3c9ceef1c330daf91",
+      "title": "Grimble's rooms",
+      "group": "white-plume",
+      "kind": "reference",
+      "paragraphs": [
+        "Grimble’s furnished rooms hold books, belongings and a table. They show the home the scholar could return to between expeditions.",
+        "Revisionist: Echoes in the Abyss borrowed Grim’s childhood home to make Xanthar seem like family. This artwork illustrates that borrowed setting; no map of the dream has been recovered. Grim’s profile links to the complete ordeal."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 6
+      },
+      "thumbnail": "media/thumbs/07b6c5e3c9ceef1c330daf91.jpg",
+      "url": "media/images/between-adventures/07b6c5e3c9ceef1c330daf91.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        444
+      ]
+    },
+    {
+      "id": "13b26e39d350650727fa1e72",
+      "media": "13b26e39d350650727fa1e72",
+      "title": "Shoomma's smithy",
+      "group": "white-plume",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Shoomma and Horken’s workrooms held the smithy’s tools and equipment. The company invested there during its return to earlier Brindinford."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 6
+      },
+      "thumbnail": "media/thumbs/13b26e39d350650727fa1e72.jpg",
+      "url": "media/images/bastion/13b26e39d350650727fa1e72.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        581
+      ]
+    },
+    {
+      "id": "journal-2432",
+      "title": "White Plume · Aquarium and Prison",
+      "group": "white-plume",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The mountain’s challenge led through chambers built to test more than swordplay. This aquarium-and-prison handout preserves another plan from White Plume."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "thumbnail": "media/maps/journal-2432-thumb.webp",
+      "url": "media/maps/journal-2432.webp",
+      "originalUrl": "https://files.d20.io/marketplace/254215/pKF1aspthLaGIE8BvniiqQ/original.jpg?1488234470&1490327242",
+      "dimensions": [
+        690,
+        904
+      ],
+      "originalDimensions": [
+        690,
+        904
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        534,
+        700
+      ]
+    },
+    {
+      "id": "journal-2429",
+      "title": "White Plume · Geysers and Chains",
+      "group": "white-plume",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Chains, water and dangerous crossings divided the hunt beneath White Plume Mountain. This handout plan records one part of Keraptis’s dungeon."
+      ],
+      "story": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "thumbnail": "media/maps/journal-2429-thumb.webp",
+      "url": "media/maps/journal-2429.webp",
+      "originalUrl": "https://files.d20.io/marketplace/254212/jPRacHAksEUGeT2HsNvRvQ/original.jpg?1488093998&1490327235",
+      "dimensions": [
+        690,
+        904
+      ],
+      "originalDimensions": [
+        690,
+        904
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        534,
+        700
+      ]
+    },
+    {
+      "id": "journal-1039",
+      "title": "A frozen map fragment",
+      "group": "frostmaiden",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The northern handouts preserved this fragment of icy rooms. It belongs among the maps accompanying the company’s passage through Icewind Dale."
+      ],
+      "story": {
+        "chapter": "frostmaiden",
+        "scene": 2
+      },
+      "thumbnail": "media/maps/journal-1039-thumb.webp",
+      "url": "media/maps/journal-1039.webp",
+      "originalUrl": "https://files.d20.io/images/421828838/jPywELu5sAv1UWxQ7Zvp8w/original.webp?1734758104",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "originalDimensions": [
+        1024,
+        1024
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "id": "92c6408d4077fda950990c49",
+      "media": "92c6408d4077fda950990c49",
+      "title": "Luskan by its bridges",
+      "group": "frostmaiden",
+      "kind": "town",
+      "paragraphs": [
+        "Luskan’s river and bridges appear on the coastal weapons trail. The Arcane Brotherhood’s interests reached towards the northern spire and its corrupted inhabitants."
+      ],
+      "story": {
+        "chapter": "frostmaiden",
+        "scene": 5
+      },
+      "thumbnail": "media/thumbs/92c6408d4077fda950990c49.jpg",
+      "url": "media/images/bastion/92c6408d4077fda950990c49.webp",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        582
+      ]
+    },
+    {
+      "id": "9b5b7d88e158499cb78621e5",
+      "media": "9b5b7d88e158499cb78621e5",
+      "title": "Neverwinter on the road north",
+      "group": "frostmaiden",
+      "kind": "town",
+      "paragraphs": [
+        "The map places Neverwinter on the coastal hunt for Keraptis. Rumours about the stolen weapons pointed north towards the ice."
+      ],
+      "story": {
+        "chapter": "frostmaiden",
+        "scene": 5
+      },
+      "thumbnail": "media/thumbs/9b5b7d88e158499cb78621e5.jpg",
+      "url": "media/images/bastion/9b5b7d88e158499cb78621e5.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        556
+      ]
+    },
+    {
+      "id": "b327f5b9aed79c5a2a04ec08",
+      "media": "b327f5b9aed79c5a2a04ec08",
+      "title": "The wider Faerûn",
+      "group": "frostmaiden",
+      "kind": "region",
+      "paragraphs": [
+        "The map shows the wider reaches of Faerûn. Later journeys carried the company beyond them into Acheron and the Bastion’s plane."
+      ],
+      "story": {
+        "chapter": "frostmaiden",
+        "scene": 12
+      },
+      "thumbnail": "media/thumbs/b327f5b9aed79c5a2a04ec08.jpg",
+      "url": "media/images/between-adventures/b327f5b9aed79c5a2a04ec08.jpg",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        720,
+        499
+      ]
+    },
+    {
+      "id": "12d0fa739b58d859556e5b07",
+      "media": "12d0fa739b58d859556e5b07",
+      "title": "Brindinford's barracks",
+      "group": "fungal-bloom",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The barracks became hard-won ground when the two companies fought through the ant-held Sunken City. A building once tied to the town guard now offered a position from which exhausted survivors could consider the next advance."
+      ],
+      "story": {
+        "chapter": "fungal-bloom",
+        "scene": 9
+      },
+      "thumbnail": "media/thumbs/12d0fa739b58d859556e5b07.jpg",
+      "url": "media/images/between-adventures/12d0fa739b58d859556e5b07.png",
+      "source": "Campaign archive",
+      "credit": "",
+      "thumbnailDimensions": [
+        328,
+        344
+      ]
+    },
+    {
+      "id": "game-88659ee7c35349c1b1",
+      "title": "The Reality Wrinkle · later chamber",
+      "group": "fungal-bloom",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The Reality Wrinkle survived among Brindinford’s ruined streets and offered a passage onward. Its hidden trap caught Gravy, while Biscuit’s road led to Windglum."
+      ],
+      "story": {
+        "chapter": "fungal-bloom",
+        "scene": 11
+      },
+      "thumbnail": "media/maps/game-88659ee7c35349c1b1-thumb.webp",
+      "url": "media/maps/game-88659ee7c35349c1b1.webp",
+      "originalUrl": "https://files.d20.io/images/489369078/4Qj5XDDLHVOS80Qy86M21Q/original.webp?1780512967",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "id": "game-6d7167d5144b14e99d",
+      "title": "Desayeus’s prison",
+      "group": "bastion",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Eco’s living doorway led into the prison where Desayeus held a fragment of the Soul Totem. Thunder carried the fragment out; the god remained bound."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 5
+      },
+      "thumbnail": "media/maps/game-6d7167d5144b14e99d-thumb.webp",
+      "url": "media/maps/game-6d7167d5144b14e99d.webp",
+      "originalUrl": "https://files.d20.io/images/494105969/0WuQOe9UibSyoqOCBKjkQQ/original.webp?1784147074",
+      "dimensions": [
+        3497,
+        2448
+      ],
+      "originalDimensions": [
+        3497,
+        2448
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        490
+      ]
+    },
+    {
+      "id": "game-765be6f8b180ef0708",
+      "title": "Eco’s doorway",
+      "group": "bastion",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Eco guarded the only living entrance to Desayeus’s prison. The company sought divine permission to enter, with the prisoner’s chains expressly left beyond that permission."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 3
+      },
+      "thumbnail": "media/maps/game-765be6f8b180ef0708-thumb.webp",
+      "url": "media/maps/game-765be6f8b180ef0708.webp",
+      "originalUrl": "https://files.d20.io/images/493998372/GAxQvhdTad4KfNncs8srjA/original.webp?1784056225",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "id": "game-39c6fe553106749e29",
+      "title": "The Bastion’s approach",
+      "group": "bastion",
+      "kind": "dungeon",
+      "paragraphs": [
+        "Ernie’s rings protected the companions as they crossed into the Positive Energy Plane. Beyond the approach waited the Bastion and the unborn souls sustaining Ashardalon."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 9
+      },
+      "thumbnail": "media/maps/game-39c6fe553106749e29-thumb.webp",
+      "url": "media/maps/game-39c6fe553106749e29.webp",
+      "originalUrl": "https://files.d20.io/images/497294618/jUzqczwTqHiA5BTUEAU8pA/original.webp?1786554760",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "id": "game-9acc491c28ff9b3146",
+      "title": "The Scaly Dog Inn",
+      "group": "bastion",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The Scaly Dog belongs to the company’s Windglum stopping places. The city sheltered the companions between the Wrinkle, Desayeus’s prison and the final crossing."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 2
+      },
+      "thumbnail": "media/maps/game-9acc491c28ff9b3146-thumb.webp",
+      "url": "media/maps/game-9acc491c28ff9b3146.webp",
+      "originalUrl": "https://files.d20.io/marketplace/1572700/5JlPK66DYa-LHoswQ5bmDA/original.jpg?1610660378",
+      "dimensions": [
+        3080,
+        2380
+      ],
+      "originalDimensions": [
+        3080,
+        2380
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        541
+      ]
+    },
+    {
+      "id": "game-6fa07905c445a6823c",
+      "title": "The Wrinkle’s backroom",
+      "group": "bastion",
+      "kind": "dungeon",
+      "paragraphs": [
+        "The old shop’s storeroom gave Biscuit shelter on the other side of its passage. From Windglum, Findula traced the route towards Eco and Desayeus."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 1
+      },
+      "thumbnail": "media/maps/game-6fa07905c445a6823c-thumb.webp",
+      "url": "media/maps/game-6fa07905c445a6823c.webp",
+      "originalUrl": "https://files.d20.io/marketplace/994107/y7lXXI_tHTnnr_JUgrKbag/original.jpg?1577606071",
+      "dimensions": [
+        4000,
+        3652
+      ],
+      "originalDimensions": [
+        4000,
+        3652
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        639
+      ]
+    },
+    {
+      "id": "game-50af4e19a1081ac633",
+      "title": "Windglum",
+      "group": "bastion",
+      "kind": "town",
+      "paragraphs": [
+        "Biscuit reached Windglum after the companies parted at the Wrinkle. The companions returned here after leaving Desayeus’s prison, before travelling onwards to the Bastion."
+      ],
+      "story": {
+        "chapter": "bastion",
+        "scene": 1
+      },
+      "thumbnail": "media/maps/game-50af4e19a1081ac633-thumb.webp",
+      "url": "media/maps/game-50af4e19a1081ac633.webp",
+      "originalUrl": "https://files.d20.io/marketplace/178793/ShFm75y8wUawOsQdAHGpQA/original.jpg?1475688309",
+      "dimensions": [
+        2800,
+        2800
+      ],
+      "originalDimensions": [
+        2800,
+        2800
+      ],
+      "source": "Game Page background",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "id": "journal-691",
+      "title": "The mysterious prison plan",
+      "group": "between-adventures",
+      "kind": "reference",
+      "paragraphs": [
+        "This annotated plan survives as a mysterious map among the campaign’s handouts. Its exact place in the company’s travels remains unresolved."
+      ],
+      "thumbnail": "media/maps/journal-691-thumb.webp",
+      "url": "media/maps/journal-691.webp",
+      "originalUrl": "https://files.d20.io/images/320339670/spVoPgM_LXGiquMN_y9qJw/original.png?1672270433",
+      "dimensions": [
+        2096,
+        2358
+      ],
+      "originalDimensions": [
+        2096,
+        2358
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        622,
+        700
+      ]
+    },
+    {
+      "id": "journal-497",
+      "title": "Zork’s great underground empire",
+      "group": "between-adventures",
+      "kind": "reference",
+      "paragraphs": [
+        "A Zork map survives among the company’s puzzle papers. No surviving account places the companions in its rooms."
+      ],
+      "thumbnail": "media/maps/journal-497-thumb.webp",
+      "url": "media/maps/journal-497.webp",
+      "originalUrl": "https://files.d20.io/images/266937232/RRlYw3sfFmQ3ug3VetqpOQ/original.png?1643045897",
+      "dimensions": [
+        3092,
+        2412
+      ],
+      "originalDimensions": [
+        3092,
+        2412
+      ],
+      "source": "Journal handout map",
+      "credit": "Artist and publisher credits remain on the original artwork where supplied.",
+      "thumbnailDimensions": [
+        700,
+        546
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "sunless-citadel",
+      "title": "The Sunless Citadel"
+    },
+    {
+      "id": "forge-of-fury",
+      "title": "The Forge of Fury"
+    },
+    {
+      "id": "speaker-in-dreams",
+      "title": "The Speaker in Dreams"
+    },
+    {
+      "id": "standing-stone",
+      "title": "The Standing Stone"
+    },
+    {
+      "id": "nightfang-spire",
+      "title": "Heart of Nightfang Spire"
+    },
+    {
+      "id": "deep-horizon",
+      "title": "Deep Horizon"
+    },
+    {
+      "id": "iron-fortress",
+      "title": "Lord of the Iron Fortress"
+    },
+    {
+      "id": "white-plume",
+      "title": "White Plume Mountain"
+    },
+    {
+      "id": "frostmaiden",
+      "title": "Icewind Dale: Rime of the Frostmaiden"
+    },
+    {
+      "id": "fungal-bloom",
+      "title": "Fungus Grotto"
+    },
+    {
+      "id": "bastion",
+      "title": "Bastion of Broken Souls"
+    },
+    {
+      "id": "between-adventures",
+      "title": "Roads and reference maps"
+    }
+  ],
+  "collectionNote": "Town plans, dungeon floors and paths between worlds, with alternate views and the puzzling papers kept along the road. Reference sheets and unplaced plans carry their own labels."
+}

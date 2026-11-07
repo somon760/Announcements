@@ -265,3 +265,16 @@ new planar placement or distance scale is inferred. Zandikar and the Red Keep
 remain separate; Hell is uncharted beyond Gravy’s confirmed destination.
 Header/home and chapter-top atlas links provide discovery. Original chapter
 reading order, content/statistics/gallery datasets and end navigation remain.
+
+
+## Behind the tale and the map wall
+
+`#/revelations` introduces five standalone additions: eleven expandable Revisionist reveals, six selectable consequence chains, a focused character web (22 figures / 35 relationships), campaign search and a 20-stop self-guided remembrance. Visitors advance and reveal passages themselves; the optional presentation view hides surrounding navigation locally. There is no shared session, login, autoplay, paid service or new backend. The original Cloudflare voting service is unchanged.
+
+Search indexes the existing public chapters, companions, possessions, gallery captions, Further Tales, atlas, map wall, revelations and Battle Chronicle. Spelling aliases cover Brunn/Brun, Shoomma/Shrooma, Frobozz/Froboz and Keraptis/Keruptus. Category filters, more results and shareable query links are supported. Battle results open the original ledger with the target filter applied.
+
+`#/time-and-places/maps` provides 77 maps and versions in 12 groups, with adventure/type/search filters, reset, direct map links, full-size viewing, original-image links and contextual scene links. 55 maps reuse the existing collection; nine journal references and thirteen game-background images extend it. Variants with different markings or reference functions remain distinct. Unplaced puzzle plans retain their uncertainty. Public display images have a maximum dimension of 6000 pixels; original-source links retain the larger originals where available.
+
+Original story/profile/statistics/battle/gallery/Further Tales datasets and the end-adventure pagination are preserved. `revelations.json` and `map-wall.json` contain the new curated data; their renderers are separate modules. Private game inventories, source captures, excluded overlays and collection gaps are kept out of the repository.
+
+Validation: `node scripts/test_revelations.mjs`, `node scripts/test_map_wall.mjs`, `node scripts/test_time_and_places.mjs`, `node scripts/test_further_tales.mjs`, JavaScript syntax checks and `npm run build`.

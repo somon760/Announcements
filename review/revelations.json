@@ -1,0 +1,1621 @@
+{
+  "reveals": [
+    {
+      "id": "borrowed-body",
+      "title": "The brother made from a missing book",
+      "belief": "Grim had lost a book. Later, the aboleth walked among the company wearing Brother Xanthar’s familiar face.",
+      "refs": [
+        {
+          "chapter": "writhe-below",
+          "scene": 2,
+          "hindsight": 1
+        },
+        {
+          "chapter": "grim-memory",
+          "scene": 10,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "person": "xanthar"
+      },
+      "unknown": "Whether Grim accepted the false childhood memories remains unknown."
+    },
+    {
+      "id": "keraptis",
+      "title": "Who rules White Plume now?",
+      "belief": "Keraptis’s invitation sent the company beneath the mountain. His name would follow the weapons into the north.",
+      "refs": [
+        {
+          "chapter": "white-plume",
+          "scene": 3,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "chapter": "white-plume",
+        "scene": 3
+      },
+      "unknown": null
+    },
+    {
+      "id": "equipment",
+      "title": "The portal that took their belongings",
+      "belief": "Biscuit arrived at the grotto naked. Ernie later returned most of the missing gear, but three epic weapons were absent.",
+      "refs": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 7,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "chapter": "bastion",
+        "scene": 7
+      },
+      "unknown": null
+    },
+    {
+      "id": "siblings",
+      "title": "The weapons kept their own account",
+      "belief": "Terry’s fourfold attunement made the rite possible. The company sacrificed Blackrazor against Pengu; Wave, Whelm and Frostrazor survived.",
+      "refs": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "unknown": null
+    },
+    {
+      "id": "lava",
+      "title": "The village they saved",
+      "belief": "The Brotherhood rerouted lava during the assault on the desmodu enclave. The village survived.",
+      "refs": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 3,
+          "hindsight": 1
+        }
+      ],
+      "image": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "unknown": null
+    },
+    {
+      "id": "pengu",
+      "title": "What escaped the candle",
+      "belief": "Shrop extinguished a candle in the Nightmare Grotto. Later, spells and divine aid began to fail.",
+      "refs": [
+        {
+          "chapter": "white-plume",
+          "scene": 1,
+          "hindsight": 1
+        }
+      ],
+      "image": {
+        "chapter": "frostmaiden",
+        "scene": 10
+      },
+      "unknown": "Pengu’s fighting form fell, leaving a living obsidian egg. Its later fate remains unknown."
+    },
+    {
+      "id": "missing-years",
+      "title": "The world lived without them",
+      "belief": "The dream returned the companions to their eighth-level selves. Their escape carried them twenty years beyond the original present they had left.",
+      "refs": [
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "hindsight": 0
+        },
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "hindsight": 1
+        }
+      ],
+      "image": {
+        "media": "93f689726e512db35fe7dd6a"
+      },
+      "unknown": null
+    },
+    {
+      "id": "heart",
+      "title": "The demon inside the dragon",
+      "belief": "The company pursued the soul crisis into the Bastion. Ashardalon had survived the loss of his original heart.",
+      "refs": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "chapter": "bastion",
+        "scene": 14
+      },
+      "unknown": "Ashardalon, Ammet and the unborn souls await the final account."
+    },
+    {
+      "id": "two-heads",
+      "title": "Another predator wanted the heart",
+      "belief": "The Cathezar hunted Thunder because he descended from Dydd, the druid who had wounded Ashardalon.",
+      "refs": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 5,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "person": "thunder"
+      },
+      "unknown": null
+    },
+    {
+      "id": "eco",
+      "title": "The doorway had a sister",
+      "belief": "Eco was the living entrance to Desayeus’s prison. After her death, Findula left a letter and ended the alliance.",
+      "refs": [],
+      "image": {
+        "chapter": "bastion",
+        "scene": 6
+      },
+      "unknown": null,
+      "truth": [
+        "Eco was Findula’s sister. Findula accepted that her choices had helped bring about Eco’s death and believed stopping Ashardalon justified the cost. Her letter declared the debt paid; she wanted no further contact with the company."
+      ],
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 3,
+          "label": "Read the scene"
+        },
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "wrong-company",
+      "title": "The trap’s intended victims",
+      "belief": "Biscuit and Gravy fought the ants together. At the Reality Wrinkle, the shared road broke apart.",
+      "refs": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 11,
+          "hindsight": 0
+        }
+      ],
+      "image": {
+        "person": "nox"
+      },
+      "unknown": "Gravy remains lost in Hell. The trap’s builder and a route home remain unknown."
+    }
+  ],
+  "chains": [
+    {
+      "id": "lava",
+      "title": "A rescue beneath the earth",
+      "intro": "The immediate rescue and the disaster it set in motion belong to the same history.",
+      "steps": [
+        {
+          "id": "rescue",
+          "title": "The desmodu village survives",
+          "text": "The Brotherhood diverts lava during the assault and saves the village.",
+          "link": {
+            "chapter": "deep-horizon",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "kind": "The company’s choice"
+        },
+        {
+          "id": "cataclysm",
+          "title": "Brindinford collapses",
+          "text": "The altered lava flow causes a volcanic cataclysm during the years the company misses.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Delayed consequence"
+        },
+        {
+          "id": "desmodu",
+          "title": "The desmodu are wiped out",
+          "text": "That same chain of consequences brings about the extinction of the desmodu during the missing twenty years.",
+          "link": {
+            "chapter": "deep-horizon",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Delayed consequence"
+        }
+      ]
+    },
+    {
+      "id": "pengu",
+      "title": "A candle extinguished",
+      "intro": "Follow the release, the failing magic and the northern working that answered it.",
+      "steps": [
+        {
+          "id": "candle",
+          "title": "Shrop snuffs the candle",
+          "text": "The spirit freed in the Nightmare Grotto is Pengu.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 1,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Hidden identity"
+        },
+        {
+          "id": "magic",
+          "title": "Magic drains from the world",
+          "text": "Spells, divine aid and magical wards fail under Pengu’s influence.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Consequence"
+        },
+        {
+          "id": "rite",
+          "title": "The company completes the rite",
+          "text": "Grim prepares the working; Terry attunes to all four epic weapons; Blackrazor is sacrificed.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "kind": "The company’s choice"
+        },
+        {
+          "id": "egg",
+          "title": "Pengu’s form falls; the egg remains",
+          "text": "The final blow leaves a ten-foot obsidian egg. Frostblight collapses, and the company escapes.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 10,
+            "label": "Read the scene"
+          },
+          "kind": "Known consequence"
+        },
+        {
+          "id": "recovery",
+          "title": "Magic begins to recover",
+          "text": "Eldath’s vision confirms the recovery has begun. The later fate of Pengu’s living egg remains unknown.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "kind": "Recovery · An open thread"
+        }
+      ]
+    },
+    {
+      "id": "weapons",
+      "title": "The price the weapons remember",
+      "intro": "The same sacrifice belongs to the company’s victory and the surviving weapons’ grievance.",
+      "steps": [
+        {
+          "id": "four",
+          "title": "Four weapons, one bearer",
+          "text": "Pelor’s boon lets Terry attune to Wave, Whelm, Frostrazor and Blackrazor together.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "kind": "A boon makes the rite possible"
+        },
+        {
+          "id": "sacrifice",
+          "title": "Blackrazor is sacrificed",
+          "text": "The evil, soul-eating blade is given to the completed ritual against Pengu.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "kind": "The company’s choice"
+        },
+        {
+          "id": "grievance",
+          "title": "Three siblings remember",
+          "text": "Wave, Whelm and Frostrazor hate the Brotherhood for sacrificing their sibling. They will never forgive.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · The weapons’ viewpoint"
+        }
+      ]
+    },
+    {
+      "id": "xanthar",
+      "title": "A book, a body and a stolen name",
+      "intro": "Xanthar’s history leads from Grim’s missing possession to White Plume Mountain.",
+      "steps": [
+        {
+          "id": "book",
+          "title": "Grim’s book is lost",
+          "text": "Xanthar uses the forgotten knowledge of flesh golems to manufacture Brother Xanthar’s body.",
+          "link": {
+            "chapter": "writhe-below",
+            "scene": 2,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Hidden action"
+        },
+        {
+          "id": "vial",
+          "title": "The K-vial takes hold",
+          "text": "Infected, Xanthar believes himself the true Keraptis. His power and constructed body spare him the zombie fate.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Hidden consequence"
+        },
+        {
+          "id": "mountain",
+          "title": "Xanthar takes White Plume",
+          "text": "He defeats the reigning K-clone prime and rules the mountain.",
+          "link": {
+            "chapter": "white-plume",
+            "scene": 3,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Succession"
+        },
+        {
+          "id": "portal",
+          "title": "The portal strips Biscuit’s gear",
+          "text": "His equipment deception separates the company from its belongings and returns the surviving weapons to his mountain.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Deception"
+        },
+        {
+          "id": "recovery",
+          "title": "Ernie returns the other belongings",
+          "text": "Most gear comes back. Wave, Whelm and Frostrazor remain with Xanthar. Ernie’s complicity is not established.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 7,
+            "label": "Read the scene"
+          },
+          "kind": "Recovery · Weapons still absent"
+        }
+      ]
+    },
+    {
+      "id": "gravy",
+      "title": "The road that broke away",
+      "intro": "The ant battle brought both companies together. The next doorway separated them.",
+      "steps": [
+        {
+          "id": "ants",
+          "title": "Eight companions fight the ants",
+          "text": "Team Biscuit and Team Gravy battle through sunken Brindinford together.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 9,
+            "label": "Read the scene"
+          },
+          "kind": "Shared adventure"
+        },
+        {
+          "id": "trap",
+          "title": "The trap takes Gravy",
+          "text": "A portal intended for Biscuit catches Brunn, Rook, Nox and Elira instead.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · The intended victims"
+        },
+        {
+          "id": "hell",
+          "title": "Still lost in Hell",
+          "text": "Gravy’s story pauses in Hell while Biscuit continues to Windglum and the Bastion. The trap’s builder is unknown.",
+          "link": {
+            "chapter": "fungal-bloom",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "kind": "Open thread"
+        }
+      ]
+    },
+    {
+      "id": "souls",
+      "title": "The hunger the northern victory could not end",
+      "intro": "Pengu’s defeat allowed magic to recover. Ashardalon’s feeding had its own cause and continued.",
+      "steps": [
+        {
+          "id": "heart",
+          "title": "Ashardalon takes Ammet within him",
+          "text": "The demon becomes the dragon’s replacement heart after Dydd wounds the original.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 14,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Hidden history"
+        },
+        {
+          "id": "feeding",
+          "title": "The replacement begins to fail",
+          "text": "Ashardalon consumes unborn souls in the Bastion to sustain himself.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 14,
+            "label": "Read the scene"
+          },
+          "kind": "Revisionist · Cause"
+        },
+        {
+          "id": "famine",
+          "title": "Twenty years without new souls",
+          "text": "The gods name the famine while the displaced company returns to unfinished business.",
+          "link": {
+            "chapter": "frostmaiden",
+            "scene": 11,
+            "label": "Read the scene"
+          },
+          "kind": "The world’s loss"
+        },
+        {
+          "id": "threshold",
+          "title": "The company reaches the dragon",
+          "text": "The fates of Ashardalon, Ammet and the unborn souls await the final telling.",
+          "link": {
+            "chapter": "bastion",
+            "scene": 14,
+            "label": "Read the scene"
+          },
+          "kind": "Open ending"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "id": "shrop",
+      "name": "Shrop",
+      "role": "Team Biscuit",
+      "person": "shrop",
+      "text": "A fugitive of the Stolen Sons, a breaker of doors, and the companion who kept going first—even without sight.",
+      "href": "#/companions/shrop"
+    },
+    {
+      "id": "grim",
+      "name": "Grim",
+      "role": "Team Biscuit",
+      "person": "grim",
+      "text": "A dragon scholar compiling a great spellbook, following his ancestor Eudostis and bargaining with powers eager to use his curiosity.",
+      "href": "#/companions/grim"
+    },
+    {
+      "id": "terry",
+      "name": "Terry",
+      "role": "Team Biscuit",
+      "person": "terry",
+      "text": "A sarcastic healer and smith, owner of Zandikar, whose fourfold attunement made the Pengu ritual possible.",
+      "href": "#/companions/terry"
+    },
+    {
+      "id": "thunder",
+      "name": "Thunder",
+      "role": "Team Biscuit",
+      "person": "thunder",
+      "text": "A performer turned thief, Brindinford guild insider, heir to a curse, and descendant of the dragon’s ancient enemy.",
+      "href": "#/companions/thunder"
+    },
+    {
+      "id": "brunn",
+      "name": "Brunn",
+      "role": "Team Gravy",
+      "person": "brunn",
+      "text": "A dwarf chasing buried steel found a living infestation—and a second company fighting for the same way out.",
+      "href": "#/companions/brunn"
+    },
+    {
+      "id": "rook",
+      "name": "Rook",
+      "role": "Team Gravy",
+      "person": "rook",
+      "text": "He followed a blight down from the peaks and found himself in tunnels, a falling boat, and the company of rather desperate goblins.",
+      "href": "#/companions/rook"
+    },
+    {
+      "id": "nox",
+      "name": "Nox",
+      "role": "Team Gravy",
+      "person": "nox",
+      "text": "A seeker of dangerous sigils found a realm that refused her familiar—and took the refusal personally.",
+      "href": "#/companions/nox"
+    },
+    {
+      "id": "elira",
+      "name": "Elira",
+      "role": "Team Gravy",
+      "person": "elira",
+      "text": "The moss witch followed dreams of a black river into the grotto, where its corruption prevented her fey companion from forming.",
+      "href": "#/companions/elira"
+    },
+    {
+      "id": "xanthar",
+      "name": "Brother Xanthar",
+      "role": "Aboleth · self-proclaimed Keraptis",
+      "text": "The body came from Grim’s missing book. The mountain and surviving weapons now belong to the ruler who calls himself Keraptis.",
+      "image": {
+        "src": "media/portraits/brother-xanthar.png",
+        "alt": "Brother Xanthar’s original campaign portrait"
+      },
+      "links": [
+        {
+          "chapter": "grim-memory",
+          "scene": 10,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "weapons",
+      "name": "Wave, Whelm & Frostrazor",
+      "role": "The surviving sentient weapons",
+      "text": "Held safely at White Plume, they remember Blackrazor as their sibling and will never forgive the Brotherhood.",
+      "image": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 7,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "blackrazor",
+      "name": "Blackrazor",
+      "role": "The sacrificed blade",
+      "text": "The soul-eating weapon was sacrificed in the completed rite against Pengu.",
+      "image": null,
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "pengu",
+      "name": "Pengu",
+      "role": "The spirit from the candle",
+      "text": "Released by Shrop; defeated in the north, leaving a pulsing obsidian egg.",
+      "image": {
+        "media": "11148c07fa6aaf5db6a638ed"
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 10,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "ernie",
+      "name": "Brother Ernie",
+      "role": "An old friend returned",
+      "text": "He recovered most of the company’s equipment, gave four protective rings and departed without explaining his nature or destination.",
+      "image": {
+        "src": "media/portraits/reveal-ernie.webp",
+        "alt": "Brother Ernie’s original journal token"
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "dydd",
+      "name": "Dydd",
+      "role": "Thunder’s ancestor",
+      "text": "The druid mortally wounded Ashardalon’s original heart. Thunder carries the bloodline the dragon’s enemies sought.",
+      "image": null,
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 13,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "ashardalon",
+      "name": "Ashardalon",
+      "role": "The dragon in the Bastion",
+      "text": "He consumes unborn souls to sustain himself and the failing demon within his heart.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 14
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "ammet",
+      "name": "Ammet",
+      "role": "Eater of Souls",
+      "text": "The demon bound inside Ashardalon serves as his failing replacement heart.",
+      "image": {
+        "src": "media/portraits/reveal-ammet.webp",
+        "alt": "Ammet’s original journal token"
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "findula",
+      "name": "Findula",
+      "role": "An alliance ended",
+      "text": "She found the route to her sister Eco. After Eco’s death she left, declaring her debt settled.",
+      "image": {
+        "src": "media/portraits/reveal-findula.webp",
+        "alt": "Findula’s original journal token"
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 6,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "eco",
+      "name": "Eco",
+      "role": "Solar · the living doorway",
+      "text": "Findula’s sister guarded Desayeus. Her own body was the entrance to his prison.",
+      "image": {
+        "src": "media/portraits/reveal-eco.webp",
+        "alt": "Eco’s original journal token"
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 3,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "desayeus",
+      "name": "Desayeus",
+      "role": "The God Who Was Banned",
+      "text": "He yielded the Soul Totem fragment. Thunder carried it out, and Desayeus remained bound.",
+      "image": null,
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 5,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "pelor",
+      "name": "Pelor",
+      "role": "Terry’s divine patron",
+      "text": "His boon enabled Terry’s four attunements. His permission to enter the prison forbade releasing Desayeus.",
+      "image": null,
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "pepper",
+      "name": "Captain Pepper",
+      "role": "The Deliverance",
+      "text": "Thunder’s pendant binds him to the ghostly ship; dying while wearing it would make him its captive captain.",
+      "image": {
+        "media": "92db6b1630e54173df2f1e5a"
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "Read the scene"
+        }
+      ]
+    },
+    {
+      "id": "aameul",
+      "name": "Aameul",
+      "role": "One mind of Demogorgon",
+      "text": "He wanted Ammet’s soul, strengthened by stolen life, to survive a separation from the other head.",
+      "image": null,
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read the scene"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "a": "grim",
+      "b": "xanthar",
+      "kind": "deception",
+      "title": "A brother Xanthar meant to invent",
+      "text": "Xanthar used Grim’s missing book for his body and planned false childhood memories of an older brother. Whether Grim believed them remains unknown.",
+      "link": {
+        "chapter": "grim-memory",
+        "scene": 10,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "xanthar",
+      "b": "weapons",
+      "kind": "debts",
+      "title": "The weapons returned to his mountain",
+      "text": "Xanthar’s equipment theft returned Wave, Whelm and Frostrazor to White Plume, where he now keeps them.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 7,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "weapons",
+      "b": "blackrazor",
+      "kind": "family",
+      "title": "Their sacrificed sibling",
+      "text": "Wave, Whelm and Frostrazor regard Blackrazor as their sibling. Its sacrifice leaves a permanent grievance.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "terry",
+      "b": "weapons",
+      "kind": "debts",
+      "title": "Four attunements and a grievance",
+      "text": "Terry bore all four weapons for the rite. The surviving three hate the Brotherhood for sacrificing Blackrazor.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "terry",
+      "b": "blackrazor",
+      "kind": "debts",
+      "title": "The blade given to the rite",
+      "text": "Terry’s fourfold attunement made the working possible; the company sacrificed Blackrazor.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "pelor",
+      "kind": "allies",
+      "title": "The Boon of Attunement",
+      "text": "Pelor’s boon allowed Terry to attune to all four epic weapons at once.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "shrop",
+      "b": "pengu",
+      "kind": "enmity",
+      "title": "The spirit he released",
+      "text": "Shrop snuffed the candle holding Pengu. The company later fought the spirit in Frostblight.",
+      "link": {
+        "chapter": "white-plume",
+        "scene": 1,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "grim",
+      "b": "pengu",
+      "kind": "enmity",
+      "title": "Wax, wick and the northern working",
+      "text": "Grim prepared the ingredients and sets of wax and wick for the ritual against Pengu.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "pengu",
+      "kind": "enmity",
+      "title": "The fourfold working",
+      "text": "Terry’s boon and Blackrazor’s sacrifice completed the rite against Pengu.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "thunder",
+      "b": "dydd",
+      "kind": "family",
+      "title": "The blood the dragon feared",
+      "text": "Thunder is Dydd’s descendant. That ancestry drew the Cathezar’s pursuit.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "dydd",
+      "b": "ashardalon",
+      "kind": "enmity",
+      "title": "The original heart wounded",
+      "text": "Dydd mortally wounded Ashardalon’s heart; the dragon survived by taking Ammet within him.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "ashardalon",
+      "b": "ammet",
+      "kind": "debts",
+      "title": "The demon within the heart",
+      "text": "Ammet became Ashardalon’s replacement heart. Its failure drove the dragon to feed upon unborn souls.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 14,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "thunder",
+      "b": "ashardalon",
+      "kind": "enmity",
+      "title": "Dydd’s descendant reaches the Bastion",
+      "text": "Thunder brought his bloodline within reach of the dragon. The final outcome remains unwritten.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "aameul",
+      "b": "ammet",
+      "kind": "enmity",
+      "title": "A soul sought for another ambition",
+      "text": "Aameul wanted the soul-charged Ammet to survive the destruction of Hethradiah. This is a scheme, not an accomplished outcome.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 14,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "aameul",
+      "b": "thunder",
+      "kind": "deception",
+      "title": "A bloodline used as leverage",
+      "text": "The Cathezar served Aameul. Thunder’s ancestry was sought as leverage against Ashardalon.",
+      "link": {
+        "chapter": "iron-fortress",
+        "scene": 5,
+        "label": "Read the scene"
+      },
+      "revisionist": true
+    },
+    {
+      "a": "thunder",
+      "b": "pepper",
+      "kind": "debts",
+      "title": "The pendant’s price",
+      "text": "Dying while wearing the Ethereal Anchor would make Thunder the Deliverance’s captive captain in Pepper’s place.",
+      "link": {
+        "chapter": "frostmaiden",
+        "scene": 11,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "findula",
+      "b": "eco",
+      "kind": "family",
+      "title": "Sisters on opposite sides of a doorway",
+      "text": "Eco was Findula’s sister. After Eco’s death, Findula left the company a letter ending the alliance.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 6,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "eco",
+      "b": "desayeus",
+      "kind": "enmity",
+      "title": "A guardian bound to the entrance",
+      "text": "Eco guarded the prison and could become its doorway. Desayeus remained bound after the company took the fragment.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 3,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "thunder",
+      "b": "desayeus",
+      "kind": "debts",
+      "title": "The fragment carried out",
+      "text": "Desayeus yielded his Soul Totem fragment; Thunder carried it from the prison.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 5,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "eco",
+      "kind": "allies",
+      "title": "Permission to enter",
+      "text": "Terry sought Pelor’s permission for passage. The permission expressly forbade releasing the prisoner.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 3,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "shrop",
+      "b": "ernie",
+      "kind": "allies",
+      "title": "The rings he left behind",
+      "text": "Ernie returned most of the gear and gave each companion a Ring of Positive Energy Protection before departing.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 8,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "grim",
+      "b": "ernie",
+      "kind": "allies",
+      "title": "The rings he left behind",
+      "text": "Ernie returned most of the gear and gave each companion a Ring of Positive Energy Protection before departing.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 8,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "ernie",
+      "kind": "allies",
+      "title": "The rings he left behind",
+      "text": "Ernie returned most of the gear and gave each companion a Ring of Positive Energy Protection before departing.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 8,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "thunder",
+      "b": "ernie",
+      "kind": "allies",
+      "title": "The rings he left behind",
+      "text": "Ernie returned most of the gear and gave each companion a Ring of Positive Energy Protection before departing.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 8,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "shrop",
+      "b": "grim",
+      "kind": "allies",
+      "title": "Companions on the long road",
+      "text": "They travelled as Team Biscuit and brought Dydd’s descendant into the Bastion.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "grim",
+      "b": "terry",
+      "kind": "allies",
+      "title": "Companions on the long road",
+      "text": "They travelled as Team Biscuit and brought Dydd’s descendant into the Bastion.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "thunder",
+      "kind": "allies",
+      "title": "Companions on the long road",
+      "text": "They travelled as Team Biscuit and brought Dydd’s descendant into the Bastion.",
+      "link": {
+        "chapter": "bastion",
+        "scene": 13,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "nox",
+      "b": "brunn",
+      "kind": "allies",
+      "title": "Together beyond the Wrinkle",
+      "text": "The four members of Gravy fought beside Biscuit before the trap sent them to Hell. They remain lost there.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 11,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "brunn",
+      "b": "rook",
+      "kind": "allies",
+      "title": "Together beyond the Wrinkle",
+      "text": "The four members of Gravy fought beside Biscuit before the trap sent them to Hell. They remain lost there.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 11,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "rook",
+      "b": "elira",
+      "kind": "allies",
+      "title": "Together beyond the Wrinkle",
+      "text": "The four members of Gravy fought beside Biscuit before the trap sent them to Hell. They remain lost there.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 11,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "elira",
+      "b": "nox",
+      "kind": "allies",
+      "title": "Together beyond the Wrinkle",
+      "text": "The four members of Gravy fought beside Biscuit before the trap sent them to Hell. They remain lost there.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 11,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "shrop",
+      "b": "nox",
+      "kind": "allies",
+      "title": "The companies met in the ant battle",
+      "text": "Biscuit and Gravy fought together in sunken Brindinford. Their roads separated at the Reality Wrinkle.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "grim",
+      "b": "brunn",
+      "kind": "allies",
+      "title": "The companies met in the ant battle",
+      "text": "Biscuit and Gravy fought together in sunken Brindinford. Their roads separated at the Reality Wrinkle.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "terry",
+      "b": "rook",
+      "kind": "allies",
+      "title": "The companies met in the ant battle",
+      "text": "Biscuit and Gravy fought together in sunken Brindinford. Their roads separated at the Reality Wrinkle.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    },
+    {
+      "a": "thunder",
+      "b": "elira",
+      "kind": "allies",
+      "title": "The companies met in the ant battle",
+      "text": "Biscuit and Gravy fought together in sunken Brindinford. Their roads separated at the Reality Wrinkle.",
+      "link": {
+        "chapter": "fungal-bloom",
+        "scene": 9,
+        "label": "Read the scene"
+      },
+      "revisionist": false
+    }
+  ],
+  "remembrance": [
+    {
+      "id": "company",
+      "title": "From Oakhurst to the Bastion",
+      "text": "Shrop. Grim. Terry. Thunder. The road began beneath a ravine and led to the birthplace of souls.",
+      "image": {
+        "src": "art/team-biscuit.jpg",
+        "alt": "The company gathered in the campaign farewell film"
+      },
+      "links": [],
+      "reveal": null,
+      "companions": [
+        "shrop",
+        "grim",
+        "terry",
+        "thunder"
+      ]
+    },
+    {
+      "id": "citadel",
+      "title": "The rings came home",
+      "text": "Below Oakhurst, the company searched for the missing Hucreles, freed Erky and reached Belak’s tree. The rings and news returned to the family waiting above.",
+      "image": {
+        "chapter": "sunless-citadel",
+        "scene": 1
+      },
+      "links": [
+        {
+          "chapter": "sunless-citadel",
+          "scene": 5,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "forge",
+      "title": "Two lives worth turning back for",
+      "text": "The twins needed a way out of Khundrukar. The company arranged it, then descended again. Nightscale waited at the Black Lake.",
+      "image": {
+        "chapter": "forge-of-fury",
+        "scene": 1
+      },
+      "links": [
+        {
+          "chapter": "forge-of-fury",
+          "scene": 6,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "brindinford",
+      "title": "A city freed",
+      "text": "Shatterspike was sacrificed to cleanse Pelor’s temple. The company freed the Baron; food, wine and music returned to Brindinford.",
+      "image": {
+        "chapter": "speaker-in-dreams",
+        "scene": 1
+      },
+      "links": [
+        {
+          "chapter": "speaker-in-dreams",
+          "scene": 6,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "stones",
+      "title": "The road through Ossington",
+      "text": "Food and seed, the dead beneath Red Horse Hill, Dyson’s tower and the Horseman’s answers drew the company towards a missing heart.",
+      "image": {
+        "chapter": "standing-stone",
+        "scene": 1
+      },
+      "links": [
+        {
+          "chapter": "standing-stone",
+          "scene": 7,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "nightfang",
+      "title": "The vampire and the heart",
+      "text": "Grim recognised a familiar face among the tombs. Gulthias fell, but Ashardalon’s story continued beyond his original heart.",
+      "image": {
+        "person": "grim"
+      },
+      "links": [
+        {
+          "chapter": "nightfang-spire",
+          "scene": 5,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "lava",
+      "title": "They saved the village",
+      "text": "The Brotherhood diverted lava during the desmodu enclave’s assault. The people survived the battle.",
+      "image": {
+        "chapter": "deep-horizon",
+        "scene": 3
+      },
+      "links": [
+        {
+          "chapter": "deep-horizon",
+          "scene": 3,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "lava",
+      "companions": null
+    },
+    {
+      "id": "iron",
+      "title": "A fortress won; another mystery begun",
+      "text": "Imperagon fell and Terry gained Zandikar. The Cathezar, Thunder’s ancestry and the missing souls drew the company into the Bastion investigation before the later detours.",
+      "image": {
+        "chapter": "iron-fortress",
+        "scene": 1
+      },
+      "links": [
+        {
+          "chapter": "iron-fortress",
+          "scene": 5,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "two-heads",
+      "companions": null
+    },
+    {
+      "id": "xanthar",
+      "title": "A familiar face above the water",
+      "text": "The aboleth returned as Brother Xanthar. His influence would follow the company through the grotto and back to White Plume.",
+      "image": {
+        "person": "xanthar"
+      },
+      "links": [
+        {
+          "chapter": "writhe-below",
+          "scene": 2,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "borrowed-body",
+      "companions": null
+    },
+    {
+      "id": "dream",
+      "title": "Their earlier selves",
+      "text": "The Sleeper’s dream returned the company to its own eighth-level lives in Brindinford. Keraptis’s challenge led beneath White Plume Mountain.",
+      "image": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 6,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "keraptis",
+      "companions": null
+    },
+    {
+      "id": "twenty",
+      "title": "Twenty years beyond home",
+      "text": "They escaped the earlier time and overshot the present they had left. Brindinford had collapsed. The world had lived those twenty years without them.",
+      "image": {
+        "media": "93f689726e512db35fe7dd6a"
+      },
+      "links": [
+        {
+          "chapter": "white-plume",
+          "scene": 7,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "missing-years",
+      "companions": null
+    },
+    {
+      "id": "pengu",
+      "title": "When the prayers grew faint",
+      "text": "In Icewind Dale, magic failed and divine aid weakened. The company faced the spirit whose release had begun the calamity.",
+      "image": {
+        "chapter": "frostmaiden",
+        "scene": 10
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 3,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "pengu",
+      "companions": null
+    },
+    {
+      "id": "rite",
+      "title": "Four weapons. One sacrifice.",
+      "text": "Grim prepared the working. Pelor’s boon let Terry attune to all four epic weapons. Blackrazor was sacrificed; the ritual was completed.",
+      "image": {
+        "chapter": "white-plume",
+        "scene": 4
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 9,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "siblings",
+      "companions": null
+    },
+    {
+      "id": "egg",
+      "title": "The heartbeat in the ice",
+      "text": "Pengu’s fighting form folded into a ten-foot obsidian egg. Frostblight collapsed. The survivors reached an iceberg, and the gods spoke of magic’s recovery and the continuing soul famine.",
+      "image": {
+        "chapter": "frostmaiden",
+        "scene": 10
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 11,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "war",
+      "title": "The road home crossed a war",
+      "text": "Angajuk’s passage led towards Acheron. Rigus, the Red Keep, the Reclamation and the demon army stood along the way.",
+      "image": {
+        "media": "ae99cb0884cc9d9fa247ce5a"
+      },
+      "links": [
+        {
+          "chapter": "frostmaiden",
+          "scene": 15,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": null
+    },
+    {
+      "id": "equipment",
+      "title": "Nothing on the other side",
+      "text": "Xanthar’s portal delivered Biscuit to the grotto without clothes or equipment. Gravy’s expedition was nearing the same buried city.",
+      "image": {
+        "person": "xanthar"
+      },
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 7,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "equipment",
+      "companions": null
+    },
+    {
+      "id": "together",
+      "title": "Biscuit and Gravy together",
+      "text": "Eight companions fought giant ants in sunken Brindinford. Beyond the old barracks stood the Reality Wrinkle.",
+      "image": {
+        "chapter": "fungal-bloom",
+        "scene": 10
+      },
+      "links": [
+        {
+          "chapter": "fungal-bloom",
+          "scene": 9,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "wrong-company",
+      "companions": [
+        "shrop",
+        "grim",
+        "terry",
+        "thunder",
+        "nox",
+        "brunn",
+        "rook",
+        "elira"
+      ]
+    },
+    {
+      "id": "farewells",
+      "title": "The fragment and the farewells",
+      "text": "Biscuit reached Windglum. Eco died; Thunder carried Desayeus’s fragment out. Findula left. Ernie returned the gear he could recover and gave four rings before departing.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 8
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 8,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "eco",
+      "companions": null
+    },
+    {
+      "id": "bastion",
+      "title": "The heart inside the Bastion",
+      "text": "The rings carried the company into too much life. Dydd’s descendant reached the dragon whose feeding had denied the world new souls.",
+      "image": {
+        "chapter": "bastion",
+        "scene": 14
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": "heart",
+      "companions": null
+    },
+    {
+      "id": "unwritten",
+      "title": "The final account is still to come",
+      "text": "Ashardalon. Ammet. The unborn souls. The eight companions and the lives beyond this door. Their outcomes await the final telling.",
+      "image": {
+        "src": "art/team-biscuit.jpg",
+        "alt": "The company’s campaign farewell image"
+      },
+      "links": [
+        {
+          "chapter": "bastion",
+          "scene": 14,
+          "label": "Read this part of the story"
+        }
+      ],
+      "reveal": null,
+      "companions": [
+        "shrop",
+        "grim",
+        "terry",
+        "thunder",
+        "nox",
+        "brunn",
+        "rook",
+        "elira"
+      ]
+    }
+  ]
+}

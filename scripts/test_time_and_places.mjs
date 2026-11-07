@@ -46,7 +46,7 @@ for(const page of ['timeline','brindinford','atlas']){
  assert(html.lastIndexOf('Continue exploring the campaign')>html.lastIndexOf('</article>'));
  for(const [,href] of html.matchAll(/href="([^"]+)"/g)){
    const [slug,section,entry]=href.replace(/^#\//,'').split('/');
-   if(slug==='time-and-places'){assert(['timeline','brindinford','atlas'].includes(section));if(entry)assert(eventIds.has(entry)||placeIds.has(entry)||data.landmarks.some(l=>l.id===entry))}
+   if(slug==='time-and-places'){assert(['timeline','brindinford','atlas','maps'].includes(section));if(entry)assert(eventIds.has(entry)||placeIds.has(entry)||data.landmarks.some(l=>l.id===entry))}
    else if(section==='scene')assert(context.stories[slug]?.scenes[Number(entry)-1]);
    else if(slug==='companions')assert(context.people.some(person=>person.slug===section));
    else assert(['timeline','further-tales','fungal-bloom'].includes(slug));
