@@ -80,6 +80,21 @@
           "The company returned the Hucrele rings and news of every missing adventurer. Shrop urged the party to attend the funeral.",
           "They warned Oakhurst about the twig blights and the danger carried by the apples.",
           "Thunder also told his companions about his lycanthropy. They would travel together knowing the danger his curse could bring."
+        ],
+        "hindsight": [
+          {
+            "label": "Revisionist · Hindsight",
+            "title": "Meepo’s escape",
+            "paragraphs": [
+              "Meepo was still in the Citadel after the company left. He escaped in the chaos of the orc war, carrying the key to Calcryx’s cage."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/meepo-po/1",
+            "label": "Read Meepo’s escape from the Citadel"
+          }
         ]
       }
     ],
@@ -1996,8 +2011,10 @@
       {
         "title": "The key to Calcryx’s cage",
         "paragraphs": [
-          "When Meepo left the Citadel, he took the key to Calcryx’s cage. He had spent so long keeping it quiet on his belt that he could run down a flight of steps without making it ring. His mother, Sarka, had taught him that trick. She had also left him a little copper plate with a dragon’s claw scratched into it. While he was growing up he had used it to scrape wax from the cage hinges.",
-          "A peddler at the ravine recognised the claw. She offered him a winter cloak for the plate, then a mule. Meepo took neither. The peddler finally told him where she had seen the mark before. An old woman at the Cinder Ford stamped it on the underside of her ferryman’s weights."
+          "After Team Biscuit left, Meepo stayed in the Citadel. He knew where the kobolds kept lamp oil and dried meat, and he meant to wait out the orc war below ground. Then the fighting reached the chamber where he had kept Calcryx. Orcs hammered on the door from the hall, and smoke rolled in under it.",
+          "Meepo took the cage key and a little copper plate his mother, Sarka, had left him. A dragon’s claw was scratched into the plate. He had used it for years to scrape wax from the hinges. As the door gave way, he slipped into the drain where he used to pour his wash water.",
+          "The drain let him out in the ravine below a knot of orc fighters. Meepo held his key against his thigh to keep it from ringing, a trick Sarka had taught him. When the fighters turned to answer a horn farther up the ravine, he crossed behind them. By morning he was walking the road with soot up to his elbows.",
+          "A peddler on the road recognised the claw. She offered him a winter cloak for the plate, then a mule. Meepo took neither. The peddler finally told him where she had seen the mark before. An old woman at the Cinder Ford stamped it on the underside of her ferryman’s weights."
         ],
         "image": {
           "src": "media/images/between-adventures/9032b1bf7f56735f3e185656.png",
