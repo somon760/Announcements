@@ -1,4 +1,4 @@
-import { catalog } from './gm-library-catalog.js?v=4';
+import { catalog } from './gm-library-catalog.js?v=5';
 
 const kinds = {
   sheet: 'Character sheets',

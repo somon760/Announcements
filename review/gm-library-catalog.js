@@ -44,7 +44,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/skgs/urow"
+        "url": "https://online.anyflip.com/skgs/urow/"
       }
     ]
   },
@@ -57,7 +57,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/yjmn/basic"
+        "url": "https://online.anyflip.com/myubd/yjmn/"
       }
     ]
   },
@@ -70,7 +70,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/pinf/basic"
+        "url": "https://online.anyflip.com/myubd/pinf/"
       }
     ]
   },
@@ -83,7 +83,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/zibv/basic"
+        "url": "https://online.anyflip.com/myubd/zibv/"
       }
     ]
   },
@@ -97,7 +97,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/mlii/basic"
+        "url": "https://online.anyflip.com/myubd/mlii/"
       },
       {
         "label": "Free publisher preview (6 PDF pages)",
@@ -119,7 +119,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/kgqq/basic"
+        "url": "https://online.anyflip.com/myubd/kgqq/"
       },
       {
         "label": "Free publisher preview (6 PDF pages)",
@@ -145,7 +145,7 @@ export const catalog = [
       },
       {
         "label": "Read in Deep Horizon on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/kgqq/basic"
+        "url": "https://online.anyflip.com/myubd/kgqq/"
       }
     ]
   },
@@ -159,7 +159,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/fvtj/basic"
+        "url": "https://online.anyflip.com/myubd/fvtj/"
       },
       {
         "label": "Free publisher preview (6 PDF pages)",
@@ -180,7 +180,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read original AD&D module on AnyFlip (third-party)",
-        "url": "https://anyflip.com/cmjgl/qhrj/basic"
+        "url": "https://online.anyflip.com/cmjgl/qhrj/"
       },
       {
         "label": "Fifth edition adaptation (D&D Beyond)",
@@ -197,7 +197,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/cmjgl/yirg/basic"
+        "url": "https://online.anyflip.com/cmjgl/yirg/"
       }
     ]
   },
@@ -212,7 +212,7 @@ export const catalog = [
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
-        "url": "https://anyflip.com/myubd/puar/basic/"
+        "url": "https://online.anyflip.com/myubd/puar/"
       },
       {
         "label": "Free publisher preview (6 PDF pages)",
