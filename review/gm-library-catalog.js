@@ -1,41 +1,5 @@
 export const catalog = [
   {
-    "id": "62dca0409fc56de28a90dc9a40b9ef98bb91e975aa26d9b165810e9798ea38bd",
-    "title": "Shrop Shireslasher",
-    "kind": "sheet",
-    "pages": 6,
-    "description": "Archived character sheet with abilities, equipment, and features from this export.",
-    "href": "#/companions/shrop",
-    "pdfPath": "library-pdfs/shrop-character-sheet.pdf"
-  },
-  {
-    "id": "9834bf3c31770db423e9e2484bae1fcb6a74882bb861dec02b5994e53ee2cd86",
-    "title": "Grimbledee Brightburrow",
-    "kind": "sheet",
-    "pages": 40,
-    "description": "Archived character sheet with equipment, spells, and character notes from this export.",
-    "href": "#/companions/grim",
-    "pdfPath": "library-pdfs/grim-character-sheet.pdf"
-  },
-  {
-    "id": "9ab968b7198d6188896c703a1453db0fbeb6bf300808cd0423efde4af3492557",
-    "title": "Terry Stronginthearm",
-    "kind": "sheet",
-    "pages": 14,
-    "description": "Archived character sheet with class details, equipment, and spells from this export.",
-    "href": "#/companions/terry",
-    "pdfPath": "library-pdfs/terry-character-sheet.pdf"
-  },
-  {
-    "id": "16bede605397e1ebeb1cc3e23c53ef3ca0383af637a9974bacf84629494184c5",
-    "title": "Thunderdrum Stringcutter",
-    "kind": "sheet",
-    "pages": 8,
-    "description": "Archived character sheet with equipment, features, and abilities from this export.",
-    "href": "#/companions/thunder",
-    "pdfPath": "library-pdfs/thunder-character-sheet.pdf"
-  },
-  {
     "id": "sunless-citadel",
     "title": "The Sunless Citadel",
     "kind": "reference",
@@ -98,14 +62,6 @@ export const catalog = [
       {
         "label": "Read on AnyFlip (third-party)",
         "url": "https://online.anyflip.com/myubd/mlii/"
-      },
-      {
-        "label": "Free publisher preview (6 PDF pages)",
-        "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/24984-sample.pdf"
-      },
-      {
-        "label": "Full edition (purchase)",
-        "url": "https://www.drivethrurpg.com/en/product/24984/heart-of-nightfang-spire-3e"
       }
     ]
   },
@@ -120,14 +76,6 @@ export const catalog = [
       {
         "label": "Read on AnyFlip (third-party)",
         "url": "https://online.anyflip.com/myubd/kgqq/"
-      },
-      {
-        "label": "Free publisher preview (6 PDF pages)",
-        "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/25110-sample.pdf"
-      },
-      {
-        "label": "Full edition (purchase)",
-        "url": "https://www.drivethrurpg.com/en/product/25110/deep-horizon-3e"
       }
     ]
   },
@@ -160,14 +108,6 @@ export const catalog = [
       {
         "label": "Read on AnyFlip (third-party)",
         "url": "https://online.anyflip.com/myubd/fvtj/"
-      },
-      {
-        "label": "Free publisher preview (6 PDF pages)",
-        "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/28472-sample.pdf"
-      },
-      {
-        "label": "Full edition (purchase)",
-        "url": "https://www.drivethrurpg.com/en/product/28472/lord-of-the-iron-fortress-3e"
       }
     ]
   },
@@ -206,21 +146,12 @@ export const catalog = [
     "title": "Bastion of Broken Souls",
     "kind": "reference",
     "pages": 52,
-    "description": "Published third edition adventure. Two byte-identical copies are preserved in the source collection.",
+    "description": "Published third edition adventure about Ashardalon and the unborn souls.",
     "href": "#/bastion",
-    "badge": "Duplicate in source collection",
     "online": [
       {
         "label": "Read on AnyFlip (third-party)",
         "url": "https://online.anyflip.com/myubd/puar/"
-      },
-      {
-        "label": "Free publisher preview (6 PDF pages)",
-        "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/28449-sample.pdf"
-      },
-      {
-        "label": "Full edition (purchase)",
-        "url": "https://www.drivethrurpg.com/en/product/28449/bastion-of-broken-souls-3e"
       }
     ]
   },

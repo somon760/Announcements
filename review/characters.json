@@ -3,6 +3,7 @@
   "people": [
     {
       "slug": "shrop",
+      "archiveSheet": "library-pdfs/shrop-character-sheet.pdf",
       "name": "Shrop Shireslasher",
       "shortName": "Shrop",
       "company": "Team Biscuit",
@@ -388,6 +389,7 @@
     },
     {
       "slug": "grim",
+      "archiveSheet": "library-pdfs/grim-character-sheet.pdf",
       "name": "Grimbledee Brightburrow",
       "shortName": "Grim",
       "company": "Team Biscuit",
@@ -801,6 +803,7 @@
     },
     {
       "slug": "terry",
+      "archiveSheet": "library-pdfs/terry-character-sheet.pdf",
       "name": "Terry Stronginthearm",
       "shortName": "Terry",
       "company": "Team Biscuit",
@@ -1212,6 +1215,7 @@
     },
     {
       "slug": "thunder",
+      "archiveSheet": "library-pdfs/thunder-character-sheet.pdf",
       "name": "Thunderdrum Stringcutter",
       "shortName": "Thunder",
       "company": "Team Biscuit",

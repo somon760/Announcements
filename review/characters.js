@@ -15,6 +15,7 @@ function statistics(person) {
   if (!stats) return '';
   return `<section id="character-statistics" tabindex="-1" class="character-section">
     <p class="eyebrow">The character at the table</p><h2>In numbers.</h2><p class="character-stat-note">${escape(stats.intro)}</p>
+    ${person.archiveSheet ? `<p class="character-stat-note"><button class="character-sheet-button" type="button" data-gm-read="${escape(person.slug)}">Read archived character sheet (PDF)</button></p>` : ''}
     ${stats.metrics.length ? `<h3 class="sheet-snapshot-heading">Latest available sheet · 1 September 2026</h3>${statBlock(stats, 'Latest sheet')}` : ''}
     ${stats.journalSnapshot ? `<div class="battle-snapshot"><h3 class="sheet-snapshot-heading">At the Bastion</h3><p class="character-stat-note">${escape(stats.journalSnapshot.intro)}</p><dl class="character-stat-grid" aria-label="Bastion battle snapshot">${stats.journalSnapshot.metrics.map(([name,value]) => `<div><dt>${escape(name)}</dt><dd>${escape(value)}</dd></div>`).join('')}</dl></div>` : ''}
     <div class="leveling-record"><h3>Levels &amp; earned experience</h3><p>${escape(stats.leveling)}</p>

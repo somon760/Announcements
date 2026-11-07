@@ -1,7 +1,6 @@
-import { catalog } from './gm-library-catalog.js?v=5';
+import { catalog } from './gm-library-catalog.js?v=6';
 
 const kinds = {
-  sheet: 'Character sheets',
   reference: 'Published references',
   planning: 'Planning material'
 };
@@ -18,10 +17,10 @@ export function renderGmLibrary() {
     <header class="section gm-library-heading">
       <p class="eyebrow">Team Biscuit · Behind the screen</p>
       <h1>GM’s Library</h1>
-      <p>Read archived character sheets, campaign diagrams, and adventure books.</p>
+      <p>Read campaign diagrams and adventure books.</p>
     </header>
     <section class="section gm-library" aria-label="Campaign PDFs">
-      <p class="gm-library-guide">Published references describe the adventures as written. AnyFlip links open third-party copies, and publisher previews are excerpts. Planning diagrams show intentions, and character sheets preserve a snapshot of each export.</p>
+      <p class="gm-library-guide">Published references describe the adventures as written. AnyFlip links open third-party copies. Planning diagrams show intentions.</p>
       <div class="gm-library-filters">
         <div><label for="gm-library-query">Find a document</label><input id="gm-library-query" type="search" placeholder="Try Bastion or Brindinford"></div>
         <div><label for="gm-library-kind">Category</label><select id="gm-library-kind"><option value="all">All categories</option>${categoryOptions}</select></div>
@@ -29,9 +28,13 @@ export function renderGmLibrary() {
       <p data-gm-count role="status"></p>
       <div class="gm-library-grid" data-gm-list></div>
     </section>
-    <dialog class="gm-library-reader" aria-labelledby="gm-reader-title">
+    ${renderPdfReader()}`;
+}
+
+export function renderPdfReader() {
+  return `<dialog class="gm-library-reader" aria-labelledby="gm-reader-title">
       <div class="gm-library-reader-heading">
-        <div><p class="eyebrow">GM’s Library</p><h2 id="gm-reader-title"></h2></div>
+        <div><p class="eyebrow">Campaign archive</p><h2 id="gm-reader-title"></h2></div>
         <form method="dialog"><button type="submit">Close</button></form>
       </div>
       <div class="gm-library-reader-links">
@@ -52,17 +55,6 @@ export function bindGmLibrary(main) {
   const kind = main.querySelector('#gm-library-kind');
   const list = main.querySelector('[data-gm-list]');
   const count = main.querySelector('[data-gm-count]');
-  const reader = main.querySelector('.gm-library-reader');
-  const preview = reader.querySelector('[data-gm-preview]');
-  const pageStatus = reader.querySelector('[data-gm-page]');
-  const previous = reader.querySelector('[data-gm-prev]');
-  const next = reader.querySelector('[data-gm-next]');
-  let readerButton;
-  let pdfRequest;
-  let pdfLoad;
-  let pdfDocument;
-  let pageNumber = 0;
-
   function render() {
     const term = query.value.trim().toLocaleLowerCase();
     const visible = catalog.filter(entry =>
@@ -85,6 +77,24 @@ export function bindGmLibrary(main) {
         </div>
       </article>`).join('') : '<p class="gm-library-empty">No documents match this view.</p>';
   }
+
+  query.addEventListener('input', render);
+  kind.addEventListener('change', render);
+  render();
+  return bindPdfReader(main, entriesById);
+}
+
+export function bindPdfReader(main, pdfs) {
+  const reader = main.querySelector('.gm-library-reader');
+  const preview = reader.querySelector('[data-gm-preview]');
+  const pageStatus = reader.querySelector('[data-gm-page]');
+  const previous = reader.querySelector('[data-gm-prev]');
+  const next = reader.querySelector('[data-gm-next]');
+  let readerButton;
+  let pdfRequest;
+  let pdfLoad;
+  let pdfDocument;
+  let pageNumber = 0;
 
   function releaseReader() {
     pdfRequest = undefined;
@@ -156,13 +166,10 @@ export function bindGmLibrary(main) {
   previous.addEventListener('click', () => showPage(pageNumber - 1));
   next.addEventListener('click', () => showPage(pageNumber + 1));
 
-  query.addEventListener('input', render);
-  kind.addEventListener('change', render);
-
-  list.addEventListener('click', event => {
+  function openReader(event) {
     const button = event.target.closest('[data-gm-read]');
     if (!button) return;
-    const entry = entriesById.get(button.dataset.gmRead);
+    const entry = pdfs.get(button.dataset.gmRead);
     if (!entry?.pdfPath) return;
     readerButton = button;
     const url = new URL(entry.pdfPath, document.baseURI).href;
@@ -173,14 +180,15 @@ export function bindGmLibrary(main) {
     reader.querySelector('[data-gm-open]').href = url;
     reader.showModal();
     loadPdf(url);
-  });
+  }
+  main.addEventListener('click', openReader);
   reader.addEventListener('close', () => {
     releaseReader();
     readerButton?.focus();
   });
 
-  render();
   return () => {
+    main.removeEventListener('click', openReader);
     if (reader.open) reader.close();
     releaseReader();
   };

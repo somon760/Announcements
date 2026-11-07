@@ -16,7 +16,7 @@
   align-items: center;
   gap: 12px 16px;
 }
-.gm-library button, .gm-library-reader button {
+.gm-library button, .gm-library-reader button, .character-sheet-button {
   border: 1px solid var(--forest);
   background: var(--paper);
   color: var(--ink);
@@ -24,7 +24,7 @@
   font-size: 13px;
   cursor: pointer;
 }
-.gm-library button[data-gm-read] {
+.gm-library button[data-gm-read], .character-sheet-button {
   background: var(--forest);
   color: var(--paper);
 }
