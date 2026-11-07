@@ -2230,7 +2230,14 @@
           "They married in the warren where Tava had grown up. For the feast, Viday borrowed two benches and made the stew himself. When he took the benches back, the neighbors told him to keep them. They knew how many relatives Tava had.",
           "Viday and Tava raised a houseful of children. He taught them how to feel for a change in the air at a fork in the tunnels. She taught them to mend their clothes before a little tear became a long one. They passed both lessons on to their children, with mixed results. Once a granddaughter came home from her first outing with an exact account of every turn she’d taken and one sleeve tied around her waist.",
           "By the time Viday had grandchildren old enough to fetch the benches themselves, his knees hurt on the warren steps. He widened the doorway so that two children could pass through it side by side with a pot between them. Tava asked how often he thought that would happen. At the next feast they carried three pots through that way."
-        ]
+        ],
+        "image": {
+          "src": "media/portraits/desmodu-peddler.png",
+          "alt": "A gray-furred desmodu with large batlike ears in a blue-bordered Roll20 token",
+          "caption": "The campaign’s Desmodu Peddler token, used here to represent Viday.",
+          "width": 256,
+          "height": 256
+        }
       },
       {
         "title": "A few hours",
