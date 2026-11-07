@@ -22,7 +22,7 @@ assert(data.remembrance.at(-1).text.includes('await the final telling'));
 const index=buildSearchIndex(context);assert.equal(new Set(index.map(r=>r.id)).size,index.length);
 assert(index.filter(r=>r.category==='memories').length===context.items.length);
 assert.equal(normalise('Shrooma Froboz Keruptus Brun'),'shoomma frobozz keraptis brunn');
-for(const query of ['Pengu','Xanthar','Ernie','Blackrazor','Soul Totem','Brun','Shrooma','Froboz'])assert(searchRecords(index,query).length>0,query);
+for(const query of ['Pengu','Xanthar','Ernie','Blackrazor','Soul Totem','Brun','Shrooma','Froboz','Team Biscut','Fugus Grotto','Earnie'])assert(searchRecords(index,query).length>0,query);
 assert.equal(searchRecords(index,'zzqxv-no-such-campaign-word').length,0);
 assert.equal(searchRecords(index,'').length,0);
 assert(searchRecords(index,'Pengu','memories').every(r=>r.category==='memories'));

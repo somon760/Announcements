@@ -1,5 +1,5 @@
 import { renderMapWall, bindMapWall, mapViewerItems } from './map-wall.js?v=map-wall-1';
-import { renderRevelations, bindRevelations, renderRevelationsCallout, buildSearchIndex } from './revelations.js?v=revelations-2';
+import { renderRevelations, bindRevelations, renderRevelationsCallout, buildSearchIndex } from './revelations.js?v=revelations-3';
 import { renderTimeAndPlaces, bindTimeAndPlaces, renderExplorerCallout, chapterAtlasLink } from './time-and-places.js?v=time-places-6';
 import { renderFurtherTales, bindFurtherTales, renderTalesCallout, renderChapterTales } from './further-tales.js?v=early-farewells-1';
 import { renderBattleChronicle, bindBattleChronicle } from './battles.js?v=battle-chronicle-4';
