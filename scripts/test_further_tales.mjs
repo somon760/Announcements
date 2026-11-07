@@ -47,7 +47,8 @@ for(const section of [undefined,...pages]) {
     if(slug==='further-tales') {
       assert(!child||pages.has(child),`Invalid tale route ${href}`);
       if(entry) assert(renderFurtherTales(data,child,context).includes(`id="tale-${entry}"`),`Invalid tale entry ${href}`);
-    } else if(slug==='companions') assert(!child||context.people.some(person=>person.slug===child));
+    } else if(slug==='revelations') assert(context.stories[child],`Missing linked story ${href}`);
+    else if(slug==='companions') assert(!child||context.people.some(person=>person.slug===child));
     else if(child==='scene') assert(context.stories[slug]?.scenes[Number(entry)-1],`Invalid scene link ${href}`);
     else assert(['','timeline','companions'].includes(slug)||context.stories[slug],`Invalid route ${href}`);
     links++;

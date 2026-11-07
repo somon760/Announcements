@@ -377,6 +377,10 @@
           "chapter": "fungal-bloom",
           "scene": 10,
           "label": "The town they remembered"
+        },
+        {
+          "href": "#/revelations/viday",
+          "label": "Read Viday’s story"
         }
       ]
     },
@@ -1043,6 +1047,10 @@
           "chapter": "white-plume",
           "scene": 7,
           "label": "What happened while they were gone"
+        },
+        {
+          "href": "#/revelations/viday",
+          "label": "Read Viday’s story"
         }
       ],
       "era": "deep-horizon"

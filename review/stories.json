@@ -1039,6 +1039,12 @@
               "The company missed the intervening twenty years. It returned to Brindinford’s ruins after the volcanic disaster and desmodu genocide had followed its lava diversion."
             ]
           }
+        ],
+        "links": [
+          {
+            "href": "#/revelations/viday",
+            "label": "Read Viday’s story after the rescue"
+          }
         ]
       },
       {
@@ -2187,6 +2193,66 @@
             "href": "#/deep-horizon/scene/2",
             "label": "Helkitrin’s interrogation"
           }
+        ]
+      }
+    ]
+  },
+  "viday": {
+    "title": "The Door Viday Widened",
+    "eyebrow": "Revisionist · Off-screen backstory",
+    "opening": [
+      "When the Brotherhood diverted the lava in Deep Horizon, the desmodu went home to warrens they had expected to lose. Viday had helped the party save them. For twenty years, he got to live in the home he’d helped keep."
+    ],
+    "scenes": [
+      {
+        "title": "The first feast",
+        "paragraphs": [
+          "At the first feast after the diversion, the elders called Viday forward to tell the story. He told it with both hands, showing where he’d stood with the party and how close the lava had come to the warrens. Afterward people kept stopping him on the stairs to shake his hand. Children who had never been down to the old channels made a game of being Viday. They argued over who had to be the lava.",
+          "Tava had heard the story often enough to know when he left something out. One evening she asked what he’d done with his hands while he waited to see if the diversion would hold. He told her he’d sat on them to keep them from shaking. She moved her basket off the bench to make room for him. By the time the cook came to put out the lamps, Viday had asked if he could walk her home."
+        ],
+        "image": {
+          "src": "media/images/deep-horizon/8c9ea1a5204750b06a91c655.jpg",
+          "alt": "Buildings clustered under the stone roof of a cavern",
+          "caption": "An underground settlement from the Deep Horizon campaign archive.",
+          "width": 900,
+          "height": 376
+        },
+        "links": [
+          {
+            "href": "#/deep-horizon/scene/3",
+            "label": "The Brotherhood diverts the lava"
+          }
+        ]
+      },
+      {
+        "title": "Room at the table",
+        "paragraphs": [
+          "They married in the warren where Tava had grown up. For the feast, Viday borrowed two benches and made the stew himself. When he took the benches back, the neighbors told him to keep them. They knew how many relatives Tava had.",
+          "Viday and Tava raised a houseful of children. He taught them how to feel for a change in the air at a fork in the tunnels. She taught them to mend their clothes before a little tear became a long one. They passed both lessons on to their children, with mixed results. Once a granddaughter came home from her first outing with an exact account of every turn she’d taken and one sleeve tied around her waist.",
+          "By the time Viday had grandchildren old enough to fetch the benches themselves, his knees hurt on the warren steps. He widened the doorway so that two children could pass through it side by side with a pot between them. Tava asked how often he thought that would happen. At the next feast they carried three pots through that way."
+        ]
+      },
+      {
+        "title": "A few hours",
+        "paragraphs": [
+          "Twenty years after the diversion, the elders sent for Viday. The scouts had come back from the lower passages with their boots burned through. The elders compared reports from the other warrens and found the same signs. By the time they understood how far the disaster would reach, their whole people had only hours.",
+          "Runners took the warning from warren to warren. Viday laid out his old route maps while the scouts talked him through the passages still open. He kept asking how long it would take to get a child through each one. He knew those passages well enough to recognise the answer before anyone gave it. There was nowhere they could get their people to in time.",
+          "He carried the warning home himself. Tava put water on and sent their eldest to bring in the family. Viday went back out to help a neighbor down the steps. By the time he returned, the water had boiled over and every hook by the widened door held somebody’s coat."
+        ],
+        "links": [
+          {
+            "href": "#/further-tales/twenty-years/ruin",
+            "label": "What Team Biscuit found on its return"
+          }
+        ]
+      },
+      {
+        "title": "Tell it how you told her",
+        "paragraphs": [
+          "They drew both benches up and ate what Tava had put out. Their children made room for their own children, and when one of the little ones asked to hear the story of the lava, Viday started it the way he always did.",
+          "‘Tell it how you told her,’ his eldest said, nodding at Tava.",
+          "So he told them about sitting on his hands. One of his grandsons slid off the bench and took hold of two of his fingers. ‘You can keep them out now,’ the boy said. Viday put his other hand on the table. Tava laid hers over it.",
+          "A distant rumble came up through the stone. Viday felt his grandson’s grip tighten. He drew the boy against him, and a white flash filled the widened doorway."
         ]
       }
     ]

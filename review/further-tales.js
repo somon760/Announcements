@@ -1,6 +1,6 @@
 const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paragraphs = values => (values ?? []).map(value => `<p>${escape(value)}</p>`).join('');
-const sceneLink = link => `<a data-story-link href="#/${escape(link.chapter)}/scene/${Number(link.scene)}">${escape(link.label)} ↗</a>`;
+const sceneLink = link => `<a data-story-link href="${escape(link.href ?? `#/${link.chapter}/scene/${Number(link.scene)}`)}">${escape(link.label)} ↗</a>`;
 const links = values => values?.length ? `<nav class="tale-links" aria-label="Continue in the chapters">${values.map(sceneLink).join('')}</nav>` : '';
 const revisionist = () => '<p class="tale-revisionist">Revisionist · Hindsight</p>';
 const personLink = person => `<a href="#/companions/${escape(person.slug)}">${escape(person.name)} ↗</a>`;
