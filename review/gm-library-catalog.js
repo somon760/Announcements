@@ -278,14 +278,5 @@ export const catalog = [
     "description": "A map of objectives and possible detours around the Guild of Sleep, Desayeus, and the Bastion.",
     "href": "#/bastion",
     "pdfPath": "library-pdfs/bastion-goals.pdf"
-  },
-  {
-    "id": "fc01d96ecce8b804f1ad3c42327fe8b89d3370556400991214b1f356e08ca129",
-    "title": "Team Biscuit · A Campaign Remembered",
-    "kind": "draft",
-    "pages": 12,
-    "description": "An early retrospective draft covering nine adventures. Its chronology and interpretations need checking against the campaign record.",
-    "href": "#/timeline",
-    "badge": "Browser import only"
   }
 ];
