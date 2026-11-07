@@ -1,3 +1,4 @@
+import { bindSiteNav } from './site-nav.js?v=1';
 import { renderGmLibrary, bindGmLibrary, renderPdfReader, bindPdfReader } from './gm-library.js?v=7';
 import {renderUnopenedRoomCallout} from './unopened-room.js?v=nightfang-room-2';
 import { renderMapWall, bindMapWall, mapViewerItems } from './map-wall.js?v=map-wall-1';
@@ -9,6 +10,9 @@ import { renderStory } from './story.js?v=grim-memory-1';
 import { renderCompanions, renderCharacter } from './characters.js?v=archived-sheets-1';
 const main=document.querySelector('#main'), dialog=document.querySelector('#viewer');
 let mapWallData=null,revelations=null,searchIndex=null,explorerData=null,disposeExplorer=()=>{},tales=null,battles=null,people=[],assetStories={},stories={},chapters=[],items=[],currentItems=[],filter='all',viewIndex=0,lastFocus;
+const updateSiteNav = bindSiteNav(document.querySelector('.site-header'), main, slug =>
+  journey().some(chapter => chapter.slug === slug)
+);
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const url=slug=>`#/${slug}`;
 const inChapter=slug=>items.filter(i=>i.chapter===slug);
@@ -49,7 +53,7 @@ function about(){document.title='About Team Biscuit';main.innerHTML=`<article cl
   </ul>
   <p><a href="https://app.roll20.net/users/3107391/sal-o" target="_blank" rel="noopener">Sal O. on Roll20 ↗</a></p>
 </section><h2>Artwork &amp; credits</h2><p>Adventure covers and module illustrations belong to their artists and publishers, including Wizards of the Coast and TSR. Source links and credits accompany the artwork.</p><ul>${chapters.filter(c=>c.artSource).map(c=>`<li><a href="${c.artSource}" target="_blank" rel="noopener">${escape(c.title)}</a> — ${escape(c.artCredit)}</li>`).join('')}</ul><p>This is an unofficial campaign retrospective. The home-page image is a still from the selected party farewell film.</p><p><a href="#/timeline">Return to the journey →</a></p></article>`}
-function route(){if(location.hash==='#main'){document.querySelector('#main').focus();return}disposeExplorer();disposeExplorer=()=>{};if(dialog.open)closeViewer();const [slug,section,sceneNumber]=location.hash.replace(/^#\/?/,'').split('/');if(!slug||slug==='timeline'){home();if(slug==='timeline')requestAnimationFrame(()=>document.querySelector('#timeline').scrollIntoView());else scrollTo({top:0,behavior:'instant'})}else if (slug === 'gm-library') {
+function route(){if(location.hash==='#main'){document.querySelector('#main').focus();return}updateSiteNav();disposeExplorer();disposeExplorer=()=>{};if(dialog.open)closeViewer();const [slug,section,sceneNumber]=location.hash.replace(/^#\/?/,'').split('/');if(!slug||slug==='timeline'){home();if(slug==='timeline')requestAnimationFrame(()=>document.querySelector('#timeline').scrollIntoView());else scrollTo({top:0,behavior:'instant'})}else if (slug === 'gm-library') {
   document.title = 'GM’s Library — Team Biscuit';
   main.innerHTML = renderGmLibrary();
   disposeExplorer = bindGmLibrary(main);
