@@ -34,6 +34,15 @@ function about(){document.title='About Team Biscuit';main.innerHTML=`<article cl
   <h2 id="about-gm-heading">About the GM</h2>
   <p>Sal Omon is the GM of Team Biscuit on Roll20. His campaign brought Team Gravy and the Brotherhood together for a fight against giant ants beneath sunken Brindinford.</p>
   <p>Sal joined Roll20 in 2018. His public profile lists 20 games as GM and more than 8,600 hours played.</p>
+  <h3>Roll20 milestones</h3>
+  <ul>
+    <li><strong>Running games.</strong> Ran a first game, reached five games as GM, and kept a game going for more than six months.</li>
+    <li><strong>Time at the table.</strong> Earned badges at 10, 50, 100, 250 and 1,000 hours of play, plus streaks of three and ten consecutive days.</li>
+    <li><strong>Dice rolled.</strong> Passed 100, 1,000, 5,000 and 10,000 rolls.</li>
+    <li><strong>Players met.</strong> Played with 5, 10, 25, 50 and 100 different people.</li>
+    <li><strong>Tools and community.</strong> Completed the tutorial, added a profile picture, bought a Marketplace pack, used a game script, tried the Jumpgate beta, posted in the community forums, filed a bug report, and listed a game in Looking for Group.</li>
+    <li><strong>Roll20Con.</strong> Earned a convention badge every year from 2020 through 2026.</li>
+  </ul>
   <p><a href="https://app.roll20.net/users/3107391/sal-o" target="_blank" rel="noopener">Sal O. on Roll20 ↗</a></p>
 </section><h2>Artwork &amp; credits</h2><p>Adventure covers and module illustrations belong to their artists and publishers, including Wizards of the Coast and TSR. Source links and credits accompany the artwork.</p><ul>${chapters.filter(c=>c.artSource).map(c=>`<li><a href="${c.artSource}" target="_blank" rel="noopener">${escape(c.title)}</a> — ${escape(c.artCredit)}</li>`).join('')}</ul><p>This is an unofficial campaign retrospective. The home-page image is a still from the selected party farewell film.</p><p><a href="#/timeline">Return to the journey →</a></p></article>`}
 function route(){if(location.hash==='#main'){document.querySelector('#main').focus();return}disposeExplorer();disposeExplorer=()=>{};if(dialog.open)closeViewer();const [slug,section,sceneNumber]=location.hash.replace(/^#\/?/,'').split('/');if(!slug||slug==='timeline'){home();if(slug==='timeline')requestAnimationFrame(()=>document.querySelector('#timeline').scrollIntoView());else scrollTo({top:0,behavior:'instant'})}else if (slug === 'gm-library') {
